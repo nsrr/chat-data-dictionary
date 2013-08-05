@@ -1,0 +1,6 @@
+{
+  "id": "anthdate",
+  "display_name": "Date of the current measurements",
+  "description": "",
+  "type": "date"
+}

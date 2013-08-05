@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Obese BMI %  <95",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Obese BMI % >=95",
+    "description": ""
+  }
+]
