@@ -1,0 +1,7 @@
+{
+  "id": "had_surgery",
+  "display_name": "Did child have surgery?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "treatment_failure",
+  "display_name": "The Medical Monitor confirmed treatment failure?",
+  "description": "",
+  "type": "choices",
+  "domain":"treatmentfailure"
+}

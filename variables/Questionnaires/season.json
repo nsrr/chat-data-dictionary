@@ -1,0 +1,7 @@
+{
+  "id": "season",
+  "display_name": "Aug-Nov vs. All the other",
+  "description": "",
+  "type": "choices",
+  "domain":"seasons"
+}
