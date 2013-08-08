@@ -1,0 +1,6 @@
+{
+  "id": "antheight",
+  "display_name": "Child's standing height (cm)",
+  "description": "",
+  "type": "numeric"
+}
