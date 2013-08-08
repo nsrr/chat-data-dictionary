@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "crp below (0.15) detection limit",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "crp above (0.15) detection limit",
+    "description": ""
+  }
+]

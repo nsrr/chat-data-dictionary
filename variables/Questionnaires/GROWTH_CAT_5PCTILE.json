@@ -1,0 +1,6 @@
+{
+  "id": "GROWTH_CAT_5PCTILE",
+  "display_name": "Failure to thrive < 5th percentile",
+  "description": "",
+  "type": "numeric",
+}
