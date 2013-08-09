@@ -2,5 +2,5 @@
   "id": "bri3a",
   "display_name": "Inhibit Raw Score",
   "description": "",
-  "type": "numeric",
+  "type":"numeric"
 }

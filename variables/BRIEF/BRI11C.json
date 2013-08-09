@@ -2,5 +2,5 @@
   "id": "bri11c",
   "display_name": "Monitor Percentile",
   "description": "",
-  "type": "numeric",
+  "type":"numeric"
 }

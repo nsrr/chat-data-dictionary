@@ -2,5 +2,5 @@
   "id": "bri8c",
   "display_name": "Working Memory Percentile",
   "description": "",
-  "type": "numeric",
+  "type":"numeric"
 }

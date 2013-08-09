@@ -2,5 +2,5 @@
   "id": "bri15",
   "display_name": "What is the inconsistency score?",
   "description": "",
-  "type": "numeric",
+  "type":"numeric"
 }

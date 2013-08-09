@@ -2,5 +2,5 @@
   "id": "bri13c",
   "display_name": "GEC (BRI + MI) Percentile",
   "description": "",
-  "type": "numeric",
+  "type":"numeric"
 }
