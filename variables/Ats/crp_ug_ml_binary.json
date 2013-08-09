@@ -1,5 +1,5 @@
 {
-  "id": "CRP_UG_ML_BINARY",
+  "id": "crp_ug_ml_binary",
   "display_name": "CRP above (0.15) detection limit",
   "description": "",
   "type": "choices",

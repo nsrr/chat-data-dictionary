@@ -1,5 +1,5 @@
 {
-  "id": "OBESE",
+  "id": "obese",
   "display_name": "BMIPCT > = 95 binary",
   "description": "",
   "type": "choices",
