@@ -1,0 +1,6 @@
+{
+  "id": "haz",
+  "display_name": "z-score for length-for-age or stature-for-age",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "randomized",
+  "display_name": "Is child randomized?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

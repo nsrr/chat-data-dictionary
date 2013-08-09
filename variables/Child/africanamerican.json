@@ -1,0 +1,7 @@
+{
+  "id": "africanamerican",
+  "display_name": "Race African American binary variable",
+  "description": "",
+  "type": "choices",
+  "domain":"raceafrican"
+}

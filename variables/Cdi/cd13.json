@@ -1,0 +1,7 @@
+{
+  "id": "cd13",
+  "display_name": "Did the child endorse a score of '3' on Item 9?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

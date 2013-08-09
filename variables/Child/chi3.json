@@ -1,0 +1,7 @@
+{
+  "id": "chi3",
+  "display_name": "What is your child's ethnicity?",
+  "description": "",
+  "type": "choices",
+  "domain":"ethnicity"
+}

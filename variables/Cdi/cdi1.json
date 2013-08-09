@@ -1,0 +1,7 @@
+{
+  "id": "cdi1",
+  "display_name": "Was this test performed?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

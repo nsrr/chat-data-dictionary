@@ -1,0 +1,7 @@
+{
+  "id": "chi4",
+  "display_name": "What is your child's race?",
+  "description": "",
+  "type": "choices",
+  "domain":"childrace"
+}

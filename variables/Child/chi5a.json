@@ -1,0 +1,7 @@
+{
+  "id": "chi5a",
+  "display_name": "If your child is not attending, please provide a reason",
+  "description": "",
+  "type": "choices",
+  "domain":"schooling"
+}
