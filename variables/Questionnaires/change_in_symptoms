@@ -1,0 +1,7 @@
+{
+  "id": "CHANGE_IN_SYMPTOMS",
+  "display_name": "Change in symtoms",
+  "description": "",
+  "type": "choices",
+  "domain":"symptoms"
+}

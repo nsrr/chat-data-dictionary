@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "no change in symptoms",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "change in symptoms",
+    "description": ""
+  }
+]

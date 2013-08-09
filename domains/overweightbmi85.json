@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Overweight BMI %  <85",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Overweight BMI % >=85",
+    "description": ""
+  }
+]

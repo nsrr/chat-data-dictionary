@@ -1,0 +1,6 @@
+{
+  "id": "BPSavg",
+  "display_name": "Average Systolic BP",
+  "description": "",
+  "type": "numeric"
+}

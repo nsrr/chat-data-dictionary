@@ -1,0 +1,6 @@
+{
+  "id": "sae_event",
+  "display_name": "Number of reported SAE per subject",
+  "description": "",
+  "type": "numeric",
+}
