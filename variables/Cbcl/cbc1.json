@@ -1,0 +1,7 @@
+{
+  "id": "cbc1",
+  "display_name": "Was the Checklist completed?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

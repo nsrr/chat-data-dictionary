@@ -1,0 +1,7 @@
+{
+  "id": "cbc2",
+  "display_name": "Who completed this form?",
+  "description": "",
+  "type": "choices",
+  "domain":"completedform"
+}
