@@ -3,4 +3,4 @@ rvm:
   - 2.0.0
 notifications:
   email:
-    -cailler.michael@gmail.com
+    - cailler.michael@gmail.com
