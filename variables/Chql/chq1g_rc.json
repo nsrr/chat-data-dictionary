@@ -1,0 +1,7 @@
+{
+  "id": "chq1g_rc",
+  "display_name": "Having hurts or aches (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

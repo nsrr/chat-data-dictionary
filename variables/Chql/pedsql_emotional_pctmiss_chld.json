@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_emotional_pctmiss_chld",
+  "display_name": "PedQL Child Emotional Function pct missing",
+  "description": "",
+  "type": "numeric"
+}

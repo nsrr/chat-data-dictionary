@@ -1,0 +1,7 @@
+{
+  "id": "chq4e_rc",
+  "display_name": "Missing school to go to the doctor or hospital (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

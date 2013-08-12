@@ -1,0 +1,7 @@
+{
+  "id": "chq2c_rc",
+  "display_name": "Feeling angry (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

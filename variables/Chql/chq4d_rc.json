@@ -1,0 +1,7 @@
+{
+  "id": "chq4d_rc",
+  "display_name": "Missing school because of not feeling well (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

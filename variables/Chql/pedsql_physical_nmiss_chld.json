@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_physical_nmiss_chld",
+  "display_name": "PedQL Child Physical Function number of missings",
+  "description": "",
+  "type": "numeric"
+}

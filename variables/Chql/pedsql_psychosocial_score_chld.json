@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_psychosocial_score_chld",
+  "display_name": "PedQL Child Psychosocial Health Summary Score",
+  "description": "",
+  "type": "numeric"
+}

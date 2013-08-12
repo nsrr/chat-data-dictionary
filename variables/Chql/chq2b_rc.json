@@ -1,0 +1,7 @@
+{
+  "id": "chq2b_rc",
+  "display_name": "Feeling sad or blue (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

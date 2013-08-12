@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_school_pctmiss_chld",
+  "display_name": "PedQL Child School Function pct missing",
+  "description": "",
+  "type": "numeric"
+}
