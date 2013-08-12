@@ -1,0 +1,7 @@
+{
+  "id": "fam9_chk",
+  "display_name": "Mother's current height",
+  "description": "",
+  "type": "choices",
+  "domain":"notsure"
+}

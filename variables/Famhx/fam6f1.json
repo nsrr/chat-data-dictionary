@@ -1,0 +1,7 @@
+{
+  "id": "fam6f1",
+  "display_name": "Do biological parent have Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

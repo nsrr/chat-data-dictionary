@@ -1,0 +1,7 @@
+{
+  "id": "fam6d1",
+  "display_name": "Do biological parent have Cancer",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

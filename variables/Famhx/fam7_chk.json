@@ -1,0 +1,7 @@
+{
+  "id": "fam7_chk",
+  "display_name": "Mother's height at time of child's birth",
+  "description": "",
+  "type": "choices",
+  "domain":"notsure"
+}

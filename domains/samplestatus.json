@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "yes, full sample",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "yes, partial sample",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "no, refused",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "no, hard to stick",
+    "description": ""
+  }
+]

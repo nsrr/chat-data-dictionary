@@ -1,0 +1,7 @@
+{
+  "id": "fam6o1",
+  "display_name": "Do biological parent have Loud Snoring (3 or more times per week)",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

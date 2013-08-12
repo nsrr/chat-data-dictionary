@@ -1,0 +1,7 @@
+{
+  "id": "fam6j1",
+  "display_name": "Do biological parent have Hay Fever (Nasal Allergies)",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

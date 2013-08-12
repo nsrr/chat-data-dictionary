@@ -1,0 +1,7 @@
+{
+  "id": "fam8_chk",
+  "display_name": "Mother's weight at time of child's birth",
+  "description": "",
+  "type": "choices",
+  "domain":"notsure"
+}

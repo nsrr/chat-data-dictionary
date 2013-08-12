@@ -1,0 +1,7 @@
+{
+  "id": "fam6b1",
+  "display_name": "Do biological parent have Asthma",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fam6l1",
+  "display_name": "Do biological parent have High Cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

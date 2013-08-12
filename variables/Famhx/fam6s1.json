@@ -1,0 +1,7 @@
+{
+  "id": "fam6s1",
+  "display_name": "Do biological parent have Emphysema or Chronic Obstructive Lung Disease",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fam6m1",
+  "display_name": "Do biological parent have Heart Disease",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}
