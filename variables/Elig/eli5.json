@@ -1,0 +1,7 @@
+{
+  "id": "eli5",
+  "display_name": "eli5",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

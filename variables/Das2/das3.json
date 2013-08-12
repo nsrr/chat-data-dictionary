@@ -1,0 +1,7 @@
+{
+  "id": "das3",
+  "display_name": "What is the child's handedness?",
+  "description": "",
+  "type": "choices",
+  "domain":"writinghand"
+}
