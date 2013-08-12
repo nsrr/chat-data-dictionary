@@ -1,0 +1,7 @@
+{
+  "id": "fam11b",
+  "display_name": "Did your child usually cough on most days for (3) consecutive months or more?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

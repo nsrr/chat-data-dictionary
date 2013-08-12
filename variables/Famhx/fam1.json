@@ -1,0 +1,7 @@
+{
+  "id": "fam1",
+  "display_name": "Did your child's biological mother smoke at least one cigarette a day while she was pregnant with your child?",
+  "description": "",
+  "type": "choices",
+  "domain":"smoking"
+}

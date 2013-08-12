@@ -1,0 +1,7 @@
+{
+  "id": "fam12f",
+  "display_name": "When exposed to pollen has your child's chest sounded wheezy or whistling?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

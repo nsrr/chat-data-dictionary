@@ -1,0 +1,7 @@
+{
+  "id": "fam11a",
+  "display_name": "Did your child usually have a cough?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

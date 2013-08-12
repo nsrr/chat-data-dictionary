@@ -1,0 +1,7 @@
+{
+  "id": "fam4",
+  "display_name": "Does your child have any half brothers and/or sisters (one parent in common with child)?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

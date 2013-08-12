@@ -1,0 +1,7 @@
+{
+  "id": "fam12c",
+  "display_name": "With exercise has your child's chest sounded wheezy or whistling?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

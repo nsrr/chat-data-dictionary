@@ -1,0 +1,7 @@
+{
+  "id": "fam12g",
+  "display_name": "In the PAST YEAR, did any of the following situations cause your child to have a stuffy or runny nose?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fam11e",
+  "display_name": "Did your child usually bring up phlegm at all on getting up or first thing in the morning?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

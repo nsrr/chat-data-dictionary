@@ -1,0 +1,7 @@
+{
+  "id": "fam5022_chk",
+  "display_name": "Full brother have High Blood Pressure (Hypertension)",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

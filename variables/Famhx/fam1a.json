@@ -1,0 +1,7 @@
+{
+  "id": "fam1a",
+  "display_name": "Does your child's current primary caregiver smoke at least one cigarette a day?",
+  "description": "",
+  "type": "choices",
+  "domain":"smoking"
+}

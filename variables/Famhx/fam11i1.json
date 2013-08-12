@@ -1,0 +1,7 @@
+{
+  "id": "fam11i1",
+  "display_name": "Been troubled by chest tightness?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

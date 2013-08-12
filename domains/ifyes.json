@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "rarely",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "sometimes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "often",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "almost daily",
+    "description": ""
+  }
+]
