@@ -1,0 +1,7 @@
+{
+  "id": "mat1",
+  "display_name": "mat1",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}
