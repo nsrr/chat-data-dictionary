@@ -1,0 +1,7 @@
+{
+  "id": "med1l1",
+  "display_name": "Ever had Hay Fever?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

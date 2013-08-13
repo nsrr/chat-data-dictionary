@@ -1,0 +1,7 @@
+{
+  "id": "med1k2",
+  "display_name": "Diagnosed or treated by a physician for Eczema?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med1k3",
+  "display_name": "Eczema Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

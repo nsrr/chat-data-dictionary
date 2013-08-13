@@ -1,0 +1,7 @@
+{
+  "id": "med1p2",
+  "display_name": "Diagnosed or treated by a physician for Migraine Headache or Chronic Severe Headache?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

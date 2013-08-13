@@ -1,0 +1,7 @@
+{
+  "id": "med1h2",
+  "display_name": "Diagnosed or treated by a physician for Depression?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

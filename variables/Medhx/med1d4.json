@@ -1,0 +1,7 @@
+{
+  "id": "med1d4",
+  "display_name": "Currently taking medication for ADD/ADHD?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

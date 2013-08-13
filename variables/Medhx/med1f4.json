@@ -1,0 +1,7 @@
+{
+  "id": "med1f4",
+  "display_name": "Currently taking medication for Cerebal Palsy?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

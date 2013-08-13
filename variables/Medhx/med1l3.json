@@ -1,0 +1,7 @@
+{
+  "id": "med1l3",
+  "display_name": "Hay Fever Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

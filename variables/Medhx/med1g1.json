@@ -1,0 +1,7 @@
+{
+  "id": "med1g1",
+  "display_name": "Ever had Heartburn or acid reflux?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

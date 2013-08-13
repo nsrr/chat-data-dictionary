@@ -1,0 +1,7 @@
+{
+  "id": "med1s2",
+  "display_name": "Diagnosed or treated by a physician for Other Significant Medical Conditions?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med1f2",
+  "display_name": "Diagnosed or treated by a physician for Cerebal Palsy?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

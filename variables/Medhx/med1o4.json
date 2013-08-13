@@ -1,0 +1,7 @@
+{
+  "id": "med1o4",
+  "display_name": "Currently taking medication for Insomnia?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

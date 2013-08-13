@@ -1,0 +1,7 @@
+{
+  "id": "med1g4",
+  "display_name": "Currently taking medication for Heartburn or acid reflux?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med1m1",
+  "display_name": "Ever had Hypertension?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

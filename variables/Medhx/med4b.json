@@ -1,0 +1,7 @@
+{
+  "id": "med4b",
+  "display_name": "Referred to Gastroenterologist (Stomach Doctor)",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

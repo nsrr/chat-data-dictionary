@@ -1,0 +1,7 @@
+{
+  "id": "med1i1",
+  "display_name": "Ever had Diabetes?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

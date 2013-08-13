@@ -1,0 +1,7 @@
+{
+  "id": "med1k1",
+  "display_name": "Ever had Eczema?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

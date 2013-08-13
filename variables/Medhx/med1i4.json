@@ -1,0 +1,7 @@
+{
+  "id": "med1i4",
+  "display_name": "Currently taking medication for Diabetes?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

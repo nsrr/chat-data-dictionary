@@ -1,0 +1,7 @@
+{
+  "id": "med1r2",
+  "display_name": "Diagnosed or treated by a physician for Aspergers Syndrome?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

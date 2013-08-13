@@ -1,0 +1,7 @@
+{
+  "id": "med1e3",
+  "display_name": "Cancer Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

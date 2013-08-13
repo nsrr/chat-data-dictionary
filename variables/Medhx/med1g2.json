@@ -1,0 +1,7 @@
+{
+  "id": "med1g2",
+  "display_name": "Diagnosed or treated by a physician for Heartburn or acid reflux?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

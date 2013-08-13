@@ -1,0 +1,7 @@
+{
+  "id": "med1m4",
+  "display_name": "Currently taking medication for Hypertension?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

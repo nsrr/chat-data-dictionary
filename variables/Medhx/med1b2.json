@@ -1,0 +1,7 @@
+{
+  "id": "med1b2",
+  "display_name": "Diagnosed or treated by a physician for Anxiety Disorder?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

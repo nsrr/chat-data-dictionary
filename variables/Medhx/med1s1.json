@@ -1,0 +1,7 @@
+{
+  "id": "med1s1",
+  "display_name": "Ever had Other Significant Medical Conditions?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

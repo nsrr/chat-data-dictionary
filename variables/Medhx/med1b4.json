@@ -1,0 +1,7 @@
+{
+  "id": "med1b4",
+  "display_name": "Currently taking medication Anxiety Disorder?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

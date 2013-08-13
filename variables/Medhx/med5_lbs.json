@@ -1,0 +1,6 @@
+{
+  "id": "med5_lbs",
+  "display_name": "Child birth weight (lbs only)",
+  "description": "",
+  "type": "string"
+}

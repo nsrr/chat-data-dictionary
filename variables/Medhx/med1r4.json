@@ -1,0 +1,7 @@
+{
+  "id": "med1r4",
+  "display_name": "Currently taking medication for Aspergers Syndrome?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med1n3",
+  "display_name": "High Cholesterol Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

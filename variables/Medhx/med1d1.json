@@ -1,0 +1,7 @@
+{
+  "id": "med1d1",
+  "display_name": "Ever had ADD/ADHD?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

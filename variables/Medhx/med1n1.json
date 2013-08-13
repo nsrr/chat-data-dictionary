@@ -1,0 +1,7 @@
+{
+  "id": "med1n1",
+  "display_name": "Ever had High Cholesterol?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

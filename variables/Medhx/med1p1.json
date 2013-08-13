@@ -1,0 +1,7 @@
+{
+  "id": "med1p1",
+  "display_name": "Ever had this condition Migraine Headache or Chronic Severe Headache?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

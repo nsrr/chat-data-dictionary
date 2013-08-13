@@ -1,0 +1,7 @@
+{
+  "id": "med1e4",
+  "display_name": "Currently taking medication for Cancer?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

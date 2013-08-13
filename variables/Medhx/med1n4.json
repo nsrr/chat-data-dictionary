@@ -1,0 +1,7 @@
+{
+  "id": "med1n4",
+  "display_name": "Currently taking medication for High Cholesterol?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

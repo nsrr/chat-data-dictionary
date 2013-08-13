@@ -1,0 +1,7 @@
+{
+  "id": "med1c4",
+  "display_name": "Currently taking medication for Asthma?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med2b6",
+  "display_name": "Grass or Pollen",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

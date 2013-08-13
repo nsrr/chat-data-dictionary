@@ -1,0 +1,7 @@
+{
+  "id": "med1s4",
+  "display_name": "Currently taking medication for Other Significant Medical Conditions?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med2b2",
+  "display_name": "Trees",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

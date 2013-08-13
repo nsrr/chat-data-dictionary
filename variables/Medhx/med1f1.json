@@ -1,0 +1,7 @@
+{
+  "id": "med1f1",
+  "display_name": "Ever had Cerebal Palsy?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

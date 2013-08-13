@@ -1,0 +1,7 @@
+{
+  "id": "med4c",
+  "display_name": "Referred to Pulmonologist (Lung Doctor)",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

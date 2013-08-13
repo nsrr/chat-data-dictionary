@@ -1,0 +1,7 @@
+{
+  "id": "med1b1",
+  "display_name": "Ever had Anxiety Disorder?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

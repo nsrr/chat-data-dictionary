@@ -1,0 +1,7 @@
+{
+  "id": "med1d2",
+  "display_name": "Diagnosed or treated by a physician for ADD/ADHD?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

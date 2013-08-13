@@ -1,0 +1,7 @@
+{
+  "id": "med1a1",
+  "display_name": "Ever had Acute Life Threatening?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

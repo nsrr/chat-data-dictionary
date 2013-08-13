@@ -1,0 +1,7 @@
+{
+  "id": "med1j2",
+  "display_name": "Diagnosed or treated by a physician for Eating Disorder?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

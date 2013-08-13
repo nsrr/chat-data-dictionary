@@ -1,0 +1,7 @@
+{
+  "id": "med1o2",
+  "display_name": "Diagnosed or treated by a physician for Insomnia?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

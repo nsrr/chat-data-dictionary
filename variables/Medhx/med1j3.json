@@ -1,0 +1,7 @@
+{
+  "id": "med1j3",
+  "display_name": "Eating Disorder Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

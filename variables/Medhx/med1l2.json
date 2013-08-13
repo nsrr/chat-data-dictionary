@@ -1,0 +1,7 @@
+{
+  "id": "med1l2",
+  "display_name": "Diagnosed or treated by a physician for Hay Fever?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

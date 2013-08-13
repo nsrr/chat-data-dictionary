@@ -1,0 +1,7 @@
+{
+  "id": "med1k4",
+  "display_name": "Currently taking medication for Eczema?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

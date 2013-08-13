@@ -1,0 +1,7 @@
+{
+  "id": "med1i3",
+  "display_name": "Diabetes Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med1a4",
+  "display_name": "Currently taking medication for Acute Life Threatening?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

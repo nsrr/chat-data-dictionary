@@ -1,0 +1,7 @@
+{
+  "id": "med1e2",
+  "display_name": "Diagnosed or treated by a physician for Cancer?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

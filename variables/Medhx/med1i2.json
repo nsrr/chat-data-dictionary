@@ -1,0 +1,7 @@
+{
+  "id": "med1i2",
+  "display_name": "Diagnosed or treated by a physician for Diabetes?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

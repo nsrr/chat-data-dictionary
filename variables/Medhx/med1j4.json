@@ -1,0 +1,7 @@
+{
+  "id": "med1j4",
+  "display_name": "Currently taking medication for Eating Disorder?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

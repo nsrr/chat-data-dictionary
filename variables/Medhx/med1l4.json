@@ -1,0 +1,7 @@
+{
+  "id": "med1l4",
+  "display_name": "Currently taking medication for Hay Fever?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

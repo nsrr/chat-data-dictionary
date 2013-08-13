@@ -1,0 +1,7 @@
+{
+  "id": "med1c2",
+  "display_name": "Diagnosed or treated by a physician for Asthma?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}

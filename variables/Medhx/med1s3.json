@@ -1,0 +1,7 @@
+{
+  "id": "med1s3",
+  "display_name": "Other Significant Medical Conditions Still Present?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}
