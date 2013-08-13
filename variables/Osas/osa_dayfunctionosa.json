@@ -1,0 +1,6 @@
+{
+  "id": "osa_dayfunctionosa",
+  "display_name": "Subscale Daytime Function Score (the avg of OSA4A_rc, OSA4B_rc, OSA4C_rc)",
+  "description": "",
+  "type": "numeric"
+}

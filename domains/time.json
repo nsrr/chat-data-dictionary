@@ -1,0 +1,37 @@
+[
+  {
+    "value": "0",
+    "display_name": "none of the time",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "hardly any of the time",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "a little of the time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "some of the time",
+    "description": ""
+  }, 
+  {
+    "value": "4",
+    "display_name": "a good bit of the time",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "most of the time",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "all of the time",
+    "description": ""
+  }
+]

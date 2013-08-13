@@ -1,0 +1,7 @@
+{
+  "id": "ope9a",
+  "display_name": "If YES, was the digital photo sent to the Surgical QC group?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

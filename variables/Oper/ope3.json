@@ -1,0 +1,7 @@
+{
+  "id": "ope3",
+  "display_name": "What was the pre-operation Tonsil size?",
+  "description": "",
+  "type": "choices",
+  "domain":"tonsilsize"
+}

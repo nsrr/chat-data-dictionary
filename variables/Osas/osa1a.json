@@ -1,0 +1,7 @@
+{
+  "id": "osa1a",
+  "display_name": "Loud Snoring?",
+  "description": "",
+  "type": "choices",
+  "domain":"time"
+}

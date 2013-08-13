@@ -1,0 +1,7 @@
+{
+  "id": "osa3a_rc",
+  "display_name": "Mood swings or temper tantrums (recoded)?",
+  "description": "",
+  "type": "choices",
+  "domain":"time1"
+}

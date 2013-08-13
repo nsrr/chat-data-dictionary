@@ -1,0 +1,7 @@
+{
+  "id": "ope4a",
+  "display_name": "Were adenoids previously removed?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

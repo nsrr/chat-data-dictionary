@@ -1,0 +1,7 @@
+{
+  "id": "osa2c_rc",
+  "display_name": "Nasal dischare or runny nose (coded per Dr. Ramon Arturo Franco's publication)?",
+  "description": "",
+  "type": "choices",
+  "domain":"time1"
+}

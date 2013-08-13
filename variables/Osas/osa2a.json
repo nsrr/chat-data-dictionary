@@ -1,0 +1,7 @@
+{
+  "id": "osa2a",
+  "display_name": "Mouth breathing because of nasal obstruction?",
+  "description": "",
+  "type": "choices",
+  "domain":"time"
+}

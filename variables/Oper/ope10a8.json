@@ -1,0 +1,7 @@
+{
+  "id": "ope10a8",
+  "display_name": "Surgical complications:  Death*",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "osa1b",
+  "display_name": "Breath holding spells or pauses in breathing at night?",
+  "description": "",
+  "type": "choices",
+  "domain":"time"
+}

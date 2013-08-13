@@ -1,0 +1,7 @@
+{
+  "id": "osa2c",
+  "display_name": "Nasal dischare or runny nose?",
+  "description": "",
+  "type": "choices",
+  "domain":"time"
+}

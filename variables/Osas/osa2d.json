@@ -1,0 +1,7 @@
+{
+  "id": "osa2d",
+  "display_name": "Difficulty in swallowing foods?",
+  "description": "",
+  "type": "choices",
+  "domain":"time"
+}
