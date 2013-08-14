@@ -1,0 +1,47 @@
+[
+  {
+    "value": "1",
+    "display_name": "8th grade or less than 8th grade",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "9th-11th grade",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "high school diploma or ged",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "vocational, trade school, or associate's degree",
+    "description": ""
+  }, 
+  {
+    "value": "5",
+    "display_name": "courses toward college degree",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "bachelor's degree or 4-year college degree",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "master's degree",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "professional degree (m.d., ph.d., j.d., etc)",
+    "description": ""
+  },
+  {
+    "value": "88",
+    "display_name": "not sure",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "paq1c_rc",
+  "display_name": "Participating in sports activity or exercise (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

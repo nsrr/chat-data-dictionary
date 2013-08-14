@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "hispanic or latino",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "not hispanic or latino",
+    "description": ""
+  },
+  {
+    "value": "88",
+    "display_name": "not sure",
+    "description": ""
+  }
+]

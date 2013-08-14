@@ -1,0 +1,7 @@
+{
+  "id": "paq2a_rc",
+  "display_name": "Feeling afraid or scared (coded per pedsql manual)?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways"
+}

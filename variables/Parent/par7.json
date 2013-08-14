@@ -1,0 +1,7 @@
+{
+  "id": "par7",
+  "display_name": "What is the highest level of education completed by the father?",
+  "description": "",
+  "type": "choices",
+  "domain":"degree"
+}

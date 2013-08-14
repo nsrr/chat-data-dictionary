@@ -1,0 +1,6 @@
+{
+  "id": "pedsql_phychosocial_nmiss_par",
+  "display_name": "PedQL Parent Psychosocial Health Summary number of missings",
+  "description": "",
+  "type": "numeric"
+}
