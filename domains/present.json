@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "not present",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "present",
+    "description": ""
+  },
+  {
+    "value": ".",
+    "display_name": "missing",
+    "description": ""
+  }
+]

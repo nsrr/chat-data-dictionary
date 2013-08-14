@@ -1,0 +1,7 @@
+{
+  "id": "pe216a2",
+  "display_name": "cpap or bipap",
+  "description": "",
+  "type": "choices",
+  "domain":"check"
+}

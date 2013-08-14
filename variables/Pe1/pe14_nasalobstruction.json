@@ -1,0 +1,7 @@
+{
+  "id": "pe14_nasalobstruction",
+  "display_name": "Nasal obstruction present or not present",
+  "description": "",
+  "type": "choices",
+  "domain":"present"
+}
