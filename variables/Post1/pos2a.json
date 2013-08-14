@@ -1,0 +1,7 @@
+{
+  "id": "pos2a",
+  "display_name": "If child required evaluation in the ER, what was the reason?",
+  "description": "",
+  "type": "choices",
+  "domain":"admission"
+}

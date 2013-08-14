@@ -1,0 +1,7 @@
+{
+  "id": "pos4",
+  "display_name": "Are there any current eating or drinking concerns?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

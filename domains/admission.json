@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "dehydration requiring iv fluid",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "dehydration requiring admission*",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "bleeding requiring admission*",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "bleeding requiring return to ",
+    "description": ""
+  }, 
+  {
+    "value": "5",
+    "display_name": "other admission*, specify",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "other, specify",
+    "description": ""
+  }
+]
