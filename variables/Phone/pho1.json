@@ -1,0 +1,7 @@
+{
+  "id": "pho1",
+  "display_name": "pho1",
+  "description": "",
+  "type": "choices",
+  "domain":"alwaysornever"
+}
