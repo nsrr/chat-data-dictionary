@@ -1,0 +1,7 @@
+{
+  "id": "psl1b",
+  "display_name": "Always snore?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesdontknow"
+}

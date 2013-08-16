@@ -1,0 +1,7 @@
+{
+  "id": "psl1d",
+  "display_name": "Have heavy or loud breathing?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesdontknow"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psl3a",
+  "display_name": "Tend to breathe through the mouth during the day?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesdontknow"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "psl10e",
+  "display_name": "Is on the go or often acts as if driven by a motor",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesdontknow"
+}
