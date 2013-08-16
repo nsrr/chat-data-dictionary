@@ -1,0 +1,6 @@
+{
+  "id": "overall_pupeg_zscore",
+  "display_name": "Overall PUPEG Zscore algorithm: mean(PUP2A2_Zscore, PUP2B2_Zscore, PUP2C2_Zscore)",
+  "description": "",
+  "type": "numeric"
+}

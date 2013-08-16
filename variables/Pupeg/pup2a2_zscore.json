@@ -1,0 +1,6 @@
+{
+  "id": "pup2a2_zscore",
+  "display_name": "PUP2A2 Zscore algorithm: (PUP2A2 - PUP2A2_mean) / PUP2A2_std",
+  "description": "",
+  "type": "numeric"
+}
