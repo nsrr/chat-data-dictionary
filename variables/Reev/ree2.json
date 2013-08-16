@@ -1,0 +1,7 @@
+{
+  "id": "ree2",
+  "display_name": "What was the current Tonsil size?",
+  "description": "",
+  "type": "choices",
+  "domain":"tonsilsize2"
+}

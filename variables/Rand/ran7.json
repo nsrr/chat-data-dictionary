@@ -1,0 +1,7 @@
+{
+  "id": "ran7",
+  "display_name": "Randomization Code assigned by DMS",
+  "description": "",
+  "type": "choices",
+  "domain":"code"
+}
