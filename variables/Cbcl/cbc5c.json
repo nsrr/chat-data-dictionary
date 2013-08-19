@@ -2,5 +2,6 @@
   "id": "cbc5c",
   "display_name": "School Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

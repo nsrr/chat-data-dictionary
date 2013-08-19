@@ -2,5 +2,6 @@
   "id": "chi1a_mm",
   "display_name": "What is your child's age (mm)?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "months"
 }

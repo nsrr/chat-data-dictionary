@@ -2,5 +2,6 @@
   "id": "cbc6a",
   "display_name": "Total Competence Total Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

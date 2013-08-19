@@ -2,5 +2,6 @@
   "id": "cbc8b",
   "display_name": "Withdrawn / Depressed T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "con1_tr",
   "display_name": "Was the Conners' Teacher's form completed and returned?",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -2,5 +2,6 @@
   "id": "bri1_tr",
   "display_name": "Was the Brief Teacher's Form completed and returned?",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -2,5 +2,6 @@
   "id": "cbc19a",
   "display_name": "Anxiety Problems Total Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "cdi9a",
   "display_name": "Scale E  Negative Self-Esteem Total Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "cbc11c",
   "display_name": "Thought Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

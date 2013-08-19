@@ -2,5 +2,6 @@
   "id": "pedsql_social_score_chld",
   "display_name": "PedQL Child Social Function Summary Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

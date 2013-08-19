@@ -2,5 +2,6 @@
   "id": "con12b_tr",
   "display_name": "Conners' GI Emotional Liability T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

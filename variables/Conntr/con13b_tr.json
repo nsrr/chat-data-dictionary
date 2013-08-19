@@ -2,5 +2,6 @@
   "id": "con13b_tr",
   "display_name": "Conners' GI Total T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

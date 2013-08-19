@@ -2,5 +2,6 @@
   "id": "whpct",
   "display_name": "percentile for weight-for-length or weight-for-stature",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

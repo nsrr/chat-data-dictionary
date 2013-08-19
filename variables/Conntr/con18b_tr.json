@@ -2,5 +2,6 @@
   "id": "con18b_tr",
   "display_name": "Hyperactive-Impulsive Symptoms T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

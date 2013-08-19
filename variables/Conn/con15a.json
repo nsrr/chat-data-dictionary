@@ -2,5 +2,6 @@
   "id": "con15a",
   "display_name": "DSM-IV Total Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

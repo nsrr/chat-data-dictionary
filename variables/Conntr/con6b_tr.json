@@ -2,5 +2,6 @@
   "id": "con6b_tr",
   "display_name": "Hyperactivity T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "con4a_tr",
   "display_name": "Oppositional Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

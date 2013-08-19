@@ -2,5 +2,6 @@
   "id": "con6b",
   "display_name": "Perfectionism T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

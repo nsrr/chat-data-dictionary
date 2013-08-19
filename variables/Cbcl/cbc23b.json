@@ -2,5 +2,6 @@
   "id": "cbc23b",
   "display_name": "Conduct Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

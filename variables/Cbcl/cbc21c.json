@@ -2,5 +2,6 @@
   "id": "cbc21c",
   "display_name": "Attention Deficit/Hyperactivity Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

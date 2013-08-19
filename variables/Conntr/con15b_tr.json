@@ -2,5 +2,6 @@
   "id": "con15b_tr",
   "display_name": "DSM-IV Hyperactive-Impulsive T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

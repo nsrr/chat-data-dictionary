@@ -2,5 +2,6 @@
   "id": "htpct",
   "display_name": "percentile for length-for-age or stature-for-age",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

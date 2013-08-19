@@ -2,5 +2,6 @@
   "id": "bri11a_tr",
   "display_name": "Organization of Materials Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

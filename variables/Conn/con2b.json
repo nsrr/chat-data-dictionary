@@ -2,5 +2,6 @@
   "id": "con2b",
   "display_name": "Oppositional T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

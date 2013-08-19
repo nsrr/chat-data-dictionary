@@ -2,5 +2,5 @@
   "id": "bri2_tr",
   "display_name": "How well does the teacher know the child?",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }

@@ -2,5 +2,6 @@
   "id": "cbc14b",
   "display_name": "Aggressive Behavior T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "cbc9c",
   "display_name": "Somatic Complaints Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

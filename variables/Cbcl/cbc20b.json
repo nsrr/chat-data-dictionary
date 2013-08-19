@@ -2,5 +2,6 @@
   "id": "cbc20b",
   "display_name": "Somatic Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "con8a_tr",
   "display_name": "Perfectionism Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

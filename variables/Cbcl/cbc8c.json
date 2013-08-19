@@ -2,5 +2,6 @@
   "id": "cbc8c",
   "display_name": "Withdrawn / Depressed Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

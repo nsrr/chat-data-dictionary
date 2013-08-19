@@ -2,5 +2,6 @@
   "id": "con15a_tr",
   "display_name": "DSM-IV Hyperactive-Impulsive Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "bri7c_tr",
   "display_name": "BRI Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

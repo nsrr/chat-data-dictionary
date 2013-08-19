@@ -2,5 +2,6 @@
   "id": "con3_tr",
   "display_name": "How long has the teacher known the child (months)?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "months"
 }

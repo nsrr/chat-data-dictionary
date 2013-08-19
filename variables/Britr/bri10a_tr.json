@@ -2,5 +2,6 @@
   "id": "bri10a_tr",
   "display_name": "Plan/Organize Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

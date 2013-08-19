@@ -2,5 +2,6 @@
   "id": "cbc21b",
   "display_name": "Attention Deficit/Hyperactivity Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

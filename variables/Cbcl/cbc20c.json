@@ -2,5 +2,6 @@
   "id": "cbc20c",
   "display_name": "Somatic Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

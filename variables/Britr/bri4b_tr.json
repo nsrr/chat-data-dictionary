@@ -2,5 +2,6 @@
   "id": "bri4b_tr",
   "display_name": "Inhibit T Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

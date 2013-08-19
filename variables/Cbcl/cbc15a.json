@@ -2,5 +2,6 @@
   "id": "cbc15a",
   "display_name": "Internalizing Problems Total Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

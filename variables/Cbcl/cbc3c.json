@@ -2,5 +2,6 @@
   "id": "cbc3c",
   "display_name": "Activites Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

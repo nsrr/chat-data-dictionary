@@ -2,5 +2,6 @@
   "id": "cbc113c",
   "display_name": "Rule-Breaking Behavior Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

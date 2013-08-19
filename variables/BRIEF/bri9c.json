@@ -2,5 +2,6 @@
   "id": "bri9c",
   "display_name": "Plan/Organize Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

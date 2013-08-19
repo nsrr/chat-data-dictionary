@@ -2,5 +2,6 @@
   "id": "con9b",
   "display_name": "Conners' ADHD Index T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

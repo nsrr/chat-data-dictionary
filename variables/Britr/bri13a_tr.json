@@ -2,5 +2,6 @@
   "id": "bri13a_tr",
   "display_name": "MI Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

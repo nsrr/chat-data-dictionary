@@ -2,5 +2,6 @@
   "id": "cbc19c",
   "display_name": "Anxiety Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

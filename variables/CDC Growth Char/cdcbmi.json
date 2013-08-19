@@ -2,5 +2,6 @@
   "id": "bmi",
   "display_name": "calculated body mass index value [weight(kg)/height(m)2 ]",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

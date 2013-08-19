@@ -2,5 +2,6 @@
   "id": "bri12a_tr",
   "display_name": "Monitor Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "bri12b_tr",
   "display_name": "Monitor T Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

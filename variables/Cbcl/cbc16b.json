@@ -2,5 +2,6 @@
   "id": "cbc16b",
   "display_name": "Externalizing Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

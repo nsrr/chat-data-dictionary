@@ -2,5 +2,6 @@
   "id": "cbc10c",
   "display_name": "Social Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

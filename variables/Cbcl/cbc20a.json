@@ -2,5 +2,6 @@
   "id": "cbc20a",
   "display_name": "Somatic Problems Total Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

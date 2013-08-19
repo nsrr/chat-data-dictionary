@@ -2,5 +2,6 @@
   "id": "bri8c_tr",
   "display_name": "Initiate Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

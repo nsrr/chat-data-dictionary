@@ -2,5 +2,6 @@
   "id": "cbc17b",
   "display_name": "Total Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

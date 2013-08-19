@@ -2,5 +2,6 @@
   "id": "bri4c_tr",
   "display_name": "Inhibit Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

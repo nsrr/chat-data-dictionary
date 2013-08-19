@@ -2,5 +2,6 @@
   "id": "cbc3b",
   "display_name": "Activites T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

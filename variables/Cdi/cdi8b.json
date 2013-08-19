@@ -2,5 +2,6 @@
   "id": "cdi8b",
   "display_name": "Scale D  Anhedonia T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

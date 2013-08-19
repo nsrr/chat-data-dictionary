@@ -2,5 +2,6 @@
   "id": "cbc17c",
   "display_name": "Total Problems Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

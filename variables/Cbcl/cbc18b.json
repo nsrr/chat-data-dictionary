@@ -2,5 +2,6 @@
   "id": "cbc18b",
   "display_name": "Affective Problems T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
