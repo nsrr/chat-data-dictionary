@@ -1,0 +1,7 @@
+{
+  "id": "wra1",
+  "display_name": "Were any of the sections of the WRAML-2 administered?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

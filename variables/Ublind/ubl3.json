@@ -1,0 +1,7 @@
+{
+  "id": "ubl3",
+  "display_name": "Why was the participant unblinded?",
+  "description": "",
+  "type": "choices",
+  "domain":"unblinded"
+}

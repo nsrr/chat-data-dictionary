@@ -1,0 +1,7 @@
+{
+  "id": "ubl2",
+  "display_name": "What was the participant's randomization arm?",
+  "description": "",
+  "type": "choices",
+  "domain":"randomizationarm"
+}

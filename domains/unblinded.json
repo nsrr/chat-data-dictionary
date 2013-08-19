@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "neuropsychological scores fell outside the accepted range",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "participant experienced an sae related to medical intervention",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "parent or child inadvertently disclosed their treatment arm",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "other, specify",
+    "description": ""
+  }
+]

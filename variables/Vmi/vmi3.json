@@ -1,0 +1,7 @@
+{
+  "id": "vmi3",
+  "display_name": "Please indicate the child's hand preference",
+  "description": "",
+  "type": "choices",
+  "domain":"writinghand2"
+}
