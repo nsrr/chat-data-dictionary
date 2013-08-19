@@ -1,0 +1,6 @@
+{
+  "id": "sleep_diary_total_days_avail",
+  "display_name": "Total number of days available from monday - sunday",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "sleep_diary_avg_weekend",
+  "display_name": "Average days available from saturday - sunday",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ref5",
+  "display_name": "What is the child’s ethnicity?",
+  "description": "",
+  "type": "choices",
+  "domain":"ethnicity"
+}

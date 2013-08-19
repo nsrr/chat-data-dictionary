@@ -1,0 +1,6 @@
+{
+  "id": "sleep_diary_missing_wd",
+  "display_name": "Total missing days on weekdays",
+  "description": "",
+  "type": "numeric"
+}

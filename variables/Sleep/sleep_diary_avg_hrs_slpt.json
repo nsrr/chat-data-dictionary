@@ -1,0 +1,6 @@
+{
+  "id": "sleep_diary_avg_hrs_slpt",
+  "display_name": "Avg hrs sleep regardless of day",
+  "description": "",
+  "type": "numeric"
+}
