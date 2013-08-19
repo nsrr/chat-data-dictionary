@@ -1,0 +1,7 @@
+{
+  "id": "tst2",
+  "display_name": "What was the primary reason that the participant's treatment was stopped?",
+  "description": "",
+  "type": "choices",
+  "domain":"ptreatment"
+}

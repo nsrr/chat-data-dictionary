@@ -1,0 +1,7 @@
+{
+  "id": "tst5",
+  "display_name": "Will the participant be continuing with follow-up visits?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}

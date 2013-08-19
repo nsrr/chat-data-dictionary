@@ -1,0 +1,7 @@
+{
+  "id": "sls1",
+  "display_name": "sls1",
+  "description": "",
+  "type": "choices",
+  "domain":"chance"
+}

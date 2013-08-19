@@ -1,0 +1,52 @@
+[
+  {
+    "value": "1",
+    "display_name": "participant successfully completed all required study visits",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "participant lost to follow-up",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "participant withdrew consent",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "protocol defined stopping rules, decrease in dasii performance",
+    "description": ""
+  }, 
+  {
+    "value": "5",
+    "display_name": "screen failure as defined in mop",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "new medical problem determined to make continued participation unsafe",
+    "description": ""
+  },  
+  {
+    "value": "7",
+    "display_name": "new behavioral or learning problem determined to make continued participation unsafe",
+    "description": ""
+  },  
+  {
+    "value": "8",
+    "display_name": "participant declined their assigned randomization arm",
+    "description": ""
+  },  
+  {
+    "value": "9",
+    "display_name": "death",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "other, specify",
+    "description": ""
+  }
+]

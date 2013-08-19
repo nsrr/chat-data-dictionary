@@ -1,0 +1,6 @@
+{
+  "id": "totalslsc_standard8",
+  "display_name": "Epworth Sleepiness Scale Standard 8 algorithm: sum(SLS1 - SLS8)",
+  "description": "",
+  "type": "numeric"
+}

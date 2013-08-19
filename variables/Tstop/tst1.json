@@ -1,0 +1,6 @@
+{
+  "id": "tst1",
+  "display_name": "Date the participant's treatment stopped",
+  "description": "",
+  "type": "date"
+}
