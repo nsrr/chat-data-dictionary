@@ -2,5 +2,6 @@
   "id": "fam5b21",
   "display_name": "Full sister SID",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

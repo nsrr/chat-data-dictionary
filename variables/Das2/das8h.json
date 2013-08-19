@@ -2,5 +2,6 @@
   "id": "das8h",
   "display_name": "Verbal Similarities Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "fam5u32",
   "display_name": "Half brother have Sleep Apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

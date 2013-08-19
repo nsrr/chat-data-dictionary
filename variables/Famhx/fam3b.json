@@ -2,5 +2,6 @@
   "id": "fam3b",
   "display_name": "If YES, how many FULL brothers?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

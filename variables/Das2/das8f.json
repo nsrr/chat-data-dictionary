@@ -2,5 +2,6 @@
   "id": "das8f",
   "display_name": "Verbal Similarities GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

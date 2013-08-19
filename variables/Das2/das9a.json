@@ -2,5 +2,6 @@
   "id": "das9a",
   "display_name": "Sequential & Quantitative Reasoning Ability Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

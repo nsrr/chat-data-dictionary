@@ -2,5 +2,6 @@
   "id": "das6e",
   "display_name": "Pattern Construction Spatial",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

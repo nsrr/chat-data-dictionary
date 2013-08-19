@@ -2,5 +2,6 @@
   "id": "das10f",
   "display_name": "Sum of Core Subtest T-Scores GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

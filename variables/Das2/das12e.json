@@ -2,5 +2,6 @@
   "id": "das12e",
   "display_name": "Percentile Spatial",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "fam5p31",
   "display_name": "Half sister have High Cholesterol",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

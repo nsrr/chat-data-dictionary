@@ -2,5 +2,6 @@
   "id": "fam5b31",
   "display_name": "Half sister SID",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

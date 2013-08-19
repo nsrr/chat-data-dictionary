@@ -2,5 +2,6 @@
   "id": "das5a",
   "display_name": "Word Definitions Ability Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

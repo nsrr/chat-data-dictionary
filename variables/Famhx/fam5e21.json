@@ -2,5 +2,6 @@
   "id": "fam5e21",
   "display_name": "Full sister have ADD/ADHD",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

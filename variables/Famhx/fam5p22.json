@@ -2,5 +2,6 @@
   "id": "fam5p22",
   "display_name": "Full brother have High Cholesterol",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "fam5o32",
   "display_name": "Half brother have High Blood Pressure (Hypertension)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

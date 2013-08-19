@@ -2,5 +2,6 @@
   "id": "das12f",
   "display_name": "Percentile GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "das8a",
   "display_name": "Verbal Similarities Ability Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

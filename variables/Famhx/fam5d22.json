@@ -2,5 +2,6 @@
   "id": "fam5d22",
   "display_name": "Full brother have Asthma",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "das9b",
   "display_name": "Sequential & Quantitative Reasoning T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

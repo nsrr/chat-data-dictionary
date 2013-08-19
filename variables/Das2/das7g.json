@@ -2,5 +2,6 @@
   "id": "das7g",
   "display_name": "Matrices GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "das8b",
   "display_name": "Verbal Similarities T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

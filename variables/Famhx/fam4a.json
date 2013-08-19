@@ -2,5 +2,6 @@
   "id": "fam4a",
   "display_name": "If YES, how many HALF sisters?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "das5f",
   "display_name": "Word Definitions GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

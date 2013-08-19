@@ -2,5 +2,6 @@
   "id": "das11g",
   "display_name": "Standard Score SNC",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

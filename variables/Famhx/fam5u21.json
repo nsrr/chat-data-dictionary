@@ -2,5 +2,6 @@
   "id": "fam5u21",
   "display_name": "Full sister have Sleep Apnea",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

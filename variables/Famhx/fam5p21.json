@@ -2,5 +2,6 @@
   "id": "fam5p21",
   "display_name": "Full sister have High Cholesterol",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

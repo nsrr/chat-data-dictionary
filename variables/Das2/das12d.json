@@ -2,5 +2,6 @@
   "id": "das12d",
   "display_name": "Percentile Nonverbal Reasoning",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

@@ -2,5 +2,6 @@
   "id": "das12g",
   "display_name": "Percentile SNC",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

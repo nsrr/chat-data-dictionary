@@ -2,5 +2,6 @@
   "id": "fam5i21",
   "display_name": "Full sister have Diabetes",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

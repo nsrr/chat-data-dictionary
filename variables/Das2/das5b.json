@@ -2,5 +2,6 @@
   "id": "das5b",
   "display_name": "Word Definitions T-Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "das9g",
   "display_name": "Sequential & Quantitative Reasoning SNC",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

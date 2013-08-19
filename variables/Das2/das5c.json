@@ -2,5 +2,6 @@
   "id": "das5c",
   "display_name": "Word Definitions Verbal",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

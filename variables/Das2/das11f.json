@@ -2,5 +2,6 @@
   "id": "das11f",
   "display_name": "DASII GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "fam5r32",
   "display_name": "Half brother have Loud Snoring (3 or more times per week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

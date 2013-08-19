@@ -2,5 +2,6 @@
   "id": "das12c",
   "display_name": "Percentile Verbal",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

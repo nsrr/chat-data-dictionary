@@ -2,5 +2,6 @@
   "id": "das6f",
   "display_name": "Pattern Construction GCA",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

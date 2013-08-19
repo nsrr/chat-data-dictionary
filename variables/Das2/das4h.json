@@ -2,5 +2,6 @@
   "id": "das4h",
   "display_name": "Recall of Designs Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

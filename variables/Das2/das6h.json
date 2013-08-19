@@ -2,5 +2,6 @@
   "id": "das6h",
   "display_name": "Pattern Construction Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

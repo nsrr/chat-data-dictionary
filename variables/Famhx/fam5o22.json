@@ -2,5 +2,6 @@
   "id": "fam5o22",
   "display_name": "Full brother have High Blood Pressure (Hypertension)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

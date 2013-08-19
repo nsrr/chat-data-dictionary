@@ -2,5 +2,6 @@
   "id": "fam5s32",
   "display_name": "Half brother have Migraine Headache or Chronic Severe Headache",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
