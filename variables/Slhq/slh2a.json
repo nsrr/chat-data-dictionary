@@ -1,0 +1,7 @@
+{
+  "id": "slh2a",
+  "display_name": "How often has your child experienced loud snoring during sleep?",
+  "description": "",
+  "type": "choices",
+  "domain":"alwaysornever"
+}

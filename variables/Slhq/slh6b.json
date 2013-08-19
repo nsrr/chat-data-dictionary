@@ -1,0 +1,7 @@
+{
+  "id": "slh6b",
+  "display_name": "Chest is wheezy or whistling",
+  "description": "",
+  "type": "choices",
+  "domain":"alwaysornever"
+}

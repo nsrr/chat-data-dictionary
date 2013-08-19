@@ -1,0 +1,7 @@
+{
+  "id": "slh6i",
+  "display_name": "Walk during sleep",
+  "description": "",
+  "type": "choices",
+  "domain":"alwaysornever"
+}

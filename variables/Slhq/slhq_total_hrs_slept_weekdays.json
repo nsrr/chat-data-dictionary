@@ -1,0 +1,6 @@
+{
+  "id": "slhq_total_hrs_slept_weekdays",
+  "display_name": "Total hours slept on weekdays algorithm: total_hrs_slept_weekdays = hour(SLH1C_11_time - SLH1B_11_time)",
+  "description": "",
+  "type": "numeric"
+}

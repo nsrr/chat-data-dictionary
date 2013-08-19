@@ -1,0 +1,7 @@
+{
+  "id": "slh2c",
+  "display_name": "Has the snoring sounded:",
+  "description": "",
+  "type": "choices",
+  "domain":"snoringsound"
+}

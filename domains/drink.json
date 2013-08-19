@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "none",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "less than once cup per day",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "approximately one cup (8oz) per day",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "more than one cup, but not more than three cups per day",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "more than three cups per day",
+    "description": ""
+  }
+]

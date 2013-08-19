@@ -1,0 +1,7 @@
+{
+  "id": "ageyear_bin",
+  "display_name": "ageyear_bin",
+  "description": "",
+  "type": "choices",
+  "domain":"childageyear1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "slh5a",
+  "display_name": "Frequent colds or flu?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyesnotsure"
+}
