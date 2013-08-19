@@ -2,5 +2,5 @@
   "id": "antbmiz_chk",
   "display_name": "ANT5A_CHK",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }

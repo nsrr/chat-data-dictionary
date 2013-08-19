@@ -2,5 +2,6 @@
   "id": "antwaist1",
   "display_name": "Waist Measurement 1 (cm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "cm"
 }

@@ -2,5 +2,6 @@
   "id": "bri14",
   "display_name": "What is the negativity score?",
   "description": "",
-  "type":"numeric"
+  "type":"numeric",
+  "units": ""
 }

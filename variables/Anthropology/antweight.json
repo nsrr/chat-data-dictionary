@@ -2,5 +2,6 @@
   "id": "antweight",
   "display_name": "Child's weight (kg)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "cm"
 }

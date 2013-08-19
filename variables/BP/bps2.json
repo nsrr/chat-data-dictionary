@@ -2,5 +2,6 @@
   "id": "bps2",
   "display_name": "Systolic BP 2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

@@ -2,5 +2,6 @@
   "id": "bpdavg",
   "display_name": "Average Diastolic BP",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

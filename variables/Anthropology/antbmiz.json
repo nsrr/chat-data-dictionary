@@ -2,5 +2,6 @@
   "id": "antbmiz",
   "display_name": "Child's BMI z-score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

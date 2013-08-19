@@ -2,5 +2,6 @@
   "id": "anthip1",
   "display_name": "Hip Measurement 1 (cm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "cm"
 }

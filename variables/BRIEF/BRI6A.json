@@ -2,5 +2,6 @@
   "id": "bri6a",
   "display_name": "BRI Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

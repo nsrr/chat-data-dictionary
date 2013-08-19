@@ -2,5 +2,6 @@
   "id": "antwaistav",
   "display_name": "Waist Average (cm)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "cm"
 }

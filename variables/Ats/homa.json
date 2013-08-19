@@ -2,5 +2,6 @@
   "id": "homa",
   "display_name": "HOMA algorithm: HOMA = (glucose_mmol * ROCHE_INSULIN) / 22.5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

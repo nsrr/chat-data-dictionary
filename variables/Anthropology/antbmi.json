@@ -2,5 +2,6 @@
   "id": "antbmi",
   "display_name": "Child's BMI",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

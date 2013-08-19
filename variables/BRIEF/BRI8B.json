@@ -2,5 +2,6 @@
   "id": "bri8b",
   "display_name": "Working Memory T Score",
   "description": "",
-  "type":"numeric"
+  "type":"numeric",
+  "units": ""
 }

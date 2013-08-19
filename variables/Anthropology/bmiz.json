@@ -2,5 +2,6 @@
   "id": "bmiz",
   "display_name": "z-score for body mass index-for-age",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

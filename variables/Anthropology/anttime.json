@@ -2,5 +2,5 @@
   "id": "anttime",
   "display_name": "Time of the current measurements",
   "description": "",
-  "type": "numeric"
+  "type": "time"
 }

@@ -2,5 +2,6 @@
   "id": "bpd2",
   "display_name": "Diastolic BP 2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "mmHG"
 }

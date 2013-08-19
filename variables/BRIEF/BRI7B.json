@@ -2,5 +2,6 @@
   "id": "bri7b",
   "display_name": "Initiate T Score",
   "description": "",
-  "type":"numeric"
+  "type":"numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "bri5c",
   "display_name": "Emotional Control Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }
