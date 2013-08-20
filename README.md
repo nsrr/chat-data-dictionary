@@ -1,4 +1,4 @@
-chat-data-dictionary
+CHAT Data Dictionary
 ====================
 
 CHAT variables and domains.
