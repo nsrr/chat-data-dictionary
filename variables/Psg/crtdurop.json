@@ -2,5 +2,6 @@
   "id": "crtdurop",
   "display_name": "crtdurop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

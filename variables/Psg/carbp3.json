@@ -2,5 +2,6 @@
   "id": "carbp3",
   "display_name": "carbp3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

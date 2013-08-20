@@ -2,5 +2,6 @@
   "id": "qusum",
   "display_name": "qusum",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

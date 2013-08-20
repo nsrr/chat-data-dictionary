@@ -2,5 +2,6 @@
   "id": "oai4pa",
   "display_name": "oai4pa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

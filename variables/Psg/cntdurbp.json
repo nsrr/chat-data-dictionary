@@ -2,5 +2,6 @@
   "id": "cntdurbp",
   "display_name": "cntdurbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "avmaropa4",
   "display_name": "avmaropa4",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

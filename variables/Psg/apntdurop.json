@@ -2,5 +2,6 @@
   "id": "apntdurop",
   "display_name": "apntdurop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

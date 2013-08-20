@@ -2,5 +2,6 @@
   "id": "mndrop",
   "display_name": "mndrop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

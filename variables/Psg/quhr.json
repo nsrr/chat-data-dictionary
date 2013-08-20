@@ -2,5 +2,6 @@
   "id": "quhr",
   "display_name": "quhr",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

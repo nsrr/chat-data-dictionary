@@ -2,5 +2,6 @@
   "id": "rdinba",
   "display_name": "rdinba",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

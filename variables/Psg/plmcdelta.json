@@ -2,5 +2,6 @@
   "id": "plmcdelta",
   "display_name": "plmcdelta",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "canba",
   "display_name": "canba",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

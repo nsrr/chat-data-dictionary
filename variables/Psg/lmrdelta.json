@@ -2,5 +2,6 @@
   "id": "lmrdelta",
   "display_name": "lmrdelta",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "hremt2p",
   "display_name": "hremt2p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

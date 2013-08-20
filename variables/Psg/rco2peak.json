@@ -2,5 +2,6 @@
   "id": "rco2peak",
   "display_name": "rco2peak",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

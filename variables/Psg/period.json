@@ -2,5 +2,6 @@
   "id": "period",
   "display_name": "period",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "plmcarstg2",
   "display_name": "plmcarstg2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

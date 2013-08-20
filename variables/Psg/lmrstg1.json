@@ -2,5 +2,6 @@
   "id": "lmrstg1",
   "display_name": "lmrstg1",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

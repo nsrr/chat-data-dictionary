@@ -2,5 +2,6 @@
   "id": "pcstah3d",
   "display_name": "pcstah3d",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

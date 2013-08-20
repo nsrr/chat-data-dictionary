@@ -2,5 +2,6 @@
   "id": "pcstahar",
   "display_name": "pcstahar",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

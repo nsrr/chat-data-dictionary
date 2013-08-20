@@ -2,5 +2,6 @@
   "id": "alpdel",
   "display_name": "alpdel",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

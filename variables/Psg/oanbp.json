@@ -2,5 +2,6 @@
   "id": "oanbp",
   "display_name": "oanbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "remlatm",
   "display_name": "remlatm",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

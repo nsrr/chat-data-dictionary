@@ -2,5 +2,6 @@
   "id": "nremepbp",
   "display_name": "nremepbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

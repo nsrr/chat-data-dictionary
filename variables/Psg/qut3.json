@@ -2,5 +2,6 @@
   "id": "qut3",
   "display_name": "qut3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "oarop2",
   "display_name": "oarop2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

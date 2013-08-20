@@ -2,5 +2,6 @@
   "id": "remlaip",
   "display_name": "remlaip",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

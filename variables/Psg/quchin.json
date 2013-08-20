@@ -2,5 +2,6 @@
   "id": "quchin",
   "display_name": "quchin",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

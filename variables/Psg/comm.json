@@ -2,5 +2,6 @@
   "id": "comm",
   "display_name": "comm",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

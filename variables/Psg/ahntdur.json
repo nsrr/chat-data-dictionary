@@ -2,5 +2,6 @@
   "id": "ahntdur",
   "display_name": "ahntdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

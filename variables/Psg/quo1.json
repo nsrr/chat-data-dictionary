@@ -2,5 +2,6 @@
   "id": "quo1",
   "display_name": "quo1",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

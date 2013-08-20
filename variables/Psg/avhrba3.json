@@ -2,5 +2,6 @@
   "id": "avhrba3",
   "display_name": "avhrba3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

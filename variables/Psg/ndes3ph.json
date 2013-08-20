@@ -2,5 +2,6 @@
   "id": "ndes3ph",
   "display_name": "ndes3ph",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

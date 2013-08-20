@@ -2,5 +2,6 @@
   "id": "carop",
   "display_name": "carop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

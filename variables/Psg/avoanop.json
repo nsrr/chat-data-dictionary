@@ -2,5 +2,6 @@
   "id": "avoanop",
   "display_name": "avoanop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

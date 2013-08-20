@@ -2,5 +2,6 @@
   "id": "lmardelta",
   "display_name": "lmardelta",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

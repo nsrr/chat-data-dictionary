@@ -2,5 +2,6 @@
   "id": "caroa5",
   "display_name": "caroa5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

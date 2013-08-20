@@ -2,5 +2,6 @@
   "id": "mndnop",
   "display_name": "mndnop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

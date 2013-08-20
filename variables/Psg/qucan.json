@@ -2,5 +2,6 @@
   "id": "qucan",
   "display_name": "qucan",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

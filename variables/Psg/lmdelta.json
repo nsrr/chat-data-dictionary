@@ -2,5 +2,6 @@
   "id": "lmdelta",
   "display_name": "lmdelta",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

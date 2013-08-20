@@ -2,5 +2,6 @@
   "id": "oximdur",
   "display_name": "oximdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

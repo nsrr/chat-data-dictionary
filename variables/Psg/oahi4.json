@@ -2,5 +2,6 @@
   "id": "oahi4",
   "display_name": "oahi4",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

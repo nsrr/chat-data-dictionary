@@ -2,5 +2,6 @@
   "id": "mncarba5",
   "display_name": "mncarba5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

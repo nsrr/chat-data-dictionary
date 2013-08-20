@@ -2,5 +2,6 @@
   "id": "hremba4",
   "display_name": "hremba4",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

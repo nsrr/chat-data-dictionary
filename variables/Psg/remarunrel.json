@@ -2,5 +2,6 @@
   "id": "remarunrel",
   "display_name": "remarunrel",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

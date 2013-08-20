@@ -2,5 +2,6 @@
   "id": "queogr",
   "display_name": "queogr",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

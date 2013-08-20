@@ -2,5 +2,6 @@
   "id": "chestdur",
   "display_name": "chestdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "plmca",
   "display_name": "plmca",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

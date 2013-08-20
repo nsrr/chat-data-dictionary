@@ -2,5 +2,6 @@
   "id": "bpmmax",
   "display_name": "bpmmax",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

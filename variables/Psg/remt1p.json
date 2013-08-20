@@ -2,5 +2,6 @@
   "id": "remt1p",
   "display_name": "remt1p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

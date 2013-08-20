@@ -2,5 +2,6 @@
   "id": "qupwf",
   "display_name": "qupwf",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

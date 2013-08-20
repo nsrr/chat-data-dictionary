@@ -2,5 +2,6 @@
   "id": "hrtdurop",
   "display_name": "hrtdurop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

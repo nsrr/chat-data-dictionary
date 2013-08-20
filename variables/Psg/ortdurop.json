@@ -2,5 +2,6 @@
   "id": "ortdurop",
   "display_name": "ortdurop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

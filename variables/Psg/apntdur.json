@@ -2,5 +2,6 @@
   "id": "apntdur",
   "display_name": "apntdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

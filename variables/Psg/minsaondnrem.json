@@ -2,5 +2,6 @@
   "id": "minsaondnrem",
   "display_name": "minsaondnrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

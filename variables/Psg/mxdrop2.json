@@ -2,5 +2,6 @@
   "id": "mxdrop2",
   "display_name": "mxdrop2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

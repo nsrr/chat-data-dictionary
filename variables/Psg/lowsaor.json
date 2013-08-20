@@ -2,5 +2,6 @@
   "id": "lowsaor",
   "display_name": "lowsaor",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

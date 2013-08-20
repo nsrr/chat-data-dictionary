@@ -2,5 +2,6 @@
   "id": "plmcanrem",
   "display_name": "plmcanrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

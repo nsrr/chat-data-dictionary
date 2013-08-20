@@ -2,5 +2,6 @@
   "id": "plmaslp",
   "display_name": "plmaslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

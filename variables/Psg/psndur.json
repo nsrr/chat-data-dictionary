@@ -2,5 +2,6 @@
   "id": "psndur",
   "display_name": "psndur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

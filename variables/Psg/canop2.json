@@ -2,5 +2,6 @@
   "id": "canop2",
   "display_name": "canop2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

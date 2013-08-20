@@ -2,5 +2,6 @@
   "id": "lmarop",
   "display_name": "lmarop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

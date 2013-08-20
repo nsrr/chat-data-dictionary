@@ -2,5 +2,6 @@
   "id": "lmaslp",
   "display_name": "lmaslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

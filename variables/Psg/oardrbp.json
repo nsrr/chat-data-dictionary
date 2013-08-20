@@ -2,5 +2,6 @@
   "id": "oardrbp",
   "display_name": "oardrbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

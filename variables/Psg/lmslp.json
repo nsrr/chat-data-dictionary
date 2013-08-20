@@ -2,5 +2,6 @@
   "id": "lmslp",
   "display_name": "lmslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

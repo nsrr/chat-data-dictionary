@@ -2,5 +2,6 @@
   "id": "avgdbslp",
   "display_name": "avgdbslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

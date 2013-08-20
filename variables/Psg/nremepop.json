@@ -2,5 +2,6 @@
   "id": "nremepop",
   "display_name": "nremepop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

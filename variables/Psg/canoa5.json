@@ -2,5 +2,6 @@
   "id": "canoa5",
   "display_name": "canoa5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

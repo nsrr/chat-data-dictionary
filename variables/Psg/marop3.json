@@ -2,5 +2,6 @@
   "id": "marop3",
   "display_name": "marop3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

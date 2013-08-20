@@ -2,5 +2,6 @@
   "id": "rdinop5",
   "display_name": "rdinop5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

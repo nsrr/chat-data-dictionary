@@ -2,5 +2,6 @@
   "id": "plmcadelta",
   "display_name": "plmcadelta",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

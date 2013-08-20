@@ -2,5 +2,6 @@
   "id": "avcanoa2",
   "display_name": "avcanoa2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

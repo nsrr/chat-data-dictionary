@@ -2,5 +2,6 @@
   "id": "mxcarbp",
   "display_name": "mxcarbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

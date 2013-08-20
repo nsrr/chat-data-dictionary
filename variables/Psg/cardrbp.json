@@ -2,5 +2,6 @@
   "id": "cardrbp",
   "display_name": "cardrbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

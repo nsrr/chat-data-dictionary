@@ -2,5 +2,6 @@
   "id": "abnoreeg",
   "display_name": "abnoreeg",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

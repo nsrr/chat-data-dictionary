@@ -2,5 +2,6 @@
   "id": "m1dur",
   "display_name": "m1dur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

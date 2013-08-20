@@ -2,5 +2,6 @@
   "id": "mxdroa",
   "display_name": "mxdroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

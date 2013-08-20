@@ -2,5 +2,6 @@
   "id": "overall",
   "display_name": "overall",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

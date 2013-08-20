@@ -2,5 +2,6 @@
   "id": "prdb5slp",
   "display_name": "prdb5slp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "lmarnrem",
   "display_name": "lmarnrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "remnrempr",
   "display_name": "remnrempr",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

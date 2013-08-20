@@ -2,5 +2,6 @@
   "id": "plmcstg1",
   "display_name": "plmcstg1",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

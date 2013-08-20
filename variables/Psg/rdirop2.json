@@ -2,5 +2,6 @@
   "id": "rdirop2",
   "display_name": "rdirop2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

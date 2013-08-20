@@ -2,5 +2,6 @@
   "id": "avgsaominrpt",
   "display_name": "avgsaominrpt",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

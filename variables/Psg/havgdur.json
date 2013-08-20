@@ -2,5 +2,6 @@
   "id": "havgdur",
   "display_name": "havgdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

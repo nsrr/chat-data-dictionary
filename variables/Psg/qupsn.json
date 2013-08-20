@@ -2,5 +2,6 @@
   "id": "qupsn",
   "display_name": "qupsn",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

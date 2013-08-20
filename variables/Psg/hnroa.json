@@ -2,5 +2,6 @@
   "id": "hnroa",
   "display_name": "hnroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

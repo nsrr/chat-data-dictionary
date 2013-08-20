@@ -2,5 +2,6 @@
   "id": "recbeaw",
   "display_name": "recbeaw",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

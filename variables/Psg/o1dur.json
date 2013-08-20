@@ -2,5 +2,6 @@
   "id": "o1dur",
   "display_name": "o1dur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

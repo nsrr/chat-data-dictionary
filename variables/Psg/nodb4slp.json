@@ -2,5 +2,6 @@
   "id": "nodb4slp",
   "display_name": "nodb4slp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

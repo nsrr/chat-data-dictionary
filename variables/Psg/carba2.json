@@ -2,5 +2,6 @@
   "id": "carba2",
   "display_name": "carba2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

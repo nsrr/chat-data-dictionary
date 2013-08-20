@@ -2,5 +2,6 @@
   "id": "mxcarop",
   "display_name": "mxcarop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

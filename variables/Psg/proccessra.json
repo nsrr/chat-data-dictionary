@@ -2,5 +2,6 @@
   "id": "proccessra",
   "display_name": "proccessra",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "lmanrbpa",
   "display_name": "lmanrbpa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

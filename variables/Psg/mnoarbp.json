@@ -2,5 +2,6 @@
   "id": "mnoarbp",
   "display_name": "mnoarbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

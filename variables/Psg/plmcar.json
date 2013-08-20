@@ -2,5 +2,6 @@
   "id": "plmcar",
   "display_name": "plmcar",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

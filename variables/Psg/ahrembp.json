@@ -2,5 +2,6 @@
   "id": "ahrembp",
   "display_name": "ahrembp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

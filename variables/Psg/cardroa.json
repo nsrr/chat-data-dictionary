@@ -2,5 +2,6 @@
   "id": "cardroa",
   "display_name": "cardroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

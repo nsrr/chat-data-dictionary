@@ -2,5 +2,6 @@
   "id": "minstg1p",
   "display_name": "minstg1p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "bpmmin",
   "display_name": "bpmmin",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

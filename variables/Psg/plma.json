@@ -2,5 +2,6 @@
   "id": "plma",
   "display_name": "plma",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

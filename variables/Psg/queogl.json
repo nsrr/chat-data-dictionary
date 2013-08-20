@@ -2,5 +2,6 @@
   "id": "queogl",
   "display_name": "queogl",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

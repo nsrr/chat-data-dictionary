@@ -2,5 +2,6 @@
   "id": "nsupinep",
   "display_name": "nsupinep",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

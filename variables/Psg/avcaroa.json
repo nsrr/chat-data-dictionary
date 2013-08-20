@@ -2,5 +2,6 @@
   "id": "avcaroa",
   "display_name": "avcaroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

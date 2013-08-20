@@ -2,5 +2,6 @@
   "id": "mncanop",
   "display_name": "mncanop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

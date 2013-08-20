@@ -2,5 +2,6 @@
   "id": "ai",
   "display_name": "ai",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

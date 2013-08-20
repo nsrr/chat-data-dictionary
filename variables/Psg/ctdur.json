@@ -2,5 +2,6 @@
   "id": "ctdur",
   "display_name": "ctdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

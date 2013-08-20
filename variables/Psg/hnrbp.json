@@ -2,5 +2,6 @@
   "id": "hnrbp",
   "display_name": "hnrbp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

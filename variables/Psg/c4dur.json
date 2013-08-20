@@ -2,5 +2,6 @@
   "id": "c4dur",
   "display_name": "c4dur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

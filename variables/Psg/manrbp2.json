@@ -2,5 +2,6 @@
   "id": "manrbp2",
   "display_name": "manrbp2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

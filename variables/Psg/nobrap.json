@@ -2,5 +2,6 @@
   "id": "nobrap",
   "display_name": "nobrap",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "mnoanba",
   "display_name": "mnoanba",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

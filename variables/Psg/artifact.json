@@ -2,5 +2,6 @@
   "id": "artifact",
   "display_name": "artifact",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

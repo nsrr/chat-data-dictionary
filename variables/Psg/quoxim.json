@@ -2,5 +2,6 @@
   "id": "quoxim",
   "display_name": "quoxim",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

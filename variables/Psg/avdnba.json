@@ -2,5 +2,6 @@
   "id": "avdnba",
   "display_name": "avdnba",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

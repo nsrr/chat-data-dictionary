@@ -2,5 +2,6 @@
   "id": "avhnop",
   "display_name": "avhnop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

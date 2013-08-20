@@ -2,5 +2,6 @@
   "id": "avoarba",
   "display_name": "avoarba",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

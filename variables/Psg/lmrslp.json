@@ -2,5 +2,6 @@
   "id": "lmrslp",
   "display_name": "lmrslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

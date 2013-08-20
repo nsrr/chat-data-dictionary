@@ -2,5 +2,6 @@
   "id": "avmanrop",
   "display_name": "avmanrop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

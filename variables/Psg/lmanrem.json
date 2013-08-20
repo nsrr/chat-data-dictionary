@@ -2,5 +2,6 @@
   "id": "lmanrem",
   "display_name": "lmanrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

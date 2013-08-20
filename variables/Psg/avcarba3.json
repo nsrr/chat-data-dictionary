@@ -2,5 +2,6 @@
   "id": "avcarba3",
   "display_name": "avcarba3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

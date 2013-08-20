@@ -2,5 +2,6 @@
   "id": "qsahi",
   "display_name": "qsahi",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

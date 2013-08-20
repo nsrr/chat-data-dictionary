@@ -2,5 +2,6 @@
   "id": "mnoanop",
   "display_name": "mnoanop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

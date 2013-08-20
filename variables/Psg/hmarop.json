@@ -2,5 +2,6 @@
   "id": "hmarop",
   "display_name": "hmarop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

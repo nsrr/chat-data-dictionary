@@ -2,5 +2,6 @@
   "id": "rem_lat1",
   "display_name": "rem_lat1",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

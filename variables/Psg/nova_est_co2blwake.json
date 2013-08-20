@@ -2,5 +2,6 @@
   "id": "nova_est_co2blwake",
   "display_name": "nova_est_co2blwake",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

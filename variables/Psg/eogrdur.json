@@ -2,5 +2,6 @@
   "id": "eogrdur",
   "display_name": "eogrdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

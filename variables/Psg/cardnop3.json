@@ -2,5 +2,6 @@
   "id": "cardnop3",
   "display_name": "cardnop3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

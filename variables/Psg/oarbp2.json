@@ -2,5 +2,6 @@
   "id": "oarbp2",
   "display_name": "oarbp2",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

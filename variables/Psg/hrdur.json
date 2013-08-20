@@ -2,5 +2,6 @@
   "id": "hrdur",
   "display_name": "hrdur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

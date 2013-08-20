@@ -2,5 +2,6 @@
   "id": "co2blslp",
   "display_name": "co2blslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "cardnoa5",
   "display_name": "cardnoa5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

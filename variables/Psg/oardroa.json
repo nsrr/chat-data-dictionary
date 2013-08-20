@@ -2,5 +2,6 @@
   "id": "oardroa",
   "display_name": "oardroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

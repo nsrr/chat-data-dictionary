@@ -2,5 +2,6 @@
   "id": "rdim5p",
   "display_name": "rdim5p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

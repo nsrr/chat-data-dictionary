@@ -2,5 +2,6 @@
   "id": "pctsa80h",
   "display_name": "pctsa80h",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

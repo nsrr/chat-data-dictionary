@@ -2,5 +2,6 @@
   "id": "avgdsevent",
   "display_name": "avgdsevent",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

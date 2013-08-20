@@ -2,5 +2,6 @@
   "id": "rcrdtime",
   "display_name": "rcrdtime",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

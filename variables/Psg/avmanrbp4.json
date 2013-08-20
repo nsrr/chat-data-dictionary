@@ -2,5 +2,6 @@
   "id": "avmanrbp4",
   "display_name": "avmanrbp4",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "nollmslp",
   "display_name": "nollmslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

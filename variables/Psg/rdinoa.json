@@ -2,5 +2,6 @@
   "id": "rdinoa",
   "display_name": "rdinoa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

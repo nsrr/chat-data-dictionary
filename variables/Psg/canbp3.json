@@ -2,5 +2,6 @@
   "id": "canbp3",
   "display_name": "canbp3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

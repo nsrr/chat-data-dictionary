@@ -2,5 +2,6 @@
   "id": "minremp",
   "display_name": "minremp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

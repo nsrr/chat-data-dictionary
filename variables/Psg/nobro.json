@@ -2,5 +2,6 @@
   "id": "nobro",
   "display_name": "nobro",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

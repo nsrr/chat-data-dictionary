@@ -2,5 +2,6 @@
   "id": "plmrem",
   "display_name": "plmrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "rdim0pns",
   "display_name": "rdim0pns",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

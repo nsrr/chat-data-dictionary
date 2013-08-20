@@ -2,5 +2,6 @@
   "id": "plmtot",
   "display_name": "plmtot",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

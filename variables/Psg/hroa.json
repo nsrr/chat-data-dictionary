@@ -2,5 +2,6 @@
   "id": "hroa",
   "display_name": "hroa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

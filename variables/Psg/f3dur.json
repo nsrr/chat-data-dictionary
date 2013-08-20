@@ -2,5 +2,6 @@
   "id": "f3dur",
   "display_name": "f3dur",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

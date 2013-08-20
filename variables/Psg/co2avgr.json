@@ -2,5 +2,6 @@
   "id": "co2avgr",
   "display_name": "co2avgr",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

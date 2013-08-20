@@ -2,5 +2,6 @@
   "id": "arnremop",
   "display_name": "arnremop",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

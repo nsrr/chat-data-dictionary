@@ -2,5 +2,6 @@
   "id": "npflow",
   "display_name": "npflow",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

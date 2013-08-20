@@ -2,5 +2,6 @@
   "id": "quair",
   "display_name": "quair",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

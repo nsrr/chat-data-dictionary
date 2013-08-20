@@ -2,5 +2,6 @@
   "id": "notch",
   "display_name": "notch",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

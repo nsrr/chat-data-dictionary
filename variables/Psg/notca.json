@@ -2,5 +2,6 @@
   "id": "notca",
   "display_name": "notca",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

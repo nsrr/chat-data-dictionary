@@ -2,5 +2,6 @@
   "id": "nordb3",
   "display_name": "nordb3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
