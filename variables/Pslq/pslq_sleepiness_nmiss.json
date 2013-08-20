@@ -2,5 +2,6 @@
   "id": "pslq_sleepiness_nmiss",
   "display_name": "Sleepiness subscale total number of missing questions (PSL4A, PSL4B, PSL5, PSL6)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

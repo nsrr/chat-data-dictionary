@@ -2,5 +2,6 @@
   "id": "ref8",
   "display_name": "What is the child’s BMI?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

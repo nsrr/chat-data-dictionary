@@ -2,5 +2,6 @@
   "id": "slp_eff",
   "display_name": "slp_eff",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

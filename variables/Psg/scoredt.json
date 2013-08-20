@@ -2,5 +2,6 @@
   "id": "scoredt",
   "display_name": "scoredt",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

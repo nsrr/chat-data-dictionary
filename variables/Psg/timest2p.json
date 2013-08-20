@@ -2,5 +2,6 @@
   "id": "timest2p",
   "display_name": "timest2p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

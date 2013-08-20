@@ -2,5 +2,6 @@
   "id": "saorem",
   "display_name": "saorem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

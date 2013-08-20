@@ -2,5 +2,6 @@
   "id": "pslq_habitual_nmiss",
   "display_name": "Habitual snoring subscale total number of missing questions(PSL1A)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

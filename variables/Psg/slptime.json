@@ -2,5 +2,6 @@
   "id": "slptime",
   "display_name": "slptime",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

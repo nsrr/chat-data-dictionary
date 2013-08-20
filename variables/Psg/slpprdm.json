@@ -2,5 +2,6 @@
   "id": "slpprdm",
   "display_name": "slpprdm",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

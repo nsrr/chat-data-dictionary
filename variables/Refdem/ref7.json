@@ -2,5 +2,6 @@
   "id": "ref7",
   "display_name": "What is the child’s weight (kg)?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "kg"
 }

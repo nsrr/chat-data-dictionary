@@ -2,5 +2,6 @@
   "id": "unuhrothdesc",
   "display_name": "unuhrothdesc",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

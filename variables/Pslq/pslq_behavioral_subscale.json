@@ -2,5 +2,6 @@
   "id": "pslq_behavioral_subscale",
   "display_name": "Behavioral subscale algorithmm: (PSL10A, PSL10B, PSL10C, PSL10D, PSL10E, PSL10F) / (6-nmiss)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

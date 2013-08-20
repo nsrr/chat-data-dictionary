@@ -2,5 +2,6 @@
   "id": "wasom",
   "display_name": "wasom",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

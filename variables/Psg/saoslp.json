@@ -2,5 +2,6 @@
   "id": "saoslp",
   "display_name": "saoslp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

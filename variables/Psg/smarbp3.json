@@ -2,5 +2,6 @@
   "id": "smarbp3",
   "display_name": "smarbp3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

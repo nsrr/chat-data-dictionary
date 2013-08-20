@@ -2,5 +2,6 @@
   "id": "pup2c2_zscore",
   "display_name": "PUP2C2 Zscore algorithm: (PUP2C2 - PUP2C2_mean) / PUP2C2_std",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

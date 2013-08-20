@@ -2,5 +2,6 @@
   "id": "pup2c2_std",
   "display_name": "PUP2C2 std",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

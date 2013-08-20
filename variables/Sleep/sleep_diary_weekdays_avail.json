@@ -2,5 +2,6 @@
   "id": "sleep_diary_weekdays_avail",
   "display_name": "Total number of days available from monday - friday",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

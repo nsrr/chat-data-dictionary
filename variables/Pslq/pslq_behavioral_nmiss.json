@@ -2,5 +2,6 @@
   "id": "pslq_behavioral_nmiss",
   "display_name": "Behavioral subscale total number of missing questions (PSL10A, PSL10B, PSL10C, PSL10D, PSL10E, PSL10F)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "stendp",
   "display_name": "stendp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

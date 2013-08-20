@@ -2,5 +2,6 @@
   "id": "status",
   "display_name": "status",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

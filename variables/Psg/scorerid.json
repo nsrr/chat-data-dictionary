@@ -2,5 +2,6 @@
   "id": "scorerid",
   "display_name": "scorerid",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

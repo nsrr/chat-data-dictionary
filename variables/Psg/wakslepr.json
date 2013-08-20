@@ -2,5 +2,6 @@
   "id": "wakslepr",
   "display_name": "wakslepr",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

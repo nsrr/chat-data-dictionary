@@ -2,5 +2,6 @@
   "id": "unustgou",
   "display_name": "unustgou",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

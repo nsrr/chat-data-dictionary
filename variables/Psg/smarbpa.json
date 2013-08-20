@@ -2,5 +2,6 @@
   "id": "smarbpa",
   "display_name": "smarbpa",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

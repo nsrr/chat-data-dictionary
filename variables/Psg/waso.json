@@ -2,5 +2,6 @@
   "id": "waso",
   "display_name": "waso",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

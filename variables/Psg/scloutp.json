@@ -2,5 +2,6 @@
   "id": "scloutp",
   "display_name": "scloutp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

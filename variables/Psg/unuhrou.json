@@ -2,5 +2,6 @@
   "id": "unuhrou",
   "display_name": "unuhrou",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

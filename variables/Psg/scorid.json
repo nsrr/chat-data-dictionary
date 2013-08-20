@@ -2,5 +2,6 @@
   "id": "scorid",
   "display_name": "scorid",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

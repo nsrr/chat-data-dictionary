@@ -2,5 +2,6 @@
   "id": "pslq_compq12",
   "display_name": "Mean response of Q1 & Q2(PSQ)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

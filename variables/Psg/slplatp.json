@@ -2,5 +2,6 @@
   "id": "slplatp",
   "display_name": "slplatp",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

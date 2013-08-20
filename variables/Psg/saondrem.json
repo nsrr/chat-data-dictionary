@@ -2,5 +2,6 @@
   "id": "saondrem",
   "display_name": "saondrem",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "siteid",
   "display_name": "siteid",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

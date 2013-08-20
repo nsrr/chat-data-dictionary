@@ -2,5 +2,6 @@
   "id": "tmstg1p",
   "display_name": "tmstg1p",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

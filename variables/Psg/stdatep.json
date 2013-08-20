@@ -2,5 +2,6 @@
   "id": "stdatep",
   "display_name": "stdatep",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

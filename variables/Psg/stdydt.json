@@ -2,5 +2,6 @@
   "id": "stdydt",
   "display_name": "stdydt",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

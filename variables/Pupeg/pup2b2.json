@@ -2,5 +2,6 @@
   "id": "pup2b2",
   "display_name": "Non-dominant Hand Number of Pegs",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "rsnco",
   "display_name": "rsnco",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

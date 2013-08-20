@@ -2,5 +2,6 @@
   "id": "timebedm",
   "display_name": "timebedm",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

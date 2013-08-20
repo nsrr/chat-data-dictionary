@@ -2,5 +2,6 @@
   "id": "scslpon",
   "display_name": "scslpon",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
