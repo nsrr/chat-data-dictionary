@@ -2,5 +2,6 @@
   "id": "nep6a_nepsy",
   "display_name": "Speeded Naming: Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "nep12a_nepsy",
   "display_name": "Please provide the scores for the Arrows sub-section Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

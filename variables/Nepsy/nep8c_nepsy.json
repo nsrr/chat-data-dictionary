@@ -2,5 +2,6 @@
   "id": "nep8c_nepsy",
   "display_name": "Comprehension of Instructions: Language Scaled Scores",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

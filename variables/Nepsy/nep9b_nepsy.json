@@ -2,5 +2,6 @@
   "id": "nep9b_nepsy",
   "display_name": "Sum Scale Scores: Attn / Exec Scaled Scores",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

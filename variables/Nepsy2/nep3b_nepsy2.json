@@ -2,5 +2,6 @@
   "id": "nep3b_nepsy2",
   "display_name": "Inhibition - Inhibition Total Completion Time Scaled Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

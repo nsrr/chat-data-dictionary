@@ -2,5 +2,6 @@
   "id": "nep11c_nepsy",
   "display_name": "Percentile Language Scaled Scores",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

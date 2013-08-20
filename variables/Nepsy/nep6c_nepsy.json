@@ -2,5 +2,6 @@
   "id": "nep6c_nepsy",
   "display_name": "Speeded Naming: Language Scaled Scores",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "lgahi_0",
   "display_name": "LOG Obstructive AHI (0 replaced with 0.0001)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

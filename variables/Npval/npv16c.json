@@ -2,5 +2,6 @@
   "id": "npv16c",
   "display_name": "npv16c",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

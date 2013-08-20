@@ -2,5 +2,6 @@
   "id": "nep3_nepwrd",
   "display_name": "Word Generation Semantic Scaled Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

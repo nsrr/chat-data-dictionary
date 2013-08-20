@@ -2,5 +2,6 @@
   "id": "nep7a_nepsy",
   "display_name": "Visual Attention: Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

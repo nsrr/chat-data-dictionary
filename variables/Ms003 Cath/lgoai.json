@@ -2,5 +2,6 @@
   "id": "lgoai",
   "display_name": "LOG Obstructive Apnea Index",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "nep3c_nepsy",
   "display_name": "Phonological Processing: Language Scaled Scores",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

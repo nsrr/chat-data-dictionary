@@ -2,5 +2,6 @@
   "id": "osas18",
   "display_name": "OSA-18 Survey Score (sum of all 18 resp)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
