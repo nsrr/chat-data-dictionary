@@ -2,5 +2,6 @@
   "id": "fas5",
   "display_name": "fas5",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

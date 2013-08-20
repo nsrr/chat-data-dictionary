@@ -2,5 +2,6 @@
   "id": "fam9_tot_inches",
   "display_name": "Mother current height in total inches",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "inches"
 }

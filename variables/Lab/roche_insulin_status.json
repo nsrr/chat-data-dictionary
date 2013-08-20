@@ -2,5 +2,5 @@
   "id": "roche_insulin_status",
   "display_name": "roche_insulin_status",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }

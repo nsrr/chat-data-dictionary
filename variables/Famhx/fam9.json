@@ -2,5 +2,6 @@
   "id": "fam9",
   "display_name": "Mother's current height",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

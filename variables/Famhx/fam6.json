@@ -2,5 +2,6 @@
   "id": "fam6",
   "display_name": "fam6",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

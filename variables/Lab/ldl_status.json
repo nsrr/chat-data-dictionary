@@ -2,5 +2,5 @@
   "id": "ldl_status",
   "display_name": "ldl_status",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }

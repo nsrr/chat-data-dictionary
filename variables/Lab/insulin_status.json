@@ -2,5 +2,5 @@
   "id": "insulin_status",
   "display_name": "insulin_status",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }

@@ -2,5 +2,6 @@
   "id": "fam8_tot_oz",
   "display_name": "Mother weight at child birth in total ounces",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "oz"
 }

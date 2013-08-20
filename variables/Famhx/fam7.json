@@ -2,5 +2,6 @@
   "id": "fam7",
   "display_name": "Mother's height at time of child's birth",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

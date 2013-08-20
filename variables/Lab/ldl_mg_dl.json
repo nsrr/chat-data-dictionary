@@ -2,5 +2,6 @@
   "id": "ldl_mg_dl",
   "display_name": "ldl_mg_dl",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

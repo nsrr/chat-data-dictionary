@@ -2,5 +2,6 @@
   "id": "fam8_oz",
   "display_name": "Mother weight at time of child birth (oz only)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "oz"
 }

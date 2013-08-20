@@ -2,5 +2,6 @@
   "id": "fam7_inches",
   "display_name": "Mother's height at time of child's birth (inches only)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "inches"
 }

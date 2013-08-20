@@ -2,5 +2,6 @@
   "id": "mat2a",
   "display_name": "mat2a",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

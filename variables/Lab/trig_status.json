@@ -2,5 +2,5 @@
   "id": "trig_status",
   "display_name": "trig_status",
   "description": "",
-  "type": "numeric"
+  "type": "string"
 }
