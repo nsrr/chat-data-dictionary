@@ -2,5 +2,6 @@
   "id": "pedsql_physical_score_par",
   "display_name": "PedQL Parent Physical Function score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

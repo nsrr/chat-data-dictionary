@@ -2,5 +2,6 @@
   "id": "pedsql_phychosocial_score_par",
   "display_name": "PedQL Parent Psychosocial Health Summary Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "pho3a1",
   "display_name": "pho3a1",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

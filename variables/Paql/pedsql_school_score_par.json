@@ -2,5 +2,6 @@
   "id": "pedsql_school_score_par",
   "display_name": "PedQL Parent School Function Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
