@@ -2,5 +2,5 @@
   "id": "slh1b_11_h",
   "display_name": "Time child fallen asleep on the weekdays?(hour)",
   "description": "",
-  "type": "numeric"
+  "type": "time"
 }

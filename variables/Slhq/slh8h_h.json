@@ -2,5 +2,6 @@
   "id": "slh8h_h",
   "display_name": "Other activity (specify): Hours per day",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

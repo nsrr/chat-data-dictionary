@@ -2,5 +2,5 @@
   "id": "slh1c_11_mil_hr",
   "display_name": "Time child woke up weekdays?(military hour)",
   "description": "",
-  "type": "numeric"
+  "type": "time"
 }

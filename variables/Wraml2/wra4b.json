@@ -2,5 +2,6 @@
   "id": "wra4b",
   "display_name": "Verbal Learning Recognition Scaled Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

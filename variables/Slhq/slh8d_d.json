@@ -2,5 +2,6 @@
   "id": "slh8d_d",
   "display_name": "Sports involving running or jumping: Days per wk",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

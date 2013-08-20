@@ -2,5 +2,6 @@
   "id": "totalslsc",
   "display_name": "Epworth Sleepiness Scale algorithm: sum(SLS1 - SLS10)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

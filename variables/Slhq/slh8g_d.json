@@ -2,5 +2,6 @@
   "id": "slh8g_d",
   "display_name": "In gym class or PE, being active: Days per wk",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

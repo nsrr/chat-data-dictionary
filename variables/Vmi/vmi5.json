@@ -2,5 +2,6 @@
   "id": "vmi5",
   "display_name": "Standard Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

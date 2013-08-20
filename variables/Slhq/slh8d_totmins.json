@@ -2,5 +2,6 @@
   "id": "slh8d_totmins",
   "display_name": "Total minutes sports involving running or jumping",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

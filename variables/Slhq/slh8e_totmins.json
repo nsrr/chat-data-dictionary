@@ -2,5 +2,6 @@
   "id": "slh8e_totmins",
   "display_name": "Total minutes swimming",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

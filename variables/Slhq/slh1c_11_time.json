@@ -2,5 +2,5 @@
   "id": "slh1c_11_time",
   "display_name": "Time child woke up weekday",
   "description": "",
-  "type": "numeric"
+  "type": "time"
 }

@@ -2,5 +2,6 @@
   "id": "slh8e_d",
   "display_name": "Swimming: Days per wk",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }

@@ -2,5 +2,6 @@
   "id": "slh8d_m",
   "display_name": "Sports involving running or jumping: Minutes per day",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

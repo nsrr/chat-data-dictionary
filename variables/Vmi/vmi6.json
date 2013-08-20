@@ -2,5 +2,6 @@
   "id": "vmi6",
   "display_name": "Percentile",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "%"
 }

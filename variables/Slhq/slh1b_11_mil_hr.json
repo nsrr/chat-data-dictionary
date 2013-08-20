@@ -2,5 +2,5 @@
   "id": "slh1b_11_mil_hr",
   "display_name": "Time child fell asleep weekdays?(military hour)",
   "description": "",
-  "type": "numeric"
+  "type": "time"
 }

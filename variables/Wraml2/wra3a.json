@@ -2,5 +2,6 @@
   "id": "wra3a",
   "display_name": "Verbal Learning Recall Raw Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

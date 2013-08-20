@@ -2,5 +2,6 @@
   "id": "slh8b_m",
   "display_name": "Jogging or running: Minutes per day",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "minutes"
 }

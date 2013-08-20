@@ -2,5 +2,6 @@
   "id": "slhq_weighted_avg_hrs",
   "display_name": "SLHQ weighted avg diary hrs algorithm: SLHQ_weighted_avg_hrs = ((total_hrs_slept_weekdays * 5) + (total_hrs_slept_weekend * 2))/7",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "hours"
 }

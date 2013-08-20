@@ -2,5 +2,6 @@
   "id": "slh8a_d",
   "display_name": "Walking for exercise or to school: Days per wk",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "days"
 }
