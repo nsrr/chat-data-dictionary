@@ -1,5 +1,5 @@
 {
-  "id": "pedsql_physical_summary_chld",
+  "id": "pedsql_physical_score_chld",
   "display_name": "PedQL Child Physical Health Summary Score",
   "description": "",
   "type": "numeric",

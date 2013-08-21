@@ -1,0 +1,7 @@
+{
+  "id": "growth_cat_10pctile",
+  "display_name": "failure to thrive < 10th percentile",
+  "description": "",
+  "type": "choices",
+  "domain":"failuretothrive"
+}

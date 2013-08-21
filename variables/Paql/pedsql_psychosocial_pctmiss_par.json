@@ -1,5 +1,5 @@
 {
-  "id": "pedsql_phychosocial_pctmiss_par",
+  "id": "pedsql_psychosocial_pctmiss_par",
   "display_name": "PedQL Parent Psychosocial Health Summary pct missing",
   "description": "",
   "type": "numeric",
