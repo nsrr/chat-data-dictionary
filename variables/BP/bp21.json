@@ -1,6 +1,6 @@
 {
-  "id": "bpsavg",
-  "display_name": "Average Systolic BP",
+  "id": "bp21",
+  "display_name": "Systolic BP 2",
   "description": "",
   "type": "numeric",
   "units": "mmHG"

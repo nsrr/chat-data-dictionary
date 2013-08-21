@@ -1,6 +1,6 @@
 {
-  "id": "bps2",
-  "display_name": "Systolic BP 2",
+  "id": "bp31",
+  "display_name": "Systolic BP 3",
   "description": "",
   "type": "numeric",
   "units": "mmHG"

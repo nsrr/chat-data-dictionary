@@ -1,6 +1,6 @@
 {
-  "id": "bpd3",
-  "display_name": "Diastolic BP 3",
+  "id": "bp42",
+  "display_name": "Average Diastolic BP",
   "description": "",
   "type": "numeric",
   "units": "mmHG"
