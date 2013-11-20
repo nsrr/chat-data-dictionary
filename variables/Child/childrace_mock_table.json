@@ -1,7 +1,0 @@
-{
-  "id": "race_mock_table",
-  "display_name": "race reclass",
-  "description": "",
-  "type": "choices",
-  "domain":"raceclass"
-}
