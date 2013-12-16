@@ -1,6 +1,6 @@
 {
   "id": "eli22",
-  "display_name": "eli22",
+  "display_name": "Are all of the includion criteria responses 'yes'? ",
   "description": "",
   "type": "choices",
   "domain":"noyes"

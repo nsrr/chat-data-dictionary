@@ -1,6 +1,6 @@
 {
   "id": "eli1",
-  "display_name": "eli1",
+  "display_name": "Is the participant between the ages of 5.0 to 9.99",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,6 +1,6 @@
 {
   "id": "eli21",
-  "display_name": "eli21",
+  "display_name": "For female participants, has the participant attained menarche by the stime of study entrollment per parental report?",
   "description": "",
   "type": "choices",
   "domain":"noyesnotapp"

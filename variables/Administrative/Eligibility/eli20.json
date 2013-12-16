@@ -1,6 +1,6 @@
 {
   "id": "eli20",
-  "display_name": "eli20",
+  "display_name": "Does the child belong to a family planning to move out of the area within the year?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

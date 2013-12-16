@@ -1,7 +1,7 @@
 {
   "id": "eli11a",
-  "display_name": "eli11a",
-  "description": "",
+  "display_name": "Is the participant extremly overweight?",
+  "description": "Defined as: BMI >2.99 for age group and sex-z score.",
   "type": "choices",
   "domain":"noyes"
 }

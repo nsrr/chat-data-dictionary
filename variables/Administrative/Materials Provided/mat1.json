@@ -1,6 +1,6 @@
 {
   "id": "mat1",
-  "display_name": "mat1",
+  "display_name": "Were educational materials procided to the child?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

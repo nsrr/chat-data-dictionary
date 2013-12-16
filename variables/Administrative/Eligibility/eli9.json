@@ -1,7 +1,7 @@
 {
   "id": "eli9",
-  "display_name": "eli9",
-  "description": "",
+  "display_name": "Does the participant have apnea hypopnea indices in the normal range?",
+  "description": "OAI<1 and AHI<2",
   "type": "choices",
   "domain":"noyes"
 }

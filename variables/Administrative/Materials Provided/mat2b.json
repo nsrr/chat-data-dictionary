@@ -1,6 +1,6 @@
 {
   "id": "mat2b",
-  "display_name": "mat2b",
+  "display_name": "Were directions and application uses reviewed with the parent or guardian?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

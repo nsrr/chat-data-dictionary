@@ -1,7 +1,7 @@
 {
   "id": "eli19",
-  "display_name": "eli19",
-  "description": "",
+  "display_name": "Does the participant have a parent or guardian who cannot read and understand the consent forms?",
+  "description": "This includes families unable to understand or complete the standardized English language assessment forms and testing instruments.",
   "type": "numeric",
   "units": ""
 }

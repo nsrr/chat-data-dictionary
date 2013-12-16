@@ -1,7 +1,7 @@
 {
   "id": "eli6",
-  "display_name": "eli6",
-  "description": "",
+  "display_name": "Does the participant have craniofacial anomalies?",
+  "description": "This includes cleft lip and palate or sub-mucosal palate le or any anatomic or systemic condition which would interfere with general anesthesia or removal of tonsils and adenoid tissue in the standard fasion.",
   "type": "choices",
   "domain":"noyes"
 }

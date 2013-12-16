@@ -1,7 +1,7 @@
 {
   "id": "eli8",
-  "display_name": "eli8",
-  "description": "",
+  "display_name": "Does the participant have severe OSAS and significant hypoxemia requiring immediate AT?",
+  "description": "This is defined as OAI > 20, AHI> 30, or desaturation defined as SaO2 < 90% for more than 2% sleep time.",
   "type": "choices",
   "domain":"noyes"
 }

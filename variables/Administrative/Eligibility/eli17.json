@@ -1,6 +1,6 @@
 {
   "id": "eli17",
-  "display_name": "eli17",
+  "display_name": "Has the participant received Continous Positive Airway Pressure (CPAP) treatment?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

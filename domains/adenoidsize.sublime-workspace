@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"g p",
+				"Git: Push"
+			],
+			[
+				" gc",
+				"Git: Commit"
+			],
+			[
+				"g a",
+				"Git: Add..."
+			],
+			[
+				"g ad",
+				"Git: Add Current File"
+			],
+			[
+				"g c",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				" gc ",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"g co",
+				"Git: Commit"
+			],
+			[
+				"g pu",
+				"Git: Push"
+			],
+			[
+				" ga",
+				"Git: Add Current File"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				" g push",
+				"Git: Push"
+			],
+			[
+				" gp",
+				"Git: Push"
+			],
+			[
+				" g ad",
+				"Git: Add Current File"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Settings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_optpress_date.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_optpress_rdi.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_cflex.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_optpress.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr2pass.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr2date.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr1rpt.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlbtitr1hrs.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr1pass.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr1date.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Lab Arm/tlb_titr1type.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_optpress_rid.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_optpress_date.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_cflex.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_optpress.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_apapntspass.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_apapnts.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr3hrs.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr3date",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr2pass.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr2date.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr2nts.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr2hrs.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr2method.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_whynorpt_text.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_whynorpt.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr1rpt.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr1nts.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr1hrs.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Titration/Home Arm/thm_titr1pass.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3newmed.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3clinicno.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3hospno.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3admhosp.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3visitclinic.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3erno.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3admer.json",
+		"/C/homepap/homepap-data-dictionary/test/dictionary_test.rb",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3med_text.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medwater3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medwaterfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medwater.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medtraq3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medtraqfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medtraq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medthy3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medthyfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medthy.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medreflux3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medrefluxfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medreflux.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medstim3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medstimfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medstim.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medseiz3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medseizfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medseiz.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medsleep3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medsleepfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medsleep.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medhorm3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medhormfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medhorm.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medherb3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medherbfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medherb.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medheart3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medheartfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medheart.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3meddiab3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3meddiabfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3meddiab.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medchol3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medcholfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medchol.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrspray3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrsprayfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrspray.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrpills3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrpillsfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medbrpills.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medblp3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medblpfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medblp.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medanx3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medanxfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medanx.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantihis3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantihisfq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantihis.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantibio3d.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantibiofq.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3medantibio.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3nap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weslap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weslmn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weslhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdslap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdslmn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdslhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weguap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wegumn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weguhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdguap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdgumn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdguhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3weloap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3welomn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3welohr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdloap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdlomn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdlohr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3webdap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3webdmn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3webdhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdbdap.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdbdmn.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wdbdhr.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3typslp4wks.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3trbackaslp.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wokeearly.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3wokesev.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3trfallaslp.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 3/m3exslpday.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 1/m1newmed.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 1/m1clinicno.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 1/m1visitclinic.json",
+		"/C/homepap/homepap-data-dictionary/Variables/Questionnaires/Sleep Habits/Month 1/m1erno.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m3erno",
+			"days",
+			"{\n  \"id\": \"medheart\",\n  \"display_name\": \"Sleep-Baseline: Medication: Heart\",\n  \"description\": \"\",\n  \"type\": \"choices\",\n  \"domain\": \"noyes01\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 28.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}
