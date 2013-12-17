@@ -1,7 +1,7 @@
 {
   "id": "tst2",
   "display_name": "What was the primary reason that the participant's treatment was stopped?",
-  "description": "",
+  "description": "1. Child's physician has identified a change in sighns or symptoms that warrants alternative treatment for OSA(initiation of CPAP for example) 2.Child has developed a new academic or behavioral problem resulting in a recommendation for grade retention 3.Child has begun special education 4.Child has begun counseling or placement on medication for behavior or emotional problems 5.Recuurent bacterial tonsillitis(3 or more episodes of streptococcal culture positive infection occuring over a 3 month period 6.New clinical diagnosis of cor pulmonale 7.Development of 'failure to thrive' defined by weight loss during the course of follow up. 8.New onset of stage 2 hypertension, which is not better explained by another medical condition 9.New onset hypersomnolence defined as reports of folling asleep on average >3 times per week which is not better explained by other factors unrelated to OSA 10.Parent/Caregiver decision to have Adenotonsillectomy Surgery(WWSC group) 11.Parent/Caregiver decision to not have Adenotonsillectomy Surgery(EAT group) 98.Other medical or neuropsychological necessitated reason ",
   "type": "choices",
   "domain":"ptreatment"
 }

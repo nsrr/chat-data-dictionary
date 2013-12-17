@@ -1,7 +1,7 @@
 {
   "id": "fas7",
-  "display_name": "fas7",
+  "display_name": "Time at end of venipuncture.",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

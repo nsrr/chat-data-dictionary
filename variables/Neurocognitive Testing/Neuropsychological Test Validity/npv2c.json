@@ -1,6 +1,6 @@
 {
   "id": "npv2c",
-  "display_name": "npv2c",
+  "display_name": "Validity of the DAS-II(DAS2) that was given to the child.",
   "description": "",
   "type": "choices",
   "domain":"valid1"

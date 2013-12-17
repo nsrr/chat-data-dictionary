@@ -1,7 +1,7 @@
 {
   "id": "npv18p",
-  "display_name": "npv18p",
+  "display_name": "Validity of the PedsQL-Parent Report(ages 5-7)(PAQL1) that was given to the parent.",
   "description": "",
   "type": "choices",
-  "domain":"valid2"
+  "domain":"valid1"
 }

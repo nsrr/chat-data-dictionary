@@ -1,7 +1,7 @@
 {
   "id": "fas1",
-  "display_name": "fas1",
+  "display_name": "Draw time.",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

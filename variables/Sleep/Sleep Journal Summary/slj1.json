@@ -1,6 +1,6 @@
 {
   "id": "slj1",
-  "display_name": "slj1",
+  "display_name": "Were the parent completed sleep journals returned?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

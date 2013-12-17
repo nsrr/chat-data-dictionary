@@ -1,7 +1,7 @@
 {
   "id": "fas10a",
-  "display_name": "fas10a",
+  "display_name": "Processing Start time for EDTA.",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

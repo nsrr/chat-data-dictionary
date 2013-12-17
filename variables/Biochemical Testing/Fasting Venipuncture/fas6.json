@@ -1,7 +1,7 @@
 {
   "id": "fas6",
-  "display_name": "fas6",
+  "display_name": "Elapsed time until tourniquet released",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

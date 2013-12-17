@@ -1,7 +1,7 @@
 {
   "id": "fas13",
-  "display_name": "fas13",
+  "display_name": "Date samples were sent to the Vermont Lab.",
   "description": "",
-  "type": "numeric",
+  "type": "date",
   "units": ""
 }

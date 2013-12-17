@@ -1,7 +1,7 @@
 {
   "id": "fas10b",
-  "display_name": "fas10b",
+  "display_name": "Processing Start time for serum.",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

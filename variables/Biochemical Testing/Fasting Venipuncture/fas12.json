@@ -1,6 +1,6 @@
 {
   "id": "fas12",
-  "display_name": "fas12",
+  "display_name": "Were samples frozen?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

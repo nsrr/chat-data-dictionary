@@ -1,7 +1,7 @@
 {
   "id": "fas5",
-  "display_name": "fas5",
+  "display_name": "Time at start of venipuncture",
   "description": "",
-  "type": "numeric",
+  "type": "time",
   "units": ""
 }

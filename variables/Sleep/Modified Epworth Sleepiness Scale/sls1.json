@@ -1,6 +1,6 @@
 {
   "id": "sls1",
-  "display_name": "sls1",
+  "display_name": "Chance of Dozing or Falling Asleep: Sitting and reading. ",
   "description": "",
   "type": "choices",
   "domain":"chance"

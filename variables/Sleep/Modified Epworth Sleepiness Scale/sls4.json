@@ -1,6 +1,6 @@
 {
   "id": "sls4",
-  "display_name": "sls4",
+  "display_name": "Chance of Dozing or Falling Asleep: As a passenger in a car for an hour without a break.",
   "description": "",
   "type": "choices",
   "domain":"chance"

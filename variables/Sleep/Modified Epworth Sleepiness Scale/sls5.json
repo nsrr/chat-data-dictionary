@@ -1,6 +1,6 @@
 {
   "id": "sls5",
-  "display_name": "sls5",
+  "display_name": "Chance of Dozing or Falling Asleep: Lying down to rest in the afternoon when circumstances permit.",
   "description": "",
   "type": "choices",
   "domain":"chance"

@@ -1,6 +1,6 @@
 {
   "id": "sls8",
-  "display_name": "sls8",
+  "display_name": "Chance of Dozing or Falling Asleep: In a Car, While stopped for a few minutes in traffic.",
   "description": "",
   "type": "choices",
   "domain":"chance"

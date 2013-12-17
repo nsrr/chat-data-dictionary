@@ -1,6 +1,6 @@
 {
   "id": "slj2",
-  "display_name": "slj2",
+  "display_name": "Were the journals recorded for 5 days?",
   "description": "",
   "type": "choices",
   "domain":"noyes"
