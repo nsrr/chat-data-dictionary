@@ -3,5 +3,5 @@
   "display_name": "Plan/Organize Percentile",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

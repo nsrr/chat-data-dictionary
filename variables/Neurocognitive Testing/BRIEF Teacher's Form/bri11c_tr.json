@@ -3,5 +3,5 @@
   "display_name": "Organization of Materials Percentile",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

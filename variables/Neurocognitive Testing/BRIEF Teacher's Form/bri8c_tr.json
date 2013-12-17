@@ -3,5 +3,5 @@
   "display_name": "Initiate Percentile",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

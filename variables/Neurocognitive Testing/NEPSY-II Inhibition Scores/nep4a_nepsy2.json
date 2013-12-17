@@ -3,5 +3,5 @@
   "display_name": "Inhibition - Switching Total Errors Percentile Rank",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

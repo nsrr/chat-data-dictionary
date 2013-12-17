@@ -2,6 +2,6 @@
   "id": "eli11",
   "display_name": "Is this participant extremly overweight?",
   "description": "Defined as: BMI > 2.5 for age group and sex-z score.",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain":"noyes"
 }

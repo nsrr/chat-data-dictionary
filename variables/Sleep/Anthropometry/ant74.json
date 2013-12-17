@@ -3,5 +3,5 @@
   "display_name": "Waist Average (cm)",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

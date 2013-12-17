@@ -2,6 +2,6 @@
   "id": "pho4a2",
   "display_name": "Date child began new medication.",
   "description": "",
-  "type": "numeric",
+  "type": "date",
   "units": ""
 }

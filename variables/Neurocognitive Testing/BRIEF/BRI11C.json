@@ -3,5 +3,5 @@
   "display_name": "Monitor Percentile",
   "description": "",
   "type":"numeric",
-  "units": "%"
+  "units": "percent"
 }

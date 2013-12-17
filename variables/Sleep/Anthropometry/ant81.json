@@ -3,5 +3,5 @@
   "display_name": "Hip Measurement 1 (cm)",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

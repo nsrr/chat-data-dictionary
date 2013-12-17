@@ -3,5 +3,5 @@
   "display_name": "What is the child’s standing height (cm)?",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

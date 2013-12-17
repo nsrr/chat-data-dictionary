@@ -3,5 +3,5 @@
   "display_name": "Rule-Breaking Behavior Percentile",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

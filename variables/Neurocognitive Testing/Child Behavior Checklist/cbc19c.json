@@ -3,5 +3,5 @@
   "display_name": "Anxiety Problems Percentile",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

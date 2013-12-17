@@ -3,5 +3,5 @@
   "display_name": "Neck Average (cm)",
   "description": "",
   "type": "numeric",
-  "units": "cm"
+  "units": "centimeters"
 }

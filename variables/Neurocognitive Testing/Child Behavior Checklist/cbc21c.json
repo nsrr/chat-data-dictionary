@@ -3,5 +3,5 @@
   "display_name": "Attention Deficit/Hyperactivity Problems Percentile",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }
