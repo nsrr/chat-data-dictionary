@@ -1,7 +1,7 @@
 {
   "id": "ahiu3",
-  "display_name": "ahiu3",
-  "description": "",
+  "display_name": "PSG Report: RDI – Apnea/Hypopnea/AASM Hypopneas (Unsure Compumedics label) with >= 3% desat",
+  "description": "RDI – No of Apnea/Hypopnea/AASM Hypopneas associated with >= 3% desat  (Mr. OS)",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "aptdur",
-  "display_name": "aptdur",
-  "description": "",
+  "display_name": "PSG Report: Total Mixed Apnea Length (minutes)",
+  "description": "Total duration of Mixed Apnea (entire recording)",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

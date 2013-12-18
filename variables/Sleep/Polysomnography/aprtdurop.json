@@ -1,7 +1,7 @@
 {
   "id": "aprtdurop",
-  "display_name": "apntdurop",
-  "description": "",
+  "display_name": "PSG Report: Total Apnea Length (REM, Other) (minutes)",
+  "description": "Total duration of Apnea in REM sleep with Non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

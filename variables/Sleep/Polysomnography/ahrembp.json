@@ -1,7 +1,7 @@
 {
   "id": "ahrembp",
-  "display_name": "ahrembp",
-  "description": "",
+  "display_name": "PSG Report: Arousals per hour (REM, Back, all desats)",
+  "description": "Number of arousals per hour during REM and supine body position",
   "type": "numeric",
   "units": ""
 }

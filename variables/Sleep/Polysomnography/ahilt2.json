@@ -1,7 +1,7 @@
 {
   "id": "ahilt2",
-  "display_name": "ahilt2",
-  "description": "",
+  "display_name": "QS: OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
+  "description": "QS: OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "ahnrembp",
-  "display_name": "ahnrembp",
-  "description": "",
+  "display_name": "PSG Report: Arousals per hour (NREM, Back, all desats)",
+  "description": "Number of arousals per hour during NREM and supine body position",
   "type": "numeric",
   "units": ""
 }

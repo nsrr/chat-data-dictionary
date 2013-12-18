@@ -1,7 +1,7 @@
 {
   "id": "artifact",
-  "display_name": "artifact",
-  "description": "",
+  "display_name": "PSG Report: Total Artifact Time (Unscorable) (minutes)",
+  "description": "Total minutes of unscorable (artifact) data",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

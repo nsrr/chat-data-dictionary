@@ -1,7 +1,7 @@
 {
   "id": "ahntdurbp",
-  "display_name": "ahntdurbp",
-  "description": "",
+  "display_name": "PSG Report: Total Apnea and Hypopnea Length (NREM, Back) (minutes)",
+  "description": "Total duration of Apnea and Hypopnea in NREM sleep with Supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

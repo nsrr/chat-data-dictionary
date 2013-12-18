@@ -1,7 +1,7 @@
 {
   "id": "ahrtdurbp",
-  "display_name": "ahrtdurbp",
-  "description": "",
+  "display_name": "PSG Report: Total Apnea and Hypopnea Length (REM, Back) (minutes)",
+  "description": "Total duration of Apnea and Hypopnea in REM sleep with Supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

@@ -1,7 +1,7 @@
 {
   "id": "ai_nrem",
-  "display_name": "ai_nrem",
-  "description": "",
+  "display_name": "Filtered: Arousal Index NREM",
+  "description": "Non-REM Arousal Index - total arousals in non-REM sleep per hours of non-REM sleep  [(Total number of arousals in non-REM sleep) / (hours of non-REM sleep)]",
   "type": "numeric",
   "units": ""
 }

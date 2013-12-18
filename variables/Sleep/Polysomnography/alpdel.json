@@ -1,7 +1,7 @@
 {
   "id": "alpdel",
-  "display_name": "alpdel",
-  "description": "",
+  "display_name": "QS: Physiologic alpha intrusion",
+  "description": "1=Unusual Occurrences - Alpha intrusion",
   "type": "numeric",
   "units": ""
 }

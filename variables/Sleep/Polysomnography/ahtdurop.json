@@ -1,7 +1,7 @@
 {
   "id": "ahtdurop",
-  "display_name": "ahtdurop",
-  "description": "",
+  "display_name": "PSG Report: Total Apnea and Hypopnea Length (REM, Other) (minutes)",
+  "description": "Total duration of Apnea and Hypopnea in REM sleep with Non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

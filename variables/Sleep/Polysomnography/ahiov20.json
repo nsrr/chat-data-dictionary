@@ -1,7 +1,7 @@
 {
   "id": "ahiov20",
-  "display_name": "ahiov20",
-  "description": "",
+  "display_name": "QS: OAI > 15 or AHI > 20 = 1  Surgeon Alert",
+  "description": "OAI > 15 or AHI > 20 = 1  Surgeon Alert",
   "type": "numeric",
   "units": ""
 }

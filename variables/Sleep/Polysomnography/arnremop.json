@@ -1,7 +1,7 @@
 {
   "id": "arnremop",
-  "display_name": "arnremop",
-  "description": "",
+  "display_name": "PSG Report: # of Arousals (NREM, Other, all desats)",
+  "description": "Number of arousals during NREM and non-supine body position",
   "type": "numeric",
   "units": ""
 }
