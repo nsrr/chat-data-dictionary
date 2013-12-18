@@ -1,7 +1,7 @@
 {
   "id": "avhnop5",
-  "display_name": "avhnop5",
-  "description": "",
+  "display_name": "PSG Report: Avg. Hypopnea length (NREM, Other, 5% desat) (seconds)",
+  "description": "Average Hypopnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

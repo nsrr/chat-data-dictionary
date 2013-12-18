@@ -1,7 +1,7 @@
 {
   "id": "avgplmwk",
-  "display_name": "avgplmwk",
-  "description": "",
+  "display_name": "PSG Report: # of PLM per hour of awake",
+  "description": "Number of PLM per hour of wake",
   "type": "numeric",
   "units": ""
 }

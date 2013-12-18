@@ -1,7 +1,7 @@
 {
   "id": "avhrba4",
-  "display_name": "avhrba4",
-  "description": "",
+  "display_name": "PSG Report: Avg. Hypopnea length w/ arousals (REM, Back, 4% desat) (seconds)",
+  "description": "Average Hypopnea duration during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

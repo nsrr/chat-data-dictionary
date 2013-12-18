@@ -1,7 +1,7 @@
 {
   "id": "avgsaominnr",
-  "display_name": "avgsaominnr",
-  "description": "",
+  "display_name": "PSG Report: Avg. SaO2% minimum (NREM) (%)",
+  "description": "Average SaO2% minimum in NonREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

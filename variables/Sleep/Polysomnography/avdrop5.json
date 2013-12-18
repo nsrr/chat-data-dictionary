@@ -1,7 +1,7 @@
 {
   "id": "avdrop5",
-  "display_name": "avdrop5",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desat (REM, Other, 5% desat)",
+  "description": "Average respiratory related desat during REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

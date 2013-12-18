@@ -1,7 +1,7 @@
 {
   "id": "avdrbp2",
-  "display_name": "avdrbp2",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desat (REM, Back, 2% desat)",
+  "description": "Average respiratory related desat during REM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

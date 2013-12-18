@@ -1,7 +1,7 @@
 {
   "id": "avdnba2",
-  "display_name": "avdnba2",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desat w/ arousals (NREM, Back, 2% desat)",
+  "description": "Average respiratory related desat during NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

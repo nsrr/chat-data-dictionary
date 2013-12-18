@@ -1,7 +1,7 @@
 {
   "id": "avgdsresp",
-  "display_name": "avgdsresp",
-  "description": "",
+  "display_name": "PSG Report: Avg. desat assoc. w/ resp. events in sleep",
+  "description": "Average desaturation associated with respiratory events in sleep",
   "type": "numeric",
   "units": ""
 }

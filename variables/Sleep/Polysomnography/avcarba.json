@@ -1,7 +1,7 @@
 {
   "id": "avcarba",
-  "display_name": "avcarba",
-  "description": "",
+  "display_name": "PSG Report: Avg. Cent. Apnea length w/ arousals (REM, Back, all desats) (seconds)",
+  "description": "Average Central Apnea duration during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

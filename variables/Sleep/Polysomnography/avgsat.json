@@ -1,7 +1,7 @@
 {
   "id": "avgsat",
-  "display_name": "avgsat",
-  "description": "",
+  "display_name": "Filtered: Average SaO2 in sleep",
+  "description": "Average SaO2% during sleep  [Mean(all SaO2 values in sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

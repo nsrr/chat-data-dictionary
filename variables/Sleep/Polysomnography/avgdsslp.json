@@ -1,7 +1,7 @@
 {
   "id": "avgdsslp",
-  "display_name": "avgdsslp",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desaturation (Report Time)",
+  "description": "Average desaturation (entire recording)",
   "type": "numeric",
   "units": ""
 }

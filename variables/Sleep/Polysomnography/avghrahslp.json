@@ -1,7 +1,7 @@
 {
   "id": "avghrahslp",
-  "display_name": "avghrahslp",
-  "description": "",
+  "display_name": "PSG Report: Avg. Heart Rate assoc. w/ Apnea and Hypopnea (Sleep time onset)",
+  "description": "Average heart rate associated with Apnea and Hypopnea during sleep",
   "type": "numeric",
   "units": ""
 }

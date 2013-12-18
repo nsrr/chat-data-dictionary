@@ -1,7 +1,7 @@
 {
   "id": "avhnoa3",
-  "display_name": "avhnoa3",
-  "description": "",
+  "display_name": "PSG Report: Avg. Hypopnea length w/ arousals (NREM, Other, 3% desat) (seconds)",
+  "description": "Average Hypopnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

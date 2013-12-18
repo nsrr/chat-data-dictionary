@@ -1,7 +1,7 @@
 {
   "id": "avdnop3",
-  "display_name": "avdnop3",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desat (NREM, Other, 3% desat)",
+  "description": "Average respiratory related desat during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

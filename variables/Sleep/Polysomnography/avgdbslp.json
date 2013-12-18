@@ -1,7 +1,7 @@
 {
   "id": "avgdbslp",
-  "display_name": "avgdbslp",
-  "description": "",
+  "display_name": "PSG Report: Min. Snore level during sleep (dB)",
+  "description": "Average snore level during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "decibels"
 }

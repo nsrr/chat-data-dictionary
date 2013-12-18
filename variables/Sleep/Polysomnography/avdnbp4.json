@@ -1,7 +1,7 @@
 {
   "id": "avdnbp4",
-  "display_name": "avdnbp4",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desat (NREM, Back, 4% desat)",
+  "description": "Average respiratory related desat during NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

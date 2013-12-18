@@ -1,7 +1,7 @@
 {
   "id": "avgdsevent",
-  "display_name": "avgdsevent",
-  "description": "",
+  "display_name": "PSG Report: Avg. Desaturation (assoc. w/ manually scored resp. events)",
+  "description": "Average desaturation associated with manully scored resipatory events and respiratory events",
   "type": "numeric",
   "units": ""
 }

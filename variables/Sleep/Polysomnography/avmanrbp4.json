@@ -1,7 +1,7 @@
 {
   "id": "avmanrbp4",
-  "display_name": "avmanrbp4",
-  "description": "",
+  "display_name": "PSG Report: Avg. Mixed Apnea length (NREM, Back, 4% desat) (seconds)",
+  "description": "Average Mixed Apnea duration during NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }
