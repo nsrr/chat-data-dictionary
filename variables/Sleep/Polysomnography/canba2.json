@@ -1,7 +1,7 @@
 {
   "id": "canba2",
-  "display_name": "canba2",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea w/ arousals (NREM, Back, 2% desat)",
+  "description": "Number of Central Apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

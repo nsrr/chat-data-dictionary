@@ -1,7 +1,7 @@
 {
   "id": "cai",
-  "display_name": "cai",
-  "description": "",
+  "display_name": "PSG Report: Central Apnea Index",
+  "description": "(Total number of central apneas) / (hours of sleep)",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "canop3",
-  "display_name": "canop3",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea (NREM, Other, 3% desat)",
+  "description": "Number of Obstructive Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "c3dur",
-  "display_name": "c3dur",
-  "description": "",
+  "display_name": "QS: hours of usable C3",
+  "description": "hours of usable EEG",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

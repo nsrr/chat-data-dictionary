@@ -1,7 +1,7 @@
 {
   "id": "capdur",
-  "display_name": "capdur",
-  "description": "",
+  "display_name": "QS: Hours of usable Cap",
+  "description": "hours of usable cap signal - requires use of calibrated channel type with upper and lower limits for valid signal",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

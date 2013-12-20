@@ -1,7 +1,7 @@
 {
   "id": "candur",
-  "display_name": "candur",
-  "description": "",
+  "display_name": "QS: hours of usable Cannula",
+  "description": "hours of usable cannula",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

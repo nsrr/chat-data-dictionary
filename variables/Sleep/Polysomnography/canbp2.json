@@ -1,7 +1,7 @@
 {
   "id": "canbp2",
-  "display_name": "canbp2",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea (NREM, Back, 2% desat)",
+  "description": "Number of Central Apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }
