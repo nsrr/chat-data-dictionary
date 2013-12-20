@@ -1,7 +1,7 @@
 {
   "id": "bpmavg",
-  "display_name": "bpmavg",
-  "description": "",
+  "display_name": "PSG Report: Average Heart rate (bpm)",
+  "description": "Average Heart rate (entire recording)",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

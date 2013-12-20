@@ -1,7 +1,7 @@
 {
   "id": "avoanbp",
-  "display_name": "avoanbp",
-  "description": "",
+  "display_name": "PSG Report: Avg. Obs. Apnea length (NREM, Back, all desats) (seconds)",
+  "description": "Average Obstructive Apnea duration during NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

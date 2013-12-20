@@ -1,7 +1,7 @@
 {
   "id": "avoanoa5",
-  "display_name": "avoanoa5",
-  "description": "",
+  "display_name": "PSG Report: Avg. Obs. Apnea length w/ arousals (NREM, Other, 5% desat) (seconds)",
+  "description": "Average Obstructive Apnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

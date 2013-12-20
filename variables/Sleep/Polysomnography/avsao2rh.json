@@ -1,7 +1,7 @@
 {
   "id": "avsao2rh",
-  "display_name": "avsao2rh",
-  "description": "",
+  "display_name": "PSG Report: Avg. SaO2 % during REM sleep",
+  "description": "Average SaO2 % during REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

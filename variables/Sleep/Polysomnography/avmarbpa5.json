@@ -1,7 +1,7 @@
 {
   "id": "avmarbpa5",
-  "display_name": "avmarbpa5",
-  "description": "",
+  "display_name": "PSG Report: Avg. Mixed Apnea with arousal length (REM, Back, 5% desat) (seconds)",
+  "description": "Average Mixed Apnea duration during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }
