@@ -1,7 +1,7 @@
 {
   "id": "cardrop3",
-  "display_name": "cardrop3",
-  "description": "",
+  "display_name": "PSG Report: Cent. Apnea per hour (REM, Other, 3% desat)",
+  "description": "Number of Central Apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

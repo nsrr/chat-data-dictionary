@@ -1,7 +1,7 @@
 {
   "id": "cardroa3",
-  "display_name": "cardroa3",
-  "description": "",
+  "display_name": "PSG Report: Cent. Apnea per hour w/ arousals (REM, Other, 3% desat)",
+  "description": "Number of Central Apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

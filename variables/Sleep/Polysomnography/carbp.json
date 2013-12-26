@@ -1,7 +1,7 @@
 {
   "id": "carbp",
-  "display_name": "carbp",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea (REM, Back, all desats)",
+  "description": "Number of Central Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

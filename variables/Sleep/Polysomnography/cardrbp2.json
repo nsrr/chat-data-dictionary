@@ -1,7 +1,7 @@
 {
   "id": "cardrbp2",
-  "display_name": "cardrbp2",
-  "description": "",
+  "display_name": "PSG Report: Cent. Apnea per hour (REM, Back, 2% desat)",
+  "description": "Number of Central Apnea per hour of REM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "chestdur",
-  "display_name": "chestdur",
-  "description": "",
+  "display_name": "QS: hours of usable Chest Effort",
+  "description": "hours of usable chest effort",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

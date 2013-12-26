@@ -1,7 +1,7 @@
 {
   "id": "caroa2",
-  "display_name": "caroa2",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea w/ arousals (REM, Other, 2% desat)",
+  "description": "Number of Central Apnea during REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

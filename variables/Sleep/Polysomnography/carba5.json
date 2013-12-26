@@ -1,7 +1,7 @@
 {
   "id": "carba5",
-  "display_name": "carba5",
-  "description": "",
+  "display_name": "PSG Report: # of Cent. Apnea w/ arousals (REM, Back, 5% desat)",
+  "description": "Number of Central Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

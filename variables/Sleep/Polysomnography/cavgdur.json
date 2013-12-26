@@ -1,7 +1,7 @@
 {
   "id": "cavgdur",
-  "display_name": "cavgdur",
-  "description": "",
+  "display_name": "PSG Report: Avg. Cent. Apnea Length (seconds)",
+  "description": "Average duration of Central Apnea (entire recording)",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }
