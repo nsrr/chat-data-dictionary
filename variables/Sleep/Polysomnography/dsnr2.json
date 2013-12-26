@@ -1,7 +1,7 @@
 {
   "id": "dsnr2",
-  "display_name": "dsnr2",
-  "description": "",
+  "display_name": "PSG Report: # of desats per hour (NREM, >= 2%)",
+  "description": "Number of desaturations >= 2% per hour in NonREM sleep",
   "type": "numeric",
   "units": ""
 }

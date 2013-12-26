@@ -1,7 +1,7 @@
 {
   "id": "dmxbnbh",
-  "display_name": "dmxbnbh",
-  "description": "",
+  "display_name": "PSG Report: Max. Heart Rate with arousal (NREM, Back, 3% desat) (bpm)",
+  "description": "Highest heart rate during REM sleep with Supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

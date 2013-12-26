@@ -1,7 +1,7 @@
 {
   "id": "dsrem5",
-  "display_name": "dsrem5",
-  "description": "",
+  "display_name": "PSG Report: # of desats per hour (REM, >= 5%)",
+  "description": "Number of desaturations >= 5% per hour in REM sleep",
   "type": "numeric",
   "units": ""
 }
