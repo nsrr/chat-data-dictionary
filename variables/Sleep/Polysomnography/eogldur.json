@@ -1,7 +1,7 @@
 {
   "id": "eogldur",
-  "display_name": "eogldur",
-  "description": "",
+  "display_name": "QS: Hours of usable EOG L",
+  "description": "hours of usable EOG L",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

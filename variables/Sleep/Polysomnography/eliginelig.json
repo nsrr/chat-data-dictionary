@@ -1,7 +1,7 @@
 {
   "id": "eliginelig",
-  "display_name": "eliginelig",
-  "description": "",
+  "display_name": "QS: Eligibility Status  (eligible=1  ineligible=0) Follow-up studies coded -8",
+  "description": "Ineligible if omahi3 <2 and omai0p<1 or meets any of urgent criteria variables ahiov30=1, saO2lt90=1, unuhrou=1,unuhroth=1",
   "type": "numeric",
   "units": ""
 }

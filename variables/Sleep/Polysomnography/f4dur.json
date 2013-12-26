@@ -1,7 +1,7 @@
 {
   "id": "f4dur",
-  "display_name": "f4dur",
-  "description": "",
+  "display_name": "QS: hours of usable F4",
+  "description": "hours of usable EEG",
   "type": "numeric",
-  "units": ""
+  "units": "hoursP"
 }
