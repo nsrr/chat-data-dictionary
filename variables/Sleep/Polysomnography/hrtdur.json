@@ -1,7 +1,7 @@
 {
   "id": "hrtdur",
-  "display_name": "hrtdur",
-  "description": "",
+  "display_name": "PSG Report: Total Apnea and Hypopnea Length (REM) (minutes)",
+  "description": "Total duration of Apnea and Hypopnea in REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

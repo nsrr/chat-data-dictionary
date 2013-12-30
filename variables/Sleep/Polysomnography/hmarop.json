@@ -1,7 +1,7 @@
 {
   "id": "hmarop",
-  "display_name": "hmarop",
-  "description": "",
+  "display_name": "PSG Report: # Mixed Apnea per hour (REM, Other, all desats)",
+  "description": "Number of Mixed Apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

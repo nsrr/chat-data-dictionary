@@ -1,7 +1,7 @@
 {
   "id": "hrop5",
-  "display_name": "hrop5",
-  "description": "",
+  "display_name": "PSG Report: # of Hypopnea (REM, Other, 5% desat)",
+  "description": "Number of Hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

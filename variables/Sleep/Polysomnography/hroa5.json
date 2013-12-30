@@ -1,7 +1,7 @@
 {
   "id": "hroa5",
-  "display_name": "hroa5",
-  "description": "",
+  "display_name": "PSG Report: # of Hypopnea w/ arousals (REM, Other, 5% desat)",
+  "description": "Number of Hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
   "units": ""
 }

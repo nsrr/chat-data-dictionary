@@ -1,7 +1,7 @@
 {
   "id": "hmanrbp4",
-  "display_name": "hmanrbp4",
-  "description": "",
+  "display_name": "PSG Report: # Mixed Apnea per hour (NREM, Back, 4% desat)",
+  "description": "Number of Mixed Apnea per hour of NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

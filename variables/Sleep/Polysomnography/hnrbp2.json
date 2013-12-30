@@ -1,7 +1,7 @@
 {
   "id": "hnrbp2",
-  "display_name": "hnrbp2",
-  "description": "",
+  "display_name": "PSG Report: # of Hypopnea (NREM, Back, 2% desat)",
+  "description": "Number of Hypopnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }

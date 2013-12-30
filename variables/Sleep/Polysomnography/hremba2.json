@@ -1,7 +1,7 @@
 {
   "id": "hremba2",
-  "display_name": "hremba2",
-  "description": "",
+  "display_name": "PSG Report: # of Hypopnea w/ arousals (REM, Back, 2% desat)",
+  "description": "Number of Hypopnea during REM sleep with supine body position",
   "type": "numeric",
   "units": ""
 }
