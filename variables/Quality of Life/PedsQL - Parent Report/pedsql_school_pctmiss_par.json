@@ -3,5 +3,5 @@
   "display_name": "PedQL Parent School Function pct missing",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

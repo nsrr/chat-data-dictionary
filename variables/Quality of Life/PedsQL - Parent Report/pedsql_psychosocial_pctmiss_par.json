@@ -3,5 +3,5 @@
   "display_name": "PedQL Parent Psychosocial Health Summary pct missing",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

@@ -3,5 +3,5 @@
   "display_name": "percentile for length-for-age or stature-for-age",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }

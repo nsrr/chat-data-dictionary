@@ -3,5 +3,5 @@
   "display_name": "Verbal Similarities Verbal",
   "description": "",
   "type": "numeric",
-  "units": "%"
+  "units": "percent"
 }
