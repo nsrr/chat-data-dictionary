@@ -3,5 +3,5 @@
   "display_name": "Mother's current height (ft only)",
   "description": "",
   "type": "numeric",
-  "units": "Ft"
+  "units": "feet"
 }
