@@ -3,5 +3,5 @@
   "display_name": "Mother weight at time of child birth (lbs only)",
   "description": "",
   "type": "numeric",
-  "units": "lbs"
+  "units": "pounds"
 }
