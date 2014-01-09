@@ -3,5 +3,5 @@
   "display_name": "QS: hours of usable F4",
   "description": "hours of usable EEG",
   "type": "numeric",
-  "units": "hoursP"
+  "units": "hours"
 }
