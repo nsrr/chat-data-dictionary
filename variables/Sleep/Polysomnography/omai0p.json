@@ -1,7 +1,8 @@
 {
   "id": "omai0p",
-  "display_name": "omai0p",
+  "display_name": "CHAT OAI (Obstructive/Mixed Apnea Index all desats) no centrals",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

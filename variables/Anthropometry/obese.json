@@ -3,5 +3,5 @@
   "display_name": "BMIPCT > = 95 binary",
   "description": "",
   "type": "choices",
-  "domain":"obesebmi95"
+  "domain": "obesebmi95"
 }

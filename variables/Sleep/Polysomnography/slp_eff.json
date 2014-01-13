@@ -1,7 +1,8 @@
 {
   "id": "slp_eff",
-  "display_name": "slp_eff",
-  "description": "",
+  "display_name": "Sleep Efficiency",
+  "description": "The proportion of time spent asleep between sleep onset and offset.",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "commonly_used": true
 }

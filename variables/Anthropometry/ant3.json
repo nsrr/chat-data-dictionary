@@ -1,0 +1,7 @@
+{
+  "id": "ant3",
+  "display_name": "Child's standing height",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

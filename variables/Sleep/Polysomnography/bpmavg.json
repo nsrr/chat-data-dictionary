@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Average Heart rate (bpm)",
   "description": "Average Heart rate (entire recording)",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "commonly_used": true
 }

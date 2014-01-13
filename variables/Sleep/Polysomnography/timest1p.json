@@ -1,7 +1,8 @@
 {
   "id": "timest1p",
-  "display_name": "timest1p",
+  "display_name": "Percent Sleep Time in Stage 1",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "commonly_used": true
 }

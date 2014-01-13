@@ -1,7 +1,8 @@
 {
   "id": "timest34",
-  "display_name": "timest34",
+  "display_name": "Minutes of Sleep Time in Stage 3-4",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "commonly_used": true
 }

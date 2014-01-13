@@ -3,5 +3,5 @@
   "display_name": "Child's BMI",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "kilograms / meters squared"
 }
