@@ -1,7 +1,0 @@
-{
-  "id": "waisthipratio",
-  "display_name": "Waist hip ratio algorithm: Waist/Hip",
-  "description": "",
-  "type": "numeric",
-  "units": "centimeters"
-}
