@@ -1,7 +1,8 @@
 {
   "id": "losao2r",
-  "display_name": "losao2r",
-  "description": "",
+  "display_name": "Filtered: min sao2 rem",
+  "description": "Lowest SaO2% in REM sleep  [Min(all SaO2 values in REM sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "calculation": "mnsao2rh"
 }

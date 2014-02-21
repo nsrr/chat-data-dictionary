@@ -1,7 +1,7 @@
 {
   "id": "lmstg2",
-  "display_name": "lmstg2",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements (Stage 2 Sleep)",
+  "description": "Total Limb Movements Stage 2 sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

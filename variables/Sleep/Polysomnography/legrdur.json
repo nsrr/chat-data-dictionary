@@ -1,7 +1,7 @@
 {
   "id": "legrdur",
-  "display_name": "legrdur",
-  "description": "",
+  "display_name": "QS: hours of usable LegR",
+  "description": "hours of usable R leg",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

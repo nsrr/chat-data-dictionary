@@ -1,7 +1,7 @@
 {
   "id": "losoth",
-  "display_name": "losoth",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Data lost - Other",
+  "description": "1=Data Lost - other",
+  "domain": "noyes",
+  "type": "choices"
 }

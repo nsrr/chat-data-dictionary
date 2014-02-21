@@ -1,7 +1,7 @@
 {
   "id": "lmadelta",
-  "display_name": "lmadelta",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements with arousal (Delta Sleep)",
+  "description": "Total Limb Movements with arousal  in Delta sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

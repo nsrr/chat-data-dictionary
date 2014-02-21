@@ -1,7 +1,7 @@
 {
   "id": "lmarbp",
-  "display_name": "lmarbp",
-  "description": "",
+  "display_name": "PSG Report: Max. Mixed Apnea length (REM, Back, all desats) (seconds)",
+  "description": "Longest Mixed Apnea during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

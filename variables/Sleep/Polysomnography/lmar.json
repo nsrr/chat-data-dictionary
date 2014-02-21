@@ -1,7 +1,8 @@
 {
   "id": "lmar",
-  "display_name": "lmar",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements with arousal and resp. event",
+  "description": "Total Limb Movements with arousal and  resp. events",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements",
+  "commonly_used": "true"
 }

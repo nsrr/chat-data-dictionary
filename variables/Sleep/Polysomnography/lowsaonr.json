@@ -1,7 +1,7 @@
 {
   "id": "lowsaonr",
-  "display_name": "lowsaonr",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2% (NREM) (%)",
+  "description": "Lowest SaO2% in NonREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

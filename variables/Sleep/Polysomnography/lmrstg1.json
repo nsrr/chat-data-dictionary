@@ -1,7 +1,7 @@
 {
   "id": "lmrstg1",
-  "display_name": "lmrstg1",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements with resp. events (Stage 1 Sleep)",
+  "description": "Total Limb Movements with resp. events Stage 1 sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

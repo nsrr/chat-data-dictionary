@@ -1,7 +1,7 @@
 {
   "id": "lmaslp",
-  "display_name": "lmaslp",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements with arousal (Sleep)",
+  "description": "Total Limb Movements with arousal  in All Sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

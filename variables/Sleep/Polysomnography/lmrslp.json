@@ -1,7 +1,7 @@
 {
   "id": "lmrslp",
-  "display_name": "lmrslp",
-  "description": "",
+  "display_name": "PSG Report: # Limb Movements with resp. events (Sleep)",
+  "description": "Total Limb Movements with resp. events in All Sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

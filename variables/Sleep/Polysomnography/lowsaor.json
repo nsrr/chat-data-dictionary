@@ -1,7 +1,7 @@
 {
   "id": "lowsaor",
-  "display_name": "lowsaor",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2 % (REM) (%)",
+  "description": "Lowest SaO2% during REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

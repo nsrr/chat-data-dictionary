@@ -1,7 +1,8 @@
 {
   "id": "losao2nr",
-  "display_name": "losao2nr",
-  "description": "",
+  "display_name": "Filtered: Minimum SaO2 in non-REM sleep",
+  "description": "Lowest SaO2% in non-REM sleep  [Min(all SaO2 values in NREM sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "calculation": "mnsao2nh"
 }
