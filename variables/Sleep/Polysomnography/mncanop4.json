@@ -1,7 +1,7 @@
 {
   "id": "mncanop4",
-  "display_name": "mncanop4",
-  "description": "",
+  "display_name": "PSG Report: Min. Cent. Apnea length (NREM, Other, 4% desat) (seconds)",
+  "description": "Shortest Obstructive Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

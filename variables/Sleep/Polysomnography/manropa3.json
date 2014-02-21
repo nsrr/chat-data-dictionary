@@ -1,7 +1,7 @@
 {
   "id": "manropa3",
-  "display_name": "manropa3",
-  "description": "",
+  "display_name": "PSG Report: # Mixed Apnea with arousal (NREM, Other, 3% desat)",
+  "description": "Number of Mixed Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "mixed apnea"
 }

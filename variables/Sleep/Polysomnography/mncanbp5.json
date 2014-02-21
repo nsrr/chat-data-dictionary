@@ -1,7 +1,7 @@
 {
   "id": "mncanbp5",
-  "display_name": "mncanbp5",
-  "description": "",
+  "display_name": "PSG Report: Min. Cent. Apnea length (NREM, Back, 5% desat) (seconds)",
+  "description": "Shortest Obstructive Apnea during NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

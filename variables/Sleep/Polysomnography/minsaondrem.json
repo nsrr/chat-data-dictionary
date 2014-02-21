@@ -1,7 +1,7 @@
 {
   "id": "minsaondrem",
-  "display_name": "minsaondrem",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2% Nadir  (REM)",
+  "description": "Lowest SaO2 Nadir in REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

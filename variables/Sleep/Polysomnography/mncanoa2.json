@@ -1,7 +1,7 @@
 {
   "id": "mncanoa2",
-  "display_name": "mncanoa2",
-  "description": "",
+  "display_name": "PSG Report: Min. Cent. Apnea length w/ arousals (NREM, Other, 2% desat) (seconds)",
+  "description": "Shortest Central Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

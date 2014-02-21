@@ -1,7 +1,7 @@
 {
   "id": "maxdbslp",
-  "display_name": "maxdbslp",
-  "description": "",
+  "display_name": "PSG Report: Max. Snore level during sleep (dB)",
+  "description": "Maximum snore level during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "decibels"
 }
