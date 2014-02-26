@@ -1,7 +1,7 @@
 {
   "id": "mxcanop",
-  "display_name": "mxcanop",
-  "description": "",
+  "display_name": "PSG Report: Max. Cent. Apnea length (NREM, Other all desats) (seconds)",
+  "description": "Longest Obstructive Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

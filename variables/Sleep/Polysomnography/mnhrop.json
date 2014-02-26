@@ -1,7 +1,7 @@
 {
   "id": "mnhrop",
-  "display_name": "mnhrop",
-  "description": "",
+  "display_name": "PSG Report: Min. Hypopnea length (REM, Other, all desats) (seconds)",
+  "description": "Shortest Hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

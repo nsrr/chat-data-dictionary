@@ -1,7 +1,7 @@
 {
   "id": "mxdrbp2",
-  "display_name": "mxdrbp2",
-  "description": "",
+  "display_name": "PSG Report: Max. Desat (REM, Back, 2% desat)",
+  "description": "Largest respiratory related desat during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

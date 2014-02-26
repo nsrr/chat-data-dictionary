@@ -1,7 +1,7 @@
 {
   "id": "mxdrop3",
-  "display_name": "mxdrop3",
-  "description": "",
+  "display_name": "PSG Report: Max. Desat (REM, Other, 3% desat)",
+  "description": "Largest respiratory related desat during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

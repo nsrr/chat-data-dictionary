@@ -1,7 +1,8 @@
 {
   "id": "noplm",
-  "display_name": "noplm",
-  "description": "",
+  "display_name": "PSG Report: # of PLM during sleep",
+  "description": "Number of PLM during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements",
+  "commonly_used": "true"
 }

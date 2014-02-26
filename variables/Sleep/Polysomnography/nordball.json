@@ -1,7 +1,7 @@
 {
   "id": "nordball",
-  "display_name": "nordball",
-  "description": "",
+  "display_name": "PSG Report: # of Snore in REM (dB level 1 - 5)",
+  "description": "Number of Snore in REM (dB level 1 - 5)",
   "type": "numeric",
-  "units": ""
+  "units": "decibels"
 }

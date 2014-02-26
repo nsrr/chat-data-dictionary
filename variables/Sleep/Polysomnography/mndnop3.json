@@ -1,7 +1,7 @@
 {
   "id": "mndnop3",
-  "display_name": "mndnop3",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2 (NREM, Other, 3% desat) (%)",
+  "description": "Lowest SaO2 during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

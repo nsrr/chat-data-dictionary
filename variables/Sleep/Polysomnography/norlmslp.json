@@ -1,7 +1,7 @@
 {
   "id": "norlmslp",
-  "display_name": "norlmslp",
-  "description": "",
+  "display_name": "PSG Report: # of right limb movements per hour of sleep",
+  "description": "Number of right limb movements per hour of sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements per hour"
 }

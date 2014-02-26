@@ -1,7 +1,7 @@
 {
   "id": "mnhrba",
-  "display_name": "mnhrba",
-  "description": "",
+  "display_name": "PSG Report: Min. Hypopnea length w/ arousals (REM, Back, all desats) (seconds)",
+  "description": "Shortest Hypopnea during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mxoarop3",
-  "display_name": "mxoarop3",
-  "description": "",
+  "display_name": "PSG Report: Max. Obs. Apnea length (REM, Other, 3% desat) (seconds)",
+  "description": "Longest Obstructive Apnea during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

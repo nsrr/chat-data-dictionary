@@ -1,7 +1,7 @@
 {
   "id": "nodb4slp",
-  "display_name": "nodb4slp",
-  "description": "",
+  "display_name": "PSG Report: # of Snore during sleep (dB level 4)",
+  "description": "Number of Snore during sleep (dB level 4)",
   "type": "numeric",
-  "units": ""
+  "units": "decibels"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mxdroa2",
-  "display_name": "mxdroa2",
-  "description": "",
+  "display_name": "PSG Report: Max. Desat w/ arousals (REM, Other, 2% desat)",
+  "description": "Largest respiratory related desat during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

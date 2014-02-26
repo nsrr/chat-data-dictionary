@@ -1,7 +1,7 @@
 {
   "id": "mndrba",
-  "display_name": "mndrba",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2 w/ arousals (REM, Back, all desats) (%)",
+  "description": "Lowest SaO2 during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

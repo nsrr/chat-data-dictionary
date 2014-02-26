@@ -1,7 +1,8 @@
 {
   "id": "ndes3ph",
-  "display_name": "ndes3ph",
-  "description": "",
+  "display_name": "PSG Report: # of desat with >= 3% desat",
+  "description": "Number of desats with desaturation >= 3%",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations",
+  "commonly_used": "true"
 }

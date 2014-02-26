@@ -1,7 +1,7 @@
 {
   "id": "mnoanoa",
-  "display_name": "mnoanoa",
-  "description": "",
+  "display_name": "PSG Report: Min. Obs. Apnea length w/ arousals (NREM, Other, all desats) (seconds)",
+  "description": "Shortest Obstructive Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

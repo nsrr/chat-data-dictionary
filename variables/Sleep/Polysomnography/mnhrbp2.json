@@ -1,7 +1,7 @@
 {
   "id": "mnhrbp2",
-  "display_name": "mnhrbp2",
-  "description": "",
+  "display_name": "PSG Report: Min. Hypopnea length (REM, Back, 2% desat) (seconds)",
+  "description": "Shortest Hypopnea during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

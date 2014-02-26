@@ -1,7 +1,7 @@
 {
   "id": "mxhnbp4",
-  "display_name": "mxhnbp4",
-  "description": "",
+  "display_name": "PSG Report: Max. Hypopnea length (NREM, Back, 4% desat) (seconds)",
+  "description": "Longest Hypopnea during NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

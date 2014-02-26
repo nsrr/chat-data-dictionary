@@ -1,7 +1,7 @@
 {
   "id": "nobrap",
-  "display_name": "nobrap",
-  "description": "",
+  "display_name": "PSG Report: # of Bradycardia related to Apnea (Sleep time onset)",
+  "description": "Number of Bradycardia related to Apnea during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

@@ -1,7 +1,7 @@
 {
   "id": "notco",
-  "display_name": "notco",
-  "description": "",
+  "display_name": "PSG Report: # of Tachycardia  related to Obs. Apnea (Sleep time)",
+  "description": "Number of Tachycardia  related to Obstructive Apnea during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

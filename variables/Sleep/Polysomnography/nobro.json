@@ -1,7 +1,7 @@
 {
   "id": "nobro",
-  "display_name": "nobro",
-  "description": "",
+  "display_name": "PSG Report: # of Bradycardia related to Obs. Apnea (Sleep time onset)",
+  "description": "Number of Bradycardia related to Obstructive Apnea during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

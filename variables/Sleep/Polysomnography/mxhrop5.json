@@ -1,7 +1,7 @@
 {
   "id": "mxhrop5",
-  "display_name": "mxhrop5",
-  "description": "",
+  "display_name": "PSG Report: Max. Hypopnea length (REM, Other, 5% desat) (seconds)",
+  "description": "Longest Hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

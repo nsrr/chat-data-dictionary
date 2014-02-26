@@ -1,7 +1,7 @@
 {
   "id": "mndrbp4",
-  "display_name": "mndrbp4",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2 (REM, Back, 4% desat) (%)",
+  "description": "Lowest SaO2 during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

@@ -1,7 +1,8 @@
 {
   "id": "mnsao2nh",
-  "display_name": "mnsao2nh",
-  "description": "",
+  "display_name": "PSG Report: Min. SaO2 % during NREM sleep",
+  "description": "Lowest SaO2 % during NREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation",
+  "commonly_used": "true"
 }

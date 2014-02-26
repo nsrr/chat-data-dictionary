@@ -1,7 +1,8 @@
 {
   "id": "ndes4ph",
-  "display_name": "ndes4ph",
-  "description": "",
+  "display_name": "PSG Report: # of desat with >= 4% desat",
+  "description": "Number of desats with desaturation >= 4%",
   "type": "numeric",
-  "units": ""
+  "units": "desaturations",
+  "commonly_used": "true"
 }

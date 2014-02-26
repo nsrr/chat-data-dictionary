@@ -1,7 +1,7 @@
 {
   "id": "mxhrba2",
-  "display_name": "mxhrba2",
-  "description": "",
+  "display_name": "PSG Report: Max. Hypopnea length w/ arousals (REM, Back, 2% desat) (seconds)",
+  "description": "Longest Hypopnea during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

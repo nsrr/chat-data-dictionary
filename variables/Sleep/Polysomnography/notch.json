@@ -1,7 +1,7 @@
 {
   "id": "notch",
-  "display_name": "notch",
-  "description": "",
+  "display_name": "PSG Report: # of Tachycardia  related to Hypopnea  (Sleep time)",
+  "description": "Number of Tachycardia  related to Hypopnea during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }
