@@ -1,7 +1,7 @@
 {
   "id": "oarop",
-  "display_name": "oarop",
-  "description": "",
+  "display_name": "PSG Report: # of Obs. Apnea (REM, Other, all desats)",
+  "description": "Number of Obstructive Apnea during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

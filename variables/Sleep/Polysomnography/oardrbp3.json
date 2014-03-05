@@ -1,7 +1,8 @@
 {
   "id": "oardrbp3",
-  "display_name": "oardrbp3",
-  "description": "",
+  "display_name": "PSG Report: Obs. Apnea per hour (REM, Back, 3% desat)",
+  "description": "Number of Obstructive Apnea per hour of REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

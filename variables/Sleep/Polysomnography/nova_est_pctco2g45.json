@@ -1,7 +1,9 @@
 {
   "id": "nova_est_pctco2g45",
-  "display_name": "nova_est_pctco2g45",
-  "description": "",
+  "display_name": "Filtered: % total sleep time EtCO2 > 45 mmHg (Normalized for Capnograph type)",
+  "description": "For BCI: Nova_est_PCTCO2G45 = (rpctco2g45 * 0.64525) + 7.67373",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of carbon dioxide",
+  "calculations": "(% total sleep time EtCO2 > 45 mmHg * 0.64525) + 7.67373",
+  "commonly_used": true
 }

@@ -3,6 +3,6 @@
   "display_name": "PSG Report: # of desat with >= 5% desat",
   "description": "Number of desats with desaturation >= 5%",
   "type": "numeric",
-  "units": "desaturations",
-  "commonly_used": "true"
+  "units": "desaturation events",
+  "commonly_used": true
 }

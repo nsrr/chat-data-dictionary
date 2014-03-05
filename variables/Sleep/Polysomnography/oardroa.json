@@ -1,7 +1,8 @@
 {
   "id": "oardroa",
-  "display_name": "oardroa",
-  "description": "",
+  "display_name": "PSG Report: Obs. Apnea per hour w/ arousals (REM, Other, all desats)",
+  "description": "Number of Obstructive Apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

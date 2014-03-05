@@ -1,7 +1,8 @@
 {
   "id": "oahi3",
-  "display_name": "oahi3",
-  "description": "",
+  "display_name": "Filtered: Obstructive apnea (all desats) Hypopnea (3% desat) Index",
+  "description": "Obstructive Apnea Hypopnea Index  {[(Total number of obstructive apneas) + (Total number of hypopneas associated with >= 3% desat)] / (hours of sleep)}",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": "60*(hrembp3 +hrop3 + hnrbp3 + hnrop3 + oarbp +oarop + oanbp +oanop ) / slpprdp"
 }

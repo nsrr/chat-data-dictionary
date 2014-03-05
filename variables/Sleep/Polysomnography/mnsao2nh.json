@@ -4,5 +4,5 @@
   "description": "Lowest SaO2 % during NREM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation",
-  "commonly_used": "true"
+  "commonly_used": true
 }

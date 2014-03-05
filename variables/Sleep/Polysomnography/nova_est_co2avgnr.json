@@ -1,7 +1,9 @@
 {
   "id": "nova_est_co2avgnr",
-  "display_name": "nova_est_co2avgnr",
-  "description": "",
+  "display_name": "Filtered: Average EtCO2 in NREM (Normalized for Capnograph type)",
+  "description": "For BCI: Nova_est_CO2AVGNR = (rco2avgnr * 0.49613) + 20.83379",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of carbon dioxide",
+  "calculations": "(Average EtCO2 in NREM * 0.49613) + 20.83379",
+  "commonly_used": true
 }

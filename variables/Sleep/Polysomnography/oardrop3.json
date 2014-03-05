@@ -1,7 +1,8 @@
 {
   "id": "oardrop3",
-  "display_name": "oardrop3",
-  "description": "",
+  "display_name": "PSG Report: Obs. Apnea per hour (REM, Other, 3% desat)",
+  "description": "Number of Obstructive Apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

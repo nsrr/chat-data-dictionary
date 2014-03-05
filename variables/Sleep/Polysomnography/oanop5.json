@@ -1,7 +1,7 @@
 {
   "id": "oanop5",
-  "display_name": "oanop5",
-  "description": "",
+  "display_name": "PSG Report: # of Obs. Apnea (NREM, Other, 5% desat)",
+  "description": "Number of Obstructive Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

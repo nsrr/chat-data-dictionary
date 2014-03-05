@@ -1,7 +1,7 @@
 {
   "id": "oardnba4",
-  "display_name": "oardnba4",
-  "description": "",
+  "display_name": "PSG Report: Obs. Apnea per hour w/ arousals (NREM, Back, 4% desat)",
+  "description": "Number of Obstructive Apnea per hour of NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

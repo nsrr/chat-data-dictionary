@@ -1,7 +1,9 @@
 {
   "id": "nsupinep",
-  "display_name": "nsupinep",
-  "description": "",
+  "display_name": "Filtered: % time non-supine",
+  "description": "Percent of sleep time in non-supine body position  [100*(Number of minutes of sleep in non-supine body position) / (total sleep time)]",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "calculations": "100*(remepop+nremepop)/slpprdp",
+  "commonly_used": true
 }

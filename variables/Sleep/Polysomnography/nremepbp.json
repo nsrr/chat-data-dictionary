@@ -1,7 +1,8 @@
 {
   "id": "nremepbp",
-  "display_name": "nremepbp",
-  "description": "",
+  "display_name": "PSG Report: Sleep Time (NREM, Back) (minutes)",
+  "description": "Total time in NREM sleep with Supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "commonly_used": true
 }

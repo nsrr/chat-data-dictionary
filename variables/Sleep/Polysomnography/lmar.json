@@ -4,5 +4,5 @@
   "description": "Total Limb Movements with arousal and  resp. events",
   "type": "numeric",
   "units": "limb movements",
-  "commonly_used": "true"
+  "commonly_used": true
 }

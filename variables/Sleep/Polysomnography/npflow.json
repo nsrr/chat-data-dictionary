@@ -1,7 +1,7 @@
 {
   "id": "npflow",
-  "display_name": "npflow",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Flow limitation",
+  "description": "1=Flow limitation observed",
+  "type": "choices",
+  "domain": "noyes"
 }

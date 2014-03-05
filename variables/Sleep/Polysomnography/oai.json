@@ -1,7 +1,8 @@
 {
   "id": "oai",
-  "display_name": "oai",
-  "description": "",
+  "display_name": "PSG Report: Obstructive Apnea Index",
+  "description": "(Total number of obstructive apneas) / (hours of sleep)",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": "true"
 }
