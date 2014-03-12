@@ -1,7 +1,7 @@
 {
   "id": "plmcr",
-  "display_name": "plmcr",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with resp. events",
+  "description": "Total PLM clusters with resp. events",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

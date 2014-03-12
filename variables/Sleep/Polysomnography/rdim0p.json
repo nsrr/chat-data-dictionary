@@ -1,7 +1,8 @@
 {
   "id": "rdim0p",
-  "display_name": "rdim0p",
-  "description": "",
+  "display_name": "Filtered: Overall RDI at 0% desat",
+  "description": "RDI at all desats  [(Total number of apneas and hypopneas) / (hours of sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": "60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop) / slpprdp"
 }

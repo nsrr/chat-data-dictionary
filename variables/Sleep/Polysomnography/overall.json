@@ -1,7 +1,8 @@
 {
   "id": "overall",
-  "display_name": "overall",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Overall study grade",
+  "description": "Overall study grade",
+  "type": "choices",
+  "domain": "studygrade",
+  "commonly_used": true
 }

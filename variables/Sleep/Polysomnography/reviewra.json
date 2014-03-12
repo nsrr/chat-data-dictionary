@@ -1,7 +1,7 @@
 {
   "id": "reviewra",
-  "display_name": "reviewra",
+  "display_name": "QS: Reading Center staff who peformed preliminary review",
   "description": "",
-  "type": "numeric",
+  "type": "string",
   "units": ""
 }

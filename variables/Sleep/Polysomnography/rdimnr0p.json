@@ -1,7 +1,8 @@
 {
   "id": "rdimnr0p",
-  "display_name": "rdimnr0p",
-  "description": "",
+  "display_name": "Filtered: Overall Non-rem RDI at 0% desat",
+  "description": "Non-REM RDI at all desats  [(Total number of apneas and hypopneas in non-REM sleep) / (hours of NREM sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": "60*(hnrbp + hnrop + canbp + canop + oanbp + oanop + manrbp + manrop) / (slpprdp - minremp)"
 }

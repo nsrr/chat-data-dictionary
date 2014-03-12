@@ -1,7 +1,7 @@
 {
   "id": "quchest",
-  "display_name": "quchest",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of Chest Effort",
+  "description": "quality of chest effort",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

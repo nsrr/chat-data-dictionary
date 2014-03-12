@@ -1,7 +1,7 @@
 {
   "id": "rdiroa2",
-  "display_name": "rdiroa2",
-  "description": "",
+  "display_name": "PSG Report: Hypopnea per hour w/ arousals (REM, Other, 2% desat)",
+  "description": "Number of Hypopnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

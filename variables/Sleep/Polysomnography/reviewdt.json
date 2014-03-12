@@ -1,7 +1,7 @@
 {
   "id": "reviewdt",
-  "display_name": "reviewdt",
+  "display_name": "QS: Date of preliminary review",
   "description": "",
-  "type": "numeric",
+  "type": "date",
   "units": ""
 }

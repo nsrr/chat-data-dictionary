@@ -1,7 +1,7 @@
 {
   "id": "ontdur",
-  "display_name": "ontdur",
-  "description": "",
+  "display_name": "PSG Report: Total Obs. Apnea Length (NREM) (minutes)",
+  "description": "Total duration of Obstructive Apnea in NREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

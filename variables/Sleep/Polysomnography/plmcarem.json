@@ -1,7 +1,7 @@
 {
   "id": "plmcarem",
-  "display_name": "plmcarem",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal (REM)",
+  "description": "Total PLM clusters with arousal  in REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

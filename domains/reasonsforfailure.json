@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "oximetry",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "EEG",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "short recording",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "multiple",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "no signals",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "respiratory",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "participant issue",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "other",
+    "description": ""
+  }
+]

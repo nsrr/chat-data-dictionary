@@ -1,7 +1,7 @@
 {
   "id": "queogl",
-  "display_name": "queogl",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of EOG L",
+  "description": "quality of EOG L",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

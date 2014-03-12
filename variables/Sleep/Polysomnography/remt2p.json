@@ -1,7 +1,7 @@
 {
   "id": "remt2p",
-  "display_name": "remt2p",
-  "description": "",
+  "display_name": "PSG Report: # of REM to stage 2 shifts during sleep",
+  "description": "Number of REM to stage 2 shifts during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

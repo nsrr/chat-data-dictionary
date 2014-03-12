@@ -1,7 +1,7 @@
 {
   "id": "quf4",
-  "display_name": "quf4",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of F4",
+  "description": "quality of EEG",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

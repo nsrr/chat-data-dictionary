@@ -1,7 +1,8 @@
 {
   "id": "posn",
-  "display_name": "posn",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "Filtered: Position sensor working",
+  "description": "1=Position sensor working",
+  "type": "choices",
+  "domain": "noyes",
+  "commonly_used": true
 }

@@ -1,7 +1,8 @@
 {
   "id": "randomized",
-  "display_name": "Is child randomized?",
-  "description": "",
+  "display_name": "Randomization Status",
+  "description": "0 = No (Not randomized), 1 = Yes (Randomized)",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "commonly_used": true
 }

@@ -1,7 +1,7 @@
 {
   "id": "qum2",
-  "display_name": "qum2",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of M2",
+  "description": "quality of EEG",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

@@ -1,7 +1,7 @@
 {
   "id": "rdirbp5",
-  "display_name": "rdirbp5",
-  "description": "",
+  "display_name": "PSG Report: Hypopnea per hour (REM, Back, 5% desat)",
+  "description": "Number of Hypopnea per hour of REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

@@ -1,7 +1,7 @@
 {
   "id": "plmanrem",
-  "display_name": "plmanrem",
-  "description": "",
+  "display_name": "PSG Report: # PLMs with arousal (NREM)",
+  "description": "Total PLMs with arousal  in NREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

@@ -1,7 +1,6 @@
 {
   "id": "pfcomm",
-  "display_name": "pfcomm",
+  "display_name": "QS:Comments from preliminary review",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "string"
 }

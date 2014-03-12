@@ -1,7 +1,8 @@
 {
   "id": "remepbp",
-  "display_name": "remepbp",
-  "description": "",
+  "display_name": "PSG Report: Sleep Time (REM, Back) (minutes)",
+  "description": "Total time in REM sleep with Supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "commonly_used": true
 }

@@ -1,7 +1,7 @@
 {
   "id": "plmcanrem",
-  "display_name": "plmcanrem",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal (NREM)",
+  "description": "Total PLM clusters with arousal  in NREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

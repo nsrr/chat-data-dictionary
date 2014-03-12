@@ -1,7 +1,8 @@
 {
   "id": "rdinba",
-  "display_name": "rdinba",
-  "description": "",
+  "display_name": "PSG Report: Hypopnea per hour w/ arousals (NREM, Back, all desats)",
+  "description": "Number of Hypopnea per hour of NREM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

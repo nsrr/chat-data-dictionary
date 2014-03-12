@@ -1,7 +1,8 @@
 {
   "id": "rpctco2g45",
-  "display_name": "rpctco2g45",
+  "display_name": "Filtered: % total sleep time EtCO2 > 45 mmHg",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "commonly_used": true
 }

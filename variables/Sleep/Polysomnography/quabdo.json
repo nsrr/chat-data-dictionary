@@ -1,7 +1,7 @@
 {
   "id": "quabdo",
-  "display_name": "quabdo",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of Abdominal Effort",
+  "description": "quality of abdomen effort",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

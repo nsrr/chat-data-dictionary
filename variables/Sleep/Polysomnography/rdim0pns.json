@@ -1,7 +1,8 @@
 {
   "id": "rdim0pns",
-  "display_name": "rdim0pns",
-  "description": "",
+  "display_name": "Filtered: Overall Non-Supine RDI at 0% desat",
+  "description": "Non-Supine RDI at all desats  [(Total number of apneas and hypopneas in non-supine body position) / (hours of sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": "60*(hrop   + hnrop + carop + canop + oarop + oanop + marop + manrop)/(remepop+nremepop)"
 }

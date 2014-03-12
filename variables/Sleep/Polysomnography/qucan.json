@@ -1,7 +1,7 @@
 {
   "id": "qucan",
-  "display_name": "qucan",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of Cannula",
+  "description": "quality of cannula",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

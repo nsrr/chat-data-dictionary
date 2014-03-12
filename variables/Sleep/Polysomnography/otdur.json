@@ -1,7 +1,7 @@
 {
   "id": "otdur",
-  "display_name": "otdur",
-  "description": "",
+  "display_name": "PSG Report: Total Obs. Apnea Length (minutes)",
+  "description": "Total duration of Obstructive Apnea (entire recording)",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

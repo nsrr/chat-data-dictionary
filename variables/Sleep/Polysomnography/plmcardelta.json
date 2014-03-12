@@ -1,7 +1,7 @@
 {
   "id": "plmcardelta",
-  "display_name": "plmcardelta",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal and resp. event (Delta Sleep)",
+  "description": "Total PLM clusters with arousal and  resp. events in Delta sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

@@ -1,7 +1,7 @@
 {
   "id": "plmcdelta",
-  "display_name": "plmcdelta",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters (Delta Sleep)",
+  "description": "Total PLM clusters in Delta sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

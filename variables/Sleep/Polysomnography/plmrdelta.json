@@ -1,7 +1,7 @@
 {
   "id": "plmrdelta",
-  "display_name": "plmrdelta",
-  "description": "",
+  "display_name": "PSG Report: # PLMs with resp. events (Delta Sleep)",
+  "description": "Total PLMs with resp. events in Delta sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

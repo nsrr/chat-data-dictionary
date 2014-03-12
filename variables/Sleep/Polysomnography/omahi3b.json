@@ -1,7 +1,10 @@
 {
   "id": "omahi3b",
-  "display_name": "omahi3b",
-  "description": "",
+  "display_name": "Filtered: Supine CHAT AHI (Obstructive apneas all desats, Mixed apneas all desats, plus hypopneas with 3% or arousal)",
+  "description": "CHAT Apnea Hypopnea Index  {[(Total number of obstructive apneas) + (Total number of mixed apneas) + (Total number of hypopneas associated with >= 3% desat or arousal)] / (hours of sleep)}. Will be missing if total sleep time is 0.",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": " 60*(oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop + hremba3 +hroa3 + hnrba3 + hnroa3) / slpprdp",
+  "commonly_used": true
 }
+

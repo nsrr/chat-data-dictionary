@@ -1,7 +1,8 @@
 {
   "id": "oximdur",
-  "display_name": "oximdur",
-  "description": "",
+  "display_name": "QS: Hours of usable Oximetry",
+  "description": "hours of usable oximetry",
   "type": "numeric",
-  "units": ""
+  "units": "hours",
+  "commonly_used": true
 }

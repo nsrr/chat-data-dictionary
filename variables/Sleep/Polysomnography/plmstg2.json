@@ -1,7 +1,7 @@
 {
   "id": "plmstg2",
-  "display_name": "plmstg2",
-  "description": "",
+  "display_name": "PSG Report: # PLMs (Stage 2 Sleep)",
+  "description": "Total PLMs Stage 2 sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

@@ -1,7 +1,8 @@
 {
   "id": "omai4pa",
-  "display_name": "omai4pa",
-  "description": "",
+  "display_name": "Filtered: Obstructive/Mixed Apnea Index 4% or arousal",
+  "description": "Obstructive / Mixed Apnea Index With Arousals at 4% desat  [(Total number of obstructive apneas with aroual associated with >= 4% desat+ Total number of mixed apneas with arousal associated with >= 4% desat) / (hours of sleep)]",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "calculations": "60*(oarba4 + oaroa4 + oanba4 + oanoa4 + marbpa + maropa + manrbpa + manropa) / slpprdp"
 }

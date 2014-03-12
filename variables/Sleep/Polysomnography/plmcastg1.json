@@ -1,7 +1,7 @@
 {
   "id": "plmcastg1",
-  "display_name": "plmcastg1",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal (Stage 1 Sleep)",
+  "description": "Total PLM clusters with arousal  Stage 1 sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

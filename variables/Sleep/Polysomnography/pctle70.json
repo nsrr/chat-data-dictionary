@@ -1,7 +1,8 @@
 {
   "id": "pctle70",
-  "display_name": "pctle70",
-  "description": "",
+  "display_name": "Filtered: pct time <= 70% desat",
+  "description": "Percent of sleep time with oxygen saturation <= 70%  [100*(Total Number of minutes with SaO2 <= 70) / (total sleep time)].",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "calculations": "pctsa70"
 }

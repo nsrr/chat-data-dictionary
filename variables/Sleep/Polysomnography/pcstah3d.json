@@ -1,7 +1,8 @@
 {
   "id": "pcstah3d",
-  "display_name": "pcstah3d",
-  "description": "",
+  "display_name": "PSG Report: % Sleep time in Apnea+Hypopnea with >3% desat",
+  "description": "% Sleep time in Apnea+Hypopnea with >3% desat",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "commonly_used": true
 }

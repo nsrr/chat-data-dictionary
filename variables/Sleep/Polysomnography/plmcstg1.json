@@ -1,7 +1,7 @@
 {
   "id": "plmcstg1",
-  "display_name": "plmcstg1",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters (Stage 1 Sleep)",
+  "description": "Total PLM clusters Stage 1 sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

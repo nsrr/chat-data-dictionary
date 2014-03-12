@@ -1,0 +1,258 @@
+[
+  {
+    "value": "101",
+    "display_name": "Bed 3 embla",
+    "description": ""
+  },
+  {
+    "value": "102",
+    "display_name": "Bed 4 Embla",
+    "description": ""
+  },
+  {
+    "value": "103",
+    "display_name": "Bed 5 Embla",
+    "description": ""
+  },
+  {
+    "value": "104",
+    "display_name": "Bed 6 Embla",
+    "description": ""
+  },
+  {
+    "value": "105",
+    "display_name": "Bed 1 Embla",
+    "description": ""
+  },
+  {
+    "value": "106",
+    "display_name": "Bed 2 Embla",
+    "description": ""
+  },
+  {
+    "value": "107",
+    "display_name": "Bed 1, King of Purssia Embla",
+    "description": ""
+  },
+  {
+    "value": "108",
+    "display_name": "Bed 2, King of Purssia Embla",
+    "description": ""
+  },
+  {
+    "value": "109",
+    "display_name": "Bed 3, King of Purssia Embla",
+    "description": ""
+  },
+  {
+    "value": "110",
+    "display_name": "Bed 4, King of Purssia Embla",
+    "description": ""
+  },
+  {
+    "value": "201",
+    "display_name": "Room 743 compumedics",
+    "description": ""
+  },
+  {
+    "value": "202",
+    "display_name": "Room 742 compumedics",
+    "description": ""
+  },
+  {
+    "value": "203",
+    "display_name": "CINN Liberty Room 12 sandman",
+    "description": ""
+  },
+  {
+    "value": "204",
+    "display_name": "CINN Liberty Room 11 sandman",
+    "description": ""
+  },
+  {
+    "value": "205",
+    "display_name": "CINN Grass Twin 205",
+    "description": ""
+  },
+  {
+    "value": "301",
+    "display_name": "GCRC 1413 compumedics - this is unit 306",
+    "description": ""
+  },
+  {
+    "value": "302",
+    "display_name": "Bed 610B embla",
+    "description": ""
+  },
+  {
+    "value": "303",
+    "display_name": "Bed 608 embla",
+    "description": ""
+  },
+  {
+    "value": "304",
+    "display_name": "GCRC-SAC embla - SACneverusedWasEmbla 4500",
+    "description": ""
+  },
+  {
+    "value": "305",
+    "display_name": "GCRC- CHAT Embla",
+    "description": ""
+  },
+  {
+    "value": "306",
+    "display_name": "GCRC-CPAP compumedics",
+    "description": ""
+  },
+  {
+    "value": "307",
+    "display_name": "GCRC-TeenZ compumedics",
+    "description": ""
+  },
+  {
+    "value": "308",
+    "display_name": "hotel room 440 embla",
+    "description": ""
+  },
+  {
+    "value": "309",
+    "display_name": "hotel room 439 embla",
+    "description": ""
+  },
+  {
+    "value": "401",
+    "display_name": "Room 1 artisan",
+    "description": ""
+  },
+  {
+    "value": "402",
+    "display_name": "Room 2 artisan",
+    "description": ""
+  },
+  {
+    "value": "403",
+    "display_name": "Room A1 stellate",
+    "description": ""
+  },
+  {
+    "value": "404",
+    "display_name": "Room A2 stellate",
+    "description": ""
+  },
+  {
+    "value": "405",
+    "display_name": "Room A3 stellate",
+    "description": ""
+  },
+  {
+    "value": "406",
+    "display_name": "Room A4 stellate",
+    "description": ""
+  },
+  {
+    "value": "501",
+    "display_name": "Unit C1 biologic",
+    "description": ""
+  },
+  {
+    "value": "502",
+    "display_name": "Unit C2 biologic",
+    "description": ""
+  },
+  {
+    "value": "503",
+    "display_name": "Unit C3 biologic",
+    "description": ""
+  },
+  {
+    "value": "504",
+    "display_name": "504",
+    "description": ""
+  },
+  {
+    "value": "511",
+    "display_name": "Unit C1 xltek",
+    "description": ""
+  },
+  {
+    "value": "512",
+    "display_name": "Unit C2 xltek",
+    "description": ""
+  },
+  {
+    "value": "513",
+    "display_name": "Unit C3 xltek",
+    "description": ""
+  },
+  {
+    "value": "601",
+    "display_name": "Unit 1 xltek",
+    "description": ""
+  },
+  {
+    "value": "602",
+    "display_name": "Unit 2 xltek",
+    "description": ""
+  },
+  {
+    "value": "603",
+    "display_name": "Unit 4 xltek",
+    "description": ""
+  },
+  {
+    "value": "604",
+    "display_name": "Unit 5 xltek",
+    "description": ""
+  },
+  {
+    "value": "701",
+    "display_name": "Unit C1 biologic",
+    "description": ""
+  },
+  {
+    "value": "702",
+    "display_name": "Unit C2 biologic",
+    "description": ""
+  },
+  {
+    "value": "703",
+    "display_name": "Unit C3 biologic",
+    "description": ""
+  },
+  {
+    "value": "704",
+    "display_name": "Unit C4 biologic",
+    "description": ""
+  },
+  {
+    "value": "705",
+    "display_name": "Unit      xltek",
+    "description": ""
+  },
+  {
+    "value": "706",
+    "display_name": "URoom 706  Pavillion 6 room 6 xltek",
+    "description": ""
+  },
+  {
+    "value": "713",
+    "display_name": "Room #3 xltek",
+    "description": ""
+  },
+  {
+    "value": "721",
+    "display_name": "Waltham Room 1 xltek",
+    "description": ""
+  },
+  {
+    "value": "722",
+    "display_name": "xltek",
+    "description": ""
+  },
+  {
+    "value": "799",
+    "display_name": "Biologic hybrid",
+    "description": ""
+  }
+ ]
+

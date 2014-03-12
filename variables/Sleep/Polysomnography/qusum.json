@@ -1,7 +1,7 @@
 {
   "id": "qusum",
-  "display_name": "qusum",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of SUM",
+  "description": "quality of SUM channel",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

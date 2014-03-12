@@ -1,7 +1,7 @@
 {
   "id": "plmctot",
-  "display_name": "plmctot",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters",
+  "description": "Total PLM clusters",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

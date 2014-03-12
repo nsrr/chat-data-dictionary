@@ -1,7 +1,8 @@
 {
   "id": "pctle95",
-  "display_name": "pctle95",
-  "description": "",
+  "display_name": "Filtered: pct time <= 95% desat",
+  "description": "Percent of sleep time with oxygen saturation <= 95%  [100*(Total Number of minutes with SaO2 <= 95) / (total sleep time)].",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "calculations": "pctsa95"
 }

@@ -1,7 +1,7 @@
 {
   "id": "plmarslp",
-  "display_name": "plmarslp",
-  "description": "",
+  "display_name": "PSG Report: # PLMs with arousal and resp. event (Sleep)",
+  "description": "Total PLMs with arousal and  resp. events in All Sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

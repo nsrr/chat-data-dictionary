@@ -1,7 +1,8 @@
 {
   "id": "pedsql_emotional_nmiss_chld",
-  "display_name": "PedQL Child Emotional Function number of missings",
+  "display_name": "QS: Participant ID",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "integer",
+  "units": "",
+  "commonly_used": true
 }

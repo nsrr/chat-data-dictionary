@@ -1,7 +1,7 @@
 {
   "id": "qupwf",
-  "display_name": "qupwf",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of PWF",
+  "description": "quality of Pleth Wave Form",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

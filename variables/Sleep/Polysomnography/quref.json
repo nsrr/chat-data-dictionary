@@ -1,7 +1,7 @@
 {
   "id": "quref",
-  "display_name": "quref",
+  "display_name": "QS: quality of Reference",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "goodorproblem"
 }

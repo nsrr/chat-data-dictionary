@@ -1,7 +1,8 @@
 {
   "id": "oxitype",
-  "display_name": "oxitype",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "Oximeter Type",
+  "description": "1 = Masimo, 2 = Nonin, 3 = Nonin Biologic",
+  "type": "choices",
+  "domain": "oximetertype",
+  "commonly_used": true
 }

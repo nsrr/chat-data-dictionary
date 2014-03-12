@@ -1,7 +1,8 @@
 {
   "id": "pcstahar",
-  "display_name": "pcstahar",
-  "description": "",
+  "display_name": "PSG Report: % Sleep time in Apnea+Hypopnea with arousal",
+  "description": "% Sleep time in Apnea+Hypopnea with Arousal",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "commonly_used": true
 }

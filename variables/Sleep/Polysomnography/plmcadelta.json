@@ -1,7 +1,7 @@
 {
   "id": "plmcadelta",
-  "display_name": "plmcadelta",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal (Delta Sleep)",
+  "description": "Total PLM clusters with arousal  in Delta sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

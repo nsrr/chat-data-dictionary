@@ -1,7 +1,7 @@
 {
   "id": "remlaip",
-  "display_name": "remlaip",
-  "description": "",
+  "display_name": "PSG Report: REM Latency I - including wake time (minutes)",
+  "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute  (Data can be inaccurate if scorer has not set sleep onset rule properly in Compumedics software)",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

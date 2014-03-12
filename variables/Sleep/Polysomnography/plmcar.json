@@ -1,7 +1,7 @@
 {
   "id": "plmcar",
-  "display_name": "plmcar",
-  "description": "",
+  "display_name": "PSG Report: # PLM clusters with arousal and resp. event",
+  "description": "Total PLM clusters with arousal and  resp. events",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

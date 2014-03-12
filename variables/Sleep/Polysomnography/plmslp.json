@@ -1,7 +1,7 @@
 {
   "id": "plmslp",
-  "display_name": "plmslp",
-  "description": "",
+  "display_name": "PSG Report: # PLMs (Sleep)",
+  "description": "Total PLMs in All Sleep",
   "type": "numeric",
-  "units": ""
+  "units": "limb movements"
 }

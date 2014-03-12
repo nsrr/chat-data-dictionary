@@ -1,7 +1,7 @@
 {
   "id": "quc3",
-  "display_name": "quc3",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of C3",
+  "description": "quality of EEG",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

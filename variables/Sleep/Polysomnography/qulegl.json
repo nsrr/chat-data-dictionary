@@ -1,7 +1,7 @@
 {
   "id": "qulegl",
-  "display_name": "qulegl",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: quality of LegL",
+  "description": "quality of L Leg",
+  "type": "choices",
+  "domain": "signalofsleeptime"
 }

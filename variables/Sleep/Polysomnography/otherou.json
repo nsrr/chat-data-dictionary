@@ -1,7 +1,7 @@
 {
   "id": "otherou",
-  "display_name": "otherou",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Other outlier",
+  "description": "1=Outlier - other",
+  "type": "choices",
+  "domain":"noyes"
 }

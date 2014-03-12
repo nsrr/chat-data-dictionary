@@ -1,7 +1,7 @@
 {
   "id": "pctco2g45",
-  "display_name": "pctco2g45",
+  "display_name": "PSG Report: % total sleep time EtCO2 > 45 mmHg",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

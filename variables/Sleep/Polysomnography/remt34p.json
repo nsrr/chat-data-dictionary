@@ -1,7 +1,7 @@
 {
   "id": "remt34p",
-  "display_name": "remt34p",
-  "description": "",
+  "display_name": "PSG Report: # of REM to stage 3/4 shifts during sleep",
+  "description": "Number of REM to stage 3/4 shifts during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

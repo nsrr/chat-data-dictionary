@@ -1,7 +1,7 @@
 {
   "id": "proccessra",
-  "display_name": "proccessra",
+  "display_name": "QS: Login of Reading Center staff who processed incoming data",
   "description": "",
-  "type": "numeric",
+  "type": "integer",
   "units": ""
 }

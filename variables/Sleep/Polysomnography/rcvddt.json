@@ -1,7 +1,7 @@
 {
   "id": "rcvddt",
-  "display_name": "rcvddt",
+  "display_name": "QS: Date received at Reading Center",
   "description": "",
-  "type": "numeric",
+  "type": "date",
   "units": ""
 }
