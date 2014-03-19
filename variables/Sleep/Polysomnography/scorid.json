@@ -1,7 +1,7 @@
 {
   "id": "scorid",
-  "display_name": "scorid",
-  "description": "",
-  "type": "numeric",
+  "display_name": "QS: Scorer ID",
+  "description": "ID of Reading Center staff who performed scoring",
+  "type": "integer",
   "units": ""
 }

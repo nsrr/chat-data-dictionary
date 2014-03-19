@@ -1,7 +1,8 @@
 {
   "id": "stdydt",
-  "display_name": "stdydt",
+  "display_name": "QS: Date of study",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "date",
+  "units": "",
+  "commonly_used": true
 }

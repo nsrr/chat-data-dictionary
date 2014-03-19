@@ -1,7 +1,7 @@
 {
   "id": "stonset1",
-  "display_name": "stonset1",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Sleep onset (start of sleep- hh:mm:ss) - scorer",
+  "description": "Sleep onset - Start of Sleep (set to be 1 epoch of Stg 2,3/4, REM; option set by scorer in Prof 3)",
+  "type": "time",
   "units": ""
 }

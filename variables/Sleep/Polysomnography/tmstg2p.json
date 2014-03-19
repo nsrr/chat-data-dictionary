@@ -1,7 +1,7 @@
 {
   "id": "tmstg2p",
-  "display_name": "tmstg2p",
-  "description": "",
+  "display_name": "PSG Report: Pct. sleep time in stage 2 sleep (%)",
+  "description": "[(Number of minutes scored as stage 2) / (total sleep time)] * 100  (Use Calculated variable - sleep wake studies screened out)",
   "type": "numeric",
-  "units": ""
+  "units": "percent"
 }

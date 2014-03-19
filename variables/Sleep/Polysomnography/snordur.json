@@ -1,7 +1,7 @@
 {
   "id": "snordur",
-  "display_name": "snordur",
-  "description": "",
+  "display_name": "QS: hours of usable Snore",
+  "description": "hours of usable snore mic",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

@@ -1,7 +1,7 @@
 {
   "id": "stdurm",
-  "display_name": "stdurm",
-  "description": "",
+  "display_name": "PSG Report: Study length (epoch 1 to last epoch- minutes)",
+  "description": "Time from recording beginning to end, rounded to nearest minute",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

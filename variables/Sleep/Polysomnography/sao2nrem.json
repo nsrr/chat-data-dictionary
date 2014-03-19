@@ -1,7 +1,9 @@
 {
   "id": "sao2nrem",
-  "display_name": "sao2nrem",
-  "description": "",
+  "display_name": "Filtered: Average SaO2 NREM",
+  "description": "Average SaO2% in non-REM sleep  [Mean(all SaO2 values in NREM sleep)]. Will be missing if study scored as sleep/wake only.",
   "type": "numeric",
-  "units": ""
+  "units": "percent",
+  "calculations": "avsao2nh",
+  "commonly_used": true
 }

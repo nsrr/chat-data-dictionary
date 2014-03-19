@@ -1,7 +1,8 @@
 {
   "id": "stloutp",
-  "display_name": "stloutp",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "PSG Report: Lights out time (hh:mm:ss)",
+  "description": "Time marked as Lights Out",
+  "type": "time",
+  "units": "",
+  "commonly_used": true
 }

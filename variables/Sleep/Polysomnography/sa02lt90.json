@@ -1,7 +1,7 @@
 {
   "id": "sa02lt90",
-  "display_name": "sa02lt90",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Urgent Referral - O2sat <90% >2% sleep time = 1  Urgent Ineligible",
+  "description": "*Note studies that have oxi problems here",
+  "type": "choices",
+  "domain": "noyes"
 }

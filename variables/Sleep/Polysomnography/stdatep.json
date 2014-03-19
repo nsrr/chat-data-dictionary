@@ -1,7 +1,7 @@
 {
   "id": "stdatep",
-  "display_name": "stdatep",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Start Date",
+  "description": "Study Date    (Date recording started)",
+  "type": "date",
   "units": ""
 }

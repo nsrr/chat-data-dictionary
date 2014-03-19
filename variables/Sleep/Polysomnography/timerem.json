@@ -1,7 +1,9 @@
 {
   "id": "timerem",
-  "display_name": "timerem",
-  "description": "",
+  "display_name": "Filtered: Time REM (minutes)",
+  "description": "Total time scored as REM rounded to nearest minute",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "commonly_used": true,
+  "calculations": "minremp"
 }

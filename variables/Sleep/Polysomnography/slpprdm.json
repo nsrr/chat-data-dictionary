@@ -1,7 +1,7 @@
 {
   "id": "slpprdm",
-  "display_name": "slpprdm",
-  "description": "",
+  "display_name": "PSG Report: Sleep Period (minutes)",
+  "description": "Total Sleep Period (minutes) = total sleep time + total time awake, includes time spent awake after lights on and therefore is not correct (not used in final dataset)",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

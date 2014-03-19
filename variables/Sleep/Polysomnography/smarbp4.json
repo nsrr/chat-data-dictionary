@@ -1,7 +1,7 @@
 {
   "id": "smarbp4",
-  "display_name": "smarbp4",
-  "description": "",
+  "display_name": "PSG Report: Min. Mixed Apnea length (REM, Back, 4% desat) (seconds)",
+  "description": "Shortest Mixed Apnea during REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

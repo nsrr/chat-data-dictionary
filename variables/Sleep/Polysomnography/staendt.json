@@ -1,7 +1,7 @@
 {
   "id": "staendt",
-  "display_name": "staendt",
+  "display_name": "QS: Week ending date",
   "description": "",
-  "type": "numeric",
+  "type": "date",
   "units": ""
 }

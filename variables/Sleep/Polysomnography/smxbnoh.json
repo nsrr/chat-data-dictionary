@@ -1,7 +1,7 @@
 {
   "id": "smxbnoh",
-  "display_name": "smxbnoh",
-  "description": "",
+  "display_name": "PSG Report: Max. Heart Rate (NREM, Other, all desats) (bpm)",
+  "description": "Highest heart rate during REM sleep with Non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "beats per minute"
 }

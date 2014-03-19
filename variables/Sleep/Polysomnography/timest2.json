@@ -1,7 +1,9 @@
 {
   "id": "timest2",
-  "display_name": "timest2",
-  "description": "",
+  "display_name": "Filtered: Time stage 2 (minutes)",
+  "description": "Total time scored as stage 2 rounded to nearest minute",
   "type": "numeric",
-  "units": ""
+  "units": "minutes",
+  "calculations": "minstg2p",
+  "commonly_used": true
 }

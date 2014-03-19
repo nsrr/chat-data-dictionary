@@ -1,7 +1,7 @@
 {
   "id": "scorerid",
-  "display_name": "scorerid",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Scorer ID",
+  "description": "Scorer ID      (Marital Status in Compumedics Screen)",
+  "type": "integer",
   "units": ""
 }

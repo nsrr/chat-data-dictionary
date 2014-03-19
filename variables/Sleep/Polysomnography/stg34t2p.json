@@ -1,7 +1,7 @@
 {
   "id": "stg34t2p",
-  "display_name": "stg34t2p",
-  "description": "",
+  "display_name": "PSG Report: # of stage 3/4 to stage 1/2 shifts during sleep",
+  "description": "Number of stage 3/4 to stage 1/2 shifts during sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

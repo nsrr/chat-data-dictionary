@@ -1,7 +1,7 @@
 {
   "id": "t4dur",
-  "display_name": "t4dur",
-  "description": "",
+  "display_name": "QS: hours of usable T4",
+  "description": "hours of usable EEG",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

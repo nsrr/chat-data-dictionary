@@ -1,7 +1,7 @@
 {
   "id": "stg1stg2pr",
-  "display_name": "stg1stg2pr",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Scoring Stage1/ Stage 2 unreliable",
+  "description": "1=Sleep Staging Problem - scoring stage1/stage2 unreliable",
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -1,7 +1,7 @@
 {
   "id": "stg2stg3pr",
-  "display_name": "stg2stg3pr",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Scoring Stage2/ Deep sleep unreliable",
+  "description": "1=Sleep Staging Problem - scoring stage2/stage3-4 unreliable",
+  "type": "choices",
+  "domain": "noyes"
 }

@@ -1,7 +1,7 @@
 {
   "id": "sao92slp",
-  "display_name": "sao92slp",
-  "description": "",
+  "display_name": "PSG Report: Total time SaO2 > 92 in sleep (minutes)",
+  "description": "Total time SaO2 above 92% during sleep, in minutes",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

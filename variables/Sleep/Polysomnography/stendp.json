@@ -1,7 +1,7 @@
 {
   "id": "stendp",
-  "display_name": "stendp",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Study end time (hh:mm:ss)",
+  "description": "Time recording ended (time of last epoch)",
+  "type": "time",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "stlonp",
-  "display_name": "stlonp",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Lights on set by scorer (hh:mm:ss)",
+  "description": "Lights On Time – End of in-bed period set by Scorer",
+  "type": "time",
   "units": ""
 }

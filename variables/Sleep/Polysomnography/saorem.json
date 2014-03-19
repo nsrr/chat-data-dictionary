@@ -1,7 +1,7 @@
 {
   "id": "saorem",
-  "display_name": "saorem",
-  "description": "",
+  "display_name": "PSG Report: Avg. SaO2% (REM)",
+  "description": "Mean SaO2 during REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of oxygen saturation"
 }

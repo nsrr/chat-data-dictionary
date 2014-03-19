@@ -1,7 +1,8 @@
 {
   "id": "stonsetp",
-  "display_name": "stonsetp",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "PSG Report: Sleep onset time (hh:mm:ss) - CHAT Onset = 1 epoch any stage",
+  "description": "Beginning of sleep (defined as 1 epochs of sleep)",
+  "type": "time",
+  "units": "",
+  "commonly_used": true
 }

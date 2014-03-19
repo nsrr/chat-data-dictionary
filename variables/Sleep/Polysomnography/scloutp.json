@@ -1,7 +1,7 @@
 {
   "id": "scloutp",
-  "display_name": "scloutp",
-  "description": "",
-  "type": "numeric",
+  "display_name": "PSG Report: Lights out set by scorer (hh:mm:ss)",
+  "description": "Lights Out Time – Beginning of in-bed period set by Scorer",
+  "type": "time",
   "units": ""
 }

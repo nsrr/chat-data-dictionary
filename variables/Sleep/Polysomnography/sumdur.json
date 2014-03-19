@@ -1,7 +1,7 @@
 {
   "id": "sumdur",
-  "display_name": "sumdur",
-  "description": "",
+  "display_name": "QS: hours of usable SUM",
+  "description": "hours of usable SUM channel",
   "type": "numeric",
-  "units": ""
+  "units": "hours"
 }

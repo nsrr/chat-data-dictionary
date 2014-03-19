@@ -1,7 +1,7 @@
 {
   "id": "unuhrothdesc",
-  "display_name": "unuhrothdesc",
+  "display_name": "QS: Describe Other HR",
   "description": "",
-  "type": "numeric",
+  "type": "string",
   "units": ""
 }

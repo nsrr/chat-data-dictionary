@@ -1,7 +1,7 @@
 {
   "id": "unustgou",
-  "display_name": "unustgou",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "display_name": "QS: Extreme staging distribution",
+  "description": "1=Outlier - unusual staging",
+  "type": "choices",
+  "domain": "noyes"
 }

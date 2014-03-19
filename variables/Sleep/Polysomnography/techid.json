@@ -1,7 +1,7 @@
 {
   "id": "techid",
-  "display_name": "techid",
-  "description": "",
-  "type": "numeric",
+  "display_name": "QS: Tech ID",
+  "description": "ID or initials of tech performing hookup",
+  "type": "integer",
   "units": ""
 }

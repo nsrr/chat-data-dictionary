@@ -1,7 +1,7 @@
 {
   "id": "wasom",
-  "display_name": "wasom",
-  "description": "",
+  "display_name": "PSG Report: Wake time during sleep period (minutes .5)",
+  "description": "Actually is total time awake after sleep onset - includes wake time after lights on (not used in final dataset)",
   "type": "numeric",
-  "units": ""
+  "units": "minutes"
 }

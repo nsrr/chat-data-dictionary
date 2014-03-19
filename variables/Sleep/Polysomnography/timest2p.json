@@ -1,8 +1,9 @@
 {
   "id": "timest2p",
-  "display_name": "Percent Sleep Time in Stage 2",
-  "description": "",
+  "display_name": "Filtered: % time stage 2",
+  "description": "Percent of sleep time in stage 2 [100*(Number of minutes scored as stage 2) / (total sleep time)]",
   "type": "numeric",
   "units": "percent",
-  "commonly_used": true
+  "commonly_used": true,
+  "calculations": "tmstg2p"
 }
