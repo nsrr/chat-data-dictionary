@@ -3,5 +3,6 @@
   "display_name": "PSG Report: # of PLM per hour of REM sleep",
   "description": "Number of PLM per hour of REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

@@ -2,6 +2,6 @@
   "id": "arsl3ou",
   "display_name": "QS: Arousal index < 3 verified",
   "description": "1=Outlier - arousal index < 3 verified",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "noyes"
 }

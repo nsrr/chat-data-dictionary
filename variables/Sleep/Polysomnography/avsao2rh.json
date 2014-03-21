@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Avg. SaO2 % during REM sleep",
   "description": "Average SaO2 % during REM sleep",
   "type": "numeric",
-  "units": "percent"
+  "units": "percentage of oxygen saturation",
+  "commonly_used": true
 }

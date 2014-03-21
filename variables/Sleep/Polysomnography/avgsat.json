@@ -3,5 +3,6 @@
   "display_name": "Filtered: Average SaO2 in sleep",
   "description": "Average SaO2% during sleep  [Mean(all SaO2 values in sleep)]",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "calculations": "((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh_holder)*(tmremp))/100;"
 }

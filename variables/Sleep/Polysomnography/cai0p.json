@@ -3,5 +3,7 @@
   "display_name": "Filtered: Central Apnea Index all desats",
   "description": "Central Apnea Index at all desats  [(Total number of central apneas associated with all desats) / (hours of sleep)]. Will be missing if total sleep time is 0.",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true,
+  "calculations": "60*(carbp +  carop  + canbp  + canop ) / slpprdp"
 }

@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Avg. Apnea Length (seconds)",
   "description": "Average duration of Apnea (entire recording)",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "common;y_used": true
 }

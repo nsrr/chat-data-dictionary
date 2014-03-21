@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of PLM per hour of sleep",
   "description": "Number of PLM per hour of sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

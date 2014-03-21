@@ -3,5 +3,5 @@
   "display_name": "PSG Report: Avg. SaO2% minimum (Sleep time) (%)",
   "description": "Average SaO2% during sleep",
   "type": "numeric",
-  "units": "percent"
+  "units": "percentage of oxygen saturation"
 }

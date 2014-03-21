@@ -3,5 +3,6 @@
   "display_name": "PSG Report: # of Apnea events with >= 3% desat",
   "description": "Number of Apnea events with >= 3% desaturation",
   "type": "numeric",
-  "units": ""
+  "units": "events",
+  "commonly_used": true
 }

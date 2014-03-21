@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Highest Heart rate (bpm)",
   "description": "Highest Heart rate (entire recording)",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "commonly_used": true
 }

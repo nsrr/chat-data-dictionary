@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Lowest Heart rate (bpm)",
   "description": "Lowest Heart rate (entire recording)",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "commonly_used": true
 }
