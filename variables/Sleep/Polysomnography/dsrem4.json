@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of desats per hour (REM, >= 4%)",
   "description": "Number of desaturations >= 4% per hour in REM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

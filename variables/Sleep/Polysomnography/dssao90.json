@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of desats with SaO2 drops below 90% in sleep",
   "description": "Number of Desaturations with SaO2 drops below 90% in sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }

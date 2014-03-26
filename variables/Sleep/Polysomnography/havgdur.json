@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Avg. Hypopnea Length (seconds)",
   "description": "Average duration of Hypopnea (entire recording)",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "commonly_used": true
 }

@@ -3,5 +3,5 @@
   "display_name": "PSG Report: Baseline EtCO2 Awake",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of carbon dioxide"
 }

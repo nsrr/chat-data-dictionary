@@ -3,5 +3,6 @@
   "display_name": "PSG Report: # Mixed Apnea per hour (REM, Back, all desats)",
   "description": "Number of Mixed Apnea per hour of REM sleep with supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of desats per hour (NREM, >= 2%)",
   "description": "Number of desaturations >= 2% per hour in NonREM sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of REM to stage 2 shifts per hour of sleep",
   "description": "Number of REM to stage 2 shifts per hour of sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }

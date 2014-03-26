@@ -2,6 +2,6 @@
   "id": "hipriscore",
   "display_name": "QS: Flagged for priority scoring",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "noyes"
 }

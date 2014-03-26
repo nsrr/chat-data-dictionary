@@ -3,5 +3,6 @@
   "display_name": "PSG Report: # Mixed Apnea with arousal per hour (NREM, Other, all desats)",
   "description": "Number of Mixed Apnea per hour of NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour",
+  "commonly_used": true
 }

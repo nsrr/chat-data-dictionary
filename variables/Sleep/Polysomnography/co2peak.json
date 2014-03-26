@@ -3,5 +3,5 @@
   "display_name": "PSG Report: Peak EtCO2 Asleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "percentage of carbon dioxide"
 }

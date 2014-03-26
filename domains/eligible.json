@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "ineligible",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "eligible",
+    "description": ""
+  }
+]

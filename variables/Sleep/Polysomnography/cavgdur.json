@@ -3,5 +3,6 @@
   "display_name": "PSG Report: Avg. Cent. Apnea Length (seconds)",
   "description": "Average duration of Central Apnea (entire recording)",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "commonly_used": true
 }

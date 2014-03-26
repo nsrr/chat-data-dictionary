@@ -2,6 +2,6 @@
   "id": "haspaperwork",
   "display_name": "QS: Paperwork received at Reading Center",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "noyes"
 }

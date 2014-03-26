@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of Hypopnea w/ arousals (NREM, Other, 3% desat)",
   "description": "Number of Hypopnea during NREM sleep with non-supine body position",
   "type": "numeric",
-  "units": ""
+  "units": "events"
 }
