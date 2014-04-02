@@ -3,5 +3,5 @@
   "display_name": "PSG Report: # of stage 2 to stage 1 shifts per hour of sleep",
   "description": "Number of stage 2 to stage 1 shifts per hour of sleep",
   "type": "numeric",
-  "units": ""
+  "units": "events per hour"
 }
