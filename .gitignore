@@ -6,13 +6,6 @@
 
 # Data Dictionary folders
 /dd
-
-/sleepdataexport
-
-# Data Folders
+/coverage
 /csvs
-/pngs
-
-# Documentation Folders and Files
-/doc*.rb
-/doc
+/graphs
