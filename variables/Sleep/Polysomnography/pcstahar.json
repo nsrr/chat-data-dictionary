@@ -1,6 +1,6 @@
 {
   "id": "pcstahar",
-  "display_name": "PSG Report: % Sleep time in Apnea+Hypopnea with arousal",
+  "display_name": "PSG Report: Percentage of Sleep time in Apnea+Hypopnea with arousal",
   "description": "% Sleep time in Apnea+Hypopnea with Arousal",
   "type": "numeric",
   "units": "percent",

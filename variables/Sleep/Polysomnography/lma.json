@@ -1,6 +1,6 @@
 {
   "id": "lma",
-  "display_name": "PSG Report: # Limb Movements with arousal",
+  "display_name": "PSG Report: Number of Limb Movements with arousal",
   "description": "Total Limb Movements with arousal",
   "type": "numeric",
   "units": "limb movements"

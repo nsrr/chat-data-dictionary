@@ -1,6 +1,6 @@
 {
   "id": "avgrplm",
-  "display_name": "PSG Report: # of PLM per hour of REM sleep",
+  "display_name": "PSG Report: Number of PLM per hour of REM sleep",
   "description": "Number of PLM per hour of REM sleep",
   "type": "numeric",
   "units": "events per hour",

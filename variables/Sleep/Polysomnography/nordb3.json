@@ -1,6 +1,6 @@
 {
   "id": "nordb3",
-  "display_name": "PSG Report: # of Snore in REM (dB level 3)",
+  "display_name": "PSG Report: Number of Snore in REM (dB level 3)",
   "description": "Number of Snore in REM (dB level 3)",
   "type": "numeric",
   "units": "decibels"

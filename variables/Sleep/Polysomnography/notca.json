@@ -1,6 +1,6 @@
 {
   "id": "notca",
-  "display_name": "PSG Report: # of Tachycardia (Sleep time)",
+  "display_name": "PSG Report: Number of Tachycardia (Sleep time)",
   "description": "Number of Tachycardia during sleep",
   "type": "numeric",
   "units": "beats per minute"

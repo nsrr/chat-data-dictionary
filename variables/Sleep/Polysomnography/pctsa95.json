@@ -1,6 +1,6 @@
 {
   "id": "pctsa95",
-  "display_name": "PSG Report: % sleep time SaO2 is <= 95%",
+  "display_name": "PSG Report: Percentage of sleep time SaO2 is <= 95%",
   "description": "[(total time SaO2 is <= 95%) / (total sleep time)] * 100",
   "type": "numeric",
   "units": "percent",

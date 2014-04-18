@@ -1,6 +1,6 @@
 {
   "id": "plmrstg2",
-  "display_name": "PSG Report: # PLMs with resp. events (Stage 2 Sleep)",
+  "display_name": "PSG Report: Number of PLMs with resp. events (Stage 2 Sleep)",
   "description": "Total PLMs with resp. events Stage 2 sleep",
   "type": "numeric",
   "units": "limb movements"

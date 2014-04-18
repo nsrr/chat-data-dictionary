@@ -1,6 +1,6 @@
 {
   "id": "plmcarnrem",
-  "display_name": "PSG Report: # PLM clusters with arousal and resp. event (NREM)",
+  "display_name": "PSG Report: Number of PLM clusters with arousal and resp. event (NREM)",
   "description": "Total PLM clusters with arousal and  resp. events in NREM sleep",
   "type": "numeric",
   "units": "limb movements"

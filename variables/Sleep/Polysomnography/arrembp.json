@@ -1,6 +1,6 @@
 {
   "id": "arrembp",
-  "display_name": "PSG Report: # of Arousals (REM, Back, all desats)",
+  "display_name": "PSG Report: Number of Arousals (REM, Back, all desats)",
   "description": "Number of arousals during REM and supine body position",
   "type": "numeric",
   "units": "events"

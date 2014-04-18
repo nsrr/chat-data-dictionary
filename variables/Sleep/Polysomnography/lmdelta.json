@@ -1,6 +1,6 @@
 {
   "id": "lmdelta",
-  "display_name": "PSG Report: # Limb Movements (Delta Sleep)",
+  "display_name": "PSG Report: Number of Limb Movements (Delta Sleep)",
   "description": "Total Limb Movements in Delta sleep",
   "type": "numeric",
   "units": "limb movements"

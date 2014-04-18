@@ -1,6 +1,6 @@
 {
   "id": "remt1p",
-  "display_name": "PSG Report: # of REM to stage 1 shifts during sleep",
+  "display_name": "PSG Report: Number of REM to stage 1 shifts during sleep",
   "description": "Number of REM to stage 1 shifts during sleep",
   "type": "numeric",
   "units": "events"

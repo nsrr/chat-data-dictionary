@@ -1,6 +1,6 @@
 {
   "id": "lmslp",
-  "display_name": "PSG Report: # Limb Movements (Sleep)",
+  "display_name": "PSG Report: Number of Limb Movements (Sleep)",
   "description": "Total Limb Movements in All Sleep",
   "type": "numeric",
   "units": "limb movements"

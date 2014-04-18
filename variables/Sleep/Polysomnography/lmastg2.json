@@ -1,6 +1,6 @@
 {
   "id": "lmastg2",
-  "display_name": "PSG Report: # Limb Movements with arousal (Stage 2 Sleep)",
+  "display_name": "PSG Report: Number of Limb Movements with arousal (Stage 2 Sleep)",
   "description": "Total Limb Movements with arousal  Stage 2 sleep",
   "type": "numeric",
   "units": "limb movements"

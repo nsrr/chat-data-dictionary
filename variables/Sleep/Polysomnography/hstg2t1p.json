@@ -1,6 +1,6 @@
 {
   "id": "hstg2t1p",
-  "display_name": "PSG Report: # of stage 2 to stage 1 shifts per hour of sleep",
+  "display_name": "PSG Report: Number of stage 2 to stage 1 shifts per hour of sleep",
   "description": "Number of stage 2 to stage 1 shifts per hour of sleep",
   "type": "numeric",
   "units": "events per hour"

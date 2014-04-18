@@ -1,6 +1,6 @@
 {
   "id": "lmr",
-  "display_name": "PSG Report: # Limb Movements with resp. events",
+  "display_name": "PSG Report: Number of Limb Movements with resp. events",
   "description": "Total Limb Movements with resp. events",
   "type": "numeric",
   "units": "limb movements"

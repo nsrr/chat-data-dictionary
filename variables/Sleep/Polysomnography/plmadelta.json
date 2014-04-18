@@ -1,6 +1,6 @@
 {
   "id": "plmadelta",
-  "display_name": "PSG Report: # PLMs with arousal (Delta Sleep)",
+  "display_name": "PSG Report: Number of PLMs with arousal (Delta Sleep)",
   "description": "Total PLMs with arousal  in Delta sleep",
   "type": "numeric",
   "units": "limb movements"

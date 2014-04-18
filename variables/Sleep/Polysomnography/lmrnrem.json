@@ -1,6 +1,6 @@
 {
   "id": "lmrnrem",
-  "display_name": "PSG Report: # Limb Movements with resp. events (NREM)",
+  "display_name": "PSG Report: Number of Limb Movements with resp. events (NREM)",
   "description": "Total Limb Movements with resp. events in NREM sleep",
   "type": "numeric",
   "units": "limb movements"

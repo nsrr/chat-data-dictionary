@@ -1,6 +1,6 @@
 {
   "id": "hnrba",
-  "display_name": "PSG Report: # of Hypopnea w/ arousals (NREM, Back, all desats)",
+  "display_name": "PSG Report: Number of Hypopnea w/ arousals (NREM, Back, all desats)",
   "description": "Number of Hypopnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "events"

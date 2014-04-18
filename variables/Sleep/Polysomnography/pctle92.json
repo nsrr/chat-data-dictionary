@@ -1,6 +1,6 @@
 {
   "id": "pctle92",
-  "display_name": "Filtered: % time <= 92% desat",
+  "display_name": "Filtered: Percentage of time <= 92% desat",
   "description": "Percent of sleep time with oxygen saturation <= 92%  [100*(Total Number of minutes with SaO2 <= 92) / (total sleep time)].",
   "type": "numeric",
   "units": "percent",
