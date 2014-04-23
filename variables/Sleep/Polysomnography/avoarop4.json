@@ -1,6 +1,6 @@
 {
   "id": "avoarop4",
-  "display_name": "PSG Report: Avg. Obs. Apnea length (REM, Other, 4% desat) (seconds)",
+  "display_name": "PSG Report: Avg. Obstructive Apnea length (REM, Other, 4% desat) (seconds)",
   "description": "Average Obstructive Apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

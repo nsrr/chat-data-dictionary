@@ -1,6 +1,6 @@
 {
   "id": "oarbp5",
-  "display_name": "PSG Report: Number of Obs. Apnea (REM, Back, 5% desat)",
+  "display_name": "PSG Report: Number of Obstructive Apnea (REM, Back, 5% desat)",
   "description": "Number of Obstructive Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "events"

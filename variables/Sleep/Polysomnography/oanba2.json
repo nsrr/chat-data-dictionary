@@ -1,6 +1,6 @@
 {
   "id": "oanba2",
-  "display_name": "PSG Report: Number of Obs. Apnea w/ arousals (NREM, Back, 2% desat)",
+  "display_name": "PSG Report: Number of Obstructive Apnea w/ arousals (NREM, Back, 2% desat)",
   "description": "Number of Obstructive Apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "events"

@@ -1,6 +1,6 @@
 {
   "id": "oavgdur",
-  "display_name": "PSG Report: Avg. Obs. Apnea Length (seconds)",
+  "display_name": "PSG Report: Avg. Obstructive Apnea Length (seconds)",
   "description": "Average duration of Obstructive Apnea (entire recording)",
   "type": "numeric",
   "units": "seconds",

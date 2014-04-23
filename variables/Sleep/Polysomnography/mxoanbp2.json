@@ -1,6 +1,6 @@
 {
   "id": "mxoanbp2",
-  "display_name": "PSG Report: Max. Obs. Apnea length (NREM, Back, 2% desat) (seconds)",
+  "display_name": "PSG Report: Max. Obstructive Apnea length (NREM, Back, 2% desat) (seconds)",
   "description": "Longest Obstructive Apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

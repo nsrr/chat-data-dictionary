@@ -1,6 +1,6 @@
 {
   "id": "mnoarbp2",
-  "display_name": "PSG Report: Min. Obs. Apnea length (REM, Back, 2% desat) (seconds)",
+  "display_name": "PSG Report: Min. Obstructive Apnea length (REM, Back, 2% desat) (seconds)",
   "description": "Shortest Obstructive Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
