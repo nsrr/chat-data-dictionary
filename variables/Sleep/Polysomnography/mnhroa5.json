@@ -1,6 +1,6 @@
 {
   "id": "mnhroa5",
-  "display_name": "PSG Report: Min. Hypopnea length w/ arousals (REM, Other, 5% desat) (seconds)",
+  "display_name": "PSG Report: Minimum Hypopnea length w/ arousals (REM, Other, 5% desat) (seconds)",
   "description": "Shortest Hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

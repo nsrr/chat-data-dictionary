@@ -1,6 +1,6 @@
 {
   "id": "mndnba4",
-  "display_name": "PSG Report: Min. SaO2 w/ arousals (NREM, Back, 4% desat) (%)",
+  "display_name": "PSG Report: Minimum SaO2 w/ arousals (NREM, Back, 4% desat) (%)",
   "description": "Lowest SaO2 during NREM sleep with supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

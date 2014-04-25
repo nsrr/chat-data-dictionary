@@ -1,6 +1,6 @@
 {
   "id": "minsaondcaslp",
-  "display_name": "PSG Report: Min. SaO2% Nadir assoc. w/ Cent. Apnea (Sleep)",
+  "display_name": "PSG Report: Minimum SaO2% Nadir assoc. w/ Cent. Apnea (Sleep)",
   "description": "Lowest SaO2 Nadir associated with Central Apnea in sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

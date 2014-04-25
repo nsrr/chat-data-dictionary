@@ -1,6 +1,6 @@
 {
   "id": "dmnbroh",
-  "display_name": "PSG Report: Min. Heart Rate with arousal (REM, Other, 3% desat) (bpm)",
+  "display_name": "PSG Report: Minimum Heart Rate with arousal (REM, Other, 3% desat) (bpm)",
   "description": "Lowest heart rate during REM sleep with Non-supine body position",
   "type": "numeric",
   "units": "beats per minute"

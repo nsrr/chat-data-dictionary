@@ -1,6 +1,6 @@
 {
   "id": "mxoarba4",
-  "display_name": "PSG Report: Max. Obstructive Apnea length w/ arousals (REM, Back, 4% desat) (seconds)",
+  "display_name": "PSG Report: Maximum Obstructive Apnea length w/ arousals (REM, Back, 4% desat) (seconds)",
   "description": "Longest Obstructive Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
