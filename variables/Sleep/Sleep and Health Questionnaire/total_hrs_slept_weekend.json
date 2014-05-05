@@ -1,5 +1,5 @@
 {
-  "id": "slhq_total_hrs_slept_weekend",
+  "id": "total_hrs_slept_weekend",
   "display_name": "Total hours slept on weekend algorithm: total_hrs_slept_weekend = hour(SLH1C_21_time - SLH1B_21_time)",
   "description": "",
   "type": "numeric",
