@@ -1,7 +1,0 @@
-{
-  "id": "growth_cat",
-  "display_name": "failure to thrive",
-  "description": "",
-  "type": "choices",
-  "domain":"failuretothrive"
-}

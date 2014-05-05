@@ -1,0 +1,7 @@
+{
+  "id": "surgery_status",
+  "display_name": "Patient surgery status",
+  "description": "",
+  "type": "choices",
+  "domain":"surgery_status"
+}

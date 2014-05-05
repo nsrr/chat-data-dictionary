@@ -1,0 +1,7 @@
+{
+  "id": "fasting",
+  "display_name": "Subject was fasting before labs were drawn",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "completers",
-  "display_name": "Did child complete the study?",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

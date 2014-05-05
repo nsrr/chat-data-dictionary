@@ -1,0 +1,7 @@
+{
+  "id": "followup_status",
+  "display_name": "Did patient receive followup?",
+  "description": "",
+  "type": "choices",
+  "domain":"followup_status"
+}

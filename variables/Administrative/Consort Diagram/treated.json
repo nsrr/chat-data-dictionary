@@ -3,5 +3,5 @@
   "display_name": "Has child been treated",
   "description": "",
   "type": "choices",
-  "domain":"treatment"
+  "domain": "treatment"
 }

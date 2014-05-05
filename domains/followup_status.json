@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Did not have followup",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Received followup",
+    "description": ""
+  }
+]

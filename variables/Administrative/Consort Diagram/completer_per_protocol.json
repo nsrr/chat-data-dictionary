@@ -1,0 +1,7 @@
+{
+  "id": "completer_per_protocol",
+  "display_name": "Did the participant complete the study, as per protocol?",
+  "description": "",
+  "type": "choices",
+  "domain":"noyes"
+}
