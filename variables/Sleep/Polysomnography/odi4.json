@@ -1,0 +1,8 @@
+{
+  "id": "odi4",
+  "display_name": "Oxygen Desaturation Index at 4% (during sleep time)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "commonly_used": true
+}

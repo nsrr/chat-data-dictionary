@@ -1,5 +1,5 @@
 {
-  "id": "pslq_snoring_subscale",
+  "id": "snoring_subscale",
   "display_name": "Snoring subscale algorithmm: sum(psl1a, psl1b, psl1c, psl1d)/(4-nmiss)",
   "description": "",
   "type": "numeric",
