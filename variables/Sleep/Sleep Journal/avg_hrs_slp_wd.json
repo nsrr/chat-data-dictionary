@@ -1,5 +1,5 @@
 {
-  "id": "sleep_diary_avg_hrs_slp_wd",
+  "id": "avg_hrs_slp_wd",
   "display_name": "Avg hrs of sleep on the WEEKDAY",
   "description": "",
   "type": "numeric",
