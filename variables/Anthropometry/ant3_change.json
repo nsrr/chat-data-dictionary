@@ -1,0 +1,7 @@
+{
+  "id": "ant3_change",
+  "display_name": "Change in Height between baseline and follow-up",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

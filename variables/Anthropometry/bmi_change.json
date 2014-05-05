@@ -1,0 +1,7 @@
+{
+  "id": "bmi_change",
+  "display_name": "Change in BMI between baseline and follow-up",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

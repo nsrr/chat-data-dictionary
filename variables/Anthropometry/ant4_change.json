@@ -1,0 +1,7 @@
+{
+  "id": "ant4_change",
+  "display_name": "Change in Weight between baseline and follow-up",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}
