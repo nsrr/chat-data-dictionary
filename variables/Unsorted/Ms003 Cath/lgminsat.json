@@ -1,6 +1,6 @@
 {
   "id": "lgminsat",
-  "display_name": "LOG Min O2 sats",
+  "display_name": "LOG minimum O2 sats",
   "description": "",
   "type": "numeric",
   "units": ""
