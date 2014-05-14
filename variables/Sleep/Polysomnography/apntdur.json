@@ -1,7 +1,7 @@
 {
   "id": "apntdur",
-  "display_name": "PSG Report: Total Apnea Length (NREM) (minutes)",
-  "description": "Total duration of Apnea in NREM sleep",
+  "display_name": "Total apnea length (NREM)",
+  "description": "Total duration of apnea in NREM sleep",
   "type": "numeric",
   "units": "minutes"
 }

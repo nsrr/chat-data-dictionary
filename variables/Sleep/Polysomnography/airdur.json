@@ -1,7 +1,7 @@
 {
   "id": "airdur",
-  "display_name": "QS: hours of usable Airflow",
-  "description": "hours of usable airflow",
+  "display_name": "Hours of usable airflow",
+  "description": "Hours of usable airflow",
   "type": "numeric",
   "units": "hours"
 }

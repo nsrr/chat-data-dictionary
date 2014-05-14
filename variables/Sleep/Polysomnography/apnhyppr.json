@@ -1,6 +1,6 @@
 {
   "id": "apnhyppr",
-  "display_name": "QS: Scoring Apnea/Hypopnea unreliable",
+  "display_name": "Scoring Apnea/Hypopnea unreliable",
   "description": "1=Apnea/Hypopnea distinction unreliable",
   "type": "choices",
   "domain": "noyes"

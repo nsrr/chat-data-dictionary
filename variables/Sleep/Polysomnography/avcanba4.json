@@ -1,7 +1,7 @@
 {
   "id": "avcanba4",
-  "display_name": "PSG Report: Avg. Cent. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
-  "description": "Average Obstructive Apnea duration during NREM sleep with supine body position",
+  "display_name": "Average central apnea length w/ arousals (NREM, Back, 4% desat)",
+  "description": "Average central apnea duration during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

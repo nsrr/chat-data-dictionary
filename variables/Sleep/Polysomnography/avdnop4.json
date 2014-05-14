@@ -1,7 +1,7 @@
 {
   "id": "avdnop4",
-  "display_name": "PSG Report: Avg. Desat (NREM, Other, 4% desat)",
-  "description": "Average respiratory related desat during NREM sleep with non-supine body position",
+  "display_name": "Average desaturation (NREM, Other, 4% desat)",
+  "description": "Average respiratory related desaturation during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

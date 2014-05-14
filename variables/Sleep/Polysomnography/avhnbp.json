@@ -1,7 +1,7 @@
 {
   "id": "avhnbp",
-  "display_name": "PSG Report: Avg. Hypopnea length (NREM, Back, all desats) (seconds)",
-  "description": "Average Hypopnea duration during NREM sleep with supine body position",
+  "display_name": "Average hypopnea length (NREM, Back, all desats)",
+  "description": "Average hypopnea duration during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

@@ -1,6 +1,6 @@
 {
   "id": "arunrel",
-  "display_name": "QS: Scoring arousals unreliable",
+  "display_name": "Scoring arousals unreliable",
   "description": "1=Arousals unreliable",
   "type": "choices",
   "domain": "noyes"

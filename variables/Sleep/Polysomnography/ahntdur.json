@@ -1,7 +1,7 @@
 {
   "id": "ahntdur",
-  "display_name": "PSG Report: Total Apnea and Hypopnea Length (NREM) (minutes)",
-  "description": "Total duration of Apnea and Hypopnea in NREM sleep",
+  "display_name": "Total apnea and hypopnea length (NREM)",
+  "description": "Total duration of apnea and hypopnea in NREM sleep",
   "type": "numeric",
   "units": "minutes"
 }

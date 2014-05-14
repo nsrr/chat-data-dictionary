@@ -1,7 +1,7 @@
 {
   "id": "avcaroa",
-  "display_name": "PSG Report: Avg. Cent. Apnea length w/ arousals (REM, Other, all desats) (seconds)",
-  "description": "Average Central Apnea duration during REM sleep with non-supine body position",
+  "display_name": "Average central apnea length w/ arousals (REM, Other, all desats)",
+  "description": "Average central apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

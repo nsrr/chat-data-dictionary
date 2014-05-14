@@ -1,6 +1,6 @@
 {
   "id": "ahnremop",
-  "display_name": "PSG Report: Arousals per hour (NREM, Other, all desats)",
+  "display_name": "Arousals per hour (NREM, Other, all desats)",
   "description": "Number of arousals per hour during NREM and non-supine body position",
   "type": "numeric",
   "units": "events per hour"

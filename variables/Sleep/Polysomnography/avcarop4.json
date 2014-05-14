@@ -1,7 +1,7 @@
 {
   "id": "avcarop4",
-  "display_name": "PSG Report: Avg. Cent. Apnea length (REM, Other, 4% desat) (seconds)",
-  "description": "Average Central Apnea duration during REM sleep with non-supine body position",
+  "display_name": "Average central apnea length (REM, Other, 4% desat)",
+  "description": "Average central apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

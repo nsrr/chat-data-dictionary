@@ -1,7 +1,7 @@
 {
   "id": "avdnoa5",
-  "display_name": "PSG Report: Avg. Desat w/ arousals (NREM, Other, 5% desat)",
-  "description": "Average respiratory related desat during NREM sleep with non-supine body position",
+  "display_name": "Average desaturation with arousals (NREM, Other, 5% desat)",
+  "description": "Average respiratory related desaturation during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

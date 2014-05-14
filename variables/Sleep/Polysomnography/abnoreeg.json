@@ -1,6 +1,6 @@
 {
   "id": "abnoreeg",
-  "display_name": "QS: Abnormal EEG background / waveforms",
+  "display_name": "Abnormal EEG background / waveforms",
   "description": "1=Unusual Occurrences - Abnormal EEG",
   "type": "choices",
   "domain": "noyes"

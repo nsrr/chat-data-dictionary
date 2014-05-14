@@ -1,7 +1,7 @@
 {
   "id": "avmanrop5",
-  "display_name": "PSG Report: Avg. Mixed Apnea length (NREM, Other, 5% desat) (seconds)",
-  "description": "Average Mixed Apnea duration during NREM sleep with non-supine body position",
+  "display_name": "Average mixed apnea length (NREM, Other, 5% desat)",
+  "description": "Average mixed apnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

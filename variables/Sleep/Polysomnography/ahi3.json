@@ -1,6 +1,6 @@
 {
   "id": "ahi3",
-  "display_name": "PSG Report: Apnea / Hypopnea events with >= 3% percent desat per hour of sleep",
+  "display_name": "Apnea / Hypopnea events with >= 3% percent desat per hour of sleep",
   "description": "Number of Apnea / Hypopnea events associated with >= 3% desat per hour of sleep",
   "type": "numeric",
   "units": "events per hour",

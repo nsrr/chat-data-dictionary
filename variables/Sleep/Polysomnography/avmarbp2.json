@@ -1,7 +1,7 @@
 {
   "id": "avmarbp2",
-  "display_name": "PSG Report: Avg. Mixed Apnea length (REM, Back, 2% desat) (seconds)",
-  "description": "Average Mixed Apnea duration during REM sleep with supine body position",
+  "display_name": "Average mixed apnea length (REM, Back, 2% desat)",
+  "description": "Average mixed apnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

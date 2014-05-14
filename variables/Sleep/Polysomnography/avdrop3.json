@@ -1,7 +1,7 @@
 {
   "id": "avdrop3",
-  "display_name": "PSG Report: Avg. Desat (REM, Other, 3% desat)",
-  "description": "Average respiratory related desat during REM sleep with non-supine body position",
+  "display_name": "Average desaturation (REM, Other, 3% desat)",
+  "description": "Average respiratory related desaturation during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

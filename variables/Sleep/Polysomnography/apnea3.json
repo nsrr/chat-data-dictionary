@@ -1,7 +1,7 @@
 {
   "id": "apnea3",
-  "display_name": "PSG Report: Number of Apnea events with >= 3% desat",
-  "description": "Number of Apnea events with >= 3% desaturation",
+  "display_name": "Number of apnea events with >= 3% desat",
+  "description": "Number of apnea events with >= 3% desaturation",
   "type": "numeric",
   "units": "events",
   "commonly_used": true
