@@ -1,6 +1,6 @@
 {
   "id": "htdur",
-  "display_name": "PSG Report: Total Hypopnea Length (minutes)",
+  "display_name": "Report: Total Hypopnea Length (minutes)",
   "description": "Total duration of Hypopnea (entire recording)",
   "type": "numeric",
   "units": "minutes"

@@ -1,6 +1,6 @@
 {
   "id": "mxsao2rh",
-  "display_name": "PSG Report: Maximum SaO2 % during REM sleep",
+  "display_name": "Report: Maximum SaO2 % during REM sleep",
   "description": "Highest SaO2 % during REM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation",

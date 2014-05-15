@@ -1,6 +1,6 @@
 {
   "id": "stloutp",
-  "display_name": "PSG Report: Lights out time (hh:mm:ss)",
+  "display_name": "Report: Lights out time (hh:mm:ss)",
   "description": "Time marked as Lights Out",
   "type": "time",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "pctsthyp",
-  "display_name": "PSG Report: Percentage of Sleep time in Hypopnea",
+  "display_name": "Report: Percentage of Sleep time in Hypopnea",
   "description": "% Sleep time in Hypopnea",
   "type": "numeric",
   "units": "percent"

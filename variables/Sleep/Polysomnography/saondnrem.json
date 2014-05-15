@@ -1,6 +1,6 @@
 {
   "id": "saondnrem",
-  "display_name": "PSG Report: Avg. SaO2% Nadir (NREM)",
+  "display_name": "Report: Avg. SaO2% Nadir (NREM)",
   "description": "Mean SaO2 Nadir in NonREM",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

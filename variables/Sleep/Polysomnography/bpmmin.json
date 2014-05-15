@@ -1,6 +1,6 @@
 {
   "id": "bpmmin",
-  "display_name": "PSG Report: Lowest Heart rate (bpm)",
+  "display_name": "Report: Lowest Heart rate (bpm)",
   "description": "Lowest Heart rate (entire recording)",
   "type": "numeric",
   "units": "beats per minute",

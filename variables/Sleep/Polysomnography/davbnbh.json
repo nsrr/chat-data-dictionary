@@ -1,6 +1,6 @@
 {
   "id": "davbnbh",
-  "display_name": "PSG Report: Avg. Heart Rate with arousal (NREM, Back, 3% desat) (bpm)",
+  "display_name": "Report: Avg. Heart Rate with arousal (NREM, Back, 3% desat) (bpm)",
   "description": "Average heart rate during REM sleep with Supine body position",
   "type": "numeric",
   "units": "beats per minute"

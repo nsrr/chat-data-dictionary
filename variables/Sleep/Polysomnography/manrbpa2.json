@@ -1,6 +1,6 @@
 {
   "id": "manrbpa2",
-  "display_name": "PSG Report: Number of Mixed Apnea with arousal (NREM, Back, 2% desat)",
+  "display_name": "Report: Number of Mixed Apnea with arousal (NREM, Back, 2% desat)",
   "description": "Number of Mixed Apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

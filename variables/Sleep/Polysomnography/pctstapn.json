@@ -1,6 +1,6 @@
 {
   "id": "pctstapn",
-  "display_name": "PSG Report: Percentage of Sleep time in Apnea",
+  "display_name": "Report: Percentage of Sleep time in Apnea",
   "description": "% Sleep time in Apnea",
   "type": "numeric",
   "units": "percent"

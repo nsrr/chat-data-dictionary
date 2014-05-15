@@ -1,6 +1,6 @@
 {
   "id": "cardrbp4",
-  "display_name": "PSG Report: Cent. Apnea per hour (REM, Back, 4% desat)",
+  "display_name": "Report: Cent. Apnea per hour (REM, Back, 4% desat)",
   "description": "Number of Central Apnea per hour of REM sleep with supine body position",
   "type": "numeric",
   "units": "events per hour"

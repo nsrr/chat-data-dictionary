@@ -1,6 +1,6 @@
 {
   "id": "ontdurbp",
-  "display_name": "PSG Report: Total Obstructive Apnea Length (NREM, Back) (minutes)",
+  "display_name": "Report: Total Obstructive Apnea Length (NREM, Back) (minutes)",
   "description": "Total duration of Obstructive Apnea in NREM sleep with Non-supine body position",
   "type": "numeric",
   "units": "seconds"

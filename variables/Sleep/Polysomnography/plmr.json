@@ -1,6 +1,6 @@
 {
   "id": "plmr",
-  "display_name": "PSG Report: Number of PLMs with resp. events",
+  "display_name": "Report: Number of PLMs with resp. events",
   "description": "Total PLMs with resp. events",
   "type": "numeric",
   "units": "limb movements"

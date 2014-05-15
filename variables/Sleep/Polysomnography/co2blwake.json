@@ -1,6 +1,6 @@
 {
   "id": "co2blwake",
-  "display_name": "PSG Report: Baseline EtCO2 Awake",
+  "display_name": "Report: Baseline EtCO2 Awake",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"

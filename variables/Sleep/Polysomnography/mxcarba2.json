@@ -1,6 +1,6 @@
 {
   "id": "mxcarba2",
-  "display_name": "PSG Report: Maximum Cent. Apnea length w/ arousals (REM, Back, 2% desat) (seconds)",
+  "display_name": "Report: Maximum Cent. Apnea length w/ arousals (REM, Back, 2% desat) (seconds)",
   "description": "Longest Central Apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

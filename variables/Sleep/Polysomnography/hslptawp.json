@@ -1,6 +1,6 @@
 {
   "id": "hslptawp",
-  "display_name": "PSG Report: Number of sleep to awake shifts per hour",
+  "display_name": "Report: Number of sleep to awake shifts per hour",
   "description": "Number of sleep to awake shifts per hour",
   "type": "numeric",
   "units": "events per hour"

@@ -1,6 +1,6 @@
 {
   "id": "lmanropa3",
-  "display_name": "PSG Report: Maximum Mixed Apnea with arousal length (NREM, Other, 3% desat) (seconds)",
+  "display_name": "Report: Maximum Mixed Apnea with arousal length (NREM, Other, 3% desat) (seconds)",
   "description": "Longest Mixed Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

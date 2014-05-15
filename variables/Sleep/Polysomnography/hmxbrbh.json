@@ -1,6 +1,6 @@
 {
   "id": "hmxbrbh",
-  "display_name": "PSG Report: Maximum Heart Rate (REM, Back, 3% desat) (bpm)",
+  "display_name": "Report: Maximum Heart Rate (REM, Back, 3% desat) (bpm)",
   "description": "Highest heart rate during REM sleep with Supine body position",
   "type": "numeric",
   "units": "beats per minute"

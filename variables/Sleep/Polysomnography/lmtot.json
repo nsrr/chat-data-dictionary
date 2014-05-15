@@ -1,6 +1,6 @@
 {
   "id": "lmtot",
-  "display_name": "PSG Report: Number of Limb Movements",
+  "display_name": "Report: Number of Limb Movements",
   "description": "Total Limb Movements",
   "type": "numeric",
   "units": "limb movements"

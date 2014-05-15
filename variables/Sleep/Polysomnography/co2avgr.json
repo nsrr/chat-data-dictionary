@@ -1,6 +1,6 @@
 {
   "id": "co2avgr",
-  "display_name": "PSG Report: Average EtCO2 in REM",
+  "display_name": "Report: Average EtCO2 in REM",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"

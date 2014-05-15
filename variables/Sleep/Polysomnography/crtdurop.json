@@ -1,6 +1,6 @@
 {
   "id": "crtdurop",
-  "display_name": "PSG Report: Total Cent. Apnea Length (REM, Other) (minutes)",
+  "display_name": "Report: Total Cent. Apnea Length (REM, Other) (minutes)",
   "description": "Total duration of Central Apnea in REM sleep with Non-supine body position",
   "type": "numeric",
   "units": "minutes"

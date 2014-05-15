@@ -1,6 +1,6 @@
 {
   "id": "nobrc",
-  "display_name": "PSG Report: Number of Bradycardia related to Cent. Apnea (Sleep time onset)",
+  "display_name": "Report: Number of Bradycardia related to Cent. Apnea (Sleep time onset)",
   "description": "Number of Bradycardia related to Central Apnea during sleep",
   "type": "numeric",
   "units": "beats per minute"

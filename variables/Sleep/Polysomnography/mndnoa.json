@@ -1,6 +1,6 @@
 {
   "id": "mndnoa",
-  "display_name": "PSG Report: Minimum SaO2 w/ arousals (NREM, Other, all desats) (%)",
+  "display_name": "Report: Minimum SaO2 w/ arousals (NREM, Other, all desats) (%)",
   "description": "Lowest SaO2 during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

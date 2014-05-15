@@ -1,6 +1,6 @@
 {
   "id": "plmrem",
-  "display_name": "PSG Report: Number of PLMs (REM)",
+  "display_name": "Report: Number of PLMs (REM)",
   "description": "Total PLMs in REM sleep",
   "type": "numeric",
   "units": "limb movements"

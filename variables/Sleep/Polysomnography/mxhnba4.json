@@ -1,6 +1,6 @@
 {
   "id": "mxhnba4",
-  "display_name": "PSG Report: Maximum Hypopnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
+  "display_name": "Report: Maximum Hypopnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
   "description": "Longest Hypopnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

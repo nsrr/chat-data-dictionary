@@ -1,6 +1,6 @@
 {
   "id": "hmanrop2",
-  "display_name": "PSG Report: Number of Mixed Apnea per hour (NREM, Other, 2% desat)",
+  "display_name": "Report: Number of Mixed Apnea per hour (NREM, Other, 2% desat)",
   "description": "Number of Mixed Apnea per hour of NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "events per hour"

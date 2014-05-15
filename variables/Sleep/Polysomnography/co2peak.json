@@ -1,6 +1,6 @@
 {
   "id": "co2peak",
-  "display_name": "PSG Report: Peak EtCO2 Asleep",
+  "display_name": "Report: Peak EtCO2 Asleep",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"

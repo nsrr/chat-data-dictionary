@@ -1,6 +1,6 @@
 {
   "id": "plmcrslp",
-  "display_name": "PSG Report: Number of PLM clusters with resp. events (Sleep)",
+  "display_name": "Report: Number of PLM clusters with resp. events (Sleep)",
   "description": "Total PLM clusters with resp. events in All Sleep",
   "type": "numeric",
   "units": "limb movements"

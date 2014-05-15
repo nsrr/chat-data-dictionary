@@ -1,6 +1,6 @@
 {
   "id": "longhyp",
-  "display_name": "PSG Report: Longest Hypopnea (seconds)",
+  "display_name": "Report: Longest Hypopnea (seconds)",
   "description": "Longest Hypopnea (entire recording)",
   "type": "numeric",
   "units": "seconds",

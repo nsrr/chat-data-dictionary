@@ -1,6 +1,6 @@
 {
   "id": "bpmmax",
-  "display_name": "PSG Report: Highest Heart rate (bpm)",
+  "display_name": "Report: Highest Heart rate (bpm)",
   "description": "Highest Heart rate (entire recording)",
   "type": "numeric",
   "units": "beats per minute",

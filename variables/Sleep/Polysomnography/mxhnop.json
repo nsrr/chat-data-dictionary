@@ -1,6 +1,6 @@
 {
   "id": "mxhnop",
-  "display_name": "PSG Report: Maximum Hypopnea length (NREM, Other all desats) (seconds)",
+  "display_name": "Report: Maximum Hypopnea length (NREM, Other all desats) (seconds)",
   "description": "Longest Hypopnea during NREM sleep with non-supine body positionR",
   "type": "numeric",
   "units": "seconds"

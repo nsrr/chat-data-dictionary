@@ -1,6 +1,6 @@
 {
   "id": "avsao2nh",
-  "display_name": "PSG Report: Avg. SaO2 % during NREM sleep",
+  "display_name": "Report: Avg. SaO2 % during NREM sleep",
   "description": "Average SaO2 % during NREM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation",

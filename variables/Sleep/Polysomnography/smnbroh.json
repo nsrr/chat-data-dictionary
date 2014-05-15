@@ -1,6 +1,6 @@
 {
   "id": "smnbroh",
-  "display_name": "PSG Report: Minimum Heart Rate (REM, Other, all desats) (bpm)",
+  "display_name": "Report: Minimum Heart Rate (REM, Other, all desats) (bpm)",
   "description": "Lowest heart rate during REM sleep with Non-supine body position",
   "type": "numeric",
   "units": "beats per minute"

@@ -1,6 +1,6 @@
 {
   "id": "savbnoh",
-  "display_name": "PSG Report: Avg. Heart Rate (NREM, Other, all desats) (bpm)",
+  "display_name": "Report: Avg. Heart Rate (NREM, Other, all desats) (bpm)",
   "description": "Average heart rate during REM sleep with Non-supine body position",
   "type": "numeric",
   "units": "beats per minute"

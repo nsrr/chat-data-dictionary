@@ -1,6 +1,6 @@
 {
   "id": "scoredt",
-  "display_name": "PSG Report: Scored Date",
+  "display_name": "Report: Scored Date",
   "description": "Date Scored   (Date of Birth in Compumedics Screen)  If study reprocessed date scored changes",
   "type": "date",
   "units": ""

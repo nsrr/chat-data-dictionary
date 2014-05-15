@@ -1,6 +1,6 @@
 {
   "id": "smanrop",
-  "display_name": "PSG Report: Minimum Mixed Apnea length (NREM, Other, all desats) (seconds)",
+  "display_name": "Report: Minimum Mixed Apnea length (NREM, Other, all desats) (seconds)",
   "description": "Shortest Mixed Apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

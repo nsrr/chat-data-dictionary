@@ -1,6 +1,6 @@
 {
   "id": "hmarbp",
-  "display_name": "PSG Report: Number of Mixed Apnea per hour (REM, Back, all desats)",
+  "display_name": "Report: Number of Mixed Apnea per hour (REM, Back, all desats)",
   "description": "Number of Mixed Apnea per hour of REM sleep with supine body position",
   "type": "numeric",
   "units": "events per hour",

@@ -1,6 +1,6 @@
 {
   "id": "slpeffp",
-  "display_name": "PSG Report: Sleep Efficiency (%)",
+  "display_name": "Report: Sleep Efficiency (%)",
   "description": "Sleep efficiency - [(total sleep time) / (time from sleep onset to morning waking)] * 100  (Data can be inaccurate if scorer has not set sleep onset rule properly in Compumedics software)",
   "type": "numeric",
   "units": "percent"

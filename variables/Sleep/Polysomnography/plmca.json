@@ -1,6 +1,6 @@
 {
   "id": "plmca",
-  "display_name": "PSG Report: Number of PLM clusters with arousal",
+  "display_name": "Report: Number of PLM clusters with arousal",
   "description": "Total PLM clusters with arousal",
   "type": "numeric",
   "units": "limb movements"

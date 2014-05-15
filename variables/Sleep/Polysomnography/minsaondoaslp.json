@@ -1,6 +1,6 @@
 {
   "id": "minsaondoaslp",
-  "display_name": "PSG Report: Minimum SaO2% Nadir assoc. w/ Obs. Apnea (Sleep)",
+  "display_name": "Report: Minimum SaO2% Nadir assoc. w/ Obs. Apnea (Sleep)",
   "description": "Lowest SaO2 Nadir associated with Obstructive Apnea in sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

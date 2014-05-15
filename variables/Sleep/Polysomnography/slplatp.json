@@ -1,6 +1,6 @@
 {
   "id": "slplatp",
-  "display_name": "PSG Report: Sleep Latency (minutes)",
+  "display_name": "Report: Sleep Latency (minutes)",
   "description": "Time from lights out time to beginning of sleep, rounded to nearest minute  (Data can be inaccurate if scorer has not set sleep onset rule properly in Compumedics software)",
   "type": "numeric",
   "units": "minutes"

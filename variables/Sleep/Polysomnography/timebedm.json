@@ -1,6 +1,6 @@
 {
   "id": "timebedm",
-  "display_name": "PSG Report: Time in bed (minutes .5)",
+  "display_name": "Report: Time in bed (minutes .5)",
   "description": "Total time from lights out to lights on, rounded to nearest minute (total time in bed)",
   "type": "numeric",
   "units": "minutes"

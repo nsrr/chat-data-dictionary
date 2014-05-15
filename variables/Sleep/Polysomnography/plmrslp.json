@@ -1,6 +1,6 @@
 {
   "id": "plmrslp",
-  "display_name": "PSG Report: Number of PLMs with resp. events (Sleep)",
+  "display_name": "Report: Number of PLMs with resp. events (Sleep)",
   "description": "Total PLMs with resp. events in All Sleep",
   "type": "numeric",
   "units": "limb movements"

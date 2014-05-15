@@ -1,6 +1,6 @@
 {
   "id": "ststartp",
-  "display_name": "PSG Report: Study start time (hh:mm:ss)",
+  "display_name": "Report: Study start time (hh:mm:ss)",
   "description": "Time recording began (time of epoch 1)",
   "type": "time",
   "units": ""

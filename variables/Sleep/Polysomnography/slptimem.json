@@ -1,6 +1,6 @@
 {
   "id": "slptimem",
-  "display_name": "PSG Report: Sleep Time (minutes .5)",
+  "display_name": "Report: Sleep Time (minutes .5)",
   "description": "Total Sleep Time (minutes)",
   "type": "numeric",
   "units": "minutes"

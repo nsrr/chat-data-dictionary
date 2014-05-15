@@ -1,6 +1,6 @@
 {
   "id": "mnhrahslp",
-  "display_name": "PSG Report: Minimum Heart Rate assoc. w/ Apnea and Hypopnea (Sleep time onset)",
+  "display_name": "Report: Minimum Heart Rate assoc. w/ Apnea and Hypopnea (Sleep time onset)",
   "description": "Minimum heart rate associated with Apnea and Hypopnea during sleep",
   "type": "numeric",
   "units": "beats per minute"

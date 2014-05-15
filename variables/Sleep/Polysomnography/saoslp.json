@@ -1,6 +1,6 @@
 {
   "id": "saoslp",
-  "display_name": "PSG Report: Avg. SaO2% (Sleep)",
+  "display_name": "Report: Avg. SaO2% (Sleep)",
   "description": "Mean SaO2 during sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

@@ -1,6 +1,6 @@
 {
   "id": "hstg342p",
-  "display_name": "PSG Report: Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
+  "display_name": "Report: Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
   "description": "Number of stage 3/4 to stage 1/2 shifts per hour of sleep",
   "type": "numeric",
   "units": "events per hour"

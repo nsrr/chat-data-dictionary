@@ -1,6 +1,6 @@
 {
   "id": "hremt2p",
-  "display_name": "PSG Report: Number of REM to stage 2 shifts per hour of sleep",
+  "display_name": "Report: Number of REM to stage 2 shifts per hour of sleep",
   "description": "Number of REM to stage 2 shifts per hour of sleep",
   "type": "numeric",
   "units": "events per hour"
