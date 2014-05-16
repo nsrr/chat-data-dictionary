@@ -1,7 +1,7 @@
 {
   "id": "hmarbpa",
-  "display_name": "Report: Number of Mixed Apnea with arousal per hour (REM, Back, all desats)",
-  "description": "Number of Mixed Apnea per hour of REM sleep with supine body position",
+  "display_name": "Number of mixed apnea with arousal per hour (REM, Back, all desaturations)",
+  "description": "Number of mixed apnea per hour of REM sleep with supine body position",
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true

@@ -1,7 +1,7 @@
 {
   "id": "lmar",
-  "display_name": "Report: Number of Limb Movements with arousal and resp. event",
-  "description": "Total Limb Movements with arousal and  resp. events",
+  "display_name": "Number of limb movements with arousal and respiratory event",
+  "description": "Total limb movements with arousal and  respiratory events",
   "type": "numeric",
   "units": "limb movements",
   "commonly_used": true

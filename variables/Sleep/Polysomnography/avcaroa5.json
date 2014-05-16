@@ -1,6 +1,6 @@
 {
   "id": "avcaroa5",
-  "display_name": "Average central apnea length w/ arousals (REM, Other, 5% desat)",
+  "display_name": "Average central apnea length with arousals (REM, Other, 5% desaturation)",
   "description": "Average central apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

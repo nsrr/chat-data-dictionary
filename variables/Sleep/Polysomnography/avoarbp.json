@@ -1,7 +1,7 @@
 {
   "id": "avoarbp",
-  "display_name": "Report: Avg. Obstructive Apnea length (REM, Back, all desats) (seconds)",
-  "description": "Average Obstructive Apnea duration during REM sleep with supine body position",
+  "display_name": "Average obstructive apnea length (REM, Back, all desaturations)",
+  "description": "Average obstructive apnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

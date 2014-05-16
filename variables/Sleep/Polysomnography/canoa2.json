@@ -1,7 +1,7 @@
 {
   "id": "canoa2",
-  "display_name": "Report: Number of Cent. Apnea w/ arousals (NREM, Other, 2% desat)",
-  "description": "Number of Central Apnea during NREM sleep with non-supine body position",
+  "display_name": "Number of central apnea with arousals (NREM, Other, 2% desaturation)",
+  "description": "Number of central apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "events"
 }

@@ -1,6 +1,6 @@
 {
   "id": "ai_all",
-  "display_name": "Filtered: Overall Arousal Index",
+  "display_name": "Overall Arousal Index",
   "description": "Arousal Index - total arousals per hour of sleep  [(Total number of arousals) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",

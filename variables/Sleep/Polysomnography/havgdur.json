@@ -1,7 +1,7 @@
 {
   "id": "havgdur",
-  "display_name": "Report: Avg. Hypopnea Length (seconds)",
-  "description": "Average duration of Hypopnea (entire recording)",
+  "display_name": "Average hypopnea length",
+  "description": "Average duration of hypopnea (entire recording)",
   "type": "numeric",
   "units": "seconds",
   "commonly_used": true

@@ -1,6 +1,6 @@
 {
   "id": "avhnop4",
-  "display_name": "Average hypopnea length (NREM, Other, 4% desat)",
+  "display_name": "Average hypopnea length (NREM, Other, 4% desaturation)",
   "description": "Average hypopnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

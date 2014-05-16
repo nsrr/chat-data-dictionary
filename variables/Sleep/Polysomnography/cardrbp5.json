@@ -1,7 +1,7 @@
 {
   "id": "cardrbp5",
-  "display_name": "Report: Cent. Apnea per hour (REM, Back, 5% desat)",
-  "description": "Number of Central Apnea per hour of REM sleep with supine body position",
+  "display_name": "Central apnea per hour (REM, Back, 5% desaturation)",
+  "description": "Number of central apnea per hour of REM sleep with supine body position",
   "type": "numeric",
   "units": "events per hour"
 }

@@ -1,6 +1,6 @@
 {
   "id": "eogrdur",
-  "display_name": "QS: hours of usable EOG R",
+  "display_name": "hours of usable EOG R",
   "description": "hours of usable EOG R",
   "type": "numeric",
   "units": "hours"

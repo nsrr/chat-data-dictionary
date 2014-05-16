@@ -1,7 +1,7 @@
 {
   "id": "cai0p",
-  "display_name": "Filtered: Central Apnea Index all desats",
-  "description": "Central Apnea Index at all desats  [(Total number of central apneas associated with all desats) / (hours of sleep)]. Will be missing if total sleep time is 0.",
+  "display_name": "Central apnea index all desaturations",
+  "description": "Central apnea index at all desaturations  [(Total number of central apneas associated with all desaturations) / (hours of sleep)]. Will be missing if total sleep time is 0.",
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true,

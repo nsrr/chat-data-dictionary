@@ -1,7 +1,7 @@
 {
   "id": "hnroa3",
-  "display_name": "Report: Number of Hypopnea w/ arousals (NREM, Other, 3% desat)",
-  "description": "Number of Hypopnea during NREM sleep with non-supine body position",
+  "display_name": "Number of hypopnea with arousals (NREM, Other, 3% desaturation)",
+  "description": "Number of hypopnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "events"
 }

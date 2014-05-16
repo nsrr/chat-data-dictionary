@@ -1,6 +1,6 @@
 {
   "id": "avcanop",
-  "display_name": "Average central apnea length (NREM, Other, all desats)",
+  "display_name": "Average central apnea length (NREM, Other, all desaturations)",
   "description": "Average central apnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

@@ -1,7 +1,7 @@
 {
   "id": "cardrop4",
-  "display_name": "Report: Cent. Apnea per hour (REM, Other, 4% desat)",
-  "description": "Number of Central Apnea per hour of REM sleep with non-supine body position",
+  "display_name": "Central apnea per hour (REM, Other, 4% desaturation)",
+  "description": "Number of central apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
   "units": "events per hour"
 }

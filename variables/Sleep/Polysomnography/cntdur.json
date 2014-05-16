@@ -1,7 +1,7 @@
 {
   "id": "cntdur",
-  "display_name": "Report: Total Cent. Apnea Length (NREM) (minutes)",
-  "description": "Total duration of Central Apnea in NREM sleep",
+  "display_name": "Total central apnea length (NREM)",
+  "description": "Total duration of central apnea in NREM sleep",
   "type": "numeric",
   "units": "minutes"
 }

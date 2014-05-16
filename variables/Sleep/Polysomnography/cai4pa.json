@@ -1,7 +1,7 @@
 {
   "id": "cai4pa",
-  "display_name": "Filtered: Central Apnea Index 4% or arousal",
-  "description": "Central Apnea Index with Arousal at 4% desat  [(Total number of central apneas with arousals associated with >= 4% desat) / (hours of sleep)]",
+  "display_name": "Central apnea index 4% or arousal",
+  "description": "Central apnea index with arousal at 4% desaturation  [(Total number of central apneas with arousals associated with >= 4% desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculations": "60*(carba4 + caroa4 + canba4 + canoa4 ) / slpprdp"

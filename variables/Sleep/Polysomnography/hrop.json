@@ -1,7 +1,7 @@
 {
   "id": "hrop",
-  "display_name": "Report: Number of Hypopnea (REM, Other, all desats)",
-  "description": "Number of Hypopnea during REM sleep with non-supine body position",
+  "display_name": "Number of hypopnea (REM, Other, all desaturations)",
+  "description": "Number of hypopnea during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "events"
 }

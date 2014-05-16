@@ -1,7 +1,7 @@
 {
   "id": "lmrstg1",
-  "display_name": "Report: Number of Limb Movements with resp. events (Stage 1 Sleep)",
-  "description": "Total Limb Movements with resp. events Stage 1 sleep",
+  "display_name": "Number of limb movements with respiratory events (stage 1 sleep)",
+  "description": "Total limb movements with respiratory events stage 1 sleep",
   "type": "numeric",
   "units": "limb movements"
 }

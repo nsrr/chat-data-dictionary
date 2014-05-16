@@ -1,7 +1,7 @@
 {
   "id": "avoanoa3",
-  "display_name": "Report: Avg. Obstructive Apnea length w/ arousals (NREM, Other, 3% desat) (seconds)",
-  "description": "Average Obstructive Apnea duration during NREM sleep with non-supine body position",
+  "display_name": "Average obstructive apnea length with arousals (NREM, Other, 3% desaturation)",
+  "description": "Average obstructive apnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

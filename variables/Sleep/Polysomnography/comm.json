@@ -1,7 +1,7 @@
 {
   "id": "comm",
-  "display_name": "QS: Signal Quality Issues",
-  "description": "1=Signal Quality Issues",
+  "display_name": "Signal quality issues",
+  "description": "1=signal quality issues",
   "type": "string",
   "units": ""
 }

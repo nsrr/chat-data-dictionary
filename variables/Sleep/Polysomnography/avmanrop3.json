@@ -1,6 +1,6 @@
 {
   "id": "avmanrop3",
-  "display_name": "Average mixed apnea length (NREM, Other, 3% desat)",
+  "display_name": "Average mixed apnea length (NREM, Other, 3% desaturation)",
   "description": "Average mixed apnea duration during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

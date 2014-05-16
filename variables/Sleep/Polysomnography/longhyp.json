@@ -1,7 +1,7 @@
 {
   "id": "longhyp",
-  "display_name": "Report: Longest Hypopnea (seconds)",
-  "description": "Longest Hypopnea (entire recording)",
+  "display_name": "Longest hypopnea",
+  "description": "Longest hypopnea (entire recording)",
   "type": "numeric",
   "units": "seconds",
   "commonly_used": true

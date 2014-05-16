@@ -1,6 +1,6 @@
 {
   "id": "avhrbp2",
-  "display_name": "Average hypopnea length (REM, Back, 2% desat)",
+  "display_name": "Average hypopnea length (REM, Back, 2% desaturation)",
   "description": "Average Hypopnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

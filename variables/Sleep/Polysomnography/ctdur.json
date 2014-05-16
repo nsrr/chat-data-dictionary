@@ -1,7 +1,7 @@
 {
   "id": "ctdur",
-  "display_name": "Report: Total Cent. Apnea Length (minutes)",
-  "description": "Total duration of Central Apnea (entire recording)",
+  "display_name": "Total central apnea length",
+  "description": "Total duration of central apnea (entire recording)",
   "type": "numeric",
   "units": "minutes"
 }

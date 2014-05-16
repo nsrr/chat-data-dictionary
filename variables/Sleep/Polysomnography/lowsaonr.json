@@ -1,7 +1,7 @@
 {
   "id": "lowsaonr",
-  "display_name": "Report: Minimum SaO2% (NREM) (%)",
-  "description": "Lowest SaO2% in NonREM sleep",
+  "display_name": "Minimum oxygen saturation (NREM)",
+  "description": "Lowest oxygen saturation in NonREM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

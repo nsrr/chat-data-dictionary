@@ -1,6 +1,6 @@
 {
   "id": "avmarbpa",
-  "display_name": "Average mixed apnea with arousal length (REM, Back, all desats)",
+  "display_name": "Average mixed apnea with arousal length (REM, Back, all desaturations)",
   "description": "Average mixed apnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

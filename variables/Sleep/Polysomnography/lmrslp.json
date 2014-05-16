@@ -1,7 +1,7 @@
 {
   "id": "lmrslp",
-  "display_name": "Report: Number of Limb Movements with resp. events (Sleep)",
-  "description": "Total Limb Movements with resp. events in All Sleep",
+  "display_name": "Number of limb movements with respiratory events (sleep)",
+  "description": "Total limb movements with respiratory events in all sleep",
   "type": "numeric",
   "units": "limb movements"
 }
