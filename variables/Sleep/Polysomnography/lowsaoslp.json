@@ -1,7 +1,7 @@
 {
   "id": "lowsaoslp",
-  "display_name": "Report: Minimum SaO2 % (Sleep time) (%)",
-  "description": "Lowest SaO2% during sleep",
+  "display_name": "Minimum oxygen saturation (sleep time)",
+  "description": "Lowest oxygen saturation during sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

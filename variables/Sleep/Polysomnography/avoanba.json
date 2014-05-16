@@ -1,6 +1,6 @@
 {
   "id": "avoanba",
-  "display_name": "Average obstructive apnea length with arousals (NREM, Back, all desats)",
+  "display_name": "Average obstructive apnea length with arousals (NREM, Back, all desaturations)",
   "description": "Average obstructive apnea duration during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

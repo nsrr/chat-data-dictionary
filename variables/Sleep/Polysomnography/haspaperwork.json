@@ -1,6 +1,6 @@
 {
   "id": "haspaperwork",
-  "display_name": "QS: Paperwork received at Reading Center",
+  "display_name": "Paperwork received at reading center",
   "description": "",
   "type": "choices",
   "domain": "noyes"

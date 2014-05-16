@@ -1,7 +1,7 @@
 {
   "id": "lmnrem",
-  "display_name": "Report: Number of Limb Movements (NREM)",
-  "description": "Total Limb Movements in NREM sleep",
+  "display_name": "Number of limb movements (NREM)",
+  "description": "Total limb movements in NREM sleep",
   "type": "numeric",
   "units": "limb movements"
 }

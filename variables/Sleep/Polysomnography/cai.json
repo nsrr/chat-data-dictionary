@@ -1,6 +1,6 @@
 {
   "id": "cai",
-  "display_name": "Report: Central Apnea Index",
+  "display_name": "Central apnea index",
   "description": "(Total number of central apneas) / (hours of sleep)",
   "type": "numeric",
   "units": "events per hour",

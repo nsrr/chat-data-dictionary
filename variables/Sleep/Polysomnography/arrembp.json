@@ -1,6 +1,6 @@
 {
   "id": "arrembp",
-  "display_name": "Number of arousals (REM, Back, all desats)",
+  "display_name": "Number of arousals (REM, Back, all desaturations)",
   "description": "Number of arousals during REM and supine body position",
   "type": "numeric",
   "units": "events"

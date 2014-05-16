@@ -1,7 +1,7 @@
 {
   "id": "carba4",
-  "display_name": "Report: Number of Cent. Apnea w/ arousals (REM, Back, 4% desat)",
-  "description": "Number of Central Apnea during REM sleep with supine body position",
+  "display_name": "Number of central apnea with arousals (REM, Back, 4% desaturation)",
+  "description": "Number of central apnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "events"
 }

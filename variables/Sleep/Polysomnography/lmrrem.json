@@ -1,7 +1,7 @@
 {
   "id": "lmrrem",
-  "display_name": "Report: Number of Limb Movements with resp. events (REM)",
-  "description": "Total Limb Movements with resp. events in REM sleep",
+  "display_name": "Number of limb movements with respiratory events (REM)",
+  "description": "Total limb movements with respiratory events in REM sleep",
   "type": "numeric",
   "units": "limb movements"
 }

@@ -1,7 +1,7 @@
 {
   "id": "bpmavg",
-  "display_name": "Report: Average Heart rate (bpm)",
-  "description": "Average Heart rate (entire recording)",
+  "display_name": "Average heart rate (bpm)",
+  "description": "Average heart rate (entire recording)",
   "type": "numeric",
   "units": "beats per minute",
   "commonly_used": true

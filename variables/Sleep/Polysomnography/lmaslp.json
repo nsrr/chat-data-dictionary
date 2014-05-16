@@ -1,7 +1,7 @@
 {
   "id": "lmaslp",
-  "display_name": "Report: Number of Limb Movements with arousal (Sleep)",
-  "description": "Total Limb Movements with arousal  in All Sleep",
+  "display_name": "Number of limb movements with arousal (sleep)",
+  "description": "Total limb movements with arousal in all sleep",
   "type": "numeric",
   "units": "limb movements"
 }

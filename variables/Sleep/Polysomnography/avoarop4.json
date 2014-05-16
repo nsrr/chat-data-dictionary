@@ -1,6 +1,6 @@
 {
   "id": "avoarop4",
-  "display_name": "Average obstructive apnea length (REM, Other, 4% desat)",
+  "display_name": "Average obstructive apnea length (REM, Other, 4% desaturation)",
   "description": "Average obstructive apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

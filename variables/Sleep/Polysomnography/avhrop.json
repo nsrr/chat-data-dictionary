@@ -1,6 +1,6 @@
 {
   "id": "avhrop",
-  "display_name": "Average hypopnea length (REM, Other, all desats)",
+  "display_name": "Average hypopnea length (REM, Other, all desaturations)",
   "description": "Average Hypopnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

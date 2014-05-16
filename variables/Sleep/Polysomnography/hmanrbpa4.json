@@ -1,7 +1,7 @@
 {
   "id": "hmanrbpa4",
-  "display_name": "Report: Number of Mixed Apnea with arousal per hour (NREM, Back, 4% desat)",
-  "description": "Number of Mixed Apnea per hour of NREM sleep with supine body position",
+  "display_name": "Number of mixed apnea with arousal per hour (NREM, Back, 4% desaturation)",
+  "description": "Number of mixed apnea per hour of NREM sleep with supine body position",
   "type": "numeric",
   "units": "events per hour"
 }

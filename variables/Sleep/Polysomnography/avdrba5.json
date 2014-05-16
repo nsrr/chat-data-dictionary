@@ -1,6 +1,6 @@
 {
   "id": "avdrba5",
-  "display_name": "Average desaturation with arousals (REM, Back, 5% desat)",
+  "display_name": "Average desaturation with arousals (REM, Back, 5% desaturation)",
   "description": "Average respiratory related desaturation during REM sleep with supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"

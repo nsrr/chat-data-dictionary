@@ -1,6 +1,6 @@
 {
   "id": "arnrembp",
-  "display_name": "Number of arousals (NREM, Back, all desats)",
+  "display_name": "Number of arousals (NREM, Back, all desaturation)",
   "description": "Number of arousals during NREM and supine body position",
   "type": "numeric",
   "units": "events"

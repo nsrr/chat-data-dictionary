@@ -1,6 +1,6 @@
 {
   "id": "avoarba",
-  "display_name": "Average obstructive apnea length with arousals (REM, Back, all desats)",
+  "display_name": "Average obstructive apnea length with arousals (REM, Back, all desaturations)",
   "description": "Average obstructive apnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"

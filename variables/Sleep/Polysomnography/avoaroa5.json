@@ -1,6 +1,6 @@
 {
   "id": "avoaroa5",
-  "display_name": "Average obstructive apnea length with arousals (REM, Other, 5% desat)",
+  "display_name": "Average obstructive apnea length with arousals (REM, Other, 5% desaturation)",
   "description": "Average obstructive apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"

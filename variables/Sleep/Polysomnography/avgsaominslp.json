@@ -1,7 +1,7 @@
 {
   "id": "avgsaominslp",
-  "display_name": "Average SaO2% minimum (Sleep time)",
-  "description": "Average SaO2% during sleep",
+  "display_name": "Average oxygen saturation minimum (Sleep time)",
+  "description": "Average oxygen saturation during sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

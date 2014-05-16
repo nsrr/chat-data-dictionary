@@ -1,7 +1,7 @@
 {
   "id": "losbeg",
-  "display_name": "QS: Data lost - Recording begain in sleep",
-  "description": "1=Data Lost - loss at beginning of study",
+  "display_name": "Data lost - recording begain in sleep",
+  "description": "1=data lost - loss at beginning of study",
   "domain": "noyes",
   "type": "choices"
 }

@@ -1,6 +1,6 @@
 {
   "id": "co2blslp",
-  "display_name": "Report: Baseline EtCO2 Asleep",
+  "display_name": "Baseline EtCO2 asleep",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"

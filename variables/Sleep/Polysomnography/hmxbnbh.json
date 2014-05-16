@@ -1,7 +1,7 @@
 {
   "id": "hmxbnbh",
-  "display_name": "Report: Maximum Heart Rate (NREM, Back, 3% desat) (bpm)",
-  "description": "Highest heart rate during REM sleep with Supine body position",
+  "display_name": "Maximum heart rate (NREM, Back, 3% desaturation)",
+  "description": "Highest heart rate during REM sleep with supine body position",
   "type": "numeric",
   "units": "beats per minute"
 }

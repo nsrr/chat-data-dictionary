@@ -1,7 +1,7 @@
 {
   "id": "lmadelta",
-  "display_name": "Report: Number of Limb Movements with arousal (Delta Sleep)",
-  "description": "Total Limb Movements with arousal  in Delta sleep",
+  "display_name": "Number of limb movements with arousal (delta sleep)",
+  "description": "Total limb movements with arousal  in delta sleep",
   "type": "numeric",
   "units": "limb movements"
 }

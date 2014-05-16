@@ -1,7 +1,7 @@
 {
   "id": "hremba",
-  "display_name": "Report: Number of Hypopnea w/ arousals (REM, Back, all desats)",
-  "description": "Number of Hypopnea during REM sleep with supine body position",
+  "display_name": "Number of hypopnea with arousals (REM, Back, all desaturations)",
+  "description": "Number of hypopnea during REM sleep with supine body position",
   "type": "numeric",
   "units": "events"
 }
