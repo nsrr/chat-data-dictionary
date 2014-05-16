@@ -1,0 +1,7 @@
+{
+  "id": "lighoff",
+  "display_name": "Tech/Participant reported time to bed",
+  "description": "Reported time to bed",
+  "type": "time",
+  "units": ""
+}

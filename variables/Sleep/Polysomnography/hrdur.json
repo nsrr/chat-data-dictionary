@@ -1,7 +1,0 @@
-{
-  "id": "hrdur",
-  "display_name": "hours of usable HR",
-  "description": "hours of usable HR",
-  "type": "numeric",
-  "units": "hours"
-}
