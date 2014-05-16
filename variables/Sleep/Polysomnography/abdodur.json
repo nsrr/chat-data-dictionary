@@ -1,7 +1,0 @@
-{
-  "id": "abdodur",
-  "display_name": "Hours of usable abdominal effort",
-  "description": "Hours of usable abdomen effort",
-  "type": "numeric",
-  "units": "hours"
-}
