@@ -1,0 +1,7 @@
+{
+  "id": "ahnremop",
+  "display_name": "Arousals per hour (NREM, Other, all desaturation)",
+  "description": "Number of arousals per hour during NREM and non-supine body position",
+  "type": "numeric",
+  "units": "events per hour"
+}

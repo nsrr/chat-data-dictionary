@@ -1,0 +1,7 @@
+{
+  "id": "aavbroh",
+  "display_name": "Average heart rate with arousal (REM, Other, all desaturations)",
+  "description": "Average heart rate during REM sleep with Non-supine body position",
+  "type": "numeric",
+  "units": "beats per minute"
+}
