@@ -1,7 +1,7 @@
 {
   "id": "mxcanba2",
-  "display_name": "Report: Maximum Cent. Apnea length w/ arousals (NREM, Back, 2% desat) (seconds)",
-  "description": "Longest Central Apnea during NREM sleep with supine body position",
+  "display_name": "Maximum central apnea length with arousals (NREM, Back, 2% desaturation)",
+  "description": "Longest central apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

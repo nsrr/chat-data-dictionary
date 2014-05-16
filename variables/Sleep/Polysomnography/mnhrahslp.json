@@ -1,7 +1,7 @@
 {
   "id": "mnhrahslp",
-  "display_name": "Report: Minimum Heart Rate assoc. w/ Apnea and Hypopnea (Sleep time onset)",
-  "description": "Minimum heart rate associated with Apnea and Hypopnea during sleep",
+  "display_name": "Minimum heart rate associated with apnea and hypopnea (sleep time onset)",
+  "description": "Minimum heart rate associated with apnea and hypopnea during sleep",
   "type": "numeric",
   "units": "beats per minute"
 }

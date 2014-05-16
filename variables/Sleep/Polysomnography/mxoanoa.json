@@ -1,7 +1,7 @@
 {
   "id": "mxoanoa",
-  "display_name": "Report: Maximum Obstructive Apnea length w/ arousals (NREM, Other all desats) (seconds)",
-  "description": "Longest Obstructive Apnea during NREM sleep with non-supine body position",
+  "display_name": "Maximum obstructive apnea length with arousals (NREM, Other all desaturations)",
+  "description": "Longest obstructive apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

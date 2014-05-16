@@ -1,7 +1,7 @@
 {
   "id": "mnsao2rh",
-  "display_name": "Report: Minimum SaO2 % during REM sleep",
-  "description": "Lowest SaO2 % during REM sleep",
+  "display_name": "Minimum oxygen saturation during REM sleep",
+  "description": "Lowest oxygen saturation during REM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation",
   "commonly_used": true

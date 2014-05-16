@@ -1,7 +1,7 @@
 {
   "id": "mncanba4",
-  "display_name": "Report: Minimum Cent. Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
-  "description": "Shortest Obstructive Apnea during NREM sleep with supine body position",
+  "display_name": "Minimum central apnea length with arousals (NREM, Back, 4% desaturation)",
+  "description": "Shortest obstructive apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

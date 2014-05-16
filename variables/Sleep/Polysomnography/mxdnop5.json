@@ -1,7 +1,7 @@
 {
   "id": "mxdnop5",
-  "display_name": "Report: Maximum Desat (NREM, Other, 5% desat)",
-  "description": "Largest respiratory related desat during NREM sleep with non-supine body position",
+  "display_name": "Maximum desaturation (NREM, Other, 5% desaturation)",
+  "description": "Largest respiratory related desaturation during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mnhnbp4",
-  "display_name": "Report: Minimum Hypopnea length (NREM, Back, 4% desat) (seconds)",
-  "description": "Shortest Hypopnea during NREM sleep with supine body position",
+  "display_name": "Minimum hypopnea length (NREM, Back, 4% desaturation)",
+  "description": "Shortest hypopnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }

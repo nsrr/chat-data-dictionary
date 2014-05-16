@@ -1,7 +1,7 @@
 {
   "id": "mncanop2",
-  "display_name": "Report: Minimum Cent. Apnea length (NREM, Other, 2% desat) (seconds)",
-  "description": "Shortest Central Apnea during NREM sleep with non-supine body position",
+  "display_name": "Minimum central apnea length (NREM, Other, 2% desaturation)",
+  "description": "Shortest central apnea during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

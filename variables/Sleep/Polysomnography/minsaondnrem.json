@@ -1,7 +1,7 @@
 {
   "id": "minsaondnrem",
-  "display_name": "Report: Minimum SaO2% Nadir (NREM)",
-  "description": "Lowest SaO2 Nadir in NonREM sleep",
+  "display_name": "Minimum oxygen saturation nadir (NREM)",
+  "description": "Lowest oxygen saturation nadir in nonREM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

@@ -1,7 +1,7 @@
 {
   "id": "minsat",
-  "display_name": "Filtered: Minimum SaO2 in sleep",
-  "description": "Lowest SaO2% during sleep  [Min(all SaO2 values in sleep)]",
+  "display_name": "Minimum oxygen saturation in sleep",
+  "description": "Lowest oxygen saturation during sleep  [minimum(all oxygen saturation values in sleep)]",
   "type": "numeric",
   "units": "percent",
   "calculation": "min(losao2r,losao2nr)"
