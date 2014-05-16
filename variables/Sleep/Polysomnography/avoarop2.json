@@ -1,7 +1,7 @@
 {
   "id": "avoarop2",
-  "display_name": "Report: Avg. Obstructive Apnea length (REM, Other, 2% desat) (seconds)",
-  "description": "Average Obstructive Apnea duration during REM sleep with non-supine body position",
+  "display_name": "Average obstructive apnea length (REM, Other, 2% desat)",
+  "description": "Average obstructive apnea duration during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "seconds"
 }

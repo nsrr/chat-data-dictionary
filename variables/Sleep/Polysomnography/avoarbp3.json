@@ -1,7 +1,7 @@
 {
   "id": "avoarbp3",
-  "display_name": "Report: Avg. Obstructive Apnea length (REM, Back, 3% desat) (seconds)",
-  "description": "Average Obstructive Apnea duration during REM sleep with supine body position",
+  "display_name": "Average obstructive apnea length (REM, Back, 3% desat)",
+  "description": "Average obstructive apnea duration during REM sleep with supine body position",
   "type": "numeric",
   "units": "seconds"
 }
