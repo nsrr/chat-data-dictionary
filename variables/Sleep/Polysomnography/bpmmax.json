@@ -1,6 +1,6 @@
 {
   "id": "bpmmax",
-  "display_name": "Highest heart rate (bpm)",
+  "display_name": "Highest heart rate",
   "description": "Highest heart rate (entire recording)",
   "type": "numeric",
   "units": "beats per minute",

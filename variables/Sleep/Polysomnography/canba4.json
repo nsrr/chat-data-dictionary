@@ -1,7 +1,7 @@
 {
   "id": "canba4",
   "display_name": "Number of central apnea with arousals (NREM, Back, 4% desaturation)",
-  "description": "Number of obstructive apnea during NREM sleep with supine body position",
+  "description": "Number of central apnea during NREM sleep with supine body position",
   "type": "numeric",
   "units": "events"
 }

@@ -1,6 +1,6 @@
 {
   "id": "co2peak",
-  "display_name": "Peak EtCO2 asleep",
+  "display_name": "Peak percentage of carbon dioxide asleep",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"
