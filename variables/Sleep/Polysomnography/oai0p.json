@@ -1,8 +1,9 @@
 {
   "id": "oai0p",
-  "display_name": "Filtered: Obstructive Apnea Index (all obstructives with all desats)",
-  "description": "Obstructive Apnea Index  [(Total number of obstructive apneas associated with all desats) / (hours of sleep)]. Will be missing if total sleep time is 0.",
+  "display_name": "Obstructive apnea index (all obstructives with all desaturations)",
+  "description": "Obstructive apnea index  [(total number of obstructive apneas associated with all desaturations) / (hours of sleep)]. will be missing if total sleep time is 0.",
   "type": "numeric",
   "units": "events per hour",
   "calculations": "60*(oarbp +  oarop  + oanbp  + oanop ) / slpprdp"
 }
+

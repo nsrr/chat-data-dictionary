@@ -1,7 +1,7 @@
 {
   "id": "plmrrem",
-  "display_name": "Report: Number of PLMs with resp. events (REM)",
-  "description": "Total PLMs with resp. events in REM sleep",
+  "display_name": "Number of PLMs with respiratory events (REM)",
+  "description": "Total PLMs with respiratory events in REM sleep",
   "type": "numeric",
   "units": "limb movements"
 }

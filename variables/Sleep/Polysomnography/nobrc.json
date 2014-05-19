@@ -1,7 +1,7 @@
 {
   "id": "nobrc",
-  "display_name": "Report: Number of Bradycardia related to Cent. Apnea (Sleep time onset)",
-  "description": "Number of Bradycardia related to Central Apnea during sleep",
+  "display_name": "Number of bradycardia related to central apnea (sleep time onset)",
+  "description": "Number of bradycardia related to central apnea during sleep",
   "type": "numeric",
   "units": "beats per minute"
 }

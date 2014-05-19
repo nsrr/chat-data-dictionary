@@ -1,7 +1,7 @@
 {
   "id": "plmr",
-  "display_name": "Report: Number of PLMs with resp. events",
-  "description": "Total PLMs with resp. events",
+  "display_name": "Number of PLMs with respiratory events",
+  "description": "Total PLMs with respiratory events",
   "type": "numeric",
   "units": "limb movements"
 }

@@ -1,6 +1,6 @@
 {
   "id": "processdt",
-  "display_name": "QS: Date data were processed",
+  "display_name": "Date data were processed",
   "description": "",
   "type": "date",
   "units": ""

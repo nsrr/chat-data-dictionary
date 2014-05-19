@@ -1,7 +1,7 @@
 {
   "id": "ontdur",
-  "display_name": "Report: Total Obstructive Apnea Length (NREM) (minutes)",
-  "description": "Total duration of Obstructive Apnea in NREM sleep",
+  "display_name": "Total obstructive apnea length (NREM)",
+  "description": "Total duration of obstructive apnea in NREM sleep",
   "type": "numeric",
   "units": "seconds"
 }

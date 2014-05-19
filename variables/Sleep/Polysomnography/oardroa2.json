@@ -1,7 +1,7 @@
 {
   "id": "oardroa2",
-  "display_name": "Report: Obstructive Apnea per hour w/ arousals (REM, Other, 2% desat)",
-  "description": "Number of Obstructive Apnea per hour of REM sleep with non-supine body position",
+  "display_name": "Obstructive apnea per hour with arousals (REM, Other, 2% desaturation)",
+  "description": "Number of obstructive apnea per hour of REM sleep with non-supine body position",
   "type": "numeric",
   "units": "events per hour"
 }

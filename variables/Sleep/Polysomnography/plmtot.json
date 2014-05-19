@@ -1,6 +1,6 @@
 {
   "id": "plmtot",
-  "display_name": "Report: Number of PLMs",
+  "display_name": "Number of PLMs",
   "description": "Total PLMs",
   "type": "numeric",
   "units": "limb movements"

@@ -1,7 +1,7 @@
 {
   "id": "plmdelta",
-  "display_name": "Report: Number of PLMs (Delta Sleep)",
-  "description": "Total PLMs in Delta sleep",
+  "display_name": "Number of PLMs (delta sleep)",
+  "description": "Total PLMs in delta sleep",
   "type": "numeric",
   "units": "limb movements"
 }

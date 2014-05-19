@@ -1,7 +1,7 @@
 {
   "id": "nobrslp",
-  "display_name": "Report: Number of Bradycardia (Sleep time)",
-  "description": "Number of Bradycardia during sleep",
+  "display_name": "Number of bradycardia (sleep time)",
+  "description": "Number of bradycardia during sleep",
   "type": "numeric",
   "units": "beats per minute"
 }

@@ -1,7 +1,7 @@
 {
   "id": "nodb4slp",
-  "display_name": "Report: Number of Snore during sleep (dB level 4)",
-  "description": "Number of Snore during sleep (dB level 4)",
+  "display_name": "Number of snore during sleep (dB level 4)",
+  "description": "Number of snore during sleep (dB level 4)",
   "type": "numeric",
   "units": "decibels"
 }

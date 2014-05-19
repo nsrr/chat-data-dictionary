@@ -1,7 +1,7 @@
 {
   "id": "plmaslp",
-  "display_name": "Report: Number of PLMs with arousal (Sleep)",
-  "description": "Total PLMs with arousal in All Sleep",
+  "display_name": "Number of PLMs with arousal (sleep)",
+  "description": "Total PLMs with arousal in all sleep",
   "type": "numeric",
   "units": "limb movements",
   "commonly_used": true

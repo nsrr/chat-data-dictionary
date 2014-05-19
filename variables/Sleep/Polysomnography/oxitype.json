@@ -1,6 +1,6 @@
 {
   "id": "oxitype",
-  "display_name": "Oximeter Type",
+  "display_name": "Oximeter type",
   "description": "1 = Masimo, 2 = Nonin, 3 = Nonin Biologic",
   "type": "choices",
   "domain": "oximetertype",

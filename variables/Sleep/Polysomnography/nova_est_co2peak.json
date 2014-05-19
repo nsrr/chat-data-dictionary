@@ -1,7 +1,7 @@
 {
   "id": "nova_est_co2peak",
-  "display_name": "Filtered: Peak EtCO2 Asleep (Normalized for Capnograph type)",
-  "description": "For BCI: Nova_est_CO2PEAK = (rco2peak * 0.79956) + 9.17655",
+  "display_name": "Peak EtCO2 asleep (normalized for capnograph type)",
+  "description": "For BCI: nova_est_co2peak = (rco2peak * 0.79956) + 9.17655",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
   "calculations": "(Peak EtCO2 Asleep * 0.79956) + 9.17655",

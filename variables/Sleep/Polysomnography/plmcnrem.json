@@ -1,6 +1,6 @@
 {
   "id": "plmcnrem",
-  "display_name": "Report: Number of PLM clusters (NREM)",
+  "display_name": "Number of PLM clusters (NREM)",
   "description": "Total PLM clusters in NREM sleep",
   "type": "numeric",
   "units": "limb movements"

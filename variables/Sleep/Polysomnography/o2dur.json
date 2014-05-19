@@ -1,6 +1,6 @@
 {
   "id": "o2dur",
-  "display_name": "QS: hours of usable O2",
+  "display_name": "hours of usable O2",
   "description": "hours of usable EEG",
   "type": "numeric",
   "units": "hours"

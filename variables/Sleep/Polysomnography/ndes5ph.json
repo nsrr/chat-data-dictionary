@@ -1,7 +1,7 @@
 {
   "id": "ndes5ph",
-  "display_name": "Report: Number of desat with >= 5% desat",
-  "description": "Number of desats with desaturation >= 5%",
+  "display_name": "Number of desaturation with >= 5% desaturation",
+  "description": "Number of desaturations with desaturation >= 5%",
   "type": "numeric",
   "units": "desaturation events",
   "commonly_used": true

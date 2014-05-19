@@ -1,7 +1,7 @@
 {
   "id": "period",
-  "display_name": "QS: Periodic breathing >= 10 min",
-  "description": "1=Unusual Occurrences - Periodic breathing > 5 min",
+  "display_name": "Periodic breathing >= 10 minutes",
+  "description": "1=unusual occurrences - periodic breathing > 5 minutes",
   "type": "choices",
   "domain":"noyes"
 }

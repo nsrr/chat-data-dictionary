@@ -1,6 +1,6 @@
 {
   "id": "overall",
-  "display_name": "QS: Overall study grade",
+  "display_name": "Overall study grade",
   "description": "Overall study grade",
   "type": "choices",
   "domain": "studygrade",

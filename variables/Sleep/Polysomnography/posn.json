@@ -1,6 +1,6 @@
 {
   "id": "posn",
-  "display_name": "Filtered: Position sensor working",
+  "display_name": "Position sensor working",
   "description": "1=Position sensor working",
   "type": "choices",
   "domain": "noyes",

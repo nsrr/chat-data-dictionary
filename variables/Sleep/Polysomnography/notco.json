@@ -1,7 +1,7 @@
 {
   "id": "notco",
-  "display_name": "Report: Number of Tachycardia  related to Obs. Apnea (Sleep time)",
-  "description": "Number of Tachycardia  related to Obstructive Apnea during sleep",
+  "display_name": "Number of tachycardia  related to obstructive apnea (sleep time)",
+  "description": "Number of tachycardia  related to obstructive apnea during sleep",
   "type": "numeric",
   "units": "beats per minute"
 }

@@ -1,6 +1,6 @@
 {
   "id": "plmnrem",
-  "display_name": "Report: Number of PLMs (NREM)",
+  "display_name": "Number of PLMs (NREM)",
   "description": "Total PLMs in NREM sleep",
   "type": "numeric",
   "units": "limb movements"
