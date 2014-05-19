@@ -1,6 +1,6 @@
 {
   "id": "quair",
-  "display_name": "QS: quality of Airflow",
+  "display_name": "quality of airflow",
   "description": "quality of airflow",
   "type": "choices",
   "domain": "signalofsleeptime"

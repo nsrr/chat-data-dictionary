@@ -1,7 +1,7 @@
 {
   "id": "remnrempr",
-  "display_name": "QS: Scoring REM/NREM unreliable",
-  "description": "1=Sleep Staging Problem - scoring rem/nrem unreliable",
+  "display_name": "Scoring REM/NREM unreliable",
+  "description": "1=Sleep staging problem - scoring rem/nrem unreliable",
   "type": "choices",
   "domain": "noyes"
 }

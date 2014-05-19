@@ -1,7 +1,7 @@
 {
   "id": "smnbroh",
-  "display_name": "Report: Minimum Heart Rate (REM, Other, all desats) (bpm)",
-  "description": "Lowest heart rate during REM sleep with Non-supine body position",
+  "display_name": "Minimum heart rate (REM, Other, all desaturations)",
+  "description": "Lowest heart rate during REM sleep with non-supine body position",
   "type": "numeric",
   "units": "beats per minute"
 }

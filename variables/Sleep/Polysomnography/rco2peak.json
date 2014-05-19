@@ -1,6 +1,6 @@
 {
   "id": "rco2peak",
-  "display_name": "Filtered: Peak EtCO2 Asleep",
+  "display_name": "Peak EtCO2 asleep",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

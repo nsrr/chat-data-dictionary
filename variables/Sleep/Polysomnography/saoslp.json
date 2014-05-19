@@ -1,7 +1,7 @@
 {
   "id": "saoslp",
-  "display_name": "Report: Avg. SaO2% (Sleep)",
-  "description": "Mean SaO2 during sleep",
+  "display_name": "Average oxygen saturation (sleep)",
+  "description": "Mean oxygen saturation during sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

@@ -1,6 +1,6 @@
 {
   "id": "scslpon",
-  "display_name": "QS: Sleep onset time (hhmm)",
+  "display_name": "Sleep onset time",
   "description": "sleep onset time",
   "type": "time",
   "units": ""

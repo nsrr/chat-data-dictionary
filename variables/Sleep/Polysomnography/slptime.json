@@ -1,6 +1,6 @@
 {
   "id": "slptime",
-  "display_name": "QS: Sleep Time (minutes)",
+  "display_name": "Sleep time",
   "description": "total sleep time (minutes)",
   "type": "numeric",
   "units": "minutes"

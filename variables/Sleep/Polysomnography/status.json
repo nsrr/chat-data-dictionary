@@ -1,6 +1,6 @@
 {
   "id": "status",
-  "display_name": "QS: Pass Fail status (passed=1 failed=2)",
+  "display_name": "Pass fail status (passed=1 failed=2)",
   "description": "",
   "type": "choices",
   "domain": "passedorfailed"

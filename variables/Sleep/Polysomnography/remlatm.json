@@ -1,6 +1,6 @@
 {
   "id": "remlatm",
-  "display_name": "Report: REM Latency I (minutes .5)",
+  "display_name": "REM latency I",
   "description": "Total time from beginning of sleep to first epoch of REM (minutes)",
   "type": "numeric",
   "units": "minutes"

@@ -1,6 +1,6 @@
 {
   "id": "waso",
-  "display_name": "Filtered: Wake after sleep onset (minutes)",
+  "display_name": "Wake after sleep onset",
   "description": "Total amount of time spent awake after going to sleep [(time in bed) - (sleep latency) - (total sleep time)]",
   "type": "numeric",
   "units": "minutes",

@@ -1,6 +1,6 @@
 {
   "id": "qulegl",
-  "display_name": "QS: quality of LegL",
+  "display_name": "quality of LegL",
   "description": "quality of L Leg",
   "type": "choices",
   "domain": "signalofsleeptime"

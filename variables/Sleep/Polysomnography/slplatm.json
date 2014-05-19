@@ -1,6 +1,6 @@
 {
   "id": "slplatm",
-  "display_name": "Report: Sleep Latency (minutes .5)",
+  "display_name": "Sleep latency",
   "description": "Time from lights out time to sleep onset, in minutes",
   "type": "numeric",
   "units": "minutes"

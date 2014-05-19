@@ -1,7 +1,7 @@
 {
   "id": "slptimem",
-  "display_name": "Report: Sleep Time (minutes .5)",
-  "description": "Total Sleep Time (minutes)",
+  "display_name": "Sleep time",
+  "description": "Total sleep time (minutes)",
   "type": "numeric",
   "units": "minutes"
 }

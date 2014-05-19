@@ -1,6 +1,6 @@
 {
   "id": "qusnor",
-  "display_name": "QS: quality of Snore",
+  "display_name": "quality of snore",
   "description": "quality of snore mic",
   "type": "choices",
   "domain": "signalofsleeptime"

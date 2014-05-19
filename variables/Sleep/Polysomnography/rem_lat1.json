@@ -1,6 +1,6 @@
 {
   "id": "rem_lat1",
-  "display_name": "Filtered: REM latency I in minutes slp onset to first REM",
+  "display_name": "REM latency I in minutes slp onset to first REM",
   "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",

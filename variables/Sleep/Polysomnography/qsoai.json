@@ -1,6 +1,6 @@
 {
   "id": "qsoai",
-  "display_name": "QS: Obstructive Apnea Index (OAI)",
+  "display_name": "Obstructive apnea index (OAI)",
   "description": "Recorded by the scorer on QS form",
   "type": "numeric",
   "units": "events"

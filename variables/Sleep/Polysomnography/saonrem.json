@@ -1,7 +1,7 @@
 {
   "id": "saonrem",
-  "display_name": "Report: Avg. SaO2% (NREM)",
-  "description": "Mean SaO2 during NonREM sleep",
+  "display_name": "Average oxygen saturation (NREM)",
+  "description": "Mean oxygen saturation during nonREM sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

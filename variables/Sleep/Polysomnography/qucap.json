@@ -1,6 +1,6 @@
 {
   "id": "qucap",
-  "display_name": "QS: quality of Cap",
+  "display_name": "quality of cap",
   "description": "*need to define quality scoring",
   "type": "choices",
   "domain": "signalofsleeptime",

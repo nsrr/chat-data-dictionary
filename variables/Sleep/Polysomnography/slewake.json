@@ -1,6 +1,6 @@
 {
   "id": "slewake",
-  "display_name": "QS: Study scored sleep wake = 1 All sleep scored Stage 2",
+  "display_name": "Study scored sleep wake = 1 all sleep scored stage 2",
   "description": "1=Study scored sleep wake",
   "type": "choices",
   "domain": "noyes"

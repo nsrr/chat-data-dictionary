@@ -1,6 +1,6 @@
 {
   "id": "rco2blwake",
-  "display_name": "Filtered: Baseline EtCO2 Awake",
+  "display_name": "Baseline EtCO2 awake",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

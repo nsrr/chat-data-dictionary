@@ -1,6 +1,6 @@
 {
   "id": "sclout",
-  "display_name": "QS: Lights out set by scorer (hhmm)",
+  "display_name": "Lights out set by scorer",
   "description": "lights out set by scorer",
   "type": "time",
   "units": ""

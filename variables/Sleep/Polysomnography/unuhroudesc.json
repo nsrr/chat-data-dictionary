@@ -1,7 +1,7 @@
 {
   "id": "unuhroudesc",
-  "display_name": "QS: Describe Problem HR",
-  "description": "1=Medical Alert for Unusual HR (description)",
+  "display_name": "Describe problem HR",
+  "description": "1=Medical alert for unusual HR (description)",
   "type": "string",
   "units": ""
 }

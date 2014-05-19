@@ -1,7 +1,7 @@
 {
   "id": "rdim4p",
-  "display_name": "Filtered: Overall RDI at 4% desat",
-  "description": "RDI at 4% desat  [(Total number of apneas and hypopneas associated with >= 4% desat) / (hours of sleep)]",
+  "display_name": "Overall RDI at 4% desaturation",
+  "description": "RDI at 4% desaturation  [(total number of apneas and hypopneas associated with >= 4% desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculations": " 60*(hrembp4 + hrop4 + hnrbp4 + hnrop4 + carbp4 + carop4 + canbp4 + canop4 + oarbp4 + oarop4 + oanbp4 + oanop4 + marbp4 + marop4 + manrbp4 + manrop4) / slpprdp",

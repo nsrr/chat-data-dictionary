@@ -1,6 +1,6 @@
 {
   "id": "unitid",
-  "display_name": "QS: Unit ID",
+  "display_name": "Unit ID",
   "description": "Unit on which data were collected",
   "type": "choices",
   "domain": "unitid",

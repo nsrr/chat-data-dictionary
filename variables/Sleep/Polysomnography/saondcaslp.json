@@ -1,7 +1,7 @@
 {
   "id": "saondcaslp",
-  "display_name": "Report: Avg. SaO2% Nadir assoc. w/ Cent. Apnea (Sleep)",
-  "description": "Mean SaO2 Nadir associated with Central Apnea in sleep",
+  "display_name": "Average oxygen saturation nadir associated with central apnea (sleep)",
+  "description": "Mean oxygen saturation nadir associated with central apnea in sleep",
   "type": "numeric",
   "units": "percentage of oxygen saturation"
 }

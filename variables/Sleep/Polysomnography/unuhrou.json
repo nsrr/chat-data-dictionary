@@ -1,7 +1,7 @@
 {
   "id": "unuhrou",
-  "display_name": "QS: Urgent - Problem HR < 40 bpm or > 140 bpm > 2 min = 1  Urgent Ineligible",
-  "description": "1=Medical Alert for Unusual HR or ECG",
+  "display_name": "Urgent - problem HR < 40 bpm or > 140 bpm > 2 minutes = 1  urgent ineligible",
+  "description": "1=Medical alert for unusual HR or ECG",
   "type": "choices",
   "domain": "noyes"
 }

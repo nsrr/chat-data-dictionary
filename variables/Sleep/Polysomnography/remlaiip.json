@@ -1,6 +1,6 @@
 {
   "id": "remlaiip",
-  "display_name": "Report: REM Latency II - excluding wake (minutes)",
+  "display_name": "REM Latency II - excluding wake",
   "description": "Total sleep time from beginning of sleep to first epoch of REM (excluding wake), rounded to nearest minute",
   "type": "numeric",
   "units": "minutes"

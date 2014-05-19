@@ -1,7 +1,7 @@
 {
   "id": "remarunrel",
-  "display_name": "QS: Scoring arousals in REM (only) unreliable",
-  "description": "1=Arousals in rem unreliable",
+  "display_name": "Scoring arousals in REM (only) unreliable",
+  "description": "1=arousals in rem unreliable",
   "type": "choices",
   "domain": "noyes"
 }

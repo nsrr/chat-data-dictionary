@@ -1,6 +1,6 @@
 {
   "id": "snordur",
-  "display_name": "QS: hours of usable Snore",
+  "display_name": "hours of usable snore",
   "description": "hours of usable snore mic",
   "type": "numeric",
   "units": "hours"

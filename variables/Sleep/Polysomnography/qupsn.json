@@ -1,7 +1,7 @@
 {
   "id": "qupsn",
-  "display_name": "QS: quality of Position",
-  "description": "*position for all non-Compumedics data hand scored from notes from site tech",
+  "display_name": "quality of position",
+  "description": "*position for all non-compumedics data hand scored from notes from site tech",
   "type": "choices",
   "domain": "signalofsleeptime"
 }

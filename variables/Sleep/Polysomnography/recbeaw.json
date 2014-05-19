@@ -1,7 +1,7 @@
 {
   "id": "recbeaw",
-  "display_name": "QS: Data lost - Recording ended before waking",
-  "description": "1=Data Lost - Recording ended before wake",
+  "display_name": "Data lost - recording ended before waking",
+  "description": "1=data Lost - recording ended before wake",
   "type": "choices",
   "domain": "noyes"
 }

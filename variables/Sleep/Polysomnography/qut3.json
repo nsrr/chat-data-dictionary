@@ -1,6 +1,6 @@
 {
   "id": "qut3",
-  "display_name": "QS: quality of T3",
+  "display_name": "quality of T3",
   "description": "quality of EEG",
   "type": "choices",
   "domain": "signalofsleeptime"

@@ -1,7 +1,7 @@
 {
   "id": "sao2rem",
-  "display_name": "Filtered: Average SaO2 REM",
-  "description": "Average SaO2% in REM sleep  [Mean(all SaO2 values in REM sleep)]. Will be missing if study scored as sleep/wake only.",
+  "display_name": "Average oxygen saturation REM",
+  "description": "Average oxygen saturation in REM sleep  [mean(all oxygen saturation values in REM sleep)]. will be missing if study scored as sleep/wake only.",
   "type": "numeric",
   "units": "percent",
   "calculations": "avsao2rh",

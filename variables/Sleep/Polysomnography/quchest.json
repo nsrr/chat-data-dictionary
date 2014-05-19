@@ -1,6 +1,6 @@
 {
   "id": "quchest",
-  "display_name": "QS: quality of Chest Effort",
+  "display_name": "quality of chest effort",
   "description": "quality of chest effort",
   "type": "choices",
   "domain": "signalofsleeptime"
