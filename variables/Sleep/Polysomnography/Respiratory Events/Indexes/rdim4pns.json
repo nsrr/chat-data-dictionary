@@ -1,0 +1,8 @@
+{
+  "id": "rdim4pns",
+  "display_name": "Overall non-supine RDI at 4% desaturation",
+  "description": "Non-supine RDI at 4% desaturation  [(total number of apneas and hypopneas in non-supine body position associated with >= 4% desaturation) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculations": "60*(hrop4 +   hnrop4 + carop4 + canop4 + oarop4 + oanop4 + marop4 + manrop4)/(remepop+nremepop)"
+}

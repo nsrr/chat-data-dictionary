@@ -1,7 +1,0 @@
-{
-  "id": "plmcrdelta",
-  "display_name": "Report: Number of PLM clusters with resp. events (Delta Sleep)",
-  "description": "Total PLM clusters with resp. events in Delta sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

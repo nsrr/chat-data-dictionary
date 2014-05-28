@@ -1,7 +1,0 @@
-{
-  "id": "savbrbh",
-  "display_name": "Report: Avg. Heart Rate (REM, Back, all desats) (bpm)",
-  "description": "Average heart rate during REM sleep with Supine body position",
-  "type": "numeric",
-  "units": "beats per minute"
-}

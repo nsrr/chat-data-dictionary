@@ -1,7 +1,0 @@
-{
-  "id": "minremp",
-  "display_name": "Report: Time in REM sleep (minutes)",
-  "description": "Total time scored as REM, rounded to nearest minute  (Use Calculated variable - sleep wake studies screened out)",
-  "type": "numeric",
-  "units": "minutes"
-}

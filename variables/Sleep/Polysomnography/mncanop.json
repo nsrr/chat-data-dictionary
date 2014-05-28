@@ -1,7 +1,0 @@
-{
-  "id": "mncanop",
-  "display_name": "Report: Minimum Cent. Apnea length (NREM, Other, all desats) (seconds)",
-  "description": "Shortest Obstructive Apnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

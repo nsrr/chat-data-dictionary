@@ -1,7 +1,0 @@
-{
-  "id": "qucan",
-  "display_name": "QS: quality of Cannula",
-  "description": "quality of cannula",
-  "type": "choices",
-  "domain": "signalofsleeptime"
-}

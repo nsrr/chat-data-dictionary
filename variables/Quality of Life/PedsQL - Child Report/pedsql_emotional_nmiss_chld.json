@@ -1,6 +1,6 @@
 {
   "id": "pedsql_emotional_nmiss_chld",
-  "display_name": "QS: Participant ID",
+  "display_name": "Participant ID",
   "description": "",
   "type": "integer",
   "units": "",

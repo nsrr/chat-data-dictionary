@@ -1,0 +1,7 @@
+{
+  "id": "mxoanop4",
+  "display_name": "Maximum obstructive apnea length (NREM, Other 4% desaturation)",
+  "description": "Longest obstructive apnea during NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

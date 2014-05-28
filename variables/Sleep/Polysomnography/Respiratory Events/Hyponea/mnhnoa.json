@@ -1,0 +1,7 @@
+{
+  "id": "mnhnoa",
+  "display_name": "Minimum hypopnea length with arousals (NREM, Other, all desaturations)",
+  "description": "Shortest hypopnea during NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

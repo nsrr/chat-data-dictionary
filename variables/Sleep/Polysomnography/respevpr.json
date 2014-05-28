@@ -1,7 +1,0 @@
-{
-  "id": "respevpr",
-  "display_name": "QS: Scoring respiratory events (RDI) unreliable",
-  "description": "1=Problems with resp. events",
-  "type": "choices",
-  "domain": "noyes"
-}

@@ -1,9 +1,0 @@
-{
-  "id": "rdim3pa",
-  "display_name": "Filtered: Overall RDI at 3% desat or arousal",
-  "description": "RDI with Arousals at 3% desat  [(Total number of apneas and hypopneas with arousal associated with >= 3% desat) / (hours of sleep)]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculations": "60*(hremba3 +hroa3 + hnrba3 + hnroa3 +carba3+ caroa3 + canba3 + canoa3 + oarba3 + oaroa3 + oanba3 + oanoa3 + marbpa3 + maropa3 + manrbpa3 + manropa3) / slpprdp",
-  "commonly_used": true
-}

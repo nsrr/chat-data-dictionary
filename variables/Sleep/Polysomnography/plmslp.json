@@ -1,7 +1,0 @@
-{
-  "id": "plmslp",
-  "display_name": "Report: Number of PLMs (Sleep)",
-  "description": "Total PLMs in All Sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

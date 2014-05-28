@@ -1,7 +1,0 @@
-{
-  "id": "mnhrbp3",
-  "display_name": "Report: Minimum Hypopnea length (REM, Back, 3% desat) (seconds)",
-  "description": "Shortest Hypopnea during REM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

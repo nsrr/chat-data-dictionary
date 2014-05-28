@@ -1,6 +1,6 @@
 {
   "id": "stendp",
-  "display_name": "Report: Study end time (hh:mm:ss)",
+  "display_name": "Study end time",
   "description": "Time recording ended (time of last epoch)",
   "type": "time",
   "units": ""

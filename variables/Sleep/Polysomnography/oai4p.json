@@ -1,8 +1,0 @@
-{
-  "id": "oai4p",
-  "display_name": "Filtered: Obstructive Apnea Index 4% desats",
-  "description": "Obstructive Apnea Index at 4% desat  [(Total number of obstructive apneas associated with >= 4% desat) / (hours of sleep)]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculations": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp"
-}

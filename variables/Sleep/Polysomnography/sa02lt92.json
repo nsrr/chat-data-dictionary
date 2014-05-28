@@ -1,7 +1,0 @@
-{
-  "id": "sa02lt92",
-  "display_name": "QS: Desaturation <92% for >2% of sleep time = 1  Surgeon Alert",
-  "description": "*Note studies that have oxi problems here",
-  "type": "choices",
-  "domain": "noyes"
-}

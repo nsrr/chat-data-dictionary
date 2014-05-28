@@ -1,0 +1,7 @@
+{
+  "id": "mnoarop",
+  "display_name": "Minimum obstructive apnea length (REM, Other, all desaturations)",
+  "description": "Shortest obstructive apnea during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

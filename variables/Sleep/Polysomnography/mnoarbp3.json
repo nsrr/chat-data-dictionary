@@ -1,7 +1,0 @@
-{
-  "id": "mnoarbp3",
-  "display_name": "Report: Minimum Obstructive Apnea length (REM, Back, 3% desat) (seconds)",
-  "description": "Shortest Obstructive Apnea during REM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

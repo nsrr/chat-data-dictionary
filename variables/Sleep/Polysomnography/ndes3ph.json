@@ -1,8 +1,0 @@
-{
-  "id": "ndes3ph",
-  "display_name": "Report: Number of desat with >= 3% desat",
-  "description": "Number of desats with desaturation >= 3%",
-  "type": "numeric",
-  "units": "desaturation events",
-  "commonly_used": true
-}

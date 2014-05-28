@@ -1,7 +1,0 @@
-{
-  "id": "plmcslp",
-  "display_name": "Report: Number of PLM clusters (Sleep)",
-  "description": "Total PLM clusters in All Sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

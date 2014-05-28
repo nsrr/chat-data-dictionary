@@ -1,7 +1,7 @@
 {
   "id": "wakslepr",
-  "display_name": "QS: Scoring stage Wake/Sleep unreliable",
-  "description": "1=Sleep Staging Problem - scoring wake/sleep unreliable",
+  "display_name": "Scoring stage wake/sleep unreliable",
+  "description": "1=Sleep staging problem - scoring wake/sleep unreliable",
   "type": "choices",
   "domain": "noyes"
 }

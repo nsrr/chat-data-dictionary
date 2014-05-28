@@ -1,0 +1,7 @@
+{
+  "id": "marbp2",
+  "display_name": "Number of mixed apnea (REM, Back, 2% desaturation)",
+  "description": "Number of mixed apnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

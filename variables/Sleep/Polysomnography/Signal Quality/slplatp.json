@@ -1,0 +1,7 @@
+{
+  "id": "slplatp",
+  "display_name": "Sleep latency",
+  "description": "Time from lights out time to beginning of sleep, rounded to nearest minute  (data can be inaccurate if scorer has not set sleep onset rule properly in compumedics software)",
+  "type": "numeric",
+  "units": "minutes"
+}

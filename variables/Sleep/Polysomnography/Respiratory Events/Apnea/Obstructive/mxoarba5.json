@@ -1,0 +1,7 @@
+{
+  "id": "mxoarba5",
+  "display_name": "Maximum obstructive apnea length with arousals (REM, Back, 5% desaturation)",
+  "description": "Longest obstructive apnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

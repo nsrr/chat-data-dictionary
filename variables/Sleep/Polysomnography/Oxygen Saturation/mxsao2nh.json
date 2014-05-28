@@ -1,0 +1,8 @@
+{
+  "id": "mxsao2nh",
+  "display_name": "Maximum oxygen saturation during NREM sleep",
+  "description": "Highest oxygen saturation during NREM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "commonly_used":true
+}

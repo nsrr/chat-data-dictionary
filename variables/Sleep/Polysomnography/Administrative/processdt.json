@@ -1,0 +1,7 @@
+{
+  "id": "processdt",
+  "display_name": "Date data were processed",
+  "description": "",
+  "type": "date",
+  "units": ""
+}

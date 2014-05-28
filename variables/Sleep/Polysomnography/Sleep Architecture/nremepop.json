@@ -1,0 +1,8 @@
+{
+  "id": "nremepop",
+  "display_name": "Sleep time (NREM, Other)",
+  "description": "Total time in NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "minutes",
+  "commonly_used": true
+}

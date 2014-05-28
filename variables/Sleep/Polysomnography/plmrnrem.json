@@ -1,7 +1,0 @@
-{
-  "id": "plmrnrem",
-  "display_name": "Report: Number of PLMs with resp. events (NREM)",
-  "description": "Total PLMs with resp. events in NREM sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "scorid",
+  "display_name": "Scorer ID",
+  "description": "ID of reading center staff who performed scoring",
+  "type": "integer",
+  "units": ""
+}

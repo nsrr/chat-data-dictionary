@@ -1,7 +1,0 @@
-{
-  "id": "mxdnbp3",
-  "display_name": "Report: Maximum Desat (NREM, Back, 3% desat)",
-  "description": "Largest respiratory related desat during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

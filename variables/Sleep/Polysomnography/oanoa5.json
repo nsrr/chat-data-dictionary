@@ -1,7 +1,0 @@
-{
-  "id": "oanoa5",
-  "display_name": "Report: Number of Obstructive Apnea w/ arousals (NREM, Other, 5% desat)",
-  "description": "Number of Obstructive Apnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "events"
-}

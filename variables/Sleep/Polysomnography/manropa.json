@@ -1,7 +1,0 @@
-{
-  "id": "manropa",
-  "display_name": "Report: Number of Mixed Apnea with arousal (NREM, Other, all desats)",
-  "description": "Number of Mixed Apnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

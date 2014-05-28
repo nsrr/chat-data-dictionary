@@ -1,0 +1,8 @@
+{
+  "id": "siteid",
+  "display_name": "Site ID",
+  "description": "",
+  "type": "choices",
+  "domain": "hospitalid",
+  "commonly_used": true
+}

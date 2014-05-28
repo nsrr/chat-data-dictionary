@@ -1,7 +1,0 @@
-{
-  "id": "mndroa4",
-  "display_name": "Report: Minimum SaO2 w/ arousals (REM, Other, 4% desat) (%)",
-  "description": "Lowest SaO2 during REM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

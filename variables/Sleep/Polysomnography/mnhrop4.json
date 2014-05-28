@@ -1,7 +1,0 @@
-{
-  "id": "mnhrop4",
-  "display_name": "Report: Minimum Hypopnea length (REM, Other, 4% desat) (seconds)",
-  "description": "Shortest Hypopnea during REM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

@@ -1,8 +1,0 @@
-{
-  "id": "mxsao2nh",
-  "display_name": "Report: Maximum SaO2 % during NREM sleep",
-  "description": "Highest SaO2 % during NREM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "commonly_used":true
-}

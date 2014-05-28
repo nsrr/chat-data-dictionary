@@ -1,7 +1,0 @@
-{
-  "id": "saonrem",
-  "display_name": "Report: Avg. SaO2% (NREM)",
-  "description": "Mean SaO2 during NonREM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

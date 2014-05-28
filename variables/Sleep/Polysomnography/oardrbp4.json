@@ -1,7 +1,0 @@
-{
-  "id": "oardrbp4",
-  "display_name": "Report: Obstructive Apnea per hour (REM, Back, 4% desat)",
-  "description": "Number of Obstructive Apnea per hour of REM sleep with supine body position",
-  "type": "numeric",
-  "units": "events per hour"
-}

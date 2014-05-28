@@ -1,7 +1,0 @@
-{
-  "id": "mxhnop4",
-  "display_name": "Report: Maximum Hypopnea length (NREM, Other 4% desat) (seconds)",
-  "description": "Longest Hypopnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

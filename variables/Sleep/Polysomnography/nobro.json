@@ -1,7 +1,0 @@
-{
-  "id": "nobro",
-  "display_name": "Report: Number of Bradycardia related to Obs. Apnea (Sleep time onset)",
-  "description": "Number of Bradycardia related to Obstructive Apnea during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}

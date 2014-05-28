@@ -1,0 +1,7 @@
+{
+  "id": "respevpr",
+  "display_name": "Scoring respiratory events (RDI) unreliable",
+  "description": "1=Problems with respiratory events",
+  "type": "choices",
+  "domain": "noyes"
+}

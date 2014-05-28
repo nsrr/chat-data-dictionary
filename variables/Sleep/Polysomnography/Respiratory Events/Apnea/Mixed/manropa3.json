@@ -1,0 +1,7 @@
+{
+  "id": "manropa3",
+  "display_name": "Number of mixed apnea with arousal (NREM, Other, 3% desaturation)",
+  "description": "Number of mixed apnea during NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

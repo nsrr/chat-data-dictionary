@@ -1,7 +1,0 @@
-{
-  "id": "plmcaslp",
-  "display_name": "Report: Number of PLM clusters with arousal (Sleep)",
-  "description": "Total PLM clusters with arousal  in All Sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

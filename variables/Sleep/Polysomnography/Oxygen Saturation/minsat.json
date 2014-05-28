@@ -1,0 +1,8 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum oxygen saturation in sleep",
+  "description": "Lowest oxygen saturation during sleep  [minimum(all oxygen saturation values in sleep)]",
+  "type": "numeric",
+  "units": "percent",
+  "calculation": "min(losao2r,losao2nr)"
+}

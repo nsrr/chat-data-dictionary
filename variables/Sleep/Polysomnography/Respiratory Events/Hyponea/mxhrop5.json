@@ -1,0 +1,7 @@
+{
+  "id": "mxhrop5",
+  "display_name": "Maximum hypopnea length (REM, Other, 5% desaturation)",
+  "description": "Longest hypopnea during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

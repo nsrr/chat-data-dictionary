@@ -1,7 +1,0 @@
-{
-  "id": "mnhrba4",
-  "display_name": "Report: Minimum Hypopnea length w/ arousals (REM, Back, 4% desat) (seconds)",
-  "description": "Shortest Hypopnea during REM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

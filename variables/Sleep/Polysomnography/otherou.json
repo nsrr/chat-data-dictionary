@@ -1,7 +1,0 @@
-{
-  "id": "otherou",
-  "display_name": "QS: Other outlier",
-  "description": "1=Outlier - other",
-  "type": "choices",
-  "domain":"noyes"
-}

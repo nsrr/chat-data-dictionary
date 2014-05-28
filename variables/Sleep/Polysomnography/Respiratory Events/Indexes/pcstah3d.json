@@ -1,0 +1,8 @@
+{
+  "id": "pcstah3d",
+  "display_name": "Percentage of sleep time in apnea+hypopnea with >3% desaturation",
+  "description": "Percentage of sleep time in apnea+hypopnea with >3% desaturation",
+  "type": "numeric",
+  "units": "percent",
+  "commonly_used": true
+}

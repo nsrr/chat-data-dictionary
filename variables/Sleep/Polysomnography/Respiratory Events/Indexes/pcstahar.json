@@ -1,0 +1,8 @@
+{
+  "id": "pcstahar",
+  "display_name": "Percentage of sleep time in apnea+hypopnea with arousal",
+  "description": "Percentage of sleep time in apnea+hypopnea with arousal",
+  "type": "numeric",
+  "units": "percent",
+  "commonly_used": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": "period",
+  "display_name": "Periodic breathing >= 10 minutes",
+  "description": "1=unusual occurrences - periodic breathing > 5 minutes",
+  "type": "choices",
+  "domain":"noyes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "proccessra",
+  "display_name": "Login of reading center staff who processed incoming data",
+  "description": "",
+  "type": "integer",
+  "units": ""
+}

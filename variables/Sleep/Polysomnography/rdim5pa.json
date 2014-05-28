@@ -1,8 +1,0 @@
-{
-  "id": "rdim5pa",
-  "display_name": "Filtered: Overall RDI at 5% desat or arousal",
-  "description": "RDI with Arousals at 5% desat  [(Total number of apneas and hypopneas with arousal associated with >= 5% desat) / (hours of sleep)]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculations": "60*(hremba5 +hroa5 + hnrba5 + hnroa5 +carba5+ caroa5 + canba5 + canoa5 + oarba5 + oaroa5 + oanba5 + oanoa5 + marbpa5 + maropa5 + manrbpa5 + manropa5) / slpprdp"
-}

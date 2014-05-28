@@ -1,0 +1,8 @@
+{
+  "id": "rco2avgr",
+  "display_name": "Average percent of carbon dioxide in REM",
+  "description": "",
+  "type": "numeric",
+  "units": "percentage of carbon dioxide",
+  "commonly_used": true
+}

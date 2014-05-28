@@ -1,0 +1,7 @@
+{
+  "id": "mxcarop5",
+  "display_name": "Maximum central apnea length (REM, Other, 5% desaturation)",
+  "description": "Longest central apnea during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

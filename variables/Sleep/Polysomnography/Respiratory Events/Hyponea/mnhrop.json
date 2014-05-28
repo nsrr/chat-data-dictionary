@@ -1,0 +1,7 @@
+{
+  "id": "mnhrop",
+  "display_name": "Minimum hypopnea length (REM, Other, all desaturations)",
+  "description": "Shortest hypopnea during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

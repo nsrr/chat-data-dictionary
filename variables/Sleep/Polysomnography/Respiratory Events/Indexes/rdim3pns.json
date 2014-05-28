@@ -1,0 +1,9 @@
+{
+  "id": "rdim3pns",
+  "display_name": "Overall non-supine RDI at 3% desaturation",
+  "description": "Non-supine RDI at 3% desaturation  [(total number of apneas and hypopneas in non-supine body position associated with >= 3% desaturation) / (hours of sleep)]. will be missing if no time non-supine or low position sensor quality.",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculations": "60*(hrop3 +   hnrop3 + carop3 + canop3 + oarop3 + oanop3 + marop3 + manrop3)/(remepop+nremepop)",
+  "commonly_used": true
+}

@@ -1,7 +1,0 @@
-{
-  "id": "mnoanbp4",
-  "display_name": "Report: Minimum Obstructive Apnea length (NREM, Back, 4% desat) (seconds)",
-  "description": "Shortest Obstructive Apnea during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

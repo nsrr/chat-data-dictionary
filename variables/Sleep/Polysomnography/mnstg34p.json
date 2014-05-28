@@ -1,8 +1,0 @@
-{
-  "id": "mnstg34p",
-  "display_name": "Report: Time in stage 3-4 sleep (minutes)",
-  "description": "Total time scored as stage 3/4, rounded to nearest minute  (Use Calculated variable - sleep wake studies screened out)",
-  "type": "numeric",
-  "units": "minutes",
-  "calculations": "calculated vaiable - sleep wake studies screened out"
-}

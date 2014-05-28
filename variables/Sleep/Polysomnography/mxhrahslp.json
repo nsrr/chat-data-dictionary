@@ -1,7 +1,0 @@
-{
-  "id": "mxhrahslp",
-  "display_name": "Report: Maximum Heart Rate assoc. w/ Apnea and Hypopnea (Sleep time onset)",
-  "description": "Maximum heart rate associated with Apnea and Hypopnea during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}

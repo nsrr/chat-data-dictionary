@@ -1,7 +1,0 @@
-{
-  "id": "sclon",
-  "display_name": "QS: Lights on time",
-  "description": "light on set by scorer",
-  "type": "time",
-  "units": ""
-}

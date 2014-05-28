@@ -1,7 +1,0 @@
-{
-  "id": "sao90awk",
-  "display_name": "Report: Total time SaO2 < 90 in awake (minutes)",
-  "description": "Total time SaO2 above 90% during wake, in minutes",
-  "type": "numeric",
-  "units": "minutes"
-}

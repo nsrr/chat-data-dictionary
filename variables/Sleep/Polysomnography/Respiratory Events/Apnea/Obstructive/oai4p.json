@@ -1,0 +1,8 @@
+{
+  "id": "oai4p",
+  "display_name": "Obstructive apnea index 4% desaturations",
+  "description": "Obstructive apnea index at 4% desaturation  [(total number of obstructive apneas associated with >= 4% desaturation) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculations": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 ) / slpprdp"
+}

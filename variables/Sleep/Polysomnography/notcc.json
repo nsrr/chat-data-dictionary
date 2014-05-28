@@ -1,7 +1,0 @@
-{
-  "id": "notcc",
-  "display_name": "Report: Number of Tachycardia  related to Cent. Apnea (Sleep time)",
-  "description": "Number of Tachycardia  related to Central Apnea during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}

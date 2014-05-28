@@ -1,7 +1,0 @@
-{
-  "id": "quo1",
-  "display_name": "QS: quality of O1",
-  "description": "quality of EEG",
-  "type": "choices",
-  "domain": "signalofsleeptime"
-}

@@ -1,0 +1,8 @@
+{
+  "id": "mnsao2nh",
+  "display_name": "Minimum oxygen saturation during NREM sleep",
+  "description": "Lowest oxygen saturation during NREM sleep",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation",
+  "commonly_used": true
+}

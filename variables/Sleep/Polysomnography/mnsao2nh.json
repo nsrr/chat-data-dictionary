@@ -1,8 +1,0 @@
-{
-  "id": "mnsao2nh",
-  "display_name": "Report: Minimum SaO2 % during NREM sleep",
-  "description": "Lowest SaO2 % during NREM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "commonly_used": true
-}

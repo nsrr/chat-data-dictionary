@@ -1,0 +1,7 @@
+{
+  "id": "rdiroa4",
+  "display_name": "Hypopnea per hour with arousals (REM, Other, 4% desaturation)",
+  "description": "Number of hypopnea per hour of REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "events per hour"
+}

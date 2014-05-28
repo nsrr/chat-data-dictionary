@@ -1,9 +1,0 @@
-{
-  "id": "nova_est_co2blslp",
-  "display_name": "Filtered: Baseline EtCO2 Asleep (Normalized for Capnograph type)",
-  "description": "For BCI: Nova_est_CO2BLSLP = (rco2blslp * 0.51229) + 20.03075",
-  "type": "numeric",
-  "units": "percentage of carbon dioxide",
-  "calculations": "(Baseline EtCO2 Asleep * 0.51229) + 20.03075",
-  "commonly_used": true
-}

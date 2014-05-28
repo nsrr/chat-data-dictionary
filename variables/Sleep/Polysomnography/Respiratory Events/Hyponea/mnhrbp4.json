@@ -1,0 +1,7 @@
+{
+  "id": "mnhrbp4",
+  "display_name": "Minimum hypopnea length (REM, Back, 4% desaturation)",
+  "description": "Shortest hypopnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

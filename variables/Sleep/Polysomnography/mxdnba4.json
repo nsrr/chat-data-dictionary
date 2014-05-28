@@ -1,7 +1,0 @@
-{
-  "id": "mxdnba4",
-  "display_name": "Report: Maximum Desat w/ arousals (NREM, Back, 4% desat)",
-  "description": "Largest respiratory related desat during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

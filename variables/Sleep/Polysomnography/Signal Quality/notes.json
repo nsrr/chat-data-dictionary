@@ -1,0 +1,6 @@
+{
+  "id": "notes",
+  "display_name": "Scorer notes",
+  "description": "Scorer notes",
+  "type": "string"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "rsnco",
-  "display_name": "QS: Reason for study failure",
-  "description": "",
-  "type": "choices",
-  "domain": "reasonsforfailure"
-}

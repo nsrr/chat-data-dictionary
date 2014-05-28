@@ -1,7 +1,0 @@
-{
-  "id": "mxoanba4",
-  "display_name": "Report: Maximum Obstructive Apnea length w/ arousals (NREM, Back, 4% desat) (seconds)",
-  "description": "Longest Obstructive Apnea during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

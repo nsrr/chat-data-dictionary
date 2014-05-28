@@ -1,0 +1,7 @@
+{
+  "id": "mncarbp",
+  "display_name": "Minimum central apnea length (REM, Back, all desaturations)",
+  "description": "Shortest central apnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "maropa5",
+  "display_name": "Number of mixed apnea with arousal (REM, Other, 5% desaturation)",
+  "description": "Number of mixed apnea during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

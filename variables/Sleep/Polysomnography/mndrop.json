@@ -1,8 +1,0 @@
-{
-  "id": "mndrop",
-  "display_name": "Report: Minimum SaO2 (REM, Other, all desats) (%)",
-  "description": "Lowest SaO2 during REM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "commonly_used": true
-}

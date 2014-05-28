@@ -1,7 +1,0 @@
-{
-  "id": "mnhroa",
-  "display_name": "Report: Minimum Hypopnea length w/ arousals (REM, Other, all desats) (seconds)",
-  "description": "Shortest Hypopnea during REM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

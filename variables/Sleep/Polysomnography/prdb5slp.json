@@ -1,7 +1,0 @@
-{
-  "id": "prdb5slp",
-  "display_name": "Report: Percentage of Snore time in REM sleep (dB level 5)",
-  "description": "[(Total time Snore at dB level 5 in REM sleep) / (total time REM sleep)] * 100",
-  "type": "numeric",
-  "units": "percent"
-}

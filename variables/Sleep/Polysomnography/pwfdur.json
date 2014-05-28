@@ -1,7 +1,0 @@
-{
-  "id": "pwfdur",
-  "display_name": "QS: hours of usable PWF",
-  "description": "hours of usable Pleth Wave Form",
-  "type": "numeric",
-  "units": "hours"
-}

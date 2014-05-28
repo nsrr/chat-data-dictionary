@@ -1,0 +1,7 @@
+{
+  "id": "scslpon",
+  "display_name": "Sleep onset time",
+  "description": "sleep onset time",
+  "type": "time",
+  "units": ""
+}

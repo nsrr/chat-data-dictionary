@@ -1,0 +1,7 @@
+{
+  "id": "mndrba",
+  "display_name": "Minimum oxygen saturation with arousals (REM, Back, all desaturations)",
+  "description": "Lowest oxygen saturation during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mxdrbp4",
+  "display_name": "Maximum desaturation (REM, Back, 4% desaturation)",
+  "description": "Largest respiratory related desaturation during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

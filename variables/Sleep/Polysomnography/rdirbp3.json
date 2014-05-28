@@ -1,8 +1,0 @@
-{
-  "id": "rdirbp3",
-  "display_name": "Report: Hypopnea per hour (REM, Back, 3% desat)",
-  "description": "Number of Hypopnea per hour of REM sleep with supine body position",
-  "type": "numeric",
-  "units": "events per hour",
-  "commonly_used": true
-}

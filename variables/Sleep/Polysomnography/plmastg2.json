@@ -1,7 +1,0 @@
-{
-  "id": "plmastg2",
-  "display_name": "Report: Number of PLMs with arousal (Stage 2 Sleep)",
-  "description": "Total PLMs with arousal Stage 2 sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

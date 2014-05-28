@@ -1,7 +1,0 @@
-{
-  "id": "plmou25",
-  "display_name": "QS: PLM > 25 verified (must be in sleep)",
-  "description": "1=Outlier - PLM > 25 verified",
-  "type": "choices",
-  "domain": "noyes"
-}

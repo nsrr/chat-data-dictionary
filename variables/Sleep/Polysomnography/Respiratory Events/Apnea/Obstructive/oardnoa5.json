@@ -1,0 +1,7 @@
+{
+  "id": "oardnoa5",
+  "display_name": "Obstructive apnea per hour with arousals (NREM, Other, 5% desaturation)",
+  "description": "Number of obstructive apnea per hour of NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "events per hour"
+}

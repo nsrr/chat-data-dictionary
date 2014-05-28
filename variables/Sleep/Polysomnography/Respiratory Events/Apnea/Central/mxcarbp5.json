@@ -1,0 +1,7 @@
+{
+  "id": "mxcarbp5",
+  "display_name": "Maximum central apnea length (REM, Back, 5% desaturation)",
+  "description": "Longest central apnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

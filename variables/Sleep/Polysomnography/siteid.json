@@ -1,8 +1,0 @@
-{
-  "id": "siteid",
-  "display_name": "QS: Site ID",
-  "description": "",
-  "type": "choices",
-  "domain": "hospitalid",
-  "commonly_used": true
-}

@@ -1,0 +1,7 @@
+{
+  "id": "mxdrop2",
+  "display_name": "Maximum desaturation (REM, Other, 2% desaturation)",
+  "description": "Largest respiratory related desaturation during REM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

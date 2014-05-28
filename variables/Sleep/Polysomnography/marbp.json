@@ -1,7 +1,0 @@
-{
-  "id": "marbp",
-  "display_name": "Report: Number of Mixed Apnea (REM, Back, all desats)",
-  "description": "Number of Mixed Apnea during REM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

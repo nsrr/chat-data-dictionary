@@ -1,0 +1,7 @@
+{
+  "id": "scorerid",
+  "display_name": "Scorer ID",
+  "description": "Scorer ID      (marital status in compumedics screen)",
+  "type": "integer",
+  "units": ""
+}

@@ -1,7 +1,0 @@
-{
-  "id": "psndur",
-  "display_name": "QS: hours of usable Position",
-  "description": "*All non-Compumedics collected studies have position hand scored by scorer from notes supplied by site ? None of position signals transfer in EDF only numbers",
-  "type": "numeric",
-  "units": "hours"
-}

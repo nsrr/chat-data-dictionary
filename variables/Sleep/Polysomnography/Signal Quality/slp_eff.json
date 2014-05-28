@@ -1,0 +1,9 @@
+{
+  "id": "slp_eff",
+  "display_name": "Sleep efficiency percentage",
+  "description": "Percentage of time in bed that was spent sleeping [100*(total sleep time) / (total time in bed)]",
+  "type": "numeric",
+  "units": "percent",
+  "commonly_used": true,
+  "calculations":"100*(slpprdp)/timebedp"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pctle95",
+  "display_name": "Percentage time <= 95% desaturation",
+  "description": "Percent of sleep time with oxygen saturation <= 95%  [100*(total number of minutes with oxygen saturation <= 95) / (total sleep time)].",
+  "type": "numeric",
+  "units": "percent",
+  "calculations": "pctsa95"
+}

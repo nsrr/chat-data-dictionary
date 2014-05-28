@@ -1,0 +1,8 @@
+{
+  "id": "omai4pa",
+  "display_name": "Obstructive/mixed apnea index 4% or arousal",
+  "description": "Obstructive / mixed apnea index with arousals at 4% desaturation  [(total number of obstructive apneas with aroual associated with >= 4% desaturation+ total number of mixed apneas with arousal associated with >= 4% desaturation) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculations": "60*(oarba4 + oaroa4 + oanba4 + oanoa4 + marbpa + maropa + manrbpa + manropa) / slpprdp"
+}

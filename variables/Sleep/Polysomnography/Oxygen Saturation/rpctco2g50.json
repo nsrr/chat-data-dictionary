@@ -1,0 +1,8 @@
+{
+  "id": "rpctco2g50",
+  "display_name": "Percentage of total sleep time where percent of carbon dioxiode > 50 mmHg",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "commonly_used": true
+}

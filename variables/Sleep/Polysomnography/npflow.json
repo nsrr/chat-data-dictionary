@@ -1,7 +1,0 @@
-{
-  "id": "npflow",
-  "display_name": "QS: Flow limitation",
-  "description": "1=Flow limitation observed",
-  "type": "choices",
-  "domain": "noyes"
-}

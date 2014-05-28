@@ -1,0 +1,8 @@
+{
+  "id": "rdim0ps",
+  "display_name": "Overall supine RDI at 0% desaturation",
+  "description": "Supine RDI at all desaturations [(total number of apneas and hypopneas in supine body position) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculations": "60*(hrembp + hnrbp + carbp + canbp + oarbp + oanbp + marbp + manrbp)/(remepbp+nremepbp)"
+}

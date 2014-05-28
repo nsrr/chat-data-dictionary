@@ -1,8 +1,0 @@
-{
-  "id": "pctlt80",
-  "display_name": "Filtered: pct time < 80% desat",
-  "description": "Percent of sleep time with oxygen saturation < 80%  [100*(Total Number of minutes with SaO2 < 80) / (total sleep time)].",
-  "type": "numeric",
-  "units": "percent",
-  "calculations": "pctsa80h"
-}

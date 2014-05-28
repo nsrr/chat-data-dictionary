@@ -1,7 +1,0 @@
-{
-  "id": "plmcadelta",
-  "display_name": "Report: Number of PLM clusters with arousal (Delta Sleep)",
-  "description": "Total PLM clusters with arousal  in Delta sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

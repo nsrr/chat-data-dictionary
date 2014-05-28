@@ -1,7 +1,0 @@
-{
-  "id": "oanba",
-  "display_name": "Report: Number of Obstructive Apnea w/ arousals (NREM, Back, all desats)",
-  "description": "Number of Obstructive Apnea during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "events"
-}

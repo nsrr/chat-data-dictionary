@@ -1,0 +1,7 @@
+{
+  "id": "mxdrbp3",
+  "display_name": "Maximum desaturation (REM, Back, 3% desaturation)",
+  "description": "Largest respiratory related desaturation during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

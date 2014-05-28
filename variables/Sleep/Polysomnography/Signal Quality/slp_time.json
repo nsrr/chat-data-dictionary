@@ -1,0 +1,9 @@
+{
+  "id": "slp_time",
+  "display_name": "Total sleep time",
+  "description": "Total time from lights out to lights on that is scored as sleep, rounded to nearest minute",
+  "type": "numeric",
+  "units": "minutes",
+  "calculations": "slpprdp",
+  "commonly_used": true
+}

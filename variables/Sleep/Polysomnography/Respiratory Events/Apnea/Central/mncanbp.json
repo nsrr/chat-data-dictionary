@@ -1,0 +1,7 @@
+{
+  "id": "mncanbp",
+  "display_name": "Minimum central apnea length (NREM, Back, all desaturations)",
+  "description": "Shortest central apnea during NREM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

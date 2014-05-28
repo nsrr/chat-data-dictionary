@@ -1,7 +1,0 @@
-{
-  "id": "plmcstg2",
-  "display_name": "Report: Number of PLM clusters (Stage 2 Sleep)",
-  "description": "Total PLM clusters Stage 2 sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

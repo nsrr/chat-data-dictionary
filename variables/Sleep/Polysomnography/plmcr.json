@@ -1,7 +1,0 @@
-{
-  "id": "plmcr",
-  "display_name": "Report: Number of PLM clusters with resp. events",
-  "description": "Total PLM clusters with resp. events",
-  "type": "numeric",
-  "units": "limb movements"
-}

@@ -1,8 +1,0 @@
-{
-  "id": "remepbp",
-  "display_name": "Report: Sleep Time (REM, Back) (minutes)",
-  "description": "Total time in REM sleep with Supine body position",
-  "type": "numeric",
-  "units": "minutes",
-  "commonly_used": true
-}

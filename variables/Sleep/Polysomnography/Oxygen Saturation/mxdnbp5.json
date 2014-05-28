@@ -1,0 +1,7 @@
+{
+  "id": "mxdnbp5",
+  "display_name": "Maximum desaturation (NREM, Back, 5% desaturation)",
+  "description": "Largest respiratory related desaturation during NREM sleep with supine body position",
+  "type": "numeric",
+  "units": "percentage of oxygen saturation"
+}

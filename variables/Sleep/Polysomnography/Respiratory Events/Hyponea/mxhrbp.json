@@ -1,0 +1,7 @@
+{
+  "id": "mxhrbp",
+  "display_name": "Maximum hypopnea length (REM, Back, all desaturations)",
+  "description": "Longest hypopnea during REM sleep with supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

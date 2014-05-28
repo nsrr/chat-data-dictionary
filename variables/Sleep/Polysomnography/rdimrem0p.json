@@ -1,8 +1,0 @@
-{
-  "id": "rdimrem0p",
-  "display_name": "Filtered: Overall rem RDI at 0% desat",
-  "description": "REM RDI at all desats  [(Total number of apneas and hypopneas in REM sleep) / (hours of REM sleep)]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculations": "60*(hrembp + hrop + carbp + carop + oarbp +oarop + marbp + marop) / minremp"
-}

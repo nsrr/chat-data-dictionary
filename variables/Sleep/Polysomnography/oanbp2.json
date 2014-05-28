@@ -1,7 +1,0 @@
-{
-  "id": "oanbp2",
-  "display_name": "Report: Number of Obstructive Apnea (NREM, Back, 2% desat)",
-  "description": "Number of Obstructive Apnea during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "events"
-}
