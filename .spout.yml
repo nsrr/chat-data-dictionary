@@ -1,0 +1,8 @@
+visit: vnum
+charts:
+- chart: child_age
+  title: Age
+- chart: male
+  title: Gender
+- chart: race3
+  title: Race
