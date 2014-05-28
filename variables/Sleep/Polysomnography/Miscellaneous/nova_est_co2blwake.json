@@ -1,10 +1,6 @@
 {
   "id": "nova_est_co2blwake",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/nova_est_co2blwake.json
   "display_name": "Baseline percent of carbon dioxide awake (normalized for capnograph type)",
-=======
-  "display_name": "Baseline EtCO2 awake (normalized for capnograph type)",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/nova_est_co2blwake.json
   "description": "For BCI: nova_est_co2blwake = (rco2blwake * 0.65305) + 13.40939",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

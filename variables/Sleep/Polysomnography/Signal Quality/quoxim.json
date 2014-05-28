@@ -1,12 +1,7 @@
 {
   "id": "quoxim",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Signal Quality/quoxim.json
   "display_name": "Quality of oximetry",
   "description": "Quality of oximetry",
-=======
-  "display_name": "quality of oximetry",
-  "description": "quality of oximetry",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/quoxim.json
   "type": "choices",
   "domain": "signalofsleeptime",
   "commonly_used": true

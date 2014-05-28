@@ -1,10 +1,6 @@
 {
   "id": "maxdbslp",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Sleep Events/maxdbslp.json
   "display_name": "Maximum snore level during sleep",
-=======
-  "display_name": "Maximum snore level during sleep (dB)",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/maxdbslp.json
   "description": "Maximum snore level during sleep",
   "type": "numeric",
   "units": "decibels"

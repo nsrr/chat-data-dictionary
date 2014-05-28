@@ -1,10 +1,6 @@
 {
   "id": "quref",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Signal Quality/quref.json
   "display_name": "Quality of reference",
-=======
-  "display_name": "quality of reference",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/quref.json
   "description": "",
   "type": "choices",
   "domain": "goodorproblem"

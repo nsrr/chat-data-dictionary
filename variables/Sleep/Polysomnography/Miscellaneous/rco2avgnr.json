@@ -1,10 +1,6 @@
 {
   "id": "rco2avgnr",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/rco2avgnr.json
   "display_name": "Average percent of carbon dioxide in NREM",
-=======
-  "display_name": "Average EtCO2 in NREM",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/rco2avgnr.json
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

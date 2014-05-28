@@ -1,10 +1,6 @@
 {
   "id": "nova_est_pctco2g45",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/nova_est_pctco2g45.json
   "display_name": "Percentage total sleep time where the percent of carbon dioxide > 45 mmHg (normalized for capnograph type)",
-=======
-  "display_name": "Percentage total sleep time EtCO2 > 45 mmHg (normalized for capnograph type)",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/nova_est_pctco2g45.json
   "description": "For BCI: nova_est_pctco2g45 = (rpctco2g45 * 0.64525) + 7.67373",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

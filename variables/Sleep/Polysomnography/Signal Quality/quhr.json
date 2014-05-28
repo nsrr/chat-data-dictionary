@@ -1,12 +1,7 @@
 {
   "id": "quhr",
-<<<<<<< HEAD:variables/Sleep/Polysomnography/Signal Quality/quhr.json
   "display_name": "Quality of hr",
   "description": "Quality of hr",
-=======
-  "display_name": "quality of hr",
-  "description": "quality of hr",
->>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/quhr.json
   "type": "choices",
   "domain": "signalofsleeptime"
 }
