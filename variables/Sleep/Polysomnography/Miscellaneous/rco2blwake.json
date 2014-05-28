@@ -1,6 +1,10 @@
 {
   "id": "rco2blwake",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/rco2blwake.json
   "display_name": "Baseline percent of carbon dioxide awake",
+=======
+  "display_name": "Baseline EtCO2 awake",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/rco2blwake.json
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

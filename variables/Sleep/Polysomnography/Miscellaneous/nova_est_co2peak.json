@@ -1,6 +1,10 @@
 {
   "id": "nova_est_co2peak",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/nova_est_co2peak.json
   "display_name": "Peak percent of carbon dioxide asleep (normalized for capnograph type)",
+=======
+  "display_name": "Peak EtCO2 asleep (normalized for capnograph type)",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/nova_est_co2peak.json
   "description": "For BCI: nova_est_co2peak = (rco2peak * 0.79956) + 9.17655",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

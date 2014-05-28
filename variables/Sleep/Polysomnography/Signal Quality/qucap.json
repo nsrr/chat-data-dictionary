@@ -1,6 +1,10 @@
 {
   "id": "qucap",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Signal Quality/qucap.json
   "display_name": "Quality of cap",
+=======
+  "display_name": "quality of cap",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/qucap.json
   "description": "*need to define quality scoring",
   "type": "choices",
   "domain": "signalofsleeptime",

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/sao2lt92.json
   "id": "sao2lt92",
+=======
+  "id": "sa02lt92",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/sa02lt92.json
   "display_name": "Desaturation <92% for >2% of sleep time = 1  surgeon alert",
   "description": "*Note studies that have oxi problems here",
   "type": "choices",

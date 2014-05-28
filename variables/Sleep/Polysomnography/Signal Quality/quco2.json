@@ -1,6 +1,10 @@
 {
   "id": "quco2",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Signal Quality/quco2.json
   "display_name": "Quality of carbon dioxide",
+=======
+  "display_name": "quality of carbon dioxide",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/quco2.json
   "description": "*need to define quality scoring",
   "type": "choices",
   "domain": "signalofsleeptime",

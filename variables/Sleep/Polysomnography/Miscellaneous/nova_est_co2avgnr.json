@@ -1,6 +1,10 @@
 {
   "id": "nova_est_co2avgnr",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/nova_est_co2avgnr.json
   "display_name": "Average percent of carbon dioxide in NREM (normalized for capnograph type)",
+=======
+  "display_name": "Average EtCO2 in NREM (normalized for capnograph type)",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/nova_est_co2avgnr.json
   "description": "For BCI: nova_est_co2avgnr= (rco2avgnr * 0.49613) + 20.83379",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

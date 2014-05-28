@@ -1,6 +1,10 @@
 {
   "id": "rpctco2g45",
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Miscellaneous/rpctco2g45.json
   "display_name": "Percentage of total sleep time where percent of carbon dioxide > 45 mmHg",
+=======
+  "display_name": "Percentage of total sleep time EtCO2 > 45 mmHg",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/rpctco2g45.json
   "description": "",
   "type": "numeric",
   "units": "percent",

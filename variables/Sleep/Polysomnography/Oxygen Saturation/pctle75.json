@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD:variables/Sleep/Polysomnography/Oxygen Saturation/pctle75.json
   "id": "pctle75",
   "display_name": "Percent time <= 75% desaturation",
   "description": "Percent of sleep time with oxygen saturation <= 75%  [100*(total number of minutes with oxygen saturation <= 75) / (total sleep time)].",
+=======
+  "id": "pctle95",
+  "display_name": "Percentage time <= 95% desaturation",
+  "description": "Percent of sleep time with oxygen saturation <= 95%  [100*(total number of minutes with oxygen saturation <= 95) / (total sleep time)].",
+>>>>>>> 8d18fc70a7d1953a88cbe0c62b818a05073fb05f:variables/Sleep/Polysomnography/pctle95.json
   "type": "numeric",
   "units": "percent",
   "calculations": "pctsa75"
