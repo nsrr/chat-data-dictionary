@@ -1,7 +1,0 @@
-{
-  "id": "pho2a",
-  "display_name": "If yes, approximately how many times per week?",
-  "description": "",
-  "type": "choices",
-  "domain":"numberoftimes"
-}
