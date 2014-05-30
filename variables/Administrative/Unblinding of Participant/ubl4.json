@@ -1,7 +1,0 @@
-{
-  "id": "ubl4",
-  "display_name": "Was the DCC contacted within 24 hours of unblinding?",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}
