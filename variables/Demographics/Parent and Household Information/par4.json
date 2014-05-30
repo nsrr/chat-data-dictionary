@@ -1,7 +1,0 @@
-{
-  "id": "par4",
-  "display_name": "What is the father's race?",
-  "description": "",
-  "type": "choices",
-  "domain":"parentrace"
-}

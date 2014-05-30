@@ -1,7 +1,0 @@
-{
-  "id": "par6",
-  "display_name": "What is the highest level of education completed by the mother?",
-  "description": "",
-  "type": "choices",
-  "domain":"degree"
-}
