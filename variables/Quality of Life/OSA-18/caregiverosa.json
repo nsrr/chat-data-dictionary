@@ -1,7 +1,0 @@
-{
-  "id": "caregiverosa",
-  "display_name": "Subscale Caregiver Concerns Score (the avg of OSA5A_rc, OSA5B_rc, OSA5C_rc, OSA5D_rc)",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}
