@@ -1,6 +1,6 @@
 {
   "id": "co2avgr",
-  "display_name": "Average percentage of carbon dioxide in REM",
+  "display_name": "Average end-tidal carbon dioxide in REM",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide"

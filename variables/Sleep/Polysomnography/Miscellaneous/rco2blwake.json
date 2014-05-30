@@ -1,6 +1,6 @@
 {
   "id": "rco2blwake",
-  "display_name": "Baseline percent of carbon dioxide awake",
+  "display_name": "Baseline end-tidal carbon dioxide awake",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

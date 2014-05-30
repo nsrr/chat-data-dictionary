@@ -1,6 +1,6 @@
 {
   "id": "odi",
-  "display_name": "ODI algorithm: NDES3PH/(slp_time/60)",
+  "display_name": "Oxygen Desaturation Index algorithm: NDES3PH/(slp_time/60)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

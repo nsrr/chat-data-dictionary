@@ -1,6 +1,6 @@
 {
   "id": "nova_est_co2avgnr",
-  "display_name": "Average percent of carbon dioxide in NREM (normalized for capnograph type)",
+  "display_name": "Average end-tidal carbon dioxide in NREM (normalized for capnograph type)",
   "description": "For BCI: nova_est_co2avgnr= (rco2avgnr * 0.49613) + 20.83379",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

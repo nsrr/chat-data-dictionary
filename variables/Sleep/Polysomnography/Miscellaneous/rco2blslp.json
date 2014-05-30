@@ -1,6 +1,6 @@
 {
   "id": "rco2blslp",
-  "display_name": "Baseline percent of carbon dioxide asleep",
+  "display_name": "Baseline end-tidal carbon dioxide asleep",
   "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",

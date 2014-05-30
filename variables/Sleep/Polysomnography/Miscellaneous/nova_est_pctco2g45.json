@@ -1,6 +1,6 @@
 {
   "id": "nova_est_pctco2g45",
-  "display_name": "Percentage total sleep time where the percent of carbon dioxide > 45 mmHg (normalized for capnograph type)",
+  "display_name": "Percentage total sleep time where end-tidal carbon dioxide > 45 mmHg (normalized for capnograph type)",
   "description": "For BCI: nova_est_pctco2g45 = (rpctco2g45 * 0.64525) + 7.67373",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
