@@ -1,7 +1,0 @@
-{
-  "id": "ageyear_bin2",
-  "display_name": "Child's age binary (5-7 vs. 8-9 years)",
-  "description": "",
-  "type": "choices",
-  "domain":"childageyear2"
-}
