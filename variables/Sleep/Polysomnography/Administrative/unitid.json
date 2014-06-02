@@ -1,8 +1,0 @@
-{
-  "id": "unitid",
-  "display_name": "Unit ID",
-  "description": "Unit on which data were collected",
-  "type": "choices",
-  "domain": "unitid",
-  "commonly_used": true
-}
