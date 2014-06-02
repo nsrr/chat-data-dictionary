@@ -1,0 +1,7 @@
+{
+  "id": "fam10_tot_oz",
+  "display_name": "Mother's current weight in ounces",
+  "description": "",
+  "type": "numeric",
+  "units": "ounces"
+}
