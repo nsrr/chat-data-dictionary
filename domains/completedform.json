@@ -1,32 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "biological parent",
+    "display_name": "Biological parent",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "adoptive parent",
+    "display_name": "Adoptive parent",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "step parent",
+    "display_name": "Step parent",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "foster parent",
+    "display_name": "Foster parent",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "grandparent",
+    "display_name": "Grandparent",
     "description": ""
   },
   {
-    "value": "6",
-    "display_name": "other, please specify",
+    "value": "98",
+    "display_name": "Other",
     "description": ""
   }
 ]
