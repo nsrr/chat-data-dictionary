@@ -3,5 +3,5 @@
   "display_name": "Please indicate the neuropsychological battery performed",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "versions"
 }

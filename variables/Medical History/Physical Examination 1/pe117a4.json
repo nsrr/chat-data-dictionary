@@ -1,7 +1,7 @@
 {
   "id": "pe117a4",
-  "display_name": "insects",
+  "display_name": "Insect allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "insects"
 }

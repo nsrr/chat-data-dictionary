@@ -1,7 +1,7 @@
 {
   "id": "pe215",
-  "display_name": "pe215",
+  "display_name": "Since the last visit, has the child developed any allergies?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes"
 }

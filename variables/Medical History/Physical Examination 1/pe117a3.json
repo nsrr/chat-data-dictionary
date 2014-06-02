@@ -1,7 +1,7 @@
 {
   "id": "pe117a3",
-  "display_name": "cats",
+  "display_name": "Cat allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "cats"
 }

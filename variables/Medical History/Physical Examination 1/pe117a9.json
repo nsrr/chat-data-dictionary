@@ -1,7 +1,7 @@
 {
   "id": "pe117a9",
-  "display_name": "latex",
+  "display_name": "Latex allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "latex"
 }

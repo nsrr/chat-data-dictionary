@@ -1,7 +1,7 @@
 {
   "id": "pe117a5",
-  "display_name": "dust",
+  "display_name": "Dust allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "dust"
 }
