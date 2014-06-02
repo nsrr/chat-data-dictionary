@@ -1,7 +1,0 @@
-{
-  "id": "rpt",
-  "display_name": "Profusion report version",
-  "description": "Version of profusion export report used",
-  "type": "string",
-  "units": ""
-}

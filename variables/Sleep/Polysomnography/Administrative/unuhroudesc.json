@@ -1,7 +1,0 @@
-{
-  "id": "unuhroudesc",
-  "display_name": "Describe problem HR",
-  "description": "1=Medical alert for unusual HR (description)",
-  "type": "string",
-  "units": ""
-}

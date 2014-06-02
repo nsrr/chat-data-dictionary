@@ -1,7 +1,0 @@
-{
-  "id": "ree1",
-  "display_name": "Was reevaluation for surgical candidacy performed?",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}
