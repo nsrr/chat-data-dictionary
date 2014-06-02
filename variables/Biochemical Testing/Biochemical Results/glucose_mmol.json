@@ -1,0 +1,7 @@
+{
+  "id": "glucose_mmol",
+  "display_name": "Glucose",
+  "description": "",
+  "type": "numeric",
+  "units": "millimoles per litre"
+}
