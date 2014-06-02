@@ -1,7 +1,0 @@
-{
-  "id": "sleep_diary_missing_wknd",
-  "display_name": "Total missing days on weekends",
-  "description": "",
-  "type": "numeric",
-  "units": "days"
-}
