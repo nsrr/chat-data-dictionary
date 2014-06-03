@@ -1,0 +1,7 @@
+{
+  "id": "ant4_gain",
+  "display_name": "Weight velocity",
+  "description": "Change in weight between visits / 0.5 years",
+  "type": "numeric",
+  "units": "kilograms per year"
+}
