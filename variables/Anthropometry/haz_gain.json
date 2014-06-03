@@ -1,0 +1,7 @@
+{
+  "id": "haz_gain",
+  "display_name": "Height velocity (SDS)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}
