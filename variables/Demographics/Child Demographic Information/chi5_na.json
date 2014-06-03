@@ -3,5 +3,5 @@
   "display_name": "chi5_na",
   "description": "",
   "type": "choices",
-  "domain":"schooling"
+  "domain":"notattending"
 }
