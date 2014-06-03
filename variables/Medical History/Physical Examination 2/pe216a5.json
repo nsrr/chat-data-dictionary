@@ -1,7 +1,7 @@
 {
   "id": "pe216a5",
-  "display_name": "surgery (other than ta)",
+  "display_name": "Surgery (other than ta)",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "othersurgery"
 }

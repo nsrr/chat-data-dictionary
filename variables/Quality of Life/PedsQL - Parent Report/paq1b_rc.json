@@ -3,5 +3,5 @@
   "display_name": "Running (coded per pedsql manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways"
 }
