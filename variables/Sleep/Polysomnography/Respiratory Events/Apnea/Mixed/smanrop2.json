@@ -1,0 +1,7 @@
+{
+  "id": "smanrop2",
+  "display_name": "Minimum mixed apnea length (NREM, Other, 2% desaturation)",
+  "description": "Shortest mixed apnea during NREM sleep with non-supine body position",
+  "type": "numeric",
+  "units": "seconds"
+}

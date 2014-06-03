@@ -1,0 +1,7 @@
+{
+  "id": "par2r",
+  "display_name": "Mother's race recoded",
+  "description": "",
+  "type": "choices",
+  "domain": "parentrace"
+}

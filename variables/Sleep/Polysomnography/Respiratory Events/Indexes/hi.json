@@ -1,0 +1,7 @@
+{
+  "id": "hi",
+  "display_name": "Hypopnea Index with Arousal: 60 * (hremba3 + hroa3 + hnrba3 + hnroa3) / slpprdp",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}
