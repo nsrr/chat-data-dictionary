@@ -1,7 +1,7 @@
 {
   "id": "med2b2",
-  "display_name": "Trees",
+  "display_name": "Child has tree allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "trees"
 }

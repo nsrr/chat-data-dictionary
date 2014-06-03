@@ -1,7 +1,7 @@
 {
   "id": "med2b1",
-  "display_name": "Molds",
+  "display_name": "Child has mold allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "molds"
 }
