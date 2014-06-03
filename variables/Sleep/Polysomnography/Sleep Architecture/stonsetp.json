@@ -1,8 +1,0 @@
-{
-  "id": "stonsetp",
-  "display_name": "Sleep onset time- CHAT onset = 1 epoch any stage",
-  "description": "Beginning of sleep (defined as 1 epochs of sleep)",
-  "type": "time",
-  "units": "",
-  "commonly_used": true
-}

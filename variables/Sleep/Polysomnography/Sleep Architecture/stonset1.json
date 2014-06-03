@@ -1,7 +1,0 @@
-{
-  "id": "stonset1",
-  "display_name": "Sleep onset (start of sleep) - scorer",
-  "description": "Sleep onset - start of sleep (set to be 1 epoch of stg 2,3/4, REM; option set by scorer in prof 3)",
-  "type": "time",
-  "units": ""
-}
