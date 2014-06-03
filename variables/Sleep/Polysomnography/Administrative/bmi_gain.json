@@ -1,0 +1,7 @@
+{
+  "id": "bmi_gain",
+  "display_name": "BMI velocity",
+  "description": "Change in BMI between visits / 0.5 years",
+  "type": "numeric",
+  "units": "kilograms per year*meters squared"
+}
