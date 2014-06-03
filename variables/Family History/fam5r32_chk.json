@@ -3,5 +3,5 @@
   "display_name": "Half brother have Loud Snoring (3 or more times per week)",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain":"checked"
 }
