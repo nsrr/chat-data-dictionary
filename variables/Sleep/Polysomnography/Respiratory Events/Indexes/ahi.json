@@ -1,0 +1,7 @@
+{
+  "id": "ahi",
+  "display_name": "Obstructive apnea index",
+  "description": "Obstructive apnea index",
+  "type": "numeric",
+  "units": "events per hour"
+}
