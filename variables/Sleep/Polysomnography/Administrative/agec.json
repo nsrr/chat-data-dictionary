@@ -2,6 +2,6 @@
   "id": "agec",
   "display_name": "",
   "description": "",
-  "type": "integer",
+  "type": "numeric",
   "units": ""
 }
