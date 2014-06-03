@@ -1,21 +1,16 @@
 [
   {
     "value": "1",
-    "display_name": "summer vacation",
+    "display_name": "Summer vacation",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "child is home schooled",
+    "display_name": "Child is home schooled",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "Not attending",
-    "description": ""
-  },
-  {
-    "value": "4",
     "display_name": "Other, specify",
     "description": ""
   }
