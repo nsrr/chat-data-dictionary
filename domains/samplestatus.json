@@ -18,5 +18,10 @@
     "value": "4",
     "display_name": "no, hard to stick",
     "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "no, other",
+    "description": ""
   }
 ]
