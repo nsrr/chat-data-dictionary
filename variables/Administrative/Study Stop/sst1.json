@@ -1,6 +1,6 @@
 {
   "id": "sst1",
-  "display_name": "Did the participant complete the study, as per protocol (Y/N)",
+  "display_name": "Did the participant complete the study, as per protocol?",
   "description": "",
   "type": "choices",
   "domain":"noyes"
