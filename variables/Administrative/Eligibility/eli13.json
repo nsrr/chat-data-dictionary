@@ -1,7 +1,16 @@
 {
   "id": "eli13",
   "display_name": "Does the participant have severe chronic health conditions that might hamper participation?",
-  "description": "This includes any of the following: a. severe cardiopulmonary disorders (e.g.: systic fibrosis, congential heart disease) b. sickle cell anemia c. poorly controlled ashtma (with >1 hospitalization in last year) d. epilespsy requiring medication e. diabetes (type 1 or type II) requiring medication f. conditions likely to preclude accurate polysomnography(eg severe uncontrolled pain) g. mental retardation or entrollment in a form school Individual Educational Plan(IEP) and assigned to a self contained classroom for all academic subjects. h. History or inability to complete cognitive testing and/or scores on DASII of less than or equal to 55. i. chronic infection or HIV.",
+  "description": "This includes any of the following: 
+  a. Severe cardiopulmonary disorders (e.g.: systic fibrosis, congential heart disease) 
+  b. Sickle cell anemia 
+  c. Poorly controlled ashtma (with >1 hospitalization in last year) 
+  d. Epilespsy requiring medication 
+  e. Diabetes (type 1 or type II) requiring medication 
+  f. Conditions likely to preclude accurate polysomnography(eg severe uncontrolled pain) 
+  g. Mental retardation or entrollment in a form school Individual Educational Plan(IEP) and assigned to a self contained classroom for all academic subjects. 
+  h. History or inability to complete cognitive testing and/or scores on DASII of less than or equal to 55. 
+  i. Chronic infection or HIV.",
   "type": "choices",
   "domain":"noyes"
 }
