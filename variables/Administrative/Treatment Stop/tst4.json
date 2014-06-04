@@ -1,6 +1,6 @@
 {
   "id": "tst4",
-  "display_name": "Did this participant crossover (Y/N)",
+  "display_name": "Did this participant crossover?",
   "description": "",
   "type": "choices",
   "domain":"noyes"
