@@ -1,62 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "2",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "3",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "",
-    "description": ""
+    "display_name": "Alternative treatment needed",
+    "description": "Child's physician has identified a change in signs or symptoms that warrants alternative treatment for osa (initiation of cpap for example)"
   },
   {
     "value": "5",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "6",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "7",
-    "display_name": "",
-    "description": ""
+    "display_name": "Bacterial tonsillitis",
+    "description": "Recurrent bacterial tonsillitis (3 or more episodes of streptococcal culture positive infection occuring over a 3 month period)"
   },
   {
     "value": "8",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "9",
-    "display_name": "",
-    "description": ""
+    "display_name": "Hypertension",
+    "description": "New onset stage 2 hypertension, which is not better explained by another medical condition"
   },
   {
     "value": "10",
-    "display_name": "",
-    "description": ""
+    "display_name": "Wanted adenotonsillectomy",
+    "description": "10: Parent / caregiver decision to have adenotonsillectomy surgery (wwsc group)"
   },
   {
     "value": "11",
-    "display_name": "",
-    "description": ""
+    "display_name": "Declined adenotonsillectomy",
+    "description": "Parent / caregiver decision to not have adenotonsillectomy  surgery (eat group)"
   },
   {
     "value": "98",
-    "display_name": "",
-    "description": ""
+    "display_name": "Other",
+    "description": "Other medical or neuropsycholigical necessitated reason, specify"
   }
 ]
