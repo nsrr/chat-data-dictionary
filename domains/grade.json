@@ -1,0 +1,37 @@
+[
+  {
+    "value": "0",
+    "display_name": "Kindergarten",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "1st grade",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2nd grade",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3rd grade",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "4th grade",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "5th grade",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "Not attending school",
+    "description": ""
+  }
+]
