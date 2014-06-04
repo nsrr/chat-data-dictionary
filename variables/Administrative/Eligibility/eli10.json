@@ -1,7 +1,7 @@
 {
   "id": "eli10",
   "display_name": "Does the participant exhibit evidence of clinically signigicant cardiac arrythmia on PSG?",
-  "description": "defined as any of the following; Non-sustained ventricual tachycardia, atrial fibrillation, second degree AV block, sustained bradycardia <40bpm for >2minutes, or sustained tachycardia >140bpm for >2minutes.",
+  "description": "Defined as any of the following; Non-sustained ventricual tachycardia, atrial fibrillation, second degree AV block, sustained bradycardia <40bpm for >2minutes, or sustained tachycardia >140bpm for >2minutes.",
   "type": "choices",
   "domain":"noyes"
 }
