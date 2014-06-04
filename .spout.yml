@@ -1,8 +1,8 @@
 visit: vnum
 charts:
-- chart: child_age
+- chart: ageyear_bin
   title: Age
-- chart: male
+- chart: chi2
   title: Gender
-- chart: race3
+- chart: ref4
   title: Race

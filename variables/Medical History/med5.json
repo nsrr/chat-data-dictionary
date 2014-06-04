@@ -2,6 +2,6 @@
   "id": "med5",
   "display_name": "Child's weight at birth?",
   "description": "",
-  "type": "choices",
-  "domain":"notsure"
+  "type": "numeric",
+  "units": "pounds"
 }

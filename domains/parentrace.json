@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Black",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "White",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Not sure",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Missing",
+    "description": ""
+  }
+]

@@ -1,7 +1,7 @@
 {
   "id": "med2b8",
-  "display_name": "Food / Drink",
+  "display_name": "Child has food or drink allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "food"
 }

@@ -1,0 +1,8 @@
+{
+  "id": "omahi3_change",
+  "display_name": "CHAT AHI change between Baseline and End",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "commonly_used": true
+}

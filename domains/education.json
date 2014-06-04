@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "11th grade or less",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "High school, GED, or vocational school",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some college",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Bachelor's",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Postgraduate",
+    "description": ""
+  }
+]

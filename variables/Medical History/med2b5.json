@@ -1,7 +1,7 @@
 {
   "id": "med2b5",
-  "display_name": "Dust",
+  "display_name": "Child has dust allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "dust"
 }

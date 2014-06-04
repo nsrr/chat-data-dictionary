@@ -3,5 +3,5 @@
   "display_name": "Aggressive or hyperactive behavior?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time"
 }
