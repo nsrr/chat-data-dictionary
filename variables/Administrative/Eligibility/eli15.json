@@ -1,16 +1,7 @@
 {
   "id": "eli15",
   "display_name": "Does the participant currently use any of the following medications?",
-  "description": "This includes any of the following;
-  a. ADHD medications 
-  b. Psychotropic medication(antidepressants, anxiolytics, antipsychotics) 
-  c. Hypnotics d.Hypoglycemic agents or insulin 
-  e. Antihypertensives 
-  f. Growth Hormone 
-  g. Anticonvulsants 
-  h. Anti-coagulants 
-  i. Daily oral corticosteroids 
-  j. Daily medications for pain",
+  "description": "This includes any of the following; a. ADHD medications b. Psychotropic medication(antidepressants, anxiolytics, antipsychotics) c. Hypnotics d.Hypoglycemic agents or insulin e. Antihypertensives f. Growth Hormone g. Anticonvulsants h. Anti-coagulants i. Daily oral corticosteroids j. Daily medications for pain",
   "type": "choices",
   "domain":"noyes"
 }
