@@ -1,6 +1,6 @@
 {
   "id": "insulin_uil_ml",
-  "display_name": "insulin_uil_ml",
+  "display_name": "Blood insulin levels",
   "description": "",
   "type": "numeric",
   "units": ""

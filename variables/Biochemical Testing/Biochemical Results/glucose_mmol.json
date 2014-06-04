@@ -1,6 +1,6 @@
 {
   "id": "glucose_mmol",
-  "display_name": "Glucose",
+  "display_name": "Blood glucose levels",
   "description": "",
   "type": "numeric",
   "units": "millimoles per litre"

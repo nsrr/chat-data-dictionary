@@ -1,6 +1,6 @@
 {
   "id": "chol",
-  "display_name": "chol",
+  "display_name": "Total cholesterol levels",
   "description": "",
   "type": "numeric",
   "units": ""

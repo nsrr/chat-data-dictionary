@@ -1,7 +1,7 @@
 {
   "id": "hdl_mg_dl",
-  "display_name": "hdl_mg_dl",
+  "display_name": "Blood HDL levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

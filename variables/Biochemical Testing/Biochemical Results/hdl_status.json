@@ -1,6 +1,6 @@
 {
   "id": "hdl_status",
-  "display_name": "hdl_status",
+  "display_name": "HDL status",
   "description": "",
   "type": "string"
 }
