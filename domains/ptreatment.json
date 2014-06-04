@@ -1,62 +1,62 @@
 [
   {
     "value": "1",
-    "display_name": "child's physician has identified a change in signs or symptoms that warrants alternative treatment for osa (initiation of cpap for example)",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "child has developed new academic or behavioral problems resulting in a recommendation for grade retention",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "child has begun special education",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "child has begun counseling or placement on medications for behavior or emotional problems",
+    "display_name": "",
     "description": ""
-  }, 
+  },
   {
     "value": "5",
-    "display_name": "recurrent bacterial tonsillitis (3 or more episodes of streptococcal culture positive infection occuring over a 3 month period)",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "new clinical diagnosis of cor pulmonale",
+    "display_name": "",
     "description": ""
-  },  
+  },
   {
     "value": "7",
-    "display_name": "development of failure to thrive defined by weight loss during the course of follow-up",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "8",
-    "display_name": "new onset stage 2 hypertension, which is not better explained by another medical condition",
+    "display_name": "",
     "description": ""
-  },  
+  },
   {
     "value": "9",
-    "display_name": "new onset hypersomnolence defined as reports of falling asleep on average > 3 times per week, which is not better explained by other factors unrelated to osa",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "10",
-    "display_name": "parent / caregiver decision to have adenotonsillectomy surgery (wwsc group)",
+    "display_name": "",
     "description": ""
   },
   {
     "value": "11",
-    "display_name": "parent / caregiver decision to not have adentonsillectomy surgery (eat group)",
+    "display_name": "",
     "description": ""
-  },  
+  },
   {
     "value": "98",
-    "display_name": "other medical or neuropsycholigical necessitated reason, specify",
+    "display_name": "",
     "description": ""
   }
 ]
