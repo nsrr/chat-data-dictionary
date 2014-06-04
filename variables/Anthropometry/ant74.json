@@ -1,6 +1,6 @@
 {
   "id": "ant74",
-  "display_name": "Waist Average (cm)",
+  "display_name": "Waist Average",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

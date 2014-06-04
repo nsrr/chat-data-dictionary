@@ -1,6 +1,6 @@
 {
   "id": "ant73",
-  "display_name": "Waist Measurement 3 (cm)",
+  "display_name": "Waist Measurement 3",
   "description": "",
   "type": "numeric",
   "units": "centimeters"
