@@ -1,6 +1,6 @@
 {
   "id": "bmiz_gain",
-  "display_name": "BMI Velocity (SDS)",
+  "display_name": "BMI velocity (SDS)",
   "description": "",
   "type": "numeric",
   "units": ""

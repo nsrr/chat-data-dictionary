@@ -1,6 +1,6 @@
 {
   "id": "bmipct",
-  "display_name": "percentile for body mass index-for-age",
+  "display_name": "Percentile for body mass index-for-age",
   "description": "",
   "type": "numeric",
   "units": "percentile"

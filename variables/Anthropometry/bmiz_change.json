@@ -1,6 +1,6 @@
 {
   "id": "bmiz_change",
-  "display_name": "Change in BMI Z-score between baseline and follow-up",
+  "display_name": "Change in BMI z-score between baseline and follow-up",
   "description": "",
   "type": "numeric",
   "units": ""

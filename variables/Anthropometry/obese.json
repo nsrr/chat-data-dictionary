@@ -1,6 +1,6 @@
 {
   "id": "obese",
-  "display_name": "BMIPCT > = 95 binary",
+  "display_name": "BMIPCT greater than or equal to 95 binary",
   "description": "",
   "type": "choices",
   "domain": "obesebmi95"

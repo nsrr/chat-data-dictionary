@@ -1,6 +1,6 @@
 {
   "id": "overweight",
-  "display_name": "BMIPCT > = 85 binary",
+  "display_name": "BMIPCT greater than or equal to 85 binary",
   "description": "",
   "type": "choices",
   "domain":"overweightbmi85"
