@@ -1,52 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "",
-    "description": ""
+    "display_name": "Completed all",
+    "description": "1: Participant successfully completed all required study visits,"
   },
   {
     "value": "2",
-    "display_name": "",
-    "description": ""
+    "display_name": "Lost to follow up",
+    "description": "Participant lost to follow-up,"
   },
   {
     "value": "3",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "5",
-    "display_name": "",
-    "description": ""
+    "display_name": "Withdrew",
+    "description": "Participant withdrew consent,"
   },
   {
     "value": "6",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "7",
-    "display_name": "",
-    "description": ""
+    "display_name": "Medical problem",
+    "description": "New medical problem determined to make continued participation unsafe,"
   },
   {
     "value": "8",
-    "display_name": "",
-    "description": ""
-  },
-  {
-    "value": "9",
-    "display_name": "",
-    "description": ""
+    "display_name": "Declined",
+    "description": "Participant declined their assigned randomization arm,"
   },
   {
     "value": "98",
     "display_name": "",
-    "description": ""
+    "description": "Other, specify."
   }
 ]

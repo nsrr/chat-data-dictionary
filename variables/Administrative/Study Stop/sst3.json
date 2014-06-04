@@ -1,7 +1,7 @@
 {
   "id": "sst3",
   "display_name": "What was the primary reason that the participant stopped?",
-  "description": "1: Participant successfully completed all required study visits,\n2: Participant lost to follow-up,\n3: Participant withdrew consent,\n4: Protocol defined stopping rules, decrease in dasii performance,\n5: Screen failure as defined in mop,\n6: New medical problem determined to make continued participation unsafe,\n7: New behavioral or learning problem determined to make continued participation unsafe,\n8: Participant declined their assigned randomization arm,\n9: Death,\n98: Other, specify.",
+  "description": "",
   "type": "choices",
   "domain":"participant"
 }
