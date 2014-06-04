@@ -1,6 +1,6 @@
 {
   "id": "tst3",
-  "display_name": "Has the Medical Monitor confirmed this to be a treatment failure (Y/N)?",
+  "display_name": "Has the Medical Monitor confirmed this to be a treatment failure?",
   "description": "",
   "type": "choices",
   "domain":"noyes"
