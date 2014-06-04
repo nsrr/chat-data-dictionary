@@ -1,6 +1,6 @@
 {
   "id": "chg_ant1",
-  "display_name": "Time Interval",
+  "display_name": "Time interval",
   "description": "",
   "type": "numeric",
   "units": "years"

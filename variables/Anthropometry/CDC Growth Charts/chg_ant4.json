@@ -1,7 +1,7 @@
 {
   "id": "chg_ant4",
-  "display_name": "Change from baseline to month 7",
-  "description": "Change in weight from baseline to month 7",
+  "display_name": "Change in weight from baseline to month 7",
+  "description": "",
   "type": "numeric",
   "units": "kilograms"
 }

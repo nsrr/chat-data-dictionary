@@ -1,6 +1,6 @@
 {
   "id": "chg_bmi",
-  "display_name": "Change from baseline to month 7",
+  "display_name": "Change in BMI from baseline to month 7",
   "description": "",
   "type": "numeric",
   "units": ""
