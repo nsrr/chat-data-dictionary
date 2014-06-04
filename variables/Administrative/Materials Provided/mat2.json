@@ -1,6 +1,6 @@
 {
   "id": "mat2",
-  "display_name": "Was Saline Spray provided to the child?",
+  "display_name": "Was saline spray provided to the child?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

@@ -1,6 +1,6 @@
 {
   "id": "ran1",
-  "display_name": "Has the participant met all eligibility criteria and signed the consent form; and the PI has reviewed and certified the individual as being eligible?",
+  "display_name": "Has the participant met all eligibility criteria and signed the consent form; and has the PI has reviewed and certified the individual as being eligible?",
   "description": "",
   "type": "choices",
   "domain":"noyes"
