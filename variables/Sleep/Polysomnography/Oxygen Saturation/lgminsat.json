@@ -1,7 +1,7 @@
 {
   "id": "lgminsat",
   "display_name": "LOG minimum O2 sats",
-  "description": "",
+  "description": "Original source: MS 003",
   "type": "numeric",
   "units": ""
 }

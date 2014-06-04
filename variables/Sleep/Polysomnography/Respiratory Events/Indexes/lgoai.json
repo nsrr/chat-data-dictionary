@@ -1,7 +1,7 @@
 {
   "id": "lgoai",
   "display_name": "LOG Obstructive Apnea Index",
-  "description": "",
+  "description": "Original source: MS 003",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "lgahi",
   "display_name": "LOG Obstructive AHI",
-  "description": "",
+  "description": "Original source: MS 003",
   "type": "numeric",
   "units": ""
 }
