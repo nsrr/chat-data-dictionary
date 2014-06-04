@@ -1,6 +1,6 @@
 {
   "id": "ant64",
-  "display_name": "Neck Average (cm)",
+  "display_name": "Neck average",
   "description": "",
   "type": "numeric",
   "units": "centimeters"
