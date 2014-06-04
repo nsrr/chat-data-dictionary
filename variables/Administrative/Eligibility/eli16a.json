@@ -1,7 +1,7 @@
 {
   "id": "eli16a",
   "display_name": "Has the participant had previous upper airway surgery on the nose, pharynx or larynx?",
-  "description": "This includes tonsillectomy. However PE tubes or prior adenoidectomy re not exclusion criteria. ",
+  "description": "This includes tonsillectomy. However PE tubes or prior adenoidectomy are not exclusion criteria. ",
   "type": "choices",
   "domain":"noyes"
 }
