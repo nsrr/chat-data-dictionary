@@ -1,7 +1,7 @@
 {
   "id": "ant3_gain",
   "display_name": "Height velocity",
-  "description": "Change in height between visits / 0.5 years",
+  "description": "Change in height between baseline and follow up / number of years between visits",
   "type": "numeric",
   "units": "centimeters per year"
 }
