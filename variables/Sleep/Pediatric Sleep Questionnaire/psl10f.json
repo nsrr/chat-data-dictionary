@@ -1,7 +1,7 @@
 {
   "id": "psl10f",
-  "display_name": "Interupts or intrudes on others",
+  "display_name": "Interrupts or intrudes on others",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow"
 }
