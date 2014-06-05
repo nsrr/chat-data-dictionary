@@ -2,7 +2,7 @@ visit: vnum
 charts:
 - chart: ageyear_bin
   title: Age
-- chart: chi2
+- chart: male
   title: Gender
-- chart: ref4
+- chart: race3
   title: Race
