@@ -1,0 +1,7 @@
+{
+  "id": "bri1",
+  "display_name": "Was the form completed?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}
