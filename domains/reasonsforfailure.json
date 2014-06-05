@@ -1,7 +1,7 @@
 [
   {
     "value": "1",
-    "display_name": "oximetry",
+    "display_name": "Oximetry",
     "description": ""
   },
   {
@@ -11,32 +11,32 @@
   },
   {
     "value": "3",
-    "display_name": "short recording",
+    "display_name": "Short recording",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "multiple",
+    "display_name": "Multiple",
     "description": ""
   },
   {
     "value": "5",
-    "display_name": "no signals",
+    "display_name": "No signals",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "respiratory",
+    "display_name": "Respiratory",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "participant issue",
+    "display_name": "Participant issue",
     "description": ""
   },
   {
     "value": "8",
-    "display_name": "other",
+    "display_name": "Other",
     "description": ""
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "not checked",
+    "display_name": "Not checked",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "checked",
+    "display_name": "Checked",
     "description": ""
   }
 ]

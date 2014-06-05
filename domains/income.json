@@ -1,7 +1,7 @@
 [
   {
     "value": "1",
-    "display_name": "under $5,000",
+    "display_name": "Under $5,000",
     "description": ""
   },
   {
@@ -18,7 +18,7 @@
     "value": "4",
     "display_name": "$20,000 to $29,999",
     "description": ""
-  }, 
+  },
   {
     "value": "5",
     "display_name": "$30,000 to $39,999",
@@ -41,7 +41,7 @@
   },
   {
     "value": "97",
-    "display_name": "prefer not to answer",
+    "display_name": "Prefer not to answer",
     "description": ""
   }
 ]

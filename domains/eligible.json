@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "ineligible",
+    "display_name": "Ineligible",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "eligible",
+    "display_name": "Eligible",
     "description": ""
   }
 ]

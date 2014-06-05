@@ -1,17 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "no",
+    "display_name": "No",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "yes (1+ per day)",
+    "display_name": "Yes (1+ per day)",
     "description": ""
   },
   {
     "value": "88",
-    "display_name": "not sure",
+    "display_name": "Not sure",
     "description": ""
   }
 ]

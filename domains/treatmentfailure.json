@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "non treatment failure",
+    "display_name": "Non treatment failure",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "treatment failure",
+    "display_name": "Treatment failure",
     "description": ""
   }
 ]

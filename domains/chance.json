@@ -1,22 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "no chance",
+    "display_name": "No chance of dozing",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "slight chance",
+    "display_name": "Slight chance of dozing",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "moderate chance",
+    "display_name": "Moderate chance of dozing",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "high chance",
+    "display_name": "High chance of dozing",
     "description": ""
   }
 ]

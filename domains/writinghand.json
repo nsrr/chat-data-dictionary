@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "right",
+    "display_name": "Right",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "left",
+    "display_name": "Left",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "both",
+    "display_name": "Both",
     "description": ""
   }
 ]

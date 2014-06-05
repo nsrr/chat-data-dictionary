@@ -1,27 +1,27 @@
 [
   {
     "value": "1",
-    "display_name": "yes, full sample",
+    "display_name": "Yes, full sample",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "yes, partial sample",
+    "display_name": "Yes, partial sample",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "no, refused",
+    "display_name": "No, refused",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "no, hard to stick",
+    "display_name": "No, hard to stick",
     "description": ""
   },
   {
     "value": "98",
-    "display_name": "no, other",
+    "display_name": "No, other",
     "description": ""
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "partial volume",
+    "display_name": "Partial volume",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "hemolysis",
+    "display_name": "Hemolysis",
     "description": ""
   }
 ]

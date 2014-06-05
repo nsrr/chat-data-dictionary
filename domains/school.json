@@ -1,22 +1,22 @@
 [
   {
     "value": "0",
-    "display_name": "no",
+    "display_name": "No",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "yes",
+    "display_name": "Yes",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "not in school",
+    "display_name": "Not in school",
     "description": ""
   },
   {
     "value": "88",
-    "display_name": "not sure",
+    "display_name": "Not sure",
     "description": ""
   }
 ]
