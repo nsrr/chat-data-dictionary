@@ -1,0 +1,42 @@
+[
+  {
+    "value": "1",
+    "display_name": "OTL",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sleep clinic",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Sleep lab",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Pediatric clinic",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Community",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Advertisement",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Chart review",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "Other",
+    "description": ""
+  }
+]
