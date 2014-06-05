@@ -46,13 +46,13 @@ run;
 
 *export to csv;
 proc export data=chatbaseline
-  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chatbaseline_&release..csv"
+  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-baseline-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export data=chatend
-  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chatend_&release..csv"
+  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-followup-dataset-_&release..csv"
   dbms=csv
   replace;
 run;
