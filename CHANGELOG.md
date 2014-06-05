@@ -11,3 +11,4 @@
     - `chat-end-dataset-0.1.0.beta1.csv`
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
+  - Updated to spout 0.8.0.beta14
