@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.1.0.beta1;
+%let release = 0.1.0.beta2;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -21,7 +21,12 @@ libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
 *set latest dataset based upon most recent release;
 data chat_latest;
   set chatb.redacted_chat_20140501;
+
+  *remove variables as needed;
+  drop  ran8 /* contains original subject code, which is identifiable */
+        ;
 run;
+
 
 *split dataset into two parts based on 'vnum';
 data chatbaseline chatend;
