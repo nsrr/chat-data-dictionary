@@ -1,6 +1,6 @@
 {
   "id": "ref9",
-  "display_name": "What is the child’s gender",
+  "display_name": "Child’s gender",
   "description": "",
   "type": "choices",
   "domain":"sex"

@@ -1,6 +1,6 @@
 {
   "id": "par6_rc",
-  "display_name": "What is the highest level of education completed by the mother?",
+  "display_name": "Mothers education level",
   "description": "Reclassed variable",
   "type": "choices",
   "domain": "education_rc"
