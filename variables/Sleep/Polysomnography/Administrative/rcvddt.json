@@ -2,6 +2,6 @@
   "id": "rcvddt",
   "display_name": "Date received at reading center",
   "description": "",
-  "type": "date",
-  "units": ""
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }

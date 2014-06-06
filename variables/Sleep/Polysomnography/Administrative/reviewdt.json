@@ -2,6 +2,6 @@
   "id": "reviewdt",
   "display_name": "Date of preliminary review",
   "description": "",
-  "type": "date",
-  "units": ""
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }
