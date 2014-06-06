@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "",
-   "calculations": "(glucose_mmol * ROCHE_INSULIN) / 22.5"
+  "calculations": "(glucose_mmol * ROCHE_INSULIN) / 22.5"
 }

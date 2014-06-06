@@ -3,5 +3,5 @@
   "display_name": "Has the particiapnt ever experienced fainting spells while having blood drawn?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow"
 }
