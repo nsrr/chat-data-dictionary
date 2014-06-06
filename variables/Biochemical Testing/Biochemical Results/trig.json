@@ -1,7 +1,7 @@
 {
   "id": "trig",
-  "display_name": "trig",
+  "display_name": "Triglyceride levels",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "milligrams per deciliter"
 }

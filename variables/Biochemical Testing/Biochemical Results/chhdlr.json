@@ -3,5 +3,6 @@
   "display_name": "Total cholesterol to HDL ratio",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "calculations": "chol / hdl_mg_dl"
 }
