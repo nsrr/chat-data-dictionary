@@ -1,7 +1,7 @@
 {
   "id": "chi5_na",
-  "display_name": "chi5_na",
+  "display_name": "Child is not attending school",
   "description": "",
   "type": "choices",
-  "domain":"notattending"
+  "domain": "notattending"
 }

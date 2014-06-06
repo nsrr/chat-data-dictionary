@@ -1,7 +1,7 @@
 {
   "id": "chi2",
-  "display_name": "What is your child's gender?",
+  "display_name": "Child's gender?",
   "description": "",
   "type": "choices",
-  "domain":"sex"
+  "domain": "sex"
 }

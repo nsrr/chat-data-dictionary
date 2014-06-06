@@ -1,6 +1,6 @@
 {
   "id": "chi5",
-  "display_name": "What is you child's current or most recently completed grade in school?",
+  "display_name": "Child's grade?",
   "description": "",
   "type": "choices",
   "domain": "grade"
