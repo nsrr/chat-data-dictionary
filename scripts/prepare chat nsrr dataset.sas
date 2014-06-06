@@ -22,6 +22,12 @@ libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
 data chat_latest;
   set chatb.redacted_chat_20140501;
 
+  *retain race3 variable to get it in followup dataset;
+  retain race3retain;
+  if vnum = 3 then race3retain = race3;
+  if vnum = 10 then race3 = race3retain;
+  drop race3retain;
+
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
         ethnicity /* has missing subjects, chi3 variable is more complete */
@@ -31,12 +37,12 @@ run;
 
 
 *split dataset into two parts based on 'vnum';
-data chatbaseline chatend;
+data chatbaseline chatfollowup;
   set chat_latest;
 
   *visit number is 'vnum';
   if vnum = 3 then output chatbaseline;
-  if vnum = 10 then output chatend;
+  if vnum = 10 then output chatfollowup;
 run;
 
 *set library for permanent CHAT NSRR datasets;
@@ -47,7 +53,7 @@ data chatn.chatbaseline_&release_&sasfiledate;
   set chatbaseline;
 run;
 
-data chatn.chatend_&release_&sasfiledate;
+data chatn.chatfollowup_&release_&sasfiledate;
   set chatend;
 run;
 
@@ -58,7 +64,7 @@ proc export data=chatbaseline
   replace;
 run;
 
-proc export data=chatend
+proc export data=chatfollowup
   outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-followup-dataset-&release..csv"
   dbms=csv
   replace;
