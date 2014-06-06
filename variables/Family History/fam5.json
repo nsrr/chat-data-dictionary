@@ -1,7 +1,7 @@
 {
   "id": "fam5",
-  "display_name": "Do your child's brothers and/or sisters have any of the following conditions?",
+  "display_name": "Do any of the sibilings have any of the following conditions?",
   "description": "",
   "type": "choices",
-  "domain":"notapplicable"
+  "domain": "notapplicable"
 }

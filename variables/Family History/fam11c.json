@@ -3,5 +3,5 @@
   "display_name": "Did your child usually bring up phlegm from the chest?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

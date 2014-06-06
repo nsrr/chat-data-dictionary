@@ -1,7 +1,7 @@
 {
   "id": "fam11d",
-  "display_name": "Did your child bring up phlegm as much as twice a day, four or more times a week, for three (3) consecutive months or more?",
-  "description": "",
+  "display_name": "Did your child bring up phlegm often?",
+  "description": "Defined as:\n Twice a day for atleast 3 months,\n Or four or more times a week for atleast 3 months",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

@@ -1,7 +1,7 @@
-{
+ {
   "id": "fam11f",
-  "display_name": "Did your child have periods or episodes of increased cough and phlegm lasting three (3) weeks or more?",
+  "display_name": "Did your child have periods or worsened cough or phlegm?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

@@ -1,7 +1,7 @@
 {
   "id": "fam12b",
-  "display_name": "Most days or nights has your child's chest sounded wheezy or whistling?",
+  "display_name": "Do wheezy or whistling chest sounds occur most days?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

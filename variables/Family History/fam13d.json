@@ -1,7 +1,7 @@
 {
   "id": "fam13d",
-  "display_name": "Exercise your child to have a stuffy or runny nose",
+  "display_name": "Any stuffy or runny nose when excersizing?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

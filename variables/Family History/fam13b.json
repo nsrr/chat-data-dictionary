@@ -1,7 +1,7 @@
 {
   "id": "fam13b",
-  "display_name": "A Dusty Room your child to have a stuffy or runny nose",
+  "display_name": "Any runny or stuffy nose when exposed to dust?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

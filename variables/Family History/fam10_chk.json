@@ -3,5 +3,5 @@
   "display_name": "Mother's current weight",
   "description": "",
   "type": "choices",
-  "domain":"notsure"
+  "domain": "notsure"
 }

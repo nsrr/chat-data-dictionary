@@ -1,7 +1,7 @@
 {
   "id": "fam1a",
-  "display_name": "Does your child's current primary caregiver smoke at least one cigarette a day?",
-  "description": "",
+  "display_name": "Does the primary caregiver smoke?",
+  "description": "Smoking is defined as atleast 1 cigarette a day",
   "type": "choices",
-  "domain":"smoking"
+  "domain": "smoking"
 }

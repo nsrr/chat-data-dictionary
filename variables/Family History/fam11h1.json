@@ -1,7 +1,7 @@
 {
   "id": "fam11h1",
-  "display_name": "Did your child been troubled by shortness of breath when hurrying on level ground or walking up a slight hill?",
-  "description": "",
+  "display_name": "Did your child experince shortness of breath?",
+  "description": "Defined as occuring during mild excesize such as walking on level ground or up a slight hill.",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }
