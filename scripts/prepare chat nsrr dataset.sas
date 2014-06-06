@@ -28,6 +28,12 @@ data chat_latest;
   if vnum = 10 then race3 = race3retain;
   drop race3retain;
 
+  *retain male variable to get it in followup dataset;
+  retain maleretain;
+  if vnum = 3 then maleretain = male;
+  if vnum = 10 then male = maleretain;
+  drop maleretain;
+
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
         ethnicity /* has missing subjects, chi3 variable is more complete */
