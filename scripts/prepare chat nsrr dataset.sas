@@ -40,6 +40,8 @@ data chat_latest;
         cbal /* visit number indicator, seemingly no value */
         pho3a2 /* empty variable, no valid data */
         pho4a2 /* empty variable, no valid data */
+        med3c2 /* empty variable, no valid data */
+        med3d2 /* empty variable, no valid data */
         ;
 run;
 
