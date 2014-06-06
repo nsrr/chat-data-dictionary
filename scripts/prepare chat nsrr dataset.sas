@@ -38,6 +38,8 @@ data chat_latest;
   drop  ran8 /* contains original subject code, which is identifiable */
         ethnicity /* has missing subjects, chi3 variable is more complete */
         cbal /* visit number indicator, seemingly no value */
+        pho3a2 /* empty variable, no valid data */
+        pho4a2 /* empty variable, no valid data */
         ;
 run;
 
