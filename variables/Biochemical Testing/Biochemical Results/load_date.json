@@ -1,6 +1,6 @@
 {
   "id": "load_date",
-  "display_name": "load_date",
+  "display_name": "Load date",
   "description": "",
   "type": "date"
 }
