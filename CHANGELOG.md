@@ -9,6 +9,7 @@
   - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.1.0\`
     - `chat-baseline-dataset-0.1.0.beta1.csv`
     - `chat-end-dataset-0.1.0.beta1.csv`
+- The SAS export script now drops extraneous variables
 - **Gem Changes**
   - Use of Ruby 2.1.2 is now recommended
   - Updated to spout 0.8.0.beta15
