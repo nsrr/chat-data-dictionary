@@ -1,6 +1,6 @@
 {
   "id": "bp21",
-  "display_name": "Systolic BP 2",
+  "display_name": "Systolic blood pressure 2",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

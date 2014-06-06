@@ -1,6 +1,6 @@
 {
   "id": "bp22",
-  "display_name": "Diastolic BP 2",
+  "display_name": "Diastolic blood pressure 2",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"

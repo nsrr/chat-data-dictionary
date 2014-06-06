@@ -1,6 +1,6 @@
 {
   "id": "bp12",
-  "display_name": "Diastolic BP 1",
+  "display_name": "Diastolic blood pressure 1",
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury"
