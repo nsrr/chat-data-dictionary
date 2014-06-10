@@ -1,7 +1,7 @@
 {
   "id": "fam1",
-  "display_name": "Did the mother smoke during pregnancy?",
-  "description": "",
+  "display_name": "Mother smoke during pregnancy?",
+  "description": "Did your child's biological mother smoke at least one cigarette a day while she was pregnant with your child?",
   "type": "choices",
   "domain": "smoking"
 }
