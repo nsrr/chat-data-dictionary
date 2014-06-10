@@ -20,7 +20,11 @@ libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
 
 *set latest dataset based upon most recent release;
 data chat_latest;
+  length obf_pptid 8.;
   set chatb.redacted_chat_20140501;
+
+  *create obfuscated ID for filenaming conventions;
+  obf_pptid = new_pid + 300000;
 
   *retain race3 variable to get it in followup dataset;
   retain race3retain;
