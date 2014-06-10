@@ -1,7 +1,7 @@
 {
   "id": "bri14c_tr",
-  "display_name": "GEC (BRI + MI) Percentile",
-  "description": "",
+  "display_name": "GEC percentile",
+  "description": " GEC = BRI + MI ",
   "type": "numeric",
   "units": "percent"
 }

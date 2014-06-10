@@ -1,7 +1,7 @@
 {
   "id": "bri14a_tr",
-  "display_name": "GEC (BRI + MI) Raw Score",
-  "description": "",
+  "display_name": "GEC raw score",
+  "description": " GEC = BRI + MI ",
   "type": "numeric",
   "units": ""
 }

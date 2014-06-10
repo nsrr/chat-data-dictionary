@@ -1,6 +1,6 @@
 {
   "id": "bri12c_tr",
-  "display_name": "Monitor Percentile",
+  "display_name": "Monitor percentile",
   "description": "",
   "type": "numeric",
   "units": "percent"
