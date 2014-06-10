@@ -3,5 +3,8 @@
   "display_name": "Child's weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms"
+  "units": "kilograms",
+  "forms": [
+    "chat_anthropometry_form"
+  ]
 }
