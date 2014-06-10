@@ -1,6 +1,6 @@
 {
   "id": "bri8c",
-  "display_name": "Working Memory Percentile",
+  "display_name": "Working memory percentile",
   "description": "",
   "type":"numeric",
   "units": "percent"

@@ -1,6 +1,6 @@
 {
   "id": "bri3c",
-  "display_name": "Inhibit Percentile",
+  "display_name": "Inhibit percentile",
   "description": "",
   "type":"numeric",
   "units": "percent"
