@@ -2,5 +2,6 @@
   "id": "ant1",
   "display_name": "Date of the current measurements",
   "description": "",
-  "type": "date"
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }

@@ -2,5 +2,6 @@
   "id": "ref3",
   "display_name": "What is the screening PSG date?",
   "description": "",
-  "type": "date"
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }
