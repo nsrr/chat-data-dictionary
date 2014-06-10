@@ -1,6 +1,6 @@
 {
   "id": "cbc9c",
-  "display_name": "Somatic Complaints Percentile",
+  "display_name": "Somatic complaints percentile",
   "description": "",
   "type": "numeric",
   "units": "percent"

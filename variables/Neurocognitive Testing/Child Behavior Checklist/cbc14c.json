@@ -1,6 +1,6 @@
 {
   "id": "cbc14c",
-  "display_name": "Aggressive Behavior Percentile",
+  "display_name": "Aggressive behavior percentile",
   "description": "",
   "type": "numeric",
   "units": "percent"

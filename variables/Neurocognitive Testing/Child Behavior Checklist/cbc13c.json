@@ -1,6 +1,6 @@
 {
   "id": "cbc13c",
-  "display_name": "Rule-Breaking Behavior Percentile",
+  "display_name": "Rule-Breaking behavior percentile",
   "description": "",
   "type": "numeric",
   "units": "percent"
