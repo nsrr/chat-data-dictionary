@@ -3,5 +3,13 @@
   "display_name": "Average systolic blood pressure",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "lables": [
+    "BP",
+    "Hypertension",
+    "bp41"
+  ]
 }

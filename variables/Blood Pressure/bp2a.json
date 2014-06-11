@@ -2,5 +2,11 @@
   "id": "bp2a",
   "display_name": "Time collected",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "lables": [
+    "bp2a"
+  ]
 }

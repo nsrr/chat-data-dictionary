@@ -3,5 +3,13 @@
   "display_name": "Diastolic blood pressure 3",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "lables": [
+    "BP",
+    "Hypertension",
+    "bp32"
+  ]
 }
