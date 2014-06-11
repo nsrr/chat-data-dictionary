@@ -3,5 +3,8 @@
   "display_name": "Scale C ineffectiveness T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

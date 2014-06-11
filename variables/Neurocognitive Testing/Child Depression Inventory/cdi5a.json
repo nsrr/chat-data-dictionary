@@ -3,5 +3,8 @@
   "display_name": "Scale A negative mood total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Was this test performed?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

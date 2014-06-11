@@ -3,5 +3,8 @@
   "display_name": "If NO, please provide a reason",
   "description": "",
   "type": "choices",
-  "domain": "nodepression"
+  "domain": "nodepression",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

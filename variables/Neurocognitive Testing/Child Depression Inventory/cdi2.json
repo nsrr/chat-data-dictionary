@@ -3,5 +3,8 @@
   "display_name": "Any Assistance given?",
   "description": "Was any assistance given to the child during the administration of this test?",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }
