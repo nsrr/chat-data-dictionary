@@ -3,5 +3,11 @@
   "display_name": "Percentile for body mass index-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percentile"
+  "units": "percentile",
+  "lables": [
+    "bmipct",
+    "BMI",
+    "weight",
+    "quetelet index"
+  ]
 }

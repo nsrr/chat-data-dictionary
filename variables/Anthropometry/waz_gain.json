@@ -1,7 +1,11 @@
 {
   "id": "waz_gain",
-  "display_name": "Weight velocity (SDS)",
+  "display_name": "Weight velocity",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "lables": [
+    "waz_gain",
+    "ant4_gain"
+  ]
 }

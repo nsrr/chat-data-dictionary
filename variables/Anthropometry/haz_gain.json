@@ -1,7 +1,11 @@
 {
   "id": "haz_gain",
-  "display_name": "Height velocity (SDS)",
+  "display_name": "Height velocity",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "lables": [
+    "haz_gain",
+    "ant3_gain"
+  ]
 }

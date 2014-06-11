@@ -1,7 +1,14 @@
 {
   "id": "bmiz",
-  "display_name": "Z-score for body mass index-for-age",
+  "display_name": "Z score for body mass index-for-age",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "lables": [
+    "bmiz",
+    "BMI",
+    "weight",
+    "quetelet index",
+    "standard score"
+  ]
 }

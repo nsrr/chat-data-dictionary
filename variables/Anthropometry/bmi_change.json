@@ -3,5 +3,11 @@
   "display_name": "Change in BMI between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "lables": [
+    "bmi_change",
+    "body mass index",
+    "weight",
+    "quetelet index"
+  ]
 }
