@@ -3,5 +3,8 @@
   "display_name": "Is it hard for you to run?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways2"
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
 }

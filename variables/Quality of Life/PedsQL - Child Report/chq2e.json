@@ -3,5 +3,8 @@
   "display_name": "Do you worry about what will happen to you?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways2"
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
 }
