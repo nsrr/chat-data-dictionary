@@ -6,5 +6,11 @@
   "units": "kilograms / meters squared",
   "forms": [
     "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant5",
+    "body mass index",
+    "weight",
+    "quetelet index"
   ]
 }

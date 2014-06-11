@@ -3,5 +3,12 @@
   "display_name": "Hip Average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant84",
+    "hip measurment"
+  ]
 }

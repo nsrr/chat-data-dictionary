@@ -3,5 +3,11 @@
   "display_name": "Change in weight between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "kilograms"
+  "units": "kilograms",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant4_change"
+  ]
 }

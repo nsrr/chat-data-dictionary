@@ -3,5 +3,12 @@
   "display_name": "Neck average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant64",
+    "neck measurment"
+  ]
 }

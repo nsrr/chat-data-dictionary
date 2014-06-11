@@ -3,5 +3,11 @@
   "display_name": "Hip Measurement 2",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant82"
+  ]
 }

@@ -3,5 +3,11 @@
   "display_name": "Waist Measurement 2",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant72"
+  ]
 }

@@ -3,5 +3,12 @@
   "display_name": "Waist Average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant74",
+    "waist measurement"
+  ]
 }

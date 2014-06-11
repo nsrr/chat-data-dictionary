@@ -3,5 +3,12 @@
   "display_name": "Height velocity",
   "description": "Change in height between baseline and follow up / number of years between visits",
   "type": "numeric",
-  "units": "centimeters per year"
+  "units": "centimeters per year",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant3_gain",
+    "change in height"
+  ]
 }

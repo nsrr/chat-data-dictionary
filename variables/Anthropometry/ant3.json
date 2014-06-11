@@ -3,5 +3,11 @@
   "display_name": "Child's standing height",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "lables": [
+    "ant3"
+  ]
 }
