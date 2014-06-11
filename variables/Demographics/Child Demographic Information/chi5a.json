@@ -3,5 +3,8 @@
   "display_name": "Reason child is not attending school.",
   "description": "",
   "type": "choices",
-  "domain": "schooling"
+  "domain": "schooling",
+  "forms": [
+    "chat_cdi_form"
+  ]
 }

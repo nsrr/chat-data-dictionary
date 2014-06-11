@@ -3,5 +3,8 @@
   "display_name": "Child's grade?",
   "description": "",
   "type": "choices",
-  "domain": "grade"
+  "domain": "grade",
+  "forms": [
+    "chat_cdi_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Age",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdi_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Child's ethnicity?",
   "description": "",
   "type": "choices",
-  "domain": "ethnicity"
+  "domain": "ethnicity",
+  "forms": [
+    "chat_cdi_form"
+  ]
 }
