@@ -3,5 +3,8 @@
   "display_name": "Plan/Organize raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_tr_form"
+  ]
 }

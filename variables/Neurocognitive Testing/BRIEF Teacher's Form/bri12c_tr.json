@@ -3,5 +3,8 @@
   "display_name": "Monitor percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }
