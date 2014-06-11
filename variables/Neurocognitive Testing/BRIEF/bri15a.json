@@ -3,5 +3,8 @@
   "display_name": "What is the inconsistency score?",
   "description": "",
   "type":"numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

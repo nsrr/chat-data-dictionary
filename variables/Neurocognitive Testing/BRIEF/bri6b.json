@@ -3,5 +3,8 @@
   "display_name": "BRI T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

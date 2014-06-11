@@ -3,5 +3,8 @@
   "display_name": "Emotional control raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

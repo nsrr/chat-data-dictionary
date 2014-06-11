@@ -4,5 +4,8 @@
   "description": " BRI + MI = GEC",
   "type":"numeric",
   "units": "",
-  "calclations": "bri12b + bri6b"
+  "calclations": "bri12b + bri6b",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

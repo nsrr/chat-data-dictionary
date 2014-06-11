@@ -3,5 +3,8 @@
   "display_name": "Organization of materials raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

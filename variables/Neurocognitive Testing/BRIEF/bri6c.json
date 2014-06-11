@@ -3,5 +3,8 @@
   "display_name": "BRI percentile",
   "description": "",
   "type":"numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

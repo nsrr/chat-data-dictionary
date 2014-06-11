@@ -3,5 +3,8 @@
   "display_name": "Monitor T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
 }
