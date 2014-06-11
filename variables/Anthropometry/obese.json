@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "obesebmi95",
-  "lables": [
+  "labels": [
     "Percentile for body mass index-for-age",
     "BMI",
     "Body mass index",

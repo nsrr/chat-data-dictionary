@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "percentile",
-  "lables": [
+  "labels": [
     "bmipct",
     "BMI",
     "weight",

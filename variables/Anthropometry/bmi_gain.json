@@ -4,7 +4,7 @@
   "description": "Change in BMI between baseline and followup / number of years between visit",
   "type": "numeric",
   "units": "kilograms per year * meters squared",
-  "lables": [
+  "labels": [
     "bmi_gain",
     "body mass index",
     "weight",

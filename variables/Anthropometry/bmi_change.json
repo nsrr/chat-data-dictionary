@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "lables": [
+  "labels": [
     "bmi_change",
     "body mass index",
     "weight",

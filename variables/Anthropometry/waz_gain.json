@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "lables": [
+  "labels": [
     "waz_gain",
     "ant4_gain"
   ]

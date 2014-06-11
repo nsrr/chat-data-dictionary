@@ -7,7 +7,7 @@
   "forms": [
     "chat_anthropometry_form"
   ],
-  "lables": [
+  "labels": [
     "ant5",
     "body mass index",
     "weight",
