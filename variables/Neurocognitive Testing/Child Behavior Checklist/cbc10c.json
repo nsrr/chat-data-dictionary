@@ -3,5 +3,8 @@
   "display_name": "Social problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

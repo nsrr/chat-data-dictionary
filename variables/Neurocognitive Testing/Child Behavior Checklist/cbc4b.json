@@ -3,5 +3,8 @@
   "display_name": "Social T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

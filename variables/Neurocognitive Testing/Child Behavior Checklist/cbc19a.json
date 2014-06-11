@@ -3,5 +3,8 @@
   "display_name": "Anxiety problems total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }
