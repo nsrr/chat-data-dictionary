@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Acceptable",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Questionable",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Inconsistent",
+    "description": ""
+  }
+]
