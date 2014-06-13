@@ -3,5 +3,8 @@
   "display_name": "What is the child's handedness?",
   "description": "",
   "type": "choices",
-  "domain":"writinghand"
+  "domain": "writinghand",
+  "forms": [
+    "chat_das2_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Verbal Similarities Verbal",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_das2_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Pattern Construction",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_das2_form"
+  ]
 }
