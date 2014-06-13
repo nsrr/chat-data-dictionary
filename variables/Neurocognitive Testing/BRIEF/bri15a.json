@@ -2,9 +2,14 @@
   "id": "bri15a",
   "display_name": "What is the inconsistency score?",
   "description": "",
+<<<<<<< HEAD:variables/Neurocognitive Testing/BRIEF/BRI15A.json
+  "type":"choices",
+  "domain": "inconsistencyscore"
+=======
   "type":"numeric",
   "units": "",
   "forms": [
     "chat_brief_form"
   ]
+>>>>>>> 250d8226d6a89bdd7b530126cbf56472891f9f3f:variables/Neurocognitive Testing/BRIEF/bri15a.json
 }

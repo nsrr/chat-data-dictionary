@@ -2,8 +2,8 @@
   "id": "bri16a_tr",
   "display_name": "What is the inconsistency score?",
   "description": "",
-  "type": "numeric",
-  "units": "",
+  "type": "choices",
+  "domain": "inconsistencyscore",
   "forms": [
     "chat_brief__tr_form"
   ]
