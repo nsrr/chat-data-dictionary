@@ -1,7 +1,10 @@
 {
   "id": "eli12",
   "display_name": "Does the participant have sever health problems that could be exacerbated by delayed treatment for OSAS?",
-  "description": "Includes any of the following: a. Doctor-diagnosed heart disease or cor pulmonale. b. Stage II hypertension as defined >99% percentile (CDC) plus 5mmHg for either systolic or diastolic examination, based on age, gender, and height normm, as measured on the baseline exam or the PSG or requiring medication c. Therapy for failure to thrive or short stature d. Psychiatric or behavioral disorders requiring or likely to require initiation of new medication, therapy or other specific treatment during the 12 month trial period e. For school aged children, parental report of excessive daytime sleepiness defined as unable to maintain wakefulness at least three times per week in routine activites in school or home, despite adequate opportunity to sleep.",
+  "description": "Includes any of the following:\n a. Doctor-diagnosed heart disease or cor pulmonale.\n b. Stage II hypertension as defined >99% percentile (CDC) plus 5mmHg for either systolic or diastolic examination, based on age, gender, and height normm, as measured on the baseline exam or the PSG or requiring medication\n c. Therapy for failure to thrive or short stature\n d. Psychiatric or behavioral disorders requiring or likely to require initiation of new medication, therapy or other specific treatment during the 12 month trial period\n e. For school aged children, parental report of excessive daytime sleepiness defined as unable to maintain wakefulness at least three times per week in routine activities in school or home, despite adequate opportunity to sleep.",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_eligibility_form"
+  ]
 }

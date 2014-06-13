@@ -1,7 +1,10 @@
 {
   "id": "eli21",
-  "display_name": "For female participants, has the participant attained menarche by the time of study entrollment per parental report?",
+  "display_name": "For female participants, has the participant attained menarche by the time of study enrollment per parental report?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotapp"
+  "domain":"noyesnotapp",
+  "forms": [
+    "chat_eligibility_form"
+  ]
 }

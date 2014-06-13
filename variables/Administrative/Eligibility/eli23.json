@@ -3,5 +3,8 @@
   "display_name": "Are all of the exclusion criteria responses 'no' or 'not applicable'?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_eligibility_form"
+  ]
 }
