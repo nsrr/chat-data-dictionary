@@ -1,0 +1,7 @@
+{
+  "id": "co2peak",
+  "display_name": "Peak end-tidal carbon dioxide asleep",
+  "description": "",
+  "type": "numeric",
+  "units": "percentage of carbon dioxide"
+}

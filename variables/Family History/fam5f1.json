@@ -1,7 +1,7 @@
 {
   "id": "fam5f1",
-  "display_name": "Do child’s brothers and/or sisters have Cancer",
+  "display_name": "Do child’s brothers and/or sisters have cancer",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

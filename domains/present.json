@@ -1,17 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "not present",
+    "display_name": "Not present",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "present",
+    "display_name": "Present",
     "description": ""
   },
   {
     "value": ".",
-    "display_name": "missing",
+    "display_name": "Missing",
     "description": ""
   }
 ]

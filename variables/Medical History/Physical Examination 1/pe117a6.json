@@ -1,7 +1,7 @@
 {
   "id": "pe117a6",
-  "display_name": "grass or pollen",
+  "display_name": "Grass or pollen allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "grass"
 }

@@ -1,0 +1,7 @@
+{
+  "id": "lghi_0",
+  "display_name": "LOG Hypopnea Index with Arousal (0 replaced with 0.0001)",
+  "description": "Original source: MS 003",
+  "type": "numeric",
+  "units": ""
+}

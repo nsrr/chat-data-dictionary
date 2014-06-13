@@ -3,5 +3,5 @@
   "display_name": "Paperwork received at reading center",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmissing"
 }

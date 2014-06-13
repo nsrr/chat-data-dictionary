@@ -1,7 +1,10 @@
 {
   "id": "cbc6b",
-  "display_name": "Total Competence T-Score",
+  "display_name": "Total competence T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

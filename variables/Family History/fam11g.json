@@ -1,7 +1,7 @@
 {
   "id": "fam11g",
-  "display_name": "Did your child have an attack of wheezing that made him or her feel short of breath?",
-  "description": "",
+  "display_name": "Did your child have an asthma like attack?",
+  "description": "Defined as and attack of wheezing that made him or her feel short of breath",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

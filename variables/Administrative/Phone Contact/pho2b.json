@@ -1,7 +1,0 @@
-{
-  "id": "pho2b",
-  "display_name": "What time of day does the child use the spray?",
-  "description": "",
-  "type": "choices",
-  "domain":"daytime"
-}

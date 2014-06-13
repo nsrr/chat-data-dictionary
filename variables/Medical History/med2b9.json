@@ -1,7 +1,7 @@
 {
   "id": "med2b9",
-  "display_name": "Latex",
+  "display_name": "Child has latex allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "latex"
 }

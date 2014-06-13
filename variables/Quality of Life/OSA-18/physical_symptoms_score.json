@@ -1,7 +1,0 @@
-{
-  "id": "physical_symptoms_score",
-  "display_name": "Subscale Sleep Disturbance Score (the avg of OSA1A_rc, OSA1B_rc, OSA1C_rc, OSA1D_rc)",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

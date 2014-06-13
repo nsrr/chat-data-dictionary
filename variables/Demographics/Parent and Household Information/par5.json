@@ -1,7 +1,7 @@
 {
   "id": "par5",
-  "display_name": "What is your annual household income before taxes?",
+  "display_name": "Annual income before taxes",
   "description": "",
   "type": "choices",
-  "domain":"income"
+  "domain": "income"
 }

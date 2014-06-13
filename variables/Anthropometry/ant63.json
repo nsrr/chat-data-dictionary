@@ -1,7 +1,13 @@
 {
   "id": "ant63",
-  "display_name": "Neck Measurement 3 (cm)",
+  "display_name": "Neck measurement 3",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant63"
+  ]
 }

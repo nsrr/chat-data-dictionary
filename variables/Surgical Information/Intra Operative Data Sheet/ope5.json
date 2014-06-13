@@ -1,7 +1,0 @@
-{
-  "id": "ope5",
-  "display_name": "What surgical technique was used for Tonsil removal?",
-  "description": "",
-  "type": "choices",
-  "domain":"tonsilremoval"
-}

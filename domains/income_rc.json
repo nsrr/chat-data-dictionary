@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "< 20k",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "20-40k",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "> 40k",
+    "description": ""
+  }
+]

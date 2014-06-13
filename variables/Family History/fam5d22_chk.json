@@ -1,7 +1,7 @@
 {
   "id": "fam5d22_chk",
-  "display_name": "Full brother have Asthma",
+  "display_name": "Full brother have asthma",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "checked"
 }

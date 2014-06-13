@@ -1,7 +1,18 @@
 {
   "id": "ant5a",
-  "display_name": "Child's BMI z-score",
+  "display_name": "Child's BMI Z score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant5a",
+    "body mass index",
+    "weight",
+    "quetelet index",
+    "standard score",
+    "Z values"
+  ]
 }

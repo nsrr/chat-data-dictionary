@@ -1,0 +1,7 @@
+{
+  "id": "co2avgnr",
+  "display_name": "Average end-tidal carbon dioxide in NREM",
+  "description": "",
+  "type": "numeric",
+  "units": "percentage of carbon dioxide"
+}

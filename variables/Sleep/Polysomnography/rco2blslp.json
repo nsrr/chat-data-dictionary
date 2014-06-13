@@ -1,8 +1,0 @@
-{
-  "id": "rco2blslp",
-  "display_name": "Baseline EtCO2 asleep",
-  "description": "",
-  "type": "numeric",
-  "units": "percentage of carbon dioxide",
-  "commonly_used": true
-}

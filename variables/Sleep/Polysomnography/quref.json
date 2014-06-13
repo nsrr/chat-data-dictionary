@@ -1,7 +1,0 @@
-{
-  "id": "quref",
-  "display_name": "quality of reference",
-  "description": "",
-  "type": "choices",
-  "domain": "goodorproblem"
-}

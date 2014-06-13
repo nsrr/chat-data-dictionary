@@ -1,7 +1,10 @@
 {
   "id": "bri14b_tr",
-  "display_name": "GEC (BRI + MI) T Score",
-  "description": "",
+  "display_name": "GEC T score",
+  "description": " GEC = BRI + MI ",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

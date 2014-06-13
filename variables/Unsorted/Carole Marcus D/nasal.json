@@ -1,7 +1,0 @@
-{
-  "id": "nasal",
-  "display_name": "Was medication administered nasally?",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

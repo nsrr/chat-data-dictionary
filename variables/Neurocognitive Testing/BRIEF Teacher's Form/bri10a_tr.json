@@ -1,7 +1,10 @@
 {
   "id": "bri10a_tr",
-  "display_name": "Plan/Organize Raw Score",
+  "display_name": "Plan/Organize raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

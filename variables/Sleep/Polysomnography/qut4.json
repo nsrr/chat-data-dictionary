@@ -1,7 +1,0 @@
-{
-  "id": "qut4",
-  "display_name": "quality of T4",
-  "description": "quality of EEG",
-  "type": "choices",
-  "domain": "signalofsleeptime"
-}

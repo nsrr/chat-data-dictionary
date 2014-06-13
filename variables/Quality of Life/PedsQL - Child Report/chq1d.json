@@ -1,0 +1,10 @@
+{
+  "id": "chq1d",
+  "display_name": "Is it hard for you to pick up big things?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
+}

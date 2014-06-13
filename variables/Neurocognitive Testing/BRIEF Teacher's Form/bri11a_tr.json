@@ -1,7 +1,10 @@
 {
   "id": "bri11a_tr",
-  "display_name": "Organization of Materials Raw Score",
+  "display_name": "Organization of materials raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "bri5b_tr",
-  "display_name": "Shift T Score",
+  "display_name": "Shift T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

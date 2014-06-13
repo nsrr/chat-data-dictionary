@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "valid",
+    "display_name": "Valid",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "questionable",
+    "display_name": "Questionable",
     "description": ""
   },
   {
     "value": "99",
-    "display_name": "not done",
+    "display_name": "Not done",
     "description": ""
   }
 ]

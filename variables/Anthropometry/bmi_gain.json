@@ -1,0 +1,13 @@
+{
+  "id": "bmi_gain",
+  "display_name": "BMI velocity",
+  "description": "Change in BMI between baseline and followup / number of years between visit",
+  "type": "numeric",
+  "units": "kilograms per year * meters squared",
+  "labels": [
+    "bmi_gain",
+    "body mass index",
+    "weight",
+    "quetelet index"
+  ]
+}

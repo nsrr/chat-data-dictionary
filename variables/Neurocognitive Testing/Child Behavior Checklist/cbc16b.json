@@ -1,7 +1,10 @@
 {
   "id": "cbc16b",
-  "display_name": "Externalizing Problems T-Score",
+  "display_name": "Externalizing problems T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

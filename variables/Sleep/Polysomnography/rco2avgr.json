@@ -1,8 +1,0 @@
-{
-  "id": "rco2avgr",
-  "display_name": "Average EtCO2 in REM",
-  "description": "",
-  "type": "numeric",
-  "units": "percentage of carbon dioxide",
-  "commonly_used": true
-}

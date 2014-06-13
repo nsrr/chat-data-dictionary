@@ -1,6 +1,6 @@
 {
   "id": "eli8",
-  "display_name": "Does the participant have severe OSAS and significant hypoxemia requiring immediate AT?",
+  "display_name": "Does the participant have severe OSAS and significant hypoxemia requiring immediate adenotonsillectomy?",
   "description": "This is defined as OAI > 20, AHI> 30, or desaturation defined as SaO2 < 90% for more than 2% sleep time.",
   "type": "choices",
   "domain":"noyes"

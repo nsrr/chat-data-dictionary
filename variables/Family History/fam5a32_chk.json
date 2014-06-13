@@ -1,7 +1,7 @@
 {
   "id": "fam5a32_chk",
-  "display_name": "Half brothers has ALTE",
+  "display_name": "Half brothers has apparent life-threatening event",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "checked"
 }

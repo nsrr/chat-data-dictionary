@@ -1,7 +1,7 @@
 {
   "id": "fam5f22_chk",
-  "display_name": "Full brother have Cancer",
+  "display_name": "Full brother have cancer",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "checked"
 }

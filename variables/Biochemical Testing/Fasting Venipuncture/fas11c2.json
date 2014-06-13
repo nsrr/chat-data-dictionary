@@ -1,7 +1,7 @@
 {
   "id": "fas11c2",
-  "display_name": "Vial processing information: Vial 3: Serum: Red: 0.5mL: Comments.",
-  "description": "",
+  "display_name": "Vial processing comments on vial 3",
+  "description": "Serum, red, 0.5mL",
   "type": "choices",
-  "domain":"partialvolhemolysis"
+  "domain": "partialvolhemolysis"
 }

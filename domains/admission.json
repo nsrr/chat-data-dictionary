@@ -1,32 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "dehydration requiring iv fluid",
+    "display_name": "Dehydration requiring intravenous fluid",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "dehydration requiring admission*",
+    "display_name": "Dehydration requiring admission",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "bleeding requiring admission*",
+    "display_name": "Bleeding requiring admission",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "bleeding requiring return to ",
+    "display_name": "Bleeding requiring return to operating room",
     "description": ""
-  }, 
+  },
   {
     "value": "5",
-    "display_name": "other admission*, specify",
+    "display_name": "Other admission",
     "description": ""
   },
   {
     "value": "98",
-    "display_name": "other, specify",
+    "display_name": "Other",
     "description": ""
   }
 ]

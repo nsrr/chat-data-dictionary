@@ -1,7 +1,0 @@
-{
-  "id": "mncanop",
-  "display_name": "Minimum central apnea length (NREM, Other, all desaturations)",
-  "description": "Shortest obstructive apnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

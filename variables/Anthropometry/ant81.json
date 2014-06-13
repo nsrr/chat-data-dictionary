@@ -1,7 +1,13 @@
 {
   "id": "ant81",
-  "display_name": "Hip Measurement 1 (cm)",
+  "display_name": "Hip Measurement 1",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant81"
+  ]
 }

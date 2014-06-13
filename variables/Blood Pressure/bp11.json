@@ -1,7 +1,15 @@
 {
   "id": "bp11",
-  "display_name": "Systolic BP 1",
+  "display_name": "Systolic blood pressure 1",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "labels": [
+    "BP",
+    "Hypertension",
+    "bp11"
+  ]
 }

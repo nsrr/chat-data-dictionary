@@ -1,7 +1,10 @@
 {
   "id": "cbc6a",
-  "display_name": "Total Competence Total Score",
+  "display_name": "Total competence total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

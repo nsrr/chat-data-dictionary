@@ -1,6 +1,7 @@
 {
   "id": "ran6",
-  "display_name": "Date of Randomization",
-  "description": "",
-  "type": "date"
+  "display_name": "Date of randomization",
+  "description": "The original date has been removed as part of deidentification.",
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }

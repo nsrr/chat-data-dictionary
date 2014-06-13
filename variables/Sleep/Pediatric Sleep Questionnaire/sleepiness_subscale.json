@@ -1,7 +1,0 @@
-{
-  "id": "sleepiness_subscale",
-  "display_name": "Sleepiness algorithm: (PSL4A, PSL4B, PSL5, PSL6) / (4-nmiss)",
-  "description": "",
-  "type": "numeric",
-  "units": ""
-}

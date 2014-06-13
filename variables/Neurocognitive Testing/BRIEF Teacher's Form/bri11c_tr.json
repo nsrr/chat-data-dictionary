@@ -1,7 +1,10 @@
 {
   "id": "bri11c_tr",
-  "display_name": "Organization of Materials Percentile",
+  "display_name": "Organization of materials percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

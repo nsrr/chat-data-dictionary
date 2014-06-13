@@ -2,5 +2,11 @@
   "id": "ant2",
   "display_name": "Time of the current measurements",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant2"
+  ]
 }

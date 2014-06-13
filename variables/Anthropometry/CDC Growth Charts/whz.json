@@ -1,6 +1,6 @@
 {
   "id": "whz",
-  "display_name": "z-score for weight-for-length or weight-for-stature",
+  "display_name": "Z-score for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
   "units": ""

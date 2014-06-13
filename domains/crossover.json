@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "crossover due to confirmed treatment failure",
+    "display_name": "Crossover due to confirmed treatment failure",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "crossover due to parent / caregiver decision",
+    "display_name": "Crossover due to parent / caregiver decision",
     "description": ""
   }
 ]

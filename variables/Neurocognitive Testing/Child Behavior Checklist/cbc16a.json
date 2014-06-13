@@ -1,7 +1,10 @@
 {
   "id": "cbc16a",
-  "display_name": "Externalizing Problems Total Score",
+  "display_name": "Externalizing problems total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "med2b4",
-  "display_name": "Insects",
+  "display_name": "Child has insect allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "insects"
 }

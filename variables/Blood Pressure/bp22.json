@@ -1,7 +1,15 @@
 {
   "id": "bp22",
-  "display_name": "Diastolic BP 2",
+  "display_name": "Diastolic blood pressure 2",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "labels": [
+    "BP",
+    "Hypertension",
+    "bp22"
+  ]
 }

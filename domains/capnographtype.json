@@ -1,5 +1,10 @@
 [
   {
+    "value": "0",
+    "display_name": "No capnography collected",
+    "description": ""
+  },
+  {
     "value": "1",
     "display_name": "Novametrix",
     "description": ""
@@ -7,26 +12,6 @@
   {
     "value": "2",
     "display_name": "BCI",
-    "description": ""
-  },
-  {
-    "value": "3",
-    "display_name": "EDF Issue",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "Unknown",
-    "description": ""
-  },
-  {
-    "value": "5",
-    "display_name": "Both collected/Novametrix scored",
-    "description": ""
-  },
-  {
-    "value": "6",
-    "display_name": "Both collected/BCI scored",
     "description": ""
   }
 ]

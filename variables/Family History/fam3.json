@@ -1,7 +1,7 @@
 {
   "id": "fam3",
-  "display_name": "Does your child have any full brothers and/or sisters (same mother and father as child)?",
-  "description": "",
+  "display_name": "Are there any full siblings?",
+  "description": "These siblings have the same mother and father as the child",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

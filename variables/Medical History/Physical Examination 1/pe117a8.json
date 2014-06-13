@@ -1,7 +1,7 @@
 {
   "id": "pe117a8",
-  "display_name": "food / drink",
+  "display_name": "Food or drink allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "food"
 }

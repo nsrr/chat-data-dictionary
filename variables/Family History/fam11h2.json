@@ -1,7 +1,7 @@
 {
   "id": "fam11h2",
-  "display_name": "If Yes, please answer the following:",
+  "display_name": "If yes, please answer the following:",
   "description": "",
   "type": "choices",
-  "domain":"ifyes"
+  "domain": "ifyes"
 }

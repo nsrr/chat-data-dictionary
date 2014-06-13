@@ -1,0 +1,10 @@
+{
+  "id": "race3",
+  "display_name": "Race",
+  "description": "",
+  "type": "choices",
+  "domain": "race3",
+  "forms": [
+    "chat_cdi_form"
+  ]
+}

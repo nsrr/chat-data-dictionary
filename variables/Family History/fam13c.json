@@ -1,7 +1,7 @@
 {
   "id": "fam13c",
-  "display_name": "Cold Weather your child to have a stuffy or runny nose",
+  "display_name": "Any stuff or runny nose when exposed to cold weather?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

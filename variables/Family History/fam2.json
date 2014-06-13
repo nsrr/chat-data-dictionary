@@ -1,7 +1,7 @@
 {
   "id": "fam2",
-  "display_name": "How many people currently smoke at least one cigarette a day in your child's home?",
-  "description": "",
+  "display_name": "How many people currently smoke at home?",
+  "description": "Smoking is defined as atleast 1 cigarette a day",
   "type": "numeric",
   "units": ""
 }

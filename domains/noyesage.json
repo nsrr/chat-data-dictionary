@@ -1,17 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "no",
+    "display_name": "No",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "yes",
+    "display_name": "Yes",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "only when child was younger than 5 years old",
+    "display_name": "Only when child was younger than 5 years old",
     "description": ""
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "no change in symptoms",
+    "display_name": "No change in symptoms",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "change in symptoms",
+    "display_name": "Change in symptoms",
     "description": ""
   }
 ]

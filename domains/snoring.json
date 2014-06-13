@@ -1,27 +1,27 @@
 [
   {
     "value": "1",
-    "display_name": "only slightly louder than heavy breathing",
+    "display_name": "Only slightly louder than heavy breathing",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "about as loud as mumbling or talking",
+    "display_name": "About as loud as mumbling or talking",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "louder than talking",
+    "display_name": "Louder than talking",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "extremely loud - can be heard through closed doors",
+    "display_name": "Extremely loud - can be heard through closed doors",
     "description": ""
-  }, 
+  },
   {
     "value": "88",
-    "display_name": "not sure",
+    "display_name": "Not sure",
     "description": ""
   }
 ]

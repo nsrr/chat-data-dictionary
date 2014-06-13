@@ -1,0 +1,7 @@
+{
+  "id": "par5_rc",
+  "display_name": "Annual income before taxes",
+  "description": "Reclassed variable",
+  "type": "choices",
+  "domain": "income_rc"
+}

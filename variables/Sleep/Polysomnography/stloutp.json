@@ -1,8 +1,0 @@
-{
-  "id": "stloutp",
-  "display_name": "Lights out time",
-  "description": "Time marked as lights out",
-  "type": "time",
-  "units": "",
-  "commonly_used": true
-}

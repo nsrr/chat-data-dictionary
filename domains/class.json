@@ -1,27 +1,27 @@
 [
   {
     "value": "1",
-    "display_name": "class i",
+    "display_name": "Class i",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "class ii",
+    "display_name": "Class ii",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "class iii",
+    "display_name": "Class iii",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "class iv",
+    "display_name": "Class iv",
     "description": ""
-  },  
+  },
   {
     "value": "99",
-    "display_name": "not done",
+    "display_name": "Not done",
     "description": ""
   }
 

@@ -1,7 +1,0 @@
-{
-  "id": "pho2",
-  "display_name": "Has the child used the nasal spray in the past 30 days?",
-  "description": "",
-  "type": "choices",
-  "domain":"noyes"
-}

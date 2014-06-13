@@ -3,5 +3,5 @@
   "display_name": "Has the participant ever been told that they have a disorder related to blood clotting or coagulation?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow"
 }

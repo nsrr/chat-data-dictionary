@@ -1,7 +1,10 @@
 {
   "id": "cbc5c",
-  "display_name": "School Percentile",
+  "display_name": "School percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

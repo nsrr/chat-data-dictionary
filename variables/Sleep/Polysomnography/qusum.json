@@ -1,7 +1,0 @@
-{
-  "id": "qusum",
-  "display_name": "quality of SUM",
-  "description": "quality of SUM channel",
-  "type": "choices",
-  "domain": "signalofsleeptime"
-}

@@ -2,5 +2,6 @@
   "id": "ubl1",
   "display_name": "Date participant was unblinded",
   "description": "",
-  "type": "date"
+  "type": "integer",
+  "units": "seconds from date of randomization"
 }

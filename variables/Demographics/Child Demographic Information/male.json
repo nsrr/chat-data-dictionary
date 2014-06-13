@@ -1,0 +1,10 @@
+{
+  "id": "male",
+  "display_name": "Gender",
+  "description": "",
+  "type": "choices",
+  "domain": "fm",
+  "forms": [
+    "chat_cdi_form"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "med2b3",
-  "display_name": "Cats",
+  "display_name": "Child has cat allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "cats"
 }

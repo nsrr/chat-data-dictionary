@@ -1,7 +1,7 @@
 {
   "id": "fam12",
-  "display_name": "When your child has a cold has your child's chest sounded wheezy or whistling?",
+  "display_name": "Any wheezy or whistling chest sounds during colds?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

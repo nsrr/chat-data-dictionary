@@ -1,7 +1,0 @@
-{
-  "id": "stdatep",
-  "display_name": "Start date",
-  "description": "Study date    (date recording started)",
-  "type": "date",
-  "units": ""
-}

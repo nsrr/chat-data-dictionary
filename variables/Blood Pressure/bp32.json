@@ -1,7 +1,15 @@
 {
   "id": "bp32",
-  "display_name": "Diastolic BP 3",
+  "display_name": "Diastolic blood pressure 3",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury"
+  "units": "millimeters of mercury",
+  "forms": [
+    "chat_bp_form"
+  ],
+  "labels": [
+    "BP",
+    "Hypertension",
+    "bp32"
+  ]
 }

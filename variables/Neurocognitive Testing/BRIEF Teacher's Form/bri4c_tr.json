@@ -1,7 +1,10 @@
 {
   "id": "bri4c_tr",
-  "display_name": "Inhibit Percentile",
+  "display_name": "Inhibit percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

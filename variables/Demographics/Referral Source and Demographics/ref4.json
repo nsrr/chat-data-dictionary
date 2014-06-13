@@ -1,7 +1,7 @@
 {
   "id": "ref4",
-  "display_name": "What is the child’s race?",
+  "display_name": "Child's race",
   "description": "",
   "type": "choices",
-  "domain":"childrace"
+  "domain": "childrace"
 }

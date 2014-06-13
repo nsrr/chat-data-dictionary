@@ -1,7 +1,10 @@
 {
   "id": "cdi6b",
-  "display_name": "Scale B Interpersonal Problems T-Score",
+  "display_name": "Scale B interpersonal problems T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

@@ -3,5 +3,11 @@
   "display_name": "Hip Measurement 3 (cm)",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant83"
+  ]
 }

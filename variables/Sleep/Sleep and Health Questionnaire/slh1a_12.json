@@ -2,6 +2,6 @@
   "id": "slh1a_12",
   "display_name": "What time on average has your child: Gone to bed on the weekdays?(hour)",
   "description": "",
-  "type": "time",
-  "units": ""
+  "type": "choices",
+  "domain": "ampm"
 }

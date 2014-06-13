@@ -1,0 +1,10 @@
+{
+  "id": "chq3c",
+  "display_name": "Do other kids tease you?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
+}

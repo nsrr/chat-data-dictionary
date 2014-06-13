@@ -3,5 +3,5 @@
   "display_name": "Discipline problems?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time"
 }

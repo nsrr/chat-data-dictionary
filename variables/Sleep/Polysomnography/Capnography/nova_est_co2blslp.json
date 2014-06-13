@@ -1,0 +1,9 @@
+{
+  "id": "nova_est_co2blslp",
+  "display_name": "Baseline end-tidal carbon dioxide asleep (normalized for capnograph type)",
+  "description": "For BCI: nova_est_co2blslp = (rco2blslp * 0.51229) + 20.03075",
+  "type": "numeric",
+  "units": "percentage of carbon dioxide",
+  "calculations": "(Baseline EtCO2 Asleep * 0.51229) + 20.03075",
+  "commonly_used": true
+}

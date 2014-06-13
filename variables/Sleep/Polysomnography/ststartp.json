@@ -1,7 +1,0 @@
-{
-  "id": "ststartp",
-  "display_name": "Study start time",
-  "description": "Time recording began (time of epoch 1)",
-  "type": "time",
-  "units": ""
-}

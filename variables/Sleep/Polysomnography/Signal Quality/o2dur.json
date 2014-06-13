@@ -1,0 +1,7 @@
+{
+  "id": "o2dur",
+  "display_name": "Hours of usable O2",
+  "description": "Hours of usable EEG",
+  "type": "numeric",
+  "units": "hours"
+}

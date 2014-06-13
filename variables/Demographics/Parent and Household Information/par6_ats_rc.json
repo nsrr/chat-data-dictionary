@@ -1,0 +1,7 @@
+{
+  "id": "par6_ats_rc",
+  "display_name": "Education level of the mother.",
+  "description": "ATS reclassed variable",
+  "type": "choices",
+  "domain": "education_rc"
+}

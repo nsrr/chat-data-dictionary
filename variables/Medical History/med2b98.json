@@ -1,7 +1,7 @@
 {
   "id": "med2b98",
-  "display_name": "Other, specify",
+  "display_name": "Child has other allergy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "other"
 }

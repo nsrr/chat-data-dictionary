@@ -3,5 +3,14 @@
   "display_name": "Child's BMI",
   "description": "",
   "type": "numeric",
-  "units": "kilograms / meters squared"
+  "units": "kilograms / meters squared",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant5",
+    "body mass index",
+    "weight",
+    "quetelet index"
+  ]
 }

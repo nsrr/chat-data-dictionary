@@ -1,0 +1,10 @@
+{
+  "id": "chq4a",
+  "display_name": "Is it hard for you to pat attention in school?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
+}

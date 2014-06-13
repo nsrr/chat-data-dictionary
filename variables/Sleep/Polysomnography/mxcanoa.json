@@ -1,7 +1,0 @@
-{
-  "id": "mxcanoa",
-  "display_name": "Maximum central apnea length with arousals (NREM, Other all desaturations)",
-  "description": "Longest obstructive apnea during NREM sleep with non-supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

@@ -1,7 +1,10 @@
 {
   "id": "bri8a_tr",
-  "display_name": "Initiate Raw Score",
+  "display_name": "Initiate raw score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

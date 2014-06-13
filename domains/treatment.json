@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "non treated",
+    "display_name": "Non treated",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "treated",
+    "display_name": "Treated",
     "description": ""
   }
 ]

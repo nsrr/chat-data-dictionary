@@ -1,7 +1,10 @@
 {
   "id": "cbc18c",
-  "display_name": "Affective Problems Percentile",
+  "display_name": "Affective problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

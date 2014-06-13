@@ -1,7 +1,10 @@
 {
   "id": "cbc1",
-  "display_name": "Was the Checklist completed?",
+  "display_name": "Was the checklist completed?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

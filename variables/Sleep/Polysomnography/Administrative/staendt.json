@@ -1,0 +1,7 @@
+{
+  "id": "staendt",
+  "display_name": "Week ending date",
+  "description": "",
+  "type": "integer",
+  "units": "seconds from date of randomization"
+}

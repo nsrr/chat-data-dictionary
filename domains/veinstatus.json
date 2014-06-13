@@ -1,32 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "vein collapse",
+    "display_name": "Vein collapse",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "hematoma",
+    "display_name": "Hematoma",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "excessive duration of draw",
+    "display_name": "Excessive duration of draw",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "vein hard to get",
+    "display_name": "Vein hard to get",
     "description": ""
-  }, 
+  },
   {
     "value": "5",
-    "display_name": "leakage at veinpuncture site",
+    "display_name": "Leakage at veinpuncture site",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "multiple stick",
+    "display_name": "Multiple stick",
     "description": ""
   }
 ]

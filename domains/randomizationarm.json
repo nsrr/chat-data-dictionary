@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "early adenotonsillectomy (eat)",
+    "display_name": "Early adenotonsillectomy (EAT)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "watchful waiting with supportive care (wwsc)",
+    "display_name": "Watchful waiting with supportive care (WWSC)",
     "description": ""
   }
 ]

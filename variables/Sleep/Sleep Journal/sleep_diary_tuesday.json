@@ -1,7 +1,0 @@
-{
-  "id": "sleep_diary_tuesday",
-  "display_name": "Total hours child slept (Tuesday)",
-  "description": "",
-  "type": "numeric",
-  "units": "hours"
-}

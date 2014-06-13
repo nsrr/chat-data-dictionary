@@ -1,7 +1,10 @@
 {
   "id": "cbc13a",
-  "display_name": "Rule-Breaking Behavior Total Score",
+  "display_name": "Rule-Breaking behavior total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

@@ -1,7 +1,0 @@
-{
-  "id": "mxcanba4",
-  "display_name": "Maximum central apnea length witharousals (NREM, Back, 4% desaturation)",
-  "description": "Longest obstructive apnea during NREM sleep with supine body position",
-  "type": "numeric",
-  "units": "seconds"
-}

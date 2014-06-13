@@ -1,62 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "child's physician has identified a change in signs or symptoms that warrants alternative treatment for osa (initiation of cpap for example)",
-    "description": ""
+    "display_name": "Alternative treatment needed",
+    "description": "Child's physician has identified a change in signs or symptoms that warrants alternative treatment for osa (initiation of cpap for example)"
   },
-  {
-    "value": "2",
-    "display_name": "child has developed new academic or behavioral problems resulting in a recommendation for grade retention",
-    "description": ""
-  },
-  {
-    "value": "3",
-    "display_name": "child has begun special education",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "child has begun counseling or placement on medications for behavior or emotional problems",
-    "description": ""
-  }, 
   {
     "value": "5",
-    "display_name": "recurrent bacterial tonsillitis (3 or more episodes of streptococcal culture positive infection occuring over a 3 month period)",
-    "description": ""
-  },
-  {
-    "value": "6",
-    "display_name": "new clinical diagnosis of cor pulmonale",
-    "description": ""
-  },  
-  {
-    "value": "7",
-    "display_name": "development of failure to thrive defined by weight loss during the course of follow-up",
-    "description": ""
+    "display_name": "Bacterial tonsillitis",
+    "description": "Recurrent bacterial tonsillitis (3 or more episodes of streptococcal culture positive infection occuring over a 3 month period)"
   },
   {
     "value": "8",
-    "display_name": "new onset stage 2 hypertension, which is not better explained by another medical condition",
-    "description": ""
-  },  
-  {
-    "value": "9",
-    "display_name": "new onset hypersomnolence defined as reports of falling asleep on average > 3 times per week, which is not better explained by other factors unrelated to osa",
-    "description": ""
+    "display_name": "Hypertension",
+    "description": "New onset stage 2 hypertension, which is not better explained by another medical condition"
   },
   {
     "value": "10",
-    "display_name": "parent / caregiver decision to have adenotonsillectomy surgery (wwsc group)",
-    "description": ""
+    "display_name": "Wanted adenotonsillectomy",
+    "description": "10: Parent / caregiver decision to have adenotonsillectomy surgery (wwsc group)"
   },
   {
     "value": "11",
-    "display_name": "parent / caregiver decision to not have adentonsillectomy surgery (eat group)",
-    "description": ""
-  },  
+    "display_name": "Declined adenotonsillectomy",
+    "description": "Parent / caregiver decision to not have adenotonsillectomy  surgery (eat group)"
+  },
   {
     "value": "98",
-    "display_name": "other medical or neuropsycholigical necessitated reason, specify",
-    "description": ""
+    "display_name": "Other",
+    "description": "Other medical or neuropsycholigical necessitated reason, specify"
   }
 ]

@@ -1,47 +1,47 @@
 [
   {
     "value": "1",
-    "display_name": "working full-time (35 or more hours per week)",
+    "display_name": "Working full-time (35 or more hours per week)",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "working part-time (35 or less hours per week)",
+    "display_name": "Working part-time (35 or less hours per week)",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "home keeper",
+    "display_name": "Home keeper",
     "description": ""
   },
   {
     "value": "4",
-    "display_name": "unemployed, looking for work",
+    "display_name": "Unemployed, looking for work",
     "description": ""
-  }, 
+  },
   {
     "value": "5",
-    "display_name": "unemployed, not looking for work",
+    "display_name": "Unemployed, not looking for work",
     "description": ""
   },
   {
     "value": "6",
-    "display_name": "student",
+    "display_name": "Student",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "retired",
+    "display_name": "Retired",
     "description": ""
   },
   {
     "value": "8",
-    "display_name": "unable to work, specify",
+    "display_name": "Unable to work",
     "description": ""
   },
   {
     "value": "88",
-    "display_name": "not sure",
+    "display_name": "Not sure",
     "description": ""
   }
 ]

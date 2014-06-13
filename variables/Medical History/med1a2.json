@@ -1,6 +1,6 @@
 {
   "id": "med1a2",
-  "display_name": "Diagnosed or treated by a physician for Acute Life Threatening?",
+  "display_name": "Diagnosed or treated by a physician for Apparent Life-Threatening Event?",
   "description": "",
   "type": "choices",
   "domain":"noyesnotsure"

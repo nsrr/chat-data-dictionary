@@ -1,7 +1,0 @@
-{
-  "id": "pho1",
-  "display_name": "Since your las visit, how often has your child snored during sleep?",
-  "description": "",
-  "type": "choices",
-  "domain":"alwaysornever"
-}

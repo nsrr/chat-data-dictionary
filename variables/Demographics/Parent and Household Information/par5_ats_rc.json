@@ -1,0 +1,7 @@
+{
+  "id": "par5_ats_rc",
+  "display_name": "Annual income before taxes",
+  "description": "ATS reclassed variable",
+  "type": "choices",
+  "domain": "income_ats"
+}

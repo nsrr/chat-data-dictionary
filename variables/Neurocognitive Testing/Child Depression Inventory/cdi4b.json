@@ -1,7 +1,10 @@
 {
   "id": "cdi4b",
-  "display_name": "Total CDI Score T-Score",
+  "display_name": "Total CDI score T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

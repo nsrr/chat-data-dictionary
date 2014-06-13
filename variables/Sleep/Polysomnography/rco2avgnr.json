@@ -1,8 +1,0 @@
-{
-  "id": "rco2avgnr",
-  "display_name": "Average EtCO2 in NREM",
-  "description": "",
-  "type": "numeric",
-  "units": "percentage of carbon dioxide",
-  "commonly_used": true
-}

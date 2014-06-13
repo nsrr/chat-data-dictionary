@@ -3,5 +3,5 @@
   "display_name": "Full brother have Excessive Sleepiness (3 or more times per week)",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain":"checked"
 }

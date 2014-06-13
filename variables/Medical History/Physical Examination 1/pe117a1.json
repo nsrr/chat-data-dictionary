@@ -1,7 +1,7 @@
 {
   "id": "pe117a1",
-  "display_name": "molds",
+  "display_name": "Molds allergy",
   "description": "",
   "type": "choices",  
-  "domain":"check"
+  "domain": "molds"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "chq2d",
+  "display_name": "Do you have trouble sleeping?",
+  "description": "",
+  "type": "choices",
+  "domain":"neveroralways2",
+  "forms": [
+    "chat_pqlchi_form"
+  ]
+}

@@ -2,7 +2,11 @@
 
 ### Changes
 - Initial import of the CHAT variables and domains
-- The SQL dataset is located here:
-  - `\\rfa01\bwh-sleepepi-chat\sleepportal\_sql`
-    - `chat_20130821.sql`
-
+- The CSV datasets generated from a SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.1.0.beta2\`
+    - `chat-baseline-dataset-0.1.0.beta2.csv`
+    - `chat-followup-dataset-0.1.0.beta2.csv`
+- The SAS export script now drops extraneous variables
+- **Gem Changes**
+  - Use of Ruby 2.1.2 is now recommended
+  - Updated to spout 0.8.0.rc2

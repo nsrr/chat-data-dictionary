@@ -1,12 +1,12 @@
 [
   {
-    "value": "1",
-    "display_name": "aug-nov",
+    "value": "0",
+    "display_name": "All other months",
     "description": ""
   },
   {
-    "value": "2",
-    "display_name": "all the other",
+    "value": "1",
+    "display_name": "August to November",
     "description": ""
   }
 ]

@@ -1,6 +1,6 @@
 {
   "id": "eli4",
-  "display_name": "Has the participant been deemed to be a surgical candidate for AT by ENT evaluation?",
+  "display_name": "Has the participant been deemed to be a surgical candidate for adenotonsillectomy by ENT evaluation?",
   "description": "",
   "type": "choices",
   "domain":"noyes"

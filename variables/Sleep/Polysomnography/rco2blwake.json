@@ -1,8 +1,0 @@
-{
-  "id": "rco2blwake",
-  "display_name": "Baseline EtCO2 awake",
-  "description": "",
-  "type": "numeric",
-  "units": "percentage of carbon dioxide",
-  "commonly_used": true
-}

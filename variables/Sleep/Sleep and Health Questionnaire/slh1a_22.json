@@ -2,6 +2,6 @@
   "id": "slh1a_22",
   "display_name": "What time has your child: Gone to bed on the weekends?(hour)",
   "description": "",
-  "type": "time",
-  "units": ""
+  "type": "choices",
+  "domain": "ampm"
 }

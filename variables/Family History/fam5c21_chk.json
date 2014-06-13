@@ -1,7 +1,7 @@
 {
   "id": "fam5c21_chk",
-  "display_name": "Full sister have Anxiety Disorder",
+  "display_name": "Full sister have an anxiety disorder",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check"
 }

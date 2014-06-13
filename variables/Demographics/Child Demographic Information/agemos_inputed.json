@@ -1,7 +1,0 @@
-{
-  "id": "agemos_inputed",
-  "display_name": "Child's age in months at time anthropometric were taken",
-  "description": "",
-  "type": "numeric",
-  "units": "months"
-}

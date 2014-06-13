@@ -1,7 +1,7 @@
 {
   "id": "fam12e",
-  "display_name": "With exposure to dust or fumes has your child's chest sounded wheezy or whistling?",
+  "display_name": "Any wheezy or whistling chest sounds when exposed to fumes or dust?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure"
 }

@@ -1,7 +1,10 @@
 {
   "id": "bri15a_tr",
-  "display_name": "What is the negativity socre?",
+  "display_name": "What is the negativity score?",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

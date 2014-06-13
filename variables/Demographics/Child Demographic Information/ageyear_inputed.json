@@ -1,7 +1,0 @@
-{
-  "id": "ageyear_inputed",
-  "display_name": "Child's age in years at time anthropometric were taken",
-  "description": "",
-  "type": "numeric",
-  "units": "years"
-}

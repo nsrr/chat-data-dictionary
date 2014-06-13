@@ -1,7 +1,10 @@
 {
   "id": "cdi8b",
-  "display_name": "Scale D  Anhedonia T-Score",
+  "display_name": "Scale D anhedonia T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cdep_form"
+  ]
 }

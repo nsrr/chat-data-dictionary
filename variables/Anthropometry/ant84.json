@@ -1,7 +1,14 @@
 {
   "id": "ant84",
-  "display_name": "Hip Average (cm)",
+  "display_name": "Hip Average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "forms": [
+    "chat_anthropometry_form"
+  ],
+  "labels": [
+    "ant84",
+    "hip measurment"
+  ]
 }

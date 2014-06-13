@@ -1,0 +1,15 @@
+{
+  "id": "bri14a",
+  "display_name": "What is the negativity score?",
+  "description": "",
+<<<<<<< HEAD:variables/Neurocognitive Testing/BRIEF/BRI14A.json
+  "type":"choices",
+  "domain": "negativityscore"
+=======
+  "type":"numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+>>>>>>> 250d8226d6a89bdd7b530126cbf56472891f9f3f:variables/Neurocognitive Testing/BRIEF/bri14a.json
+}

@@ -1,7 +1,7 @@
 {
   "id": "ref1",
-  "display_name": "Participant was recruited from which source:",
-  "description": "1. OTL, 2.Sleep Clinic, 3.Sleep Lab, 4.Pediatric Clinic, 5.Community, 6.Advertisement, 7.Chart Review, 98.Other",
-  "type": "numeric",
-  "units": ""
+  "display_name": "Recruitment source",
+  "description": "",
+  "type": "choices",
+  "domain": "recruitsource"
 }

@@ -1,7 +1,7 @@
 {
   "id": "fas11k1",
-  "display_name": "Vial processing information: Vial 11: EDTA: PURPLE: 0.5mL: Was it done?",
-  "description": "",
+  "display_name": "Was vial processing done on vial 11?",
+  "description": "EDTA, purple, 0.5mL",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes"
 }

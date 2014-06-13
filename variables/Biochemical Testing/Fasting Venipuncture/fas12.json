@@ -3,5 +3,5 @@
   "display_name": "Were samples frozen?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes"
 }

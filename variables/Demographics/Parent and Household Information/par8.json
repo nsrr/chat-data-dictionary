@@ -1,6 +1,6 @@
 {
   "id": "par8",
-  "display_name": "What is the mother's current employment status?",
+  "display_name": "Mothers current employment",
   "description": "",
   "type": "choices",
   "domain":"employment"

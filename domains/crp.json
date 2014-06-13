@@ -1,12 +1,12 @@
 [
   {
     "value": "0",
-    "display_name": "crp below (0.15) detection limit",
-    "description": ""
+    "display_name": "No",
+    "description": "C-reactive protein levels fall below the detection limit of 0.15 micrograms per milliliter"
   },
   {
     "value": "1",
-    "display_name": "crp above (0.15) detection limit",
-    "description": ""
+    "display_name": "Yes",
+    "description": "C-reactive protein levels fall above the detection limit of 0.15 micrograms per milliliter"
   }
 ]

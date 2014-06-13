@@ -1,7 +1,7 @@
 {
   "id": "fas11o2",
-  "display_name": "Vial processing information: Vial 15: EDTA: PURPLE: 0.5mL: Comments.",
-  "description": "",
+  "display_name": "Vial processing comments on vial 15",
+  "description": "EDTA, purple, 0.5mL",
   "type": "choices",
-  "domain":"partialvolhemolysis"
+  "domain": "partialvolhemolysis"
 }

@@ -1,7 +1,0 @@
-{
-  "id": "comm",
-  "display_name": "Signal quality issues",
-  "description": "1=signal quality issues",
-  "type": "string",
-  "units": ""
-}

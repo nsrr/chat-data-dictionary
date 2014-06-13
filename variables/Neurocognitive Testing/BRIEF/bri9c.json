@@ -1,7 +1,10 @@
 {
   "id": "bri9c",
-  "display_name": "Plan/Organize Percentile",
+  "display_name": "Plan/Organize percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "forms": [
+    "chat_brief_form"
+  ]
 }

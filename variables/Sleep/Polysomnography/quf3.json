@@ -1,7 +1,0 @@
-{
-  "id": "quf3",
-  "display_name": "quality of F3",
-  "description": "quality of EEG",
-  "type": "choices",
-  "domain": "signalofsleeptime"
-}

@@ -1,7 +1,10 @@
 {
   "id": "cbc3a",
-  "display_name": "Activites Total Score",
+  "display_name": "Activites total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

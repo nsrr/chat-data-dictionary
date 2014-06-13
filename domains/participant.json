@@ -1,52 +1,32 @@
 [
   {
     "value": "1",
-    "display_name": "participant successfully completed all required study visits",
-    "description": ""
+    "display_name": "Completed all",
+    "description": "1: Participant successfully completed all required study visits,"
   },
   {
     "value": "2",
-    "display_name": "participant lost to follow-up",
-    "description": ""
+    "display_name": "Lost to follow up",
+    "description": "Participant lost to follow-up,"
   },
   {
     "value": "3",
-    "display_name": "participant withdrew consent",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "protocol defined stopping rules, decrease in dasii performance",
-    "description": ""
-  }, 
-  {
-    "value": "5",
-    "display_name": "screen failure as defined in mop",
-    "description": ""
+    "display_name": "Withdrew",
+    "description": "Participant withdrew consent,"
   },
   {
     "value": "6",
-    "display_name": "new medical problem determined to make continued participation unsafe",
-    "description": ""
-  },  
-  {
-    "value": "7",
-    "display_name": "new behavioral or learning problem determined to make continued participation unsafe",
-    "description": ""
-  },  
+    "display_name": "Medical problem",
+    "description": "New medical problem determined to make continued participation unsafe,"
+  },
   {
     "value": "8",
-    "display_name": "participant declined their assigned randomization arm",
-    "description": ""
-  },  
-  {
-    "value": "9",
-    "display_name": "death",
-    "description": ""
+    "display_name": "Declined",
+    "description": "Participant declined their assigned randomization arm,"
   },
   {
     "value": "98",
-    "display_name": "other, specify",
-    "description": ""
+    "display_name": "",
+    "description": "Other, specify."
   }
 ]

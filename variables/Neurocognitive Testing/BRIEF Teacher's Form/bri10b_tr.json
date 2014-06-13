@@ -1,7 +1,10 @@
 {
   "id": "bri10b_tr",
-  "display_name": "Plan/Organize T Score",
+  "display_name": "Plan/Organize T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

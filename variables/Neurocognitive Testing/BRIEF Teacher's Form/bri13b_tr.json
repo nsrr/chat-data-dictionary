@@ -1,7 +1,10 @@
 {
   "id": "bri13b_tr",
-  "display_name": "MI T Score",
+  "display_name": "MI T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

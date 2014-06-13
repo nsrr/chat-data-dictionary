@@ -1,7 +1,10 @@
 {
   "id": "cbc8a",
-  "display_name": "Withdrawn / Depressed Total Score",
+  "display_name": "Withdrawn/Depressed total score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_cbc_form"
+  ]
 }

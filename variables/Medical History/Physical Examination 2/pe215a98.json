@@ -1,7 +1,7 @@
 {
   "id": "pe215a98",
-  "display_name": "other, specify",
+  "display_name": "Other allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "other"
 }

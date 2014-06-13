@@ -1,7 +1,0 @@
-{
-  "id": "ope2",
-  "display_name": "What was the pre-operation Adenoid size?",
-  "description": "",
-  "type": "choices",
-  "domain":"adenoidsize"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "t3dur",
-  "display_name": "hours of usable T3",
-  "description": "hours of usable EEG",
-  "type": "numeric",
-  "units": "hours"
-}

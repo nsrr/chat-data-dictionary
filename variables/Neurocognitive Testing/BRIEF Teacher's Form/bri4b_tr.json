@@ -1,7 +1,10 @@
 {
   "id": "bri4b_tr",
-  "display_name": "Inhibit T Score",
+  "display_name": "Inhibit T score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_brief__tr_form"
+  ]
 }

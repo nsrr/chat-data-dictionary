@@ -1,7 +1,10 @@
 {
   "id": "chi3",
-  "display_name": "What is your child's ethnicity?",
+  "display_name": "Child's ethnicity?",
   "description": "",
   "type": "choices",
-  "domain":"ethnicity"
+  "domain": "ethnicity",
+  "forms": [
+    "chat_cdi_form"
+  ]
 }
