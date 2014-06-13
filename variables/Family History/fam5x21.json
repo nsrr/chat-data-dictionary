@@ -1,7 +1,10 @@
 {
   "id": "fam5x21",
-  "display_name": "Full sister have Other Significant Medical Condition",
+  "display_name": "Number of full sisters with other significant medical condition",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

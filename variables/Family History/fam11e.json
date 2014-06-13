@@ -3,5 +3,8 @@
   "display_name": "Did your child usually bring up phlegm in the morning?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

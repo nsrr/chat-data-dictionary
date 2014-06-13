@@ -3,5 +3,8 @@
   "display_name": "Mother's current weight",
   "description": "",
   "type": "numeric",
-  "units": "pounds"
+  "units": "pounds",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

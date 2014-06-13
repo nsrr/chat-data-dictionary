@@ -3,5 +3,8 @@
   "display_name": "Any runny or stuffy nose occur in the past year?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

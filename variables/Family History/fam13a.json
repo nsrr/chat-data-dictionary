@@ -3,5 +3,8 @@
   "display_name": "Any stuffy or runny nose when exposed to smoke?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

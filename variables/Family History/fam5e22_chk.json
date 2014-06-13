@@ -1,7 +1,10 @@
 {
   "id": "fam5e22_chk",
   "display_name": "Full brother have ADD/ADHD",
-  "description": "",
+  "description": "Known as attention deficit hyperactivity disorder",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

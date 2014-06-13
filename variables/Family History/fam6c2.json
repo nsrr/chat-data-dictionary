@@ -3,5 +3,8 @@
   "display_name": "Biological Mother have ADD/ADHD",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

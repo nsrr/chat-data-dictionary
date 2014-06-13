@@ -1,7 +1,10 @@
 {
   "id": "fam5i22",
-  "display_name": "Full brother have Diabetes",
+  "display_name": "Number of full brothers with diabetes",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

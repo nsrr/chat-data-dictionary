@@ -1,7 +1,10 @@
 {
   "id": "fam5n21",
-  "display_name": "Full sister have Hay Fever (Nasal Allergies)",
-  "description": "",
+  "display_name": "Number of full sisters with hay fever",
+  "description": "Also known as nasal allergies",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

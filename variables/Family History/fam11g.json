@@ -3,5 +3,8 @@
   "display_name": "Did your child have an asthma like attack?",
   "description": "Defined as and attack of wheezing that made him or her feel short of breath",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

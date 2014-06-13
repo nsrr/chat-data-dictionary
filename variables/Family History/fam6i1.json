@@ -1,7 +1,10 @@
 {
   "id": "fam6i1",
-  "display_name": "Do biological parent have Excessive Sleepiness (3 or more times per week)",
-  "description": "",
+  "display_name": "Do biological parent have excessive sleepiness",
+  "description": "Defined as having this 3 or more times per week",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

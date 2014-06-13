@@ -3,5 +3,8 @@
   "display_name": "If yes, please answer the following:",
   "description": "",
   "type": "choices",
-  "domain": "ifyes"
+  "domain": "ifyes",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

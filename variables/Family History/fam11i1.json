@@ -3,5 +3,8 @@
   "display_name": "Been troubled by chest tightness?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

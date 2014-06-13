@@ -3,5 +3,8 @@
   "display_name": "Mother's current weight in ounces",
   "description": "",
   "type": "numeric",
-  "units": "ounces"
+  "units": "ounces",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

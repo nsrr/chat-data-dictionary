@@ -1,7 +1,10 @@
 {
   "id": "fam5p21",
-  "display_name": "Full sister have High Cholesterol",
+  "display_name": "Number of full sisters with high cholesterol",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

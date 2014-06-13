@@ -1,7 +1,10 @@
 {
   "id": "fam5p22_chk",
-  "display_name": "Full brother have High Cholesterol",
+  "display_name": "Full brother have high cholesterol",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

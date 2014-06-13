@@ -1,7 +1,10 @@
 {
   "id": "fam5x32_chk",
-  "display_name": "Half brother have Other Significant Medical Condition",
+  "display_name": "Half brother have other significant medical conditions",
   "description": "",
   "type": "choices",
-  "domain":"checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

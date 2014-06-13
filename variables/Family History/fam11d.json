@@ -3,5 +3,8 @@
   "display_name": "Did your child bring up phlegm often?",
   "description": "Defined as:\n Twice a day for atleast 3 months,\n Or four or more times a week for atleast 3 months",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

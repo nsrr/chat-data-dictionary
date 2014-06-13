@@ -3,5 +3,8 @@
   "display_name": "Do biological parent have ADD/ADHD",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5v21_chk",
-  "display_name": "Full sister have Autism",
+  "display_name": "Full sister have autism",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

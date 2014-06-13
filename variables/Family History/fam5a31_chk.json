@@ -1,7 +1,10 @@
 {
   "id": "fam5a31_chk",
-  "display_name": "Half sisters has apparent life-threatening event",
-  "description": "",
+  "display_name": "Half sisters has ATLE",
+  "description": "Also known as acute life threatening episodes",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

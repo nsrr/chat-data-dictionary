@@ -3,5 +3,8 @@
   "display_name": "Did your child experince shortness of breath?",
   "description": "Defined as occuring during mild excesize such as walking on level ground or up a slight hill.",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

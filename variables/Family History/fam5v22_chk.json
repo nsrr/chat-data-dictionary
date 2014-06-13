@@ -1,7 +1,10 @@
 {
   "id": "fam5v22_chk",
-  "display_name": "Full brother have Autism",
+  "display_name": "Full brother have autism",
   "description": "",
   "type": "choices",
-  "domain":"checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5j32_chk",
-  "display_name": "Half brother have Eating Disorder",
-  "description": "",
+  "display_name": "Half brother have eating disorder",
+  "description": "This includes anorexia and bulimia",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

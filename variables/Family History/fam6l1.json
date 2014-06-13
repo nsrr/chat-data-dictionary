@@ -1,7 +1,10 @@
 {
   "id": "fam6l1",
-  "display_name": "Do biological parent have High Cholesterol",
+  "display_name": "Do biological parent have high cholesterol",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

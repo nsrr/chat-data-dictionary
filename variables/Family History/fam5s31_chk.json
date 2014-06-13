@@ -1,7 +1,10 @@
 {
   "id": "fam5s31_chk",
-  "display_name": "Half sister have Migraine Headache or Chronic Severe Headache",
-  "description": "",
+  "display_name": "Half sister have headaches",
+  "description": "Either migraines or chronic severe headache",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

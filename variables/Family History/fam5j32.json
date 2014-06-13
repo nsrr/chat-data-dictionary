@@ -1,7 +1,10 @@
 {
   "id": "fam5j32",
-  "display_name": "Half brother have Eating Disorder",
-  "description": "",
+  "display_name": "Number of half brothers with an eating disorder",
+  "description": "This includes anorexia and bulimia",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

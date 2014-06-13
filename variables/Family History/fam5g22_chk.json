@@ -1,7 +1,10 @@
 {
   "id": "fam5g22_chk",
-  "display_name": "Full brother have Cerebal Palsy",
+  "display_name": "Full brother have cerebal palsy",
   "description": "",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam6h1",
-  "display_name": "Do biological parent have Enlarged Tonsils or Adenoids",
+  "display_name": "Do biological parent have enlarged tonsils or adenoids",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

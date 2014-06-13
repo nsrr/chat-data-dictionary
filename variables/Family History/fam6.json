@@ -1,7 +1,10 @@
 {
   "id": "fam6",
-  "display_name": "fam6",
-  "description": "",
+  "display_name": "Parents medical conditions",
+  "description": "Has either biological parent currently or ever had any of the following conditions?",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam6b1",
-  "display_name": "Do biological parent have Asthma",
+  "display_name": "Do biological parent have asthma",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }
