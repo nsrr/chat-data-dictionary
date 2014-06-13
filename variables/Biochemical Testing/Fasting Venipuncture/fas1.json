@@ -3,5 +3,8 @@
   "display_name": "Draw time.",
   "description": "",
   "type": "time",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_fastveni_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Does the participant bleed or bruise easily?",
   "description": "",
   "type": "choices",
-  "domain": "noyesdontknow"
+  "domain": "noyesdontknow",
+  "forms": [
+    "chat_fastveni_form"
+  ]
 }

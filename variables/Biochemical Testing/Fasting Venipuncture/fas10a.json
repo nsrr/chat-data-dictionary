@@ -3,5 +3,11 @@
   "display_name": "Processing start time for ethylenediaminetetraacetic acid.",
   "description": "",
   "type": "time",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_fastveni_form"
+  ],
+  "lables": [
+    "edta"
+  ]
 }
