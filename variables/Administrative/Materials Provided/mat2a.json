@@ -3,5 +3,8 @@
   "display_name": "If yes, what was the lot number?",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_materials_form"
+  ]
 }
