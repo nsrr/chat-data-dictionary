@@ -1,6 +1,6 @@
 {
   "id": "fam5b1",
-  "display_name": "Any sibilings with SIDS?",
+  "display_name": "Any siblings with SIDS?",
   "description": "Also known as crib death or sudden infant death syndrome",
   "type": "choices",
   "domain": "noyesnotsure",

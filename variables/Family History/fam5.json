@@ -1,6 +1,6 @@
 {
   "id": "fam5",
-  "display_name": "Do any of the sibilings have any of the following conditions?",
+  "display_name": "Do any of the siblings have any of the following conditions?",
   "description": "",
   "type": "choices",
   "domain": "notapplicable",
