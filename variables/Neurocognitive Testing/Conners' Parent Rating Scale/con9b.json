@@ -3,5 +3,8 @@
   "display_name": "Conners' ADHD Index T-Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_conners_form"
+  ]
 }

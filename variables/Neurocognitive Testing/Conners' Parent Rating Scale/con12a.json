@@ -3,5 +3,8 @@
   "display_name": "Conners' GI Total Raw Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_conners_form"
+  ]
 }
