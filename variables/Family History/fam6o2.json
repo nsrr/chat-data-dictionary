@@ -1,7 +1,10 @@
 {
   "id": "fam6o2",
-  "display_name": "Biological Mother have Loud Snoring (3 or more times per week)",
-  "description": "",
+  "display_name": "Biological mother snores loudly?",
+  "description": "Defined as having loud snores 3 or more times per week",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

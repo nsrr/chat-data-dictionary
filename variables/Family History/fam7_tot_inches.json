@@ -3,5 +3,8 @@
   "display_name": "Mother height at child birth in total inches",
   "description": "",
   "type": "numeric",
-  "units": "inches"
+  "units": "inches",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

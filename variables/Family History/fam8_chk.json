@@ -3,5 +3,8 @@
   "display_name": "Mother's weight at time of child's birth",
   "description": "",
   "type": "choices",
-  "domain":"notsure"
+  "domain": "notsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

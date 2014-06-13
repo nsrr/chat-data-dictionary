@@ -1,7 +1,10 @@
 {
   "id": "fam6p1",
-  "display_name": "Do biological parent have Migraine Headache or Chronic Severe Headache",
-  "description": "",
+  "display_name": "Do biological parent have headaches",
+  "description": "Either migraines or chronic severe headache",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

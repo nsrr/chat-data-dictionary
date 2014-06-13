@@ -1,7 +1,10 @@
 {
   "id": "fam6r1",
-  "display_name": "Do biological parent have Sleep Apnea",
+  "display_name": "Do biological parent have sleep apnea",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

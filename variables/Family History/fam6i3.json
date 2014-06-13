@@ -1,6 +1,6 @@
 {
   "id": "fam6i3",
-  "display_name": "Biological Father have excessive sleepiness",
+  "display_name": "Biological father have excessive sleepiness",
   "description": "Defined as having this 3 or more times per week",
   "type": "choices",
   "domain": "noyes",

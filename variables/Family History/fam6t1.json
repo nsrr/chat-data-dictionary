@@ -1,7 +1,10 @@
 {
   "id": "fam6t1",
-  "display_name": "Do biological parent have Other Significant Medical Conditions",
+  "display_name": "Do biological parent have other significant medical conditions",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain":"noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }
