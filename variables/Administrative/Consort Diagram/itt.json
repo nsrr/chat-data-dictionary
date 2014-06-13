@@ -1,7 +1,8 @@
 {
   "id": "itt",
   "display_name": "Completed study (intention to treat)",
-  "description": "if ran7=1 then do; if had_surgery=0 then itt=0; else itt=1; end; if ran7=2 then do; if TST4=1 then itt=0; else itt=1; end",
+  "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "calculation": "if ran7=1 then do; if had_surgery=0 then itt=0; else itt=1; end; if ran7=2 then do; if TST4=1 then itt=0; else itt=1; end"
 }
