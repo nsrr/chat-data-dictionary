@@ -3,5 +3,8 @@
   "display_name": "Word Definitions Ability Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_das2_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Matrices SNC",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_das2_form"
+  ]
 }

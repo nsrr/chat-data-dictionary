@@ -2,5 +2,9 @@
   "id": "con2_tr",
   "display_name": "How well does the teacher know the child?",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "units": "",
+  "forms": [
+    "chat_conners-tr_form"
+  ]
 }
