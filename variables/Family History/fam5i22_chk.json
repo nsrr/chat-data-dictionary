@@ -1,7 +1,10 @@
 {
   "id": "fam5i22_chk",
-  "display_name": "Full brother have Diabetes",
+  "display_name": "Full brother have diabetes",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

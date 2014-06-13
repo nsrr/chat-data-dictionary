@@ -3,5 +3,8 @@
   "display_name": "Any stuff or runny nose when exposed to cold weather?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

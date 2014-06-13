@@ -1,7 +1,10 @@
 {
   "id": "fam5h22_chk",
-  "display_name": "Full brother have Depression",
+  "display_name": "Full brother have depression",
   "description": "",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5s21",
-  "display_name": "Full sister have Migraine Headache or Chronic Severe Headache",
-  "description": "",
+  "display_name": "Number of full sisters with headaches",
+  "description": "Either migraines or chronic severe headache",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5v31_chk",
-  "display_name": "Half sister have Autism",
+  "display_name": "Half sister have autism",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

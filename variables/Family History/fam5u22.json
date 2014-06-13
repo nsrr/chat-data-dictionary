@@ -1,7 +1,10 @@
 {
   "id": "fam5u22",
-  "display_name": "Full brother have Sleep Apnea",
+  "display_name": "Number of full brothers with sleep apnea",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

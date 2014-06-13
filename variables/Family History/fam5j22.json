@@ -1,7 +1,10 @@
 {
   "id": "fam5j22",
-  "display_name": "Full brother have Eating Disorder",
-  "description": "",
+  "display_name": "Number of full brothers with an eating disorder",
+  "description": "This includes anorexia and bulimia",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

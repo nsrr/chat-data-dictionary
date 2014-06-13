@@ -1,7 +1,10 @@
 {
   "id": "fam6g1",
-  "display_name": "Do biological parent have Eczema",
+  "display_name": "Do biological parent have eczema",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

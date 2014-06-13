@@ -1,7 +1,10 @@
 {
   "id": "fam5b22_chk",
-  "display_name": "Full brother SID",
-  "description": "",
+  "display_name": "Full brothers has SIDS",
+  "description": "Also known as crib death or sudden infant death syndrome",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

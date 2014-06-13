@@ -1,7 +1,10 @@
 {
   "id": "fam5w32_chk",
-  "display_name": "Half brother have Aspergers Syndrome",
+  "display_name": "Half brother have aspergers syndrome",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

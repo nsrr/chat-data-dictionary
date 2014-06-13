@@ -1,7 +1,10 @@
 {
   "id": "fam5t21_chk",
-  "display_name": "Full sister have Narcolepsy",
+  "display_name": "Full sister have narcolepsy",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

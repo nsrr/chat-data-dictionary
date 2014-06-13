@@ -3,5 +3,8 @@
   "display_name": "Do wheezy or whistling chest sounds occur most days?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

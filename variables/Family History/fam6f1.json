@@ -1,7 +1,10 @@
 {
   "id": "fam6f1",
-  "display_name": "Do biological parent have Diabetes",
+  "display_name": "Do biological parent have diabetes",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

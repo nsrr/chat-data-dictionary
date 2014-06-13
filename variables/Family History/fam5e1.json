@@ -1,7 +1,10 @@
 {
   "id": "fam5e1",
-  "display_name": "Do child’s brothers and/or sisters have ADD/ADHD",
-  "description": "",
+  "display_name": "Any siblings with ADD/ADHD?",
+  "description": "Known as attention deficit hyperactivity disorder",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

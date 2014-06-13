@@ -3,5 +3,8 @@
   "display_name": "Any runny or stuffy nose when exposed to dust?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

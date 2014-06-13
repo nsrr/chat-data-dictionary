@@ -1,7 +1,10 @@
 {
   "id": "fam5u22_chk",
-  "display_name": "Full brother have Sleep Apnea",
+  "display_name": "Full brother have sleep apnea",
   "description": "",
   "type": "choices",
-  "domain":"checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

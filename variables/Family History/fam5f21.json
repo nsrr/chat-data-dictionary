@@ -1,7 +1,10 @@
 {
   "id": "fam5f21",
-  "display_name": "Full sister have cancer",
+  "display_name": "Number of full sisters with cancer",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

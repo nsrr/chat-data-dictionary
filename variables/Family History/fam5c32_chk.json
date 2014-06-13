@@ -1,7 +1,10 @@
 {
   "id": "fam5c32_chk",
-  "display_name": "Half brother have an anxiety disorder",
+  "display_name": "Half brothers have an anxiety disorder",
   "description": "",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

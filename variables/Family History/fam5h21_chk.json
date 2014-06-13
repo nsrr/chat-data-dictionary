@@ -1,7 +1,10 @@
 {
   "id": "fam5h21_chk",
-  "display_name": "Full sister have Depression",
+  "display_name": "Full sister have depression",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

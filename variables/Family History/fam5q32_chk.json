@@ -1,7 +1,10 @@
 {
   "id": "fam5q32_chk",
-  "display_name": "Half brother have Insomnia",
+  "display_name": "Half brother have insomnia",
   "description": "",
   "type": "choices",
-  "domain":"checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

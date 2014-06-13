@@ -1,7 +1,10 @@
 {
   "id": "fam6m1",
-  "display_name": "Do biological parent have Heart Disease",
+  "display_name": "Do biological parent have heart disease",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5s22_chk",
-  "display_name": "Full brother have Migraine Headache or Chronic Severe Headache",
-  "description": "",
+  "display_name": "Full brother have headaches",
+  "description": "Either migraines or chronic severe headache",
   "type": "choices",
-  "domain":"checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

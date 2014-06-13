@@ -1,7 +1,10 @@
 {
   "id": "fam5a32_chk",
-  "display_name": "Half brothers has apparent life-threatening event",
-  "description": "",
+  "display_name": "Half brothers has ATLE",
+  "description": "Also known as acute life threatening episodes",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

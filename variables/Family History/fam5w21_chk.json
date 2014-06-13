@@ -1,7 +1,10 @@
 {
   "id": "fam5w21_chk",
-  "display_name": "Full sister have Aspergers Syndrome",
+  "display_name": "Full sister have aspergers syndrome",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

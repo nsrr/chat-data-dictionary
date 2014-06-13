@@ -1,7 +1,10 @@
 {
   "id": "fam5b31",
-  "display_name": "Half sister SID",
-  "description": "",
+  "display_name": "Number of half sisters with SIDS",
+  "description": "Also known as crib death or sudden infant death syndrome",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

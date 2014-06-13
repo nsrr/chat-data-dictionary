@@ -1,7 +1,10 @@
 {
   "id": "fam5g31",
-  "display_name": "Half sister have Cerebal Palsy",
+  "display_name": "Number of half sisters with cerebal palsy",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

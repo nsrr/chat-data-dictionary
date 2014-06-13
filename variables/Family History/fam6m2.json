@@ -1,7 +1,10 @@
 {
   "id": "fam6m2",
-  "display_name": "Biological Mother have Heart Disease",
+  "display_name": "Biological mother have heart disease",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

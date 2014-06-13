@@ -1,7 +1,10 @@
 {
   "id": "fam5h31_chk",
-  "display_name": "Half sister have Depression",
+  "display_name": "Half sister have depression",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

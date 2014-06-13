@@ -3,5 +3,8 @@
   "display_name": "Half sister have cancer",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

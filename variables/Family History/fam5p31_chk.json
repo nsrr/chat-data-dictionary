@@ -1,7 +1,10 @@
 {
   "id": "fam5p31_chk",
-  "display_name": "Half sister have High Cholesterol",
+  "display_name": "Half sister have high cholesterol",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

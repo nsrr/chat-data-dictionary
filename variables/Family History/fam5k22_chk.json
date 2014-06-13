@@ -1,7 +1,10 @@
 {
   "id": "fam5k22_chk",
-  "display_name": "Full brother have Eczema",
-  "description": "",
+  "display_name": "Full brother have eczema",
+  "description": "Eczema or atopic dermatitis",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

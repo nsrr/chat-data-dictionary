@@ -1,7 +1,10 @@
 {
   "id": "fam5o22",
-  "display_name": "Full brother have High Blood Pressure (Hypertension)",
-  "description": "",
+  "display_name": "Number of full brothers with high blood pressure",
+  "description": "Also known as hypertension",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

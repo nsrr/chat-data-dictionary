@@ -3,5 +3,8 @@
   "display_name": "Do any of the sibilings have any of the following conditions?",
   "description": "",
   "type": "choices",
-  "domain": "notapplicable"
+  "domain": "notapplicable",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

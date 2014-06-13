@@ -3,5 +3,8 @@
   "display_name": "Full brother have cancer",
   "description": "",
   "type": "choices",
-  "domain": "checked"
+  "domain": "checked",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5l32",
-  "display_name": "Half brother have Enlarged Tonsils or Adenoids",
+  "display_name": "Number of half brothers with enlarged tonsils or adenoids",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

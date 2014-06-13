@@ -3,5 +3,8 @@
   "display_name": "Any wheezy or whistling chest sounds when exposed to pollen?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

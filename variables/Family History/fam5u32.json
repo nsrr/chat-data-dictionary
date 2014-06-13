@@ -1,7 +1,10 @@
 {
   "id": "fam5u32",
-  "display_name": "Half brother have Sleep Apnea",
+  "display_name": "Number of half brothers with sleep apnea",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

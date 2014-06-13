@@ -1,7 +1,10 @@
 {
   "id": "fam5g31_chk",
-  "display_name": "Half sister have Cerebal Palsy",
+  "display_name": "Half sister have cerebal palsy",
   "description": "",
   "type": "choices",
-  "domain": "check"
+  "domain": "check",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "fam5k1",
-  "display_name": "Do child’s brothers and/or sisters have Eczema",
-  "description": "",
+  "display_name": "Any siblings with eczema?",
+  "description": "Eczema or atopic dermatitis",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_familyhx_form"
+  ]
 }
