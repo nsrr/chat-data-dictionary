@@ -1,7 +1,10 @@
 {
   "id": "med1l3",
-  "display_name": "Hay Fever Still Present?",
-  "description": "",
+  "display_name": "Hay fever still present?",
+  "description": "This includes nasal allergies",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

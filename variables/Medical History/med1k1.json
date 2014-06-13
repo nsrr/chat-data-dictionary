@@ -1,7 +1,10 @@
 {
   "id": "med1k1",
-  "display_name": "Ever had Eczema?",
-  "description": "",
+  "display_name": "Ever had eczema?",
+  "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "med1o1",
-  "display_name": "Ever had Insomnia?",
+  "display_name": "Ever had insomnia?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

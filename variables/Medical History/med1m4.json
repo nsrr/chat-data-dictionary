@@ -1,7 +1,10 @@
 {
   "id": "med1m4",
-  "display_name": "Currently taking medication for Hypertension?",
-  "description": "",
+  "display_name": "Currently taking medication for hypertension?",
+  "description": "Also known as high blood pressure",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

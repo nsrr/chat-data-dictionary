@@ -1,7 +1,10 @@
 {
   "id": "med1c3",
-  "display_name": "Asthma Still Present?",
+  "display_name": "Asthma still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "med1c4",
-  "display_name": "Currently taking medication for Asthma?",
+  "display_name": "Currently taking medication for asthma?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "med1d1",
   "display_name": "Ever had ADD/ADHD?",
-  "description": "",
+  "description": "Also known as attention deficit hyperactivity disorder",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

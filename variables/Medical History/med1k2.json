@@ -1,7 +1,10 @@
 {
   "id": "med1k2",
-  "display_name": "Diagnosed or treated by a physician for Eczema?",
-  "description": "",
+  "display_name": "Diagnosed or treated by a physician for eczema?",
+  "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

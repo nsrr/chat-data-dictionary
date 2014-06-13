@@ -1,7 +1,10 @@
 {
   "id": "med1o2",
-  "display_name": "Diagnosed or treated by a physician for Insomnia?",
+  "display_name": "Diagnosed or treated by a physician for insomnia?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

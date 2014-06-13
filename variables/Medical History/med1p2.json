@@ -1,7 +1,10 @@
 {
   "id": "med1p2",
-  "display_name": "Diagnosed or treated by a physician for Migraine Headache or Chronic Severe Headache?",
-  "description": "",
+  "display_name": "Diagnosed or treated by a physician for headaches?",
+  "description": "Such as migraines or chronic severe headaches",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

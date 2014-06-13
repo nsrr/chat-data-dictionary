@@ -1,7 +1,10 @@
 {
   "id": "med1a2",
-  "display_name": "Diagnosed or treated by a physician for Apparent Life-Threatening Event?",
-  "description": "",
+  "display_name": "Diagnosed or treated by a physician for ALTE?",
+  "description": "Also known as an acute life threatening episode",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Child has other allergy",
   "description": "",
   "type": "choices",
-  "domain": "other"
+  "domain": "other",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

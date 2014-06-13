@@ -1,7 +1,10 @@
 {
   "id": "med1k4",
-  "display_name": "Currently taking medication for Eczema?",
-  "description": "",
+  "display_name": "Currently taking medication for eczema?",
+  "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

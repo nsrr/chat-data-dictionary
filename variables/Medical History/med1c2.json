@@ -1,7 +1,10 @@
 {
   "id": "med1c2",
-  "display_name": "Diagnosed or treated by a physician for Asthma?",
+  "display_name": "Diagnosed or treated by a physician for asthma?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

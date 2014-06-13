@@ -1,7 +1,10 @@
 {
   "id": "med1n4",
-  "display_name": "Currently taking medication for High Cholesterol?",
+  "display_name": "Currently taking medication for high cholesterol?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

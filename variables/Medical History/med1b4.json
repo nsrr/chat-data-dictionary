@@ -1,7 +1,10 @@
 {
   "id": "med1b4",
-  "display_name": "Currently taking medication Anxiety Disorder?",
+  "display_name": "Currently taking medication your anxiety disorder?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

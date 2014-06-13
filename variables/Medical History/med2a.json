@@ -3,5 +3,8 @@
   "display_name": "If Yes, has your child ever been tested (skin or blood) for allergies?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

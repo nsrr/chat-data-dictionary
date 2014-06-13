@@ -1,7 +1,10 @@
 {
   "id": "med1r2",
-  "display_name": "Diagnosed or treated by a physician for Aspergers Syndrome?",
+  "display_name": "Diagnosed or treated by a physician for asperger's syndrome?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

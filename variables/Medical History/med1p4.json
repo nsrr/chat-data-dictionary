@@ -1,7 +1,10 @@
 {
   "id": "med1p4",
-  "display_name": "Currently taking medication for Migraine Headache or Chronic Severe Headache?",
-  "description": "",
+  "display_name": "Currently taking medication for headaches?",
+  "description": "Such as migraines or chronic severe headaches",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

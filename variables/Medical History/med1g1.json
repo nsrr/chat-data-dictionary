@@ -1,7 +1,13 @@
 {
   "id": "med1g1",
-  "display_name": "Ever had Heartburn or acid reflux?",
+  "display_name": "Ever had heartburn or acid reflux?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ],
+  "labels": [
+    "gerd"
+  ]
 }

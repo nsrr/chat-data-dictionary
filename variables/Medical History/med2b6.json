@@ -3,5 +3,8 @@
   "display_name": "Child has grass or pollen allergy",
   "description": "",
   "type": "choices",
-  "domain": "grass"
+  "domain": "grass",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

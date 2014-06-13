@@ -1,7 +1,10 @@
 {
   "id": "med1i2",
-  "display_name": "Diagnosed or treated by a physician for Diabetes?",
+  "display_name": "Diagnosed or treated by a physician for diabetes?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

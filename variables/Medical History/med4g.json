@@ -3,5 +3,8 @@
   "display_name": "Referred to Sleep Specialist",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

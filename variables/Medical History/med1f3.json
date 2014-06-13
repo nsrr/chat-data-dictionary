@@ -1,7 +1,10 @@
 {
   "id": "med1f3",
-  "display_name": "Cerebal Palsy Still Present?",
+  "display_name": "Cerebral palsy still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

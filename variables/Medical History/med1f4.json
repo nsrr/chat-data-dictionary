@@ -1,7 +1,10 @@
 {
   "id": "med1f4",
-  "display_name": "Currently taking medication for Cerebal Palsy?",
+  "display_name": "Currently taking medication for cerebral palsy?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

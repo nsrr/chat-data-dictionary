@@ -1,7 +1,10 @@
 {
   "id": "med1n2",
-  "display_name": "Diagnosed or treated by a physician for High Cholesterol?",
+  "display_name": "Diagnosed or treated by a physician for high cholesterol?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

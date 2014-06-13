@@ -1,7 +1,10 @@
 {
   "id": "med1s3",
-  "display_name": "Other Significant Medical Conditions Still Present?",
+  "display_name": "Other significant medical conditions still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

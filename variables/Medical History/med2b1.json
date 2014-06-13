@@ -3,5 +3,8 @@
   "display_name": "Child has mold allergy",
   "description": "",
   "type": "choices",
-  "domain": "molds"
+  "domain": "molds",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

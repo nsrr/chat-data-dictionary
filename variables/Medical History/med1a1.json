@@ -1,7 +1,10 @@
 {
   "id": "med1a1",
-  "display_name": "Ever had Apparent Life-Threatening Event?",
-  "description": "",
+  "display_name": "Ever had ALTE?",
+  "description": "Also know as an acute life threatening event",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

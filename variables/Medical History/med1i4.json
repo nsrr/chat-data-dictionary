@@ -1,7 +1,10 @@
 {
   "id": "med1i4",
-  "display_name": "Currently taking medication for Diabetes?",
+  "display_name": "Currently taking medication for diabetes?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

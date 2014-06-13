@@ -1,7 +1,10 @@
 {
   "id": "med1d4",
   "display_name": "Currently taking medication for ADD/ADHD?",
-  "description": "",
+  "description": "Also known as attention deficit hyperactivity disorder",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

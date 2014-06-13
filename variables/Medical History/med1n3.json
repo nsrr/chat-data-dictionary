@@ -1,7 +1,10 @@
 {
   "id": "med1n3",
-  "display_name": "High Cholesterol Still Present?",
+  "display_name": "High cholesterol still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

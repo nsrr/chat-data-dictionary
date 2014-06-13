@@ -3,5 +3,8 @@
   "display_name": "Surgery Date performed",
   "description": "",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds from date of randomization",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

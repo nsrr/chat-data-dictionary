@@ -3,5 +3,8 @@
   "display_name": "Child has insect allergy",
   "description": "",
   "type": "choices",
-  "domain": "insects"
+  "domain": "insects",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -1,6 +1,9 @@
 {
   "id": "med5_chk",
-  "display_name": "Med5_chk",
-  "description": "",
-  "type": "string"
+  "display_name": "What was your child's weight at birth",
+  "description": "Not sure",
+  "type": "string",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

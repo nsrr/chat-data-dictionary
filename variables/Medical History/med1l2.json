@@ -1,7 +1,10 @@
 {
   "id": "med1l2",
-  "display_name": "Diagnosed or treated by a physician for Hay Fever?",
-  "description": "",
+  "display_name": "Diagnosed or treated by a physician for hay fever?",
+  "description": "This includes nasal allergies",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

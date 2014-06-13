@@ -1,7 +1,10 @@
 {
   "id": "med1e3",
-  "display_name": "Cancer Still Present?",
+  "display_name": "Cancer still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

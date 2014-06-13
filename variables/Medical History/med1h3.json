@@ -1,7 +1,10 @@
 {
   "id": "med1h3",
-  "display_name": "Depression Still Present?",
+  "display_name": "Depression still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

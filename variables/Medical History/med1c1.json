@@ -1,7 +1,10 @@
 {
   "id": "med1c1",
-  "display_name": "Ever had Asthma?",
+  "display_name": "Ever had asthma?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

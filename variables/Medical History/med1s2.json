@@ -1,7 +1,10 @@
 {
   "id": "med1s2",
-  "display_name": "Diagnosed or treated by a physician for Other Significant Medical Conditions?",
+  "display_name": "Diagnosed or treated by a physician for other significant medical conditions?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

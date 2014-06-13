@@ -1,7 +1,10 @@
 {
   "id": "med1e2",
-  "display_name": "Diagnosed or treated by a physician for Cancer?",
+  "display_name": "Diagnosed or treated by a physician for cancer?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

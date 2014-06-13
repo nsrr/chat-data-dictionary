@@ -1,7 +1,10 @@
 {
   "id": "med1h4",
-  "display_name": "Currently taking medication for Depression?",
+  "display_name": "Currently taking medication for depression?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

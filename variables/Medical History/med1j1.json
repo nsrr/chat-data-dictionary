@@ -1,7 +1,10 @@
 {
   "id": "med1j1",
-  "display_name": "Ever had Eating Disorder?",
-  "description": "",
+  "display_name": "Ever had an eating disorder?",
+  "description": "This includes anorexia and bulimia",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

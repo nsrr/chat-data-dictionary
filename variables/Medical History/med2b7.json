@@ -3,5 +3,8 @@
   "display_name": "Child has dog allergy",
   "description": "",
   "type": "choices",
-  "domain": "dogs"
+  "domain": "dogs",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

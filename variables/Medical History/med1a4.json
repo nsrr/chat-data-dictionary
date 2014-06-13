@@ -1,7 +1,10 @@
 {
   "id": "med1a4",
-  "display_name": "Currently taking medication for Apparent Life-Threatening Event?",
-  "description": "",
+  "display_name": "Currently taking medication for the ALTE?",
+  "description": "Also known as an acute life threatening episode",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

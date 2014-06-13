@@ -1,7 +1,10 @@
 {
   "id": "med1p1",
-  "display_name": "Ever had this condition Migraine Headache or Chronic Severe Headache?",
-  "description": "",
+  "display_name": "Ever had headaches?",
+  "description": "Such as migraines or chronic severe headaches",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

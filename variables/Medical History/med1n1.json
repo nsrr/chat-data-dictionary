@@ -1,7 +1,10 @@
 {
   "id": "med1n1",
-  "display_name": "Ever had High Cholesterol?",
+  "display_name": "Ever had high cholesterol?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

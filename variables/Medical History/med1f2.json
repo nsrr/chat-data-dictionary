@@ -1,7 +1,10 @@
 {
   "id": "med1f2",
-  "display_name": "Diagnosed or treated by a physician for Cerebal Palsy?",
+  "display_name": "Diagnosed or treated by a physician for cerebral palsy?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

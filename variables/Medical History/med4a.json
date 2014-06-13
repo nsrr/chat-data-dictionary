@@ -3,5 +3,8 @@
   "display_name": "Referred to Cardiologist (Heart Doctor)",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "med1i1",
-  "display_name": "Ever had Diabetes?",
+  "display_name": "Ever had diabetes?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

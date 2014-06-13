@@ -1,7 +1,13 @@
 {
   "id": "med1g3",
-  "display_name": "Heartburn or acid reflux Still Present?",
+  "display_name": "Heartburn or acid reflux still present?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ],
+  "labels": [
+    "gerd"
+  ]
 }

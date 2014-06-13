@@ -3,5 +3,8 @@
   "display_name": "Child has latex allergy",
   "description": "",
   "type": "choices",
-  "domain": "latex"
+  "domain": "latex",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

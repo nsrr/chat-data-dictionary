@@ -1,7 +1,10 @@
 {
   "id": "med1f1",
-  "display_name": "Ever had Cerebal Palsy?",
+  "display_name": "Ever had cerebral palsy?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

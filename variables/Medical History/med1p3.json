@@ -1,7 +1,10 @@
 {
   "id": "med1p3",
-  "display_name": "Migraine Headache or Chronic Severe Headache Still Present?",
-  "description": "",
+  "display_name": "Headaches still present?",
+  "description": "Such as migraines or chronic severe headaches",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

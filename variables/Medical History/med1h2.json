@@ -1,7 +1,10 @@
 {
   "id": "med1h2",
-  "display_name": "Diagnosed or treated by a physician for Depression?",
+  "display_name": "Diagnosed or treated by a physician for depression?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }

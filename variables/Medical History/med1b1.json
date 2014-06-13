@@ -1,7 +1,10 @@
 {
   "id": "med1b1",
-  "display_name": "Ever had Anxiety Disorder?",
+  "display_name": "Ever had an anxiety disorder?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "form": [
+    "chat_medicalhx_form"
+  ]
 }
