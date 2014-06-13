@@ -1,6 +1,6 @@
 {
   "id": "sgl_status",
-  "display_name": "sgl_status",
+  "display_name": "Glucose alert status",
   "description": "",
   "type": "string"
 }
