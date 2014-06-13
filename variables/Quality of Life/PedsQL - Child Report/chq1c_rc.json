@@ -3,5 +3,8 @@
   "display_name": "Participating in sports activity or exercise (coded per pedsql manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "forms": [
+    "chat_pqlchi2_form"
+  ]
 }

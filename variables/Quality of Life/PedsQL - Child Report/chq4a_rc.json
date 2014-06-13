@@ -3,5 +3,8 @@
   "display_name": "Paying attention in class (coded per pedsql manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "forms": [
+    "chat_pqlchi2_form"
+  ]
 }

@@ -3,8 +3,11 @@
   "display_name": "Do you feel sad?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways2",
+  "domain": "neveroralways2",
   "forms": [
     "chat_pqlchi_form"
+  ],
+  "forms": [
+    "chat_face_form"
   ]
 }

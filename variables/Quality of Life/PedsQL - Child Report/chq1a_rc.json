@@ -3,5 +3,8 @@
   "display_name": "Walking more than one block (coded per pedsql manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "forms": [
+    "chat_pqlchi2_form"
+  ]
 }

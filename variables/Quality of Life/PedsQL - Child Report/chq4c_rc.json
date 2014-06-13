@@ -3,5 +3,8 @@
   "display_name": "Keeping up with school activites (coded per pedsql manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "forms": [
+    "chat_pqlchi2_form"
+  ]
 }
