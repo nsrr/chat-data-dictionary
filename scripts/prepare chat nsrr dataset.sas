@@ -46,6 +46,8 @@ data chat_latest;
         pho4a2 /* empty variable, no valid data */
         med3c2 /* empty variable, no valid data */
         med3d2 /* empty variable, no valid data */
+        con17b_tr /* empty variable, no valid data */
+        con18b_tr /* empty variable, no valid data */
         ;
 run;
 
