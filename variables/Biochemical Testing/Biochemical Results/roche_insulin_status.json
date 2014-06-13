@@ -1,6 +1,6 @@
 {
   "id": "roche_insulin_status",
-  "display_name": "Roche insulin status",
+  "display_name": "Roche insulin alert status",
   "description": "",
   "type": "string"
 }

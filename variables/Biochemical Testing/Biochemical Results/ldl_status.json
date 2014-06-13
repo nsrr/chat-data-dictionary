@@ -1,6 +1,6 @@
 {
   "id": "ldl_status",
-  "display_name": "LDL status",
+  "display_name": "LDL alert status",
   "description": "",
   "type": "string"
 }

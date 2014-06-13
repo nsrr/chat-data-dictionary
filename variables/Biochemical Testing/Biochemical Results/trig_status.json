@@ -1,6 +1,6 @@
 {
   "id": "trig_status",
-  "display_name": "Triglyceride levels",
+  "display_name": "Triglyceride alert status",
   "description": "",
   "type": "string"
 }
