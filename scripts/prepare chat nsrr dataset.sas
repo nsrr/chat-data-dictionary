@@ -51,6 +51,7 @@ data chat_latest;
         bp2a /* dubious worth, does not appear to have been cleaned */
         bp1a /* dubious worth, does not appear to have been cleaned */
         bp3a /* dubious worth, does not appear to have been cleaned */
+        ant2 /* dubious worth */
         ;
 run;
 
