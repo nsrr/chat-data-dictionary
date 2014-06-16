@@ -50,6 +50,7 @@ data chat_latest;
         con18b_tr /* empty variable, no valid data */
         bp2a /* dubious worth, does not appear to have been cleaned */
         bp1a /* dubious worth, does not appear to have been cleaned */
+        bp3a /* dubious worth, does not appear to have been cleaned */
         ;
 run;
 
