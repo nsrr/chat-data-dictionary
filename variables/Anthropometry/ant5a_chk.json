@@ -1,6 +1,7 @@
 {
   "id": "ant5a_chk",
-  "display_name": "ANT5A_CHK",
+  "display_name": "BMI z-score not required at this visit",
   "description": "",
-  "type": "string"
+  "type": "choices",
+  "domain": "notrequired"
 }
