@@ -41,6 +41,7 @@ data chat_latest;
   *recode values to missing;
   if bri10a_tr in (555,999) then bri10a_tr = .;
   if bri10b_tr in (555,999) then bri10b_tr = .;
+  if bri10c_tr in (555,999) then bri10c_tr = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
