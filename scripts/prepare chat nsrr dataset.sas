@@ -38,6 +38,9 @@ data chat_latest;
   if vnum = 10 then male = maleretain;
   drop maleretain;
 
+  *recode values to missing;
+  if bri10a_tr in (555,999) then bri10a_tr = .;
+
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
         ethnicity /* has missing subjects, chi3 variable is more complete */
