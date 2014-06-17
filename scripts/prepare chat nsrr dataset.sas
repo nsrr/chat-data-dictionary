@@ -119,6 +119,7 @@ data chat_latest;
   if con15b in (555) then con15b = .;
   if con15a in (555) then con15a = .;
   if con14b in (555) then con14b = .;
+  if con14a in (555) then con14a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
