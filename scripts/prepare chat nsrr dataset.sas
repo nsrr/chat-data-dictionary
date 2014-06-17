@@ -198,6 +198,7 @@ data chat_latest;
   if bri3c in (888) then bri3c = .;
   if bri14c_tr in (555,999) then bri14c_tr = .;
   if bri14a_tr in (555,999) then bri14a_tr = .;
+  if bri13c_tr in (555,999) then bri13c_tr = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
