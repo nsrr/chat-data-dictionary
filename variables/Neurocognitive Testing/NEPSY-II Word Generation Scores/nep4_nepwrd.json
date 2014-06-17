@@ -3,5 +3,9 @@
   "display_name": "Word Generation Initial Letter Total Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_nepsy2-wg_form"
+  ]
+}
 }
