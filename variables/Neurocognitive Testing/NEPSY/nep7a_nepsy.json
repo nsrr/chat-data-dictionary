@@ -3,5 +3,8 @@
   "display_name": "Visual Attention: Raw Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_nepsy_form"
+  ]
 }
