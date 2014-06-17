@@ -103,7 +103,7 @@ data chat_latest;
   if das10f in (666,777) then das10f = .;
   if das10e in (666) then das10e = .;
   if das10d in (666) then das10d = .;
-
+  if das10c in (666,777) then das10c = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
