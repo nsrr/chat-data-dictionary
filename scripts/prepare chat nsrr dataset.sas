@@ -183,6 +183,7 @@ data chat_latest;
   if cbc14b in (999) then cbc14b = .;
   if cbc13c in (999) then cbc13c = .;
   if cbc13b in (999) then cbc13b = .;
+  if cbc13a in (999) then cbc13a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
