@@ -3,5 +3,8 @@
   "display_name": "Excessive daytime drowsiness or sleepiness?",
   "description": "",
   "type": "choices",
-  "domain":"time"
+  "domain": "time",
+  "forms": [
+    "chat_qol18_form"
+  ]
 }

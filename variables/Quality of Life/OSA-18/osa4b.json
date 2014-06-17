@@ -3,5 +3,8 @@
   "display_name": "Poor attention span or concentration?",
   "description": "",
   "type": "choices",
-  "domain":"time"
+  "domain": "time",
+  "forms": [
+    "chat_qol18_form"
+  ]
 }

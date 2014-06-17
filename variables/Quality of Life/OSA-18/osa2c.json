@@ -1,7 +1,10 @@
 {
   "id": "osa2c",
-  "display_name": "Nasal dischare or runny nose?",
+  "display_name": "Nasal discharge or runny nose?",
   "description": "",
   "type": "choices",
-  "domain":"time"
+  "domain": "time",
+  "forms": [
+    "chat_qol18_form"
+  ]
 }

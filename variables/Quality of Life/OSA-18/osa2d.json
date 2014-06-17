@@ -3,5 +3,8 @@
   "display_name": "Difficulty in swallowing foods?",
   "description": "",
   "type": "choices",
-  "domain":"time"
+  "domain": "time",
+  "forms": [
+    "chat_qol18_form"
+  ]
 }
