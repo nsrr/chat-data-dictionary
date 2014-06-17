@@ -91,6 +91,7 @@ data chat_latest;
   if das4a in (666) then das4a = .;
   if das12g in (666) then das12g = .;
   if das12f in (666,777) then das12f = .;
+  if das12e in (666) then das12e = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
