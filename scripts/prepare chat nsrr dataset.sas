@@ -192,6 +192,7 @@ data chat_latest;
   if bp31 in (0,9) then bp31 = .;
   if bp22 in (0) then bp22 = .;
   if bp21 in (0) then bp21 = .;
+  if bri9c in (555) then bri9c = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
