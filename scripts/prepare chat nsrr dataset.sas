@@ -49,6 +49,7 @@ data chat_latest;
   if wra2a in (666) then wra2a = .;
   if vmi6 in (666) then vmi6 = .;
   if vmi5 in (666) then vmi5 = .;
+  if vmi4 in (666) then vmi4 = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
