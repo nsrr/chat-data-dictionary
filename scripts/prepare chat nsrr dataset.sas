@@ -81,6 +81,7 @@ data chat_latest;
   if das5h in (777) then das5h = .;
   if das5f in (777) then das5f = .;
   if das5c in (777) then das5c = .;
+  if das5a in (777) then das5a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
