@@ -6,5 +6,8 @@
   "domain": "time",
   "forms": [
     "chat_qol18_form"
+  ],
+  "forms": [
+    "chat_qol18-2_form"
   ]
 }
