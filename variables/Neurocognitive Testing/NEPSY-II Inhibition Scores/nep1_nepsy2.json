@@ -3,5 +3,8 @@
   "display_name": "Were any sections of the NEPSY-II Inhibition subtest performed?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_nepsy2_form"
+  ]
 }

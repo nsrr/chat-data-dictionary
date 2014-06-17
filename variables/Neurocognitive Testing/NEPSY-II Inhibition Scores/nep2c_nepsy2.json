@@ -3,5 +3,8 @@
   "display_name": "Inhibition Naming Combined Scaled Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_nepsy2_form"
+  ]
 }
