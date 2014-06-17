@@ -3,5 +3,8 @@
   "display_name": "Mothers education level",
   "description": "Reclassed variable",
   "type": "choices",
-  "domain": "education_rc"
+  "domain": "education_rc",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

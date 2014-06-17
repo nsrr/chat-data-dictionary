@@ -3,5 +3,8 @@
   "display_name": "Mother's ethnicity?",
   "description": "",
   "type": "choices",
-  "domain":"ethnicity2"
+  "domain": "ethnicity2",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

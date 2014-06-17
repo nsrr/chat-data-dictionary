@@ -3,5 +3,8 @@
   "display_name": "Mothers current employment",
   "description": "",
   "type": "choices",
-  "domain":"employment"
+  "domain": "employment",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

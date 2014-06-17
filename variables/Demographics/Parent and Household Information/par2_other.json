@@ -2,5 +2,8 @@
   "id": "par2_other",
   "display_name": "Mothers race, other",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

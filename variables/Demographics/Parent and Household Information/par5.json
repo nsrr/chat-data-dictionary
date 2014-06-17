@@ -3,5 +3,8 @@
   "display_name": "Annual income before taxes",
   "description": "",
   "type": "choices",
-  "domain": "income"
+  "domain": "income",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Annual income before taxes",
   "description": "ATS reclassed variable",
   "type": "choices",
-  "domain": "income_ats"
+  "domain": "income_ats",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }

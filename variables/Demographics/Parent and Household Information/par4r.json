@@ -3,5 +3,8 @@
   "display_name": "Father's race recoded",
   "description": "",
   "type": "choices",
-  "domain": "parentrace"
+  "domain": "parentrace",
+  "forms": [
+    "chat_parentinfo_form"
+  ]
 }
