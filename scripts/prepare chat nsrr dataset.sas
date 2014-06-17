@@ -100,6 +100,8 @@ data chat_latest;
   if das11d in (666) then das11d = .;
   if das11c in (666,777) then das11c = .;
   if das10g in (666) then das10g = .;
+  if das10f in (666,777) then das10f = .;
+  if das10e in (666) then das10e = .;
 
 
   *remove variables as needed;
