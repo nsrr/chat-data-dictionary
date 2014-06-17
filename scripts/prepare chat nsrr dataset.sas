@@ -129,6 +129,7 @@ data chat_latest;
   if con10b in (555) then con10b = .;
   if con10a in (555) then con10a = .;
   if cdi9b in (666,999) then cdi9b = .;
+  if cdi9a in (666,999) then cdi9a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
