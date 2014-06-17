@@ -58,6 +58,7 @@ data chat_latest;
   if ldl_mg_dl in (-999) then ldl_mg_dl = .;
   if insulin_uil_ml in (-999,-888) then insulin_uil_ml = .;
   if fam9_tot_inches in (0) then fam9_tot_inches = .;
+  if fam9 in (0) then fam9 = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
