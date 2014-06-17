@@ -46,6 +46,7 @@ data chat_latest;
   if wra3b in (777) then wra3b = .;
   if wra3a in (777) then wra3a = .;
   If wra2b in (777) then wra2b = .;
+  if wra2a in (666) then wra2a = .;
 
 
   *remove variables as needed;
