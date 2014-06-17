@@ -51,6 +51,7 @@ data chat_latest;
   if vmi5 in (666) then vmi5 = .;
   if vmi4 in (666) then vmi4 = .;
   if nep9c_nepsy in (666,777,888) then nep9c_nepsy = .;
+  if nep9b_nepsy in (666,888) then nep9b_nepsy = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
