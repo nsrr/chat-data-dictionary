@@ -213,6 +213,12 @@ data chat_latest;
   if ant73 in (0) then ant73 = .;
   if ant82 in (0) then ant82 = .;
   if ant83 in (0) then ant83 = .;
+  if chhdlr in (-999) then chhdlr = .;
+  if chol in (-999) then chol = .;
+  if hdl_mg_dl in (-999) then hdl_mg_dl = .;
+  if roche_insulin in (-999,-888) then roche_insulin = .;
+  if sgl_mg_dl in (-999) then sgl_mg_dl = .;
+  if trig in (-999) then trig = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
