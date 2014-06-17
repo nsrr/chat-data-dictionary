@@ -131,6 +131,7 @@ data chat_latest;
   if cdi9b in (666,999) then cdi9b = .;
   if cdi9a in (666,999) then cdi9a = .;
   if cdi8b in (666,999) then cdi8b = .;
+  if cdi8a in (666,999) then cdi8a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
