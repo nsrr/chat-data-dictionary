@@ -70,6 +70,7 @@ data chat_latest;
   if das7g in (666) then das7g = .;
   if das7f in (666) then das7f = .;
   if das7d in (666) then das7d = .;
+  if das7b in (666) then das7b = .;
   if das7a in (666) then das7a = .;
 
   *remove variables as needed;
