@@ -64,6 +64,7 @@ data chat_latest;
   if das8h in (666,777) then das8h = .;
   if das8f in (666,777) then das8f = .;
   if das8c in (666,777) then das8c = .;
+  if das8b in (666,777) then das8b = .;
   if das8a in (666,777) then das8a = .;
 
   *remove variables as needed;
