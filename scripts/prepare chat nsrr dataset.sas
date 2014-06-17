@@ -53,6 +53,7 @@ data chat_latest;
   if nep9c_nepsy in (666,777,888) then nep9c_nepsy = .;
   if nep9b_nepsy in (666,888) then nep9b_nepsy = .;
   if nep11c_nepsy in (666,777,888) then nep11c_nepsy = .;
+  if nep11b_nepsy in (666,888) then nep11b_nepsy = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
