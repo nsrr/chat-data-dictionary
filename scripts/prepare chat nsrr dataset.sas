@@ -206,6 +206,7 @@ data chat_latest;
   if bri12c (555) then bri12c = .;
   if bri12a (555) then bri12a = .;
   if bri11c_tr (555) then bri11c_tr = .;
+  if bri11b_tr (555) then bri11b_tr = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
