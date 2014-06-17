@@ -104,6 +104,7 @@ data chat_latest;
   if das10e in (666) then das10e = .;
   if das10d in (666) then das10d = .;
   if das10c in (666,777) then das10c = .;
+  if crp_ug_ml in (-999,-888) then crp_ug_ml = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
