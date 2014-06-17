@@ -157,6 +157,8 @@ data chat_latest;
   if cbc4c in (555,999) then cbc4c = .;
   if cbc4b in (555,999) then cbc4b = .;
   if cbc4a in (555,999) then cbc4a = .;
+  if cbc3c in (555) then cbc3c = .;
+  if cbc3b in (555) then cbc3b = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
