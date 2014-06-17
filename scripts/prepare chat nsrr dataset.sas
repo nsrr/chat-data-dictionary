@@ -47,7 +47,7 @@ data chat_latest;
   if wra3a in (777) then wra3a = .;
   If wra2b in (777) then wra2b = .;
   if wra2a in (666) then wra2a = .;
-
+  if vmi6 in (666) then vmi6 = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
