@@ -3,5 +3,8 @@
   "display_name": "Validity of the Conners' Teacher(CONNTR) that was given to the teacher.",
   "description": "",
   "type": "choices",
-  "domain":"valid1"
+  "domain": "valid1",
+  "forms": [
+    "chat_neuro_form"
+  ]
 }
