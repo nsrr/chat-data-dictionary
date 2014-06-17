@@ -1,6 +1,6 @@
 {
   "id": "slh1c_21_h",
-  "display_name": "Time child woke up on the weekends?(hour)",
+  "display_name": "Time child woke up on the weekdays?(hour)",
   "description": "",
   "type": "time"
 }
