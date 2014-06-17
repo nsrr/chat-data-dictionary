@@ -61,6 +61,7 @@ data chat_latest;
   if fam9 in (0) then fam9 = .;
   if fam10_tot_oz in (0) then fam10_tot_oz = .;
   if fam10 in (0) then fam10 = .;
+  if das8h in (666,777) then das8h = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
