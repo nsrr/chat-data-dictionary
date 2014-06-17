@@ -195,6 +195,7 @@ data chat_latest;
   if bri9c in (555) then bri9c = .;
   if bri9b in (555) then bri9b = .;
   if bri9a in (555) then bri9a = .;
+  if bri3c in (888) then bri3c = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
