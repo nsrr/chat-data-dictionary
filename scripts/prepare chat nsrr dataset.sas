@@ -107,6 +107,7 @@ data chat_latest;
   if crp_ug_ml in (-999,-888) then crp_ug_ml = .;
   if con9b in (555) then con9b = .;
   if con9a in (555) then con9a = .;
+  if con8a in (555) then con8a = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
