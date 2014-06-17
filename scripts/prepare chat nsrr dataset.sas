@@ -202,6 +202,7 @@ data chat_latest;
   if bri13c in (555) then bri13c = .;
   if bri13a_tr (555,999) then bri13a_tr = .;
   if bri13a (555) then bri13a = .;
+  if bp32 (0) then bp32 = .;
 
   *remove variables as needed;
   drop  ran8 /* contains original subject code, which is identifiable */
