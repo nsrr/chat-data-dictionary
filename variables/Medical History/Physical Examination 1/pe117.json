@@ -2,6 +2,9 @@
   "id": "pe117",
   "display_name": "Does the child have any known allergies?",
   "description": "",
-  "type": "choices",  
-  "domain":"noyes"
+  "type": "choices",
+  "domain": "noyes",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

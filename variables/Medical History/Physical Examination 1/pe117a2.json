@@ -2,6 +2,9 @@
   "id": "pe117a2",
   "display_name": "Tree allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "trees"
+  "type": "choices",
+  "domain": "trees",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

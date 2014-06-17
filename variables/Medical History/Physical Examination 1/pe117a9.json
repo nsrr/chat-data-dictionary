@@ -2,6 +2,9 @@
   "id": "pe117a9",
   "display_name": "Latex allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "latex"
+  "type": "choices",
+  "domain": "latex",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

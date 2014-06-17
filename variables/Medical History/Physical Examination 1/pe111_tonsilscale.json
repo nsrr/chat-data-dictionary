@@ -1,7 +1,7 @@
 {
   "id": "pe111_tonsilscale",
-  "display_name": "What is the Friedman palate position",
-  "description": "",
+  "display_name": "Musculoskeletal: What is the Friedman palate position",
+  "description": "If PE111_EXPLAIN variable has the string TONSIL then pulls off the highest numeric value within the string",
   "type": "numeric",
   "units": ""
 }

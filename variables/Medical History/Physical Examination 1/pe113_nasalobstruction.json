@@ -1,7 +1,7 @@
 {
   "id": "pe113_nasalobstruction",
-  "display_name": "Nasal obstruction present or not present",
-  "description": "",
-  "type": "choices",  
-  "domain":"present"
+  "display_name": "Lymphatic: Nasal obstruction present or not present",
+  "description": "Binary variable that flags keywords: swollen nasal mucous membranes, congested, swollen turbinates and nasal congestion from the PE113_EXPLAIN variable",
+  "type": "choices",
+  "domain": "present"
 }

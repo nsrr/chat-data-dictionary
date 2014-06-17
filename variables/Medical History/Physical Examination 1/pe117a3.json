@@ -2,6 +2,9 @@
   "id": "pe117a3",
   "display_name": "Cat allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "cats"
+  "type": "choices",
+  "domain": "cats",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

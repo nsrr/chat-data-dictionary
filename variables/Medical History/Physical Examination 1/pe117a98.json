@@ -2,6 +2,9 @@
   "id": "pe117a98",
   "display_name": "Other allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "other"
+  "type": "choices",
+  "domain": "other",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

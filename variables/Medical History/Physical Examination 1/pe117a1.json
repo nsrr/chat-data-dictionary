@@ -2,6 +2,9 @@
   "id": "pe117a1",
   "display_name": "Molds allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "molds"
+  "type": "choices",
+  "domain": "molds",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

@@ -199,7 +199,7 @@ data chat_latest;
   if bri14c_tr in (555,999) then bri14c_tr = .;
   if bri14a_tr in (555,999) then bri14a_tr = .;
   if bri13c_tr in (555,999) then bri13c_tr = .;
-  if bri13c in in (555) then bri13c = .;
+  if bri13c in (555) then bri13c = .;
   if bri13a_tr in (555,999) then bri13a_tr = .;
   if bri13a in (555) then bri13a = .;
   if bp32 in (0) then bp32 = .;

@@ -2,6 +2,9 @@
   "id": "pe117a5",
   "display_name": "Dust allergy",
   "description": "",
-  "type": "choices",  
-  "domain": "dust"
+  "type": "choices",
+  "domain": "dust",
+  "form": [
+    "chat_physical1_form"
+  ]
 }
