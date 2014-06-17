@@ -1,0 +1,7 @@
+{
+  "id": "par1",
+  "display_name": "Mother's ethnicity?",
+  "description": "",
+  "type": "choices",
+  "domain":"ethnicity2"
+}
