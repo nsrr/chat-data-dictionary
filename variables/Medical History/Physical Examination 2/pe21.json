@@ -1,7 +1,10 @@
 {
   "id": "pe21",
-  "display_name": "pe21",
+  "display_name": "Temperature of the participant",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "celsius",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

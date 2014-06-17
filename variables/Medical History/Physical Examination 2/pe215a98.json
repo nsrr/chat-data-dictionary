@@ -3,5 +3,8 @@
   "display_name": "Other allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "other"
+  "domain": "other",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

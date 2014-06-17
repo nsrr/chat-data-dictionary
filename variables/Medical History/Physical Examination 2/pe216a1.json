@@ -1,7 +1,10 @@
 {
   "id": "pe216a1",
-  "display_name": "nasal steroids",
+  "display_name": "Nasal steroids",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

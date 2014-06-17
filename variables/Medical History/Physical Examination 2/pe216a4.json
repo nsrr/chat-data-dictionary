@@ -1,7 +1,10 @@
 {
   "id": "pe216a4",
-  "display_name": "oral",
+  "display_name": "Oral device",
   "description": "",
   "type": "choices",
-  "domain":"check"
+  "domain": "check",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

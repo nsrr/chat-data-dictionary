@@ -3,5 +3,8 @@
   "display_name": "Food or drink allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "food"
+  "domain": "food",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

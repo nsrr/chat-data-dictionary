@@ -1,7 +1,10 @@
 {
   "id": "pe210",
-  "display_name": "pe210",
+  "display_name": "Status of the abdomen system",
   "description": "",
   "type": "choices",
-  "domain":"normal"
+  "domain": "normal",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

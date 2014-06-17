@@ -3,5 +3,8 @@
   "display_name": "Cat allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "cats"
+  "domain": "cats",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

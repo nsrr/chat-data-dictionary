@@ -3,5 +3,8 @@
   "display_name": "Dog allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "dogs"
+  "domain": "dogs",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

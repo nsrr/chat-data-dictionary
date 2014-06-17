@@ -3,5 +3,8 @@
   "display_name": "Grass or pollen allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "grass"
+  "domain": "grass",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

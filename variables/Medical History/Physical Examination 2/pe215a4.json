@@ -3,5 +3,8 @@
   "display_name": "Insect allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "insects"
+  "domain": "insects",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

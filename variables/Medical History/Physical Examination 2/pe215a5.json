@@ -3,5 +3,8 @@
   "display_name": "Dust allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "dust"
+  "domain": "dust",
+  "form": [
+    "chat_physical1_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "pe216a5",
-  "display_name": "Surgery (other than ta)",
+  "display_name": "Surgery (other than TA)",
   "description": "",
   "type": "choices",
-  "domain": "othersurgery"
+  "domain": "othersurgery",
+  "form": [
+    "chat_physical1_form"
+  ]
 }
