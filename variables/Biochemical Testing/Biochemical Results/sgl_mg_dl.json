@@ -1,6 +1,6 @@
 {
   "id": "sgl_mg_dl",
-  "display_name": "sgl_mg_dl",
+  "display_name": "Serum glucose levels",
   "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter"

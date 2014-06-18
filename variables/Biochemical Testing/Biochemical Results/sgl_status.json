@@ -1,6 +1,6 @@
 {
   "id": "sgl_status",
-  "display_name": "Glucose alert status",
+  "display_name": "Serum glucose alert status",
   "description": "",
   "type": "string"
 }

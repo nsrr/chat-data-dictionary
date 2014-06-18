@@ -1,8 +1,8 @@
 {
   "id": "homa",
-  "display_name": "HOMA algorithm",
+  "display_name": "Homeostasis Model Assessment (HOMA) estimate of insulin resistance",
   "description": "",
   "type": "numeric",
   "units": "",
-  "calculations": "(glucose_mmol * ROCHE_INSULIN) / 22.5"
+  "calculation": "(glucose_mmol * roche_insulin) / 22.5"
 }

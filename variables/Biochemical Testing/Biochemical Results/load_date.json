@@ -1,6 +1,6 @@
 {
   "id": "load_date",
-  "display_name": "Load date",
+  "display_name": "Bloods load date",
   "description": "",
   "type": "integer",
   "units": "seconds from date of randomization"

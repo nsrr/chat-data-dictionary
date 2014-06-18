@@ -3,5 +3,5 @@
   "display_name": "Insulin levels determined by Roche meter",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "international units per milliliter"
 }
