@@ -1,0 +1,7 @@
+{
+  "id": "normalized1",
+  "display_name": "Normalized AHI between baseline and follow-up",
+  "description": "A participant needed to have an OMAHI3 <= 2 and OAI0P <= 1 at follow-up to have 'normalized'.",
+  "type": "choices",
+  "domain": "noyes"
+}

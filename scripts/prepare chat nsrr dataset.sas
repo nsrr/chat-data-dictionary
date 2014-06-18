@@ -242,6 +242,7 @@ data chat_latest;
         ant2 /* dubious worth */
         sesindex /* variable definition not available */
         sae /* variable definition not available */
+        randomized /* all participants in dataset were randomized, variable has no value */
         ;
 run;
 
