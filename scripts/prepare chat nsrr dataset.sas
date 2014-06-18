@@ -38,6 +38,12 @@ data chat_latest;
   if vnum = 10 then male = maleretain;
   drop maleretain;
 
+  *remove values for 'par2r' and 'par4r' at follow-up -- only needed on baseline dataset;
+  if vnum = 10 then do;
+    par2r = .;
+    par4r = .;
+  end;
+
   *recode values to missing;
   if bri10a_tr in (555,999) then bri10a_tr = .;
   if bri10b_tr in (555,999) then bri10b_tr = .;
