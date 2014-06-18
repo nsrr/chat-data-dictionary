@@ -44,6 +44,34 @@ data chat_latest;
     par4r = .;
   end;
 
+  *fix Sleep and Health Questionnaire inconsistencies;
+  if vnum = 3 then do;
+    slh3_ba = slh3;
+    slh5a_ba = slh5a;
+    slh5b_ba = slh5b;
+    slh5c_ba = slh5c;
+    slh5d_ba = slh5d;
+    slh5e_ba = slh5e;
+    slh5f_ba = slh5f;
+    slh5g_ba = slh5g;
+    slh5h_ba = slh5h;
+    slh5i_ba = slh5i;
+    slh5j_ba = slh5j;
+  end;
+
+  if vnum = 10 then do;
+    slh3_fu = slh3;
+    slh5a_fu = slh5a;
+    slh5b_fu = slh5b;
+    slh5c_fu = slh5c;
+    slh5d_fu = slh5d;
+    slh5e_fu = slh5e;
+    slh5f_fu = slh5f;
+    slh5g_fu = slh5g;
+    slh5h_fu = slh5h;
+    slh5i_fu = slh5i;
+  end;
+
   *recode values to missing;
   if bri10a_tr in (555,999) then bri10a_tr = .;
   if bri10b_tr in (555,999) then bri10b_tr = .;
@@ -243,6 +271,8 @@ data chat_latest;
         sesindex /* variable definition not available */
         sae /* variable definition not available */
         randomized /* all participants in dataset were randomized, variable has no value */
+        slh3 /* removed because variables were separated into slh3_ba and slh3_fu */
+        slh5a--slh5j /* removed because variables were separated into _ba and _fu versions */
         ;
 run;
 

@@ -2,6 +2,5 @@
   "id": "slh1b_21",
   "display_name": "What time has your child: Fallen asleep on the weekdays?",
   "description": "",
-  "type": "choices",
-  "domain":"ampm"
+  "type": "time"
 }

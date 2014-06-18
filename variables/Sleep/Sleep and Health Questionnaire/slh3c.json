@@ -3,5 +3,5 @@
   "display_name": "Approximately how many years has the snoring been this loud:",
   "description": "",
   "type": "choices",
-  "domain":"notsure"
+  "domain": "startsnoring"
 }
