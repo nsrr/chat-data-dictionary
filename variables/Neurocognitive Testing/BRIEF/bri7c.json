@@ -1,0 +1,10 @@
+{
+  "id": "bri7c",
+  "display_name": "Initiate percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

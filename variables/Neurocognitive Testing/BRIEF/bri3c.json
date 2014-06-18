@@ -1,0 +1,10 @@
+{
+  "id": "bri3c",
+  "display_name": "Inhibit percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

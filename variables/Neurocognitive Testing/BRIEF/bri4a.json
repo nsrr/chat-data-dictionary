@@ -1,0 +1,10 @@
+{
+  "id": "bri4a",
+  "display_name": "Shift raw score",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

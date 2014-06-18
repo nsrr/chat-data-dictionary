@@ -1,0 +1,10 @@
+{
+  "id": "bri12b",
+  "display_name": "MI T score",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

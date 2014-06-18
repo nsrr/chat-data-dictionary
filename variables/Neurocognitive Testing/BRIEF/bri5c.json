@@ -1,0 +1,10 @@
+{
+  "id": "bri5c",
+  "display_name": "Emotional Control percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

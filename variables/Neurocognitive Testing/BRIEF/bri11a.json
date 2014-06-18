@@ -1,0 +1,10 @@
+{
+  "id": "bri11a",
+  "display_name": "Monitor raw score",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

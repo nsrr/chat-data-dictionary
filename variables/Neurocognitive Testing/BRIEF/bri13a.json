@@ -1,0 +1,10 @@
+{
+  "id": "bri13a",
+  "display_name": "GEC (BRI + MI) raw score",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

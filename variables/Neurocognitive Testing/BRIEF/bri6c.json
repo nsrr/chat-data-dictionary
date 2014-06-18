@@ -1,0 +1,10 @@
+{
+  "id": "bri6c",
+  "display_name": "BRI percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

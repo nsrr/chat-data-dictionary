@@ -1,0 +1,10 @@
+{
+  "id": "bri4c",
+  "display_name": "Shift percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}

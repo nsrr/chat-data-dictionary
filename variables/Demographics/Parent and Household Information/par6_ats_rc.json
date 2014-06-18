@@ -1,9 +1,9 @@
 {
   "id": "par6_ats_rc",
-  "display_name": "Education level of the mother.",
+  "display_name": "Mother education greater than high school",
   "description": "ATS reclassed variable",
   "type": "choices",
-  "domain": "education_rc",
+  "domain": "noyes",
   "forms": [
     "chat_parentinfo_form"
   ]

@@ -1,0 +1,10 @@
+{
+  "id": "bri11c",
+  "display_name": "Monitor percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "forms": [
+    "chat_brief_form"
+  ]
+}
