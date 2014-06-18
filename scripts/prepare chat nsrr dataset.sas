@@ -235,6 +235,7 @@ data chat_latest;
         bp3a /* dubious worth, does not appear to have been cleaned */
         ant2 /* dubious worth */
         sesindex /* variable definition not available */
+        sae /* variable definition not available */
         ;
 run;
 
