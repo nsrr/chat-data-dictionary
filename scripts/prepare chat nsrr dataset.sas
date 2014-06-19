@@ -273,6 +273,7 @@ data chat_latest;
         randomized /* all participants in dataset were randomized, variable has no value */
         slh3 /* removed because variables were separated into slh3_ba and slh3_fu */
         slh5a--slh5j /* removed because variables were separated into _ba and _fu versions */
+        bmipct_cat /* variable definition not available */
         ;
 run;
 
