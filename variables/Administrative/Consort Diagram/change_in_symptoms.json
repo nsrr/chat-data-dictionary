@@ -1,7 +1,7 @@
 {
   "id": "change_in_symptoms",
-  "display_name": "Change in symtoms",
+  "display_name": "Change in symptoms",
   "description": "",
   "type": "choices",
-  "domain":"symptoms"
+  "domain": "symptoms"
 }
