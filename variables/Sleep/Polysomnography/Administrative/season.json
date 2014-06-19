@@ -1,6 +1,6 @@
 {
   "id": "season",
-  "display_name": "Aug-Nov vs. All the other",
+  "display_name": "Season for PSG: Aug-Nov vs. All the other",
   "description": "",
   "type": "choices",
   "domain": "seasons"

@@ -1,7 +1,7 @@
 {
   "id": "month",
-  "display_name": "",
+  "display_name": "Calendar month of PSG",
   "description": "",
-  "type": "date",
-  "units": ""
+  "type": "choices",
+  "units": "month"
 }
