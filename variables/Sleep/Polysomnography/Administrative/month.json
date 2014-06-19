@@ -3,5 +3,5 @@
   "display_name": "Calendar month of PSG",
   "description": "",
   "type": "choices",
-  "units": "month"
+  "domain": "month"
 }
