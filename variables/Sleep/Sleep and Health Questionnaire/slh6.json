@@ -1,7 +1,7 @@
 {
   "id": "slh6",
-  "display_name": "At what time of the day does your child function best?",
+  "display_name": "At what time of day does your child function best?",
   "description": "",
   "type": "choices",
-  "domain":"childfunction"
+  "domain": "childfunction"
 }
