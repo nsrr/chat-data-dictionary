@@ -1,6 +1,6 @@
 {
   "id": "waz",
-  "display_name": "Z score for weight-for-age",
+  "display_name": "Z-score for weight-for-age",
   "description": "",
   "type": "numeric",
   "units": "",

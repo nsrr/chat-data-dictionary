@@ -1,6 +1,6 @@
 {
   "id": "chg_ant3",
-  "display_name": "Change in height from baseline to month 7",
+  "display_name": "Height change between baseline and follow-up",
   "description": "",
   "type": "numeric",
   "units": "centimeters"

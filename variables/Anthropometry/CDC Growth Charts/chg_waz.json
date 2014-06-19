@@ -1,6 +1,6 @@
 {
   "id": "chg_waz",
-  "display_name": "Change from baseline to month 7",
+  "display_name": "Z-score for weight-for-age change between baseline and follow-up",
   "description": "",
   "type": "numeric",
   "units": ""

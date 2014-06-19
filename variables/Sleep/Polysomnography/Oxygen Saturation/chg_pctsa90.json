@@ -1,0 +1,7 @@
+{
+  "id": "chg_pctsa90",
+  "display_name": "Percentage of sleep time oxygen saturation is <= 90% change between baseline and follow-up",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}
