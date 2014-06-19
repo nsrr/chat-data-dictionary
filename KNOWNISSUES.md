@@ -8,3 +8,5 @@ These are known issues in the current version.
 - One occurrence found: **[bp42](https://sleepdata.org/datasets/chat/variables/bp42) value = 23 millimeters of mercury**
 - Multiple occurrences found: **Low values in [pe11](https://sleepdata.org/datasets/chat/variables/pe11)**
   - Readings in 98-99 range, yet variable unit is meant to be celsius.
+- Multiple occurrences found: **Low values in [chg_ant3](https://sleepdata.org/datasets/chat/variables/chg_ant3)**
+  - Readings below zero, indicating child was shorter at follow-up than at baseline.
