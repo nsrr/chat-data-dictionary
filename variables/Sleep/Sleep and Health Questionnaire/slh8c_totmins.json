@@ -3,5 +3,8 @@
   "display_name": "Total minutes bicycling",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

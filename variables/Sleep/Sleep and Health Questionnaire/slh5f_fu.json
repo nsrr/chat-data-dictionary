@@ -1,6 +1,6 @@
 {
   "id": "slh5f_fu",
-  "display_name": "Legs are jumpy or jerky",
+  "display_name": "Jumpy or jerky leg movements?",
   "description": "",
   "type": "choices",
   "domain": "alwaysornever",

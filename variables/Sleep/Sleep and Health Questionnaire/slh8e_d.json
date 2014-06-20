@@ -1,7 +1,10 @@
 {
   "id": "slh8e_d",
-  "display_name": "Swimming: Days per wk",
+  "display_name": "Swimming: Days per week",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

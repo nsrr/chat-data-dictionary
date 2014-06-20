@@ -4,5 +4,5 @@
   "description": "Non-supine RDI at all desaturations  [(total number of apneas and hypopneas in non-supine body position) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(hrop   + hnrop + carop + canop + oarop + oanop + marop + manrop)/(remepop+nremepop)"
+  "calculations": "60*(hrop + hnrop + carop + canop + oarop + oanop + marop + manrop)/(remepop+nremepop)"
 }

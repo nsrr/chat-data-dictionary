@@ -3,5 +3,8 @@
   "display_name": "Total minutes in gym class or PE, being active",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

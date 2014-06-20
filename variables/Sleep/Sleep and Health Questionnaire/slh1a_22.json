@@ -1,6 +1,6 @@
 {
   "id": "slh1a_22",
-  "display_name": "Time in bed on weekends?",
+  "display_name": "Time period child was in bed on weekends?",
   "description": "",
   "type": "choices",
   "domain": "ampm",

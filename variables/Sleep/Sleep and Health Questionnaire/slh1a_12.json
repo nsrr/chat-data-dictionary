@@ -1,6 +1,6 @@
 {
   "id": "slh1a_12",
-  "display_name": "Time in bed on weekdays?",
+  "display_name": "Time period child was in bed on weekdays?",
   "description": "",
   "type": "choices",
   "domain": "ampm",

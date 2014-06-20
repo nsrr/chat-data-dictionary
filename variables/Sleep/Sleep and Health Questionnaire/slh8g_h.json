@@ -3,5 +3,8 @@
   "display_name": "In gym class or PE, being active: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

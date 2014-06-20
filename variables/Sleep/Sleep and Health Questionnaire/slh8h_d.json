@@ -1,7 +1,10 @@
 {
   "id": "slh8h_d",
-  "display_name": "Other activity (specify): Days per wk",
+  "display_name": "Other activity (specify): Days per week",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Sports involving running or jumping: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

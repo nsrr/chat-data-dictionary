@@ -3,5 +3,8 @@
   "display_name": "Total minutes sports involving running or jumping",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

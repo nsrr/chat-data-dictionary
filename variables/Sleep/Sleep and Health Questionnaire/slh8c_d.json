@@ -1,7 +1,10 @@
 {
   "id": "slh8c_d",
-  "display_name": "Bicycling: Days per wk",
+  "display_name": "Bicycling: Days per week",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

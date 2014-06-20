@@ -1,7 +1,7 @@
 {
   "id": "slh5e_ba",
-  "display_name": "Difficulties with school work related to attention problems or sleepiness?",
-  "description": "",
+  "display_name": "Difficulties with school work?",
+  "description": "Related to attention problems or sleepiness",
   "type": "choices",
   "domain": "school",
   "forms": [

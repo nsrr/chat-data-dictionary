@@ -1,7 +1,7 @@
 {
   "id": "slh5f_ba",
-  "display_name": "Difficulties with school work related to behavior problems?",
-  "description": "",
+  "display_name": "Difficulties with school work?",
+  "description": "Related to behavior problems",
   "type": "choices",
   "domain": "school",
   "forms": [

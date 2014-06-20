@@ -1,7 +1,7 @@
 {
   "id": "slh8",
-  "display_name": "On average how many beverages containing caffeine (cola, coffee, tea, etc.) does your child drink per day?",
-  "description": "",
+  "display_name": "Number of caffeinate beverages per day?",
+  "description": "Such as cola, coffee, tea, etc.",
   "type": "choices",
   "domain": "drinksperday",
   "forms": [
