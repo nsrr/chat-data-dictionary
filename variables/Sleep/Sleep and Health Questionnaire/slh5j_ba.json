@@ -3,5 +3,8 @@
   "display_name": "Has your child been referred for special help in school?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

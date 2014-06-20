@@ -1,6 +1,9 @@
 {
   "id": "slh1c_11_h",
-  "display_name": "Time child woke up on the weekdays?(hour)",
+  "display_name": "Time child woke up on the weekdays?",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

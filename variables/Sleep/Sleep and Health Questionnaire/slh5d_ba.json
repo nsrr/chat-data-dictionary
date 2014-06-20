@@ -3,5 +3,8 @@
   "display_name": "Speech problems?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

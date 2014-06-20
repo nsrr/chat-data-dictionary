@@ -3,5 +3,8 @@
   "display_name": "Total minutes walking for exercise or to school",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

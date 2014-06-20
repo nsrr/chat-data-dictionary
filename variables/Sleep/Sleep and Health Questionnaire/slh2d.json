@@ -3,5 +3,8 @@
   "display_name": "Was your child's snoring so loud it disturbed others?",
   "description": "",
   "type": "choices",
-  "domain":"noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "slh1a_12",
-  "display_name": "What time on average has your child: Gone to bed on the weekdays?(hour)",
+  "display_name": "Time in bed on weekdays?",
   "description": "",
   "type": "choices",
-  "domain": "ampm"
+  "domain": "ampm",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

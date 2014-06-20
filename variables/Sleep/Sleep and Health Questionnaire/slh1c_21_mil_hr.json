@@ -1,6 +1,9 @@
 {
   "id": "slh1c_21_mil_hr",
-  "display_name": "Time child woke up weekdays?(military hour)",
+  "display_name": "Time child woke up weekdays?",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

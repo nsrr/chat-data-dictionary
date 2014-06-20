@@ -3,5 +3,8 @@
   "display_name": "Jogging or running: Days per wk",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

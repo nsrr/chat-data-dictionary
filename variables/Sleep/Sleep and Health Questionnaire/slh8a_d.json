@@ -3,5 +3,8 @@
   "display_name": "Walking for exercise or to school: Days per wk",
   "description": "",
   "type": "numeric",
-  "units": "days"
+  "units": "days",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

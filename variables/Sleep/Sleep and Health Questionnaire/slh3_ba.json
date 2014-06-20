@@ -3,5 +3,8 @@
   "display_name": "How old was your child when he / she first started snoring?",
   "description": "",
   "type": "choices",
-  "domain": "startsnoring"
+  "domain": "startsnoring",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

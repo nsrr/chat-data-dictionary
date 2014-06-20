@@ -2,5 +2,8 @@
   "id": "slh1c_21",
   "display_name": "What time has your child: Woken up on the weekdays?",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

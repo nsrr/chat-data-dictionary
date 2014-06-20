@@ -3,5 +3,8 @@
   "display_name": "Frequent ear infections?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

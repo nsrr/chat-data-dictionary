@@ -3,5 +3,8 @@
   "display_name": "On average how many beverages containing caffeine (cola, coffee, tea, etc.) does your child drink per day?",
   "description": "",
   "type": "choices",
-  "domain": "drinksperday"
+  "domain": "drinksperday",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

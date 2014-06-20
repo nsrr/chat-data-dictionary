@@ -3,5 +3,8 @@
   "display_name": "Difficulties with school work related to behavior problems?",
   "description": "",
   "type": "choices",
-  "domain":"school"
+  "domain": "school",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

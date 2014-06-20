@@ -3,5 +3,8 @@
   "display_name": "Has the snoring sounded:",
   "description": "",
   "type": "choices",
-  "domain":"snoringsound"
+  "domain": "snoringsound",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

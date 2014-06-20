@@ -1,6 +1,9 @@
 {
   "id": "slh1b_21_mil_hr",
-  "display_name": "time child fell asleep weekdays?(military hour)",
+  "display_name": "time child fell asleep weekdays?",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

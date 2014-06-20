@@ -3,5 +3,8 @@
   "display_name": "Approximately how many years has the snoring been this loud:",
   "description": "",
   "type": "choices",
-  "domain": "startsnoring"
+  "domain": "startsnoring",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Difficulties with school work related to attention problems or sleepiness?",
   "description": "",
   "type": "choices",
-  "domain":"school"
+  "domain": "school",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Restlessness",
   "description": "",
   "type": "choices",
-  "domain": "alwaysornever"
+  "domain": "alwaysornever",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

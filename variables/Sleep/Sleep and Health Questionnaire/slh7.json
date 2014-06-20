@@ -3,5 +3,8 @@
   "display_name": "At what time of day does your child function best?",
   "description": "",
   "type": "choices",
-  "domain": "childfunction"
+  "domain": "childfunction",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

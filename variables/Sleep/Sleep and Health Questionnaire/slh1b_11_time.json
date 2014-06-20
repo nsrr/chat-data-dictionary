@@ -2,5 +2,8 @@
   "id": "slh1b_11_time",
   "display_name": "Time child fell asleep weekday",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Has your child's snoring usually been:",
   "description": "",
   "type": "choices",
-  "domain":"snoring"
+  "domain": "snoring",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

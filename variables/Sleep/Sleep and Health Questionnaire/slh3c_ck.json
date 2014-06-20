@@ -2,5 +2,8 @@
   "id": "slh3c_ck",
   "display_name": "slh3c_ck",
   "description": "",
-  "type": "string"
+  "type": "notsure",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ]
 }
