@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "percent",
   "commonly_used": true,
-  "calculations": "tmstg1p"
+  "calculation": "tmstg1p"
 }

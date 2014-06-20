@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "percent",
   "commonly_used": true,
-  "calculations":"100*(slpprdp)/timebedp"
+  "calculation":"100*(slpprdp)/timebedp"
 }

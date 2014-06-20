@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "",
-  "calculations": "chol / hdl_mg_dl"
+  "calculation": "chol / hdl_mg_dl"
 }

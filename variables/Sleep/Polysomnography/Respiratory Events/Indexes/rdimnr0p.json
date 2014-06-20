@@ -4,5 +4,5 @@
   "description": "Non-REM RDI at all desaturations  [(total number of apneas and hypopneas in non-REM sleep) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(hnrbp + hnrop + canbp + canop + oanbp + oanop + manrbp + manrop) / (slpprdp - minremp)"
+  "calculation": "60*(hnrbp + hnrop + canbp + canop + oanbp + oanop + manrbp + manrop) / (slpprdp - minremp)"
 }

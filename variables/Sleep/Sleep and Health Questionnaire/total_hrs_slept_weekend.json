@@ -4,5 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
-  "calculations": "hour(SLH1C_21_time - SLH1B_21_time)"
+  "calculation": "hour(SLH1C_21_time - SLH1B_21_time)"
 }

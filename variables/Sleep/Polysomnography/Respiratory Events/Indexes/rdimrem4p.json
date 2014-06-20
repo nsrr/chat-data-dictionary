@@ -4,5 +4,5 @@
   "description": "REM RDI at 4% desaturation  [(total number of apneas and hypopneas in REM sleep associated with >= 4% desaturation) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(hrembp4 + hrop4 + carbp4 + carop4 + oarbp4 + oarop4 + marbp4 + marop4) / minremp"
+  "calculation": "60*(hrembp4 + hrop4 + carbp4 + carop4 + oarbp4 + oarop4 + marbp4 + marop4) / minremp"
 }

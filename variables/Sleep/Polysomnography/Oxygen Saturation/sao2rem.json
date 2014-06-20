@@ -4,6 +4,6 @@
   "description": "Average oxygen saturation in REM sleep  [mean(all oxygen saturation values in REM sleep)]. will be missing if study scored as sleep/wake only.",
   "type": "numeric",
   "units": "percent",
-  "calculations": "avsao2rh",
+  "calculation": "avsao2rh",
   "commonly_used": true
 }

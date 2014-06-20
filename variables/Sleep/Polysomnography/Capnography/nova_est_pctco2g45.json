@@ -4,6 +4,6 @@
   "description": "For BCI: nova_est_pctco2g45 = (rpctco2g45 * 0.64525) + 7.67373",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
-  "calculations": "(% total sleep time EtCO2 > 45 mmHg * 0.64525) + 7.67373",
+  "calculation": "(% total sleep time EtCO2 > 45 mmHg * 0.64525) + 7.67373",
   "commonly_used": true
 }

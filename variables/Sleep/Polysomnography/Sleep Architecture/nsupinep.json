@@ -4,6 +4,6 @@
   "description": "Percent of sleep time in non-supine body position  [100*(number of minutes of sleep in non-supine body position) / (total sleep time)]",
   "type": "numeric",
   "units": "minutes",
-  "calculations": "100*(remepop+nremepop)/slpprdp",
+  "calculation": "100*(remepop+nremepop)/slpprdp",
   "commonly_used": true
 }

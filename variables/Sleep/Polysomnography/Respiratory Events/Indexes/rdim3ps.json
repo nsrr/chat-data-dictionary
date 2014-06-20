@@ -4,6 +4,6 @@
   "description": "Supine RDI at 3% desaturation  [(total number of apneas and hypopneas in supine body position associated with >= 3% desaturation) / (hours of sleep)]. will be missing if no time supine or low position sensor quality.",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3 + marbp3 + manrbp3)/(remepbp+nremepbp)",
+  "calculation": "60*(hrembp3 + hnrbp3 + carbp3 + canbp3 + oarbp3 + oanbp3 + marbp3 + manrbp3)/(remepbp+nremepbp)",
   "commonly_used": true
 }

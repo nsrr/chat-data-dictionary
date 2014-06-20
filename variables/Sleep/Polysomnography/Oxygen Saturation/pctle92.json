@@ -4,6 +4,6 @@
   "description": "Percent of sleep time with oxygen saturation <= 92%  [100*(total number of minutes with oxygen saturation <= 92) / (total sleep time)].",
   "type": "numeric",
   "units": "percent",
-  "calculations": "pctsa92",
+  "calculation": "pctsa92",
   "commonly_used": true
 }

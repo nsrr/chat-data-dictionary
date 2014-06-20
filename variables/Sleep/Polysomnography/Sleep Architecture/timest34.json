@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "minutes",
   "commonly_used": true,
-  "calculations": "mnstg34p"
+  "calculation": "mnstg34p"
 }

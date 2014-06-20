@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true,
-  "calculations": "60*(arrembp + arremop +arnrembp +arnremop) / slpprdp"
+  "calculation": "60*(arrembp + arremop +arnrembp +arnremop) / slpprdp"
 }

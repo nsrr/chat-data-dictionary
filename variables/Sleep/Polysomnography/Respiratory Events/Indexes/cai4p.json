@@ -4,5 +4,5 @@
   "description": "Central apnea index at 4% desaturations  [(Total number of central apneas associated with >= 4% desaturations) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(carbp4 + carop4 + canbp4 + canop4 ) / slpprdp"
+  "calculation": "60*(carbp4 + carop4 + canbp4 + canop4 ) / slpprdp"
 }

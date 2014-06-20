@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true,
-  "calculations": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop) / slpprdp"
+  "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop) / slpprdp"
 }

@@ -5,5 +5,5 @@
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true,
-  "calculations": "60*(carbp +  carop  + canbp  + canop ) / slpprdp"
+  "calculation": "60*(carbp +  carop  + canbp  + canop ) / slpprdp"
 }

@@ -4,5 +4,5 @@
   "description": "Obstructive / mixed apnea index at 4% desaturations  [(total number of obstructive apneas associated with >= 4% desaturation+ total number of mixed apneas associated with >= 4% desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "calculations": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 + marbp4 + marop4 + manrbp4 + manrop4) / slpprdp"
+  "calculation": "60*(oarbp4 + oarop4 + oanbp4 + oanop4 + marbp4 + marop4 + manrbp4 + manrop4) / slpprdp"
 }
