@@ -3,5 +3,8 @@
   "display_name": "Non-dominant Hand Number of Pegs",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_pegs_form"
+  ]
 }

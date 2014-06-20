@@ -3,5 +3,8 @@
   "display_name": "Dominant Hand Hand",
   "description": "",
   "type": "choices",
-  "domain":"hand"
+  "domain": "hand",
+  "forms": [
+    "chat_pegs_form"
+  ]
 }
