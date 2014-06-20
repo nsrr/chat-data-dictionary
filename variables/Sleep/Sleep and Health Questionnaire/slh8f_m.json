@@ -3,5 +3,11 @@
   "display_name": "Jump rope: Minutes per day",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ],
+  "forms": [
+    "chat_sleepquestionnaire2_form"
+  ]
 }

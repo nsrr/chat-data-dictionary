@@ -6,5 +6,8 @@
   "domain": "snoringsound",
   "forms": [
     "chat_sleepquestionnaire_form"
+  ],
+  "forms": [
+    "chat_sleepquestionnaire2_form"
   ]
 }

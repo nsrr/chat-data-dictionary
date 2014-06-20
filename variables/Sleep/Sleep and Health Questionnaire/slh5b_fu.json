@@ -3,5 +3,11 @@
   "display_name": "Chest is wheezy or whistling",
   "description": "",
   "type": "choices",
-  "domain": "alwaysornever"
+  "domain": "alwaysornever",
+  "forms": [
+    "chat_sleepquestionnaire_form"
+  ],
+  "forms": [
+    "chat_sleepquestionnaire2_form"
+  ]
 }
