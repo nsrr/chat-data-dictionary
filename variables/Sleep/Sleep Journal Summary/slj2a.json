@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "",
   "forms": [
-    "chat_journal_form"
+    "chat_journal-summary_form"
   ]
 }
