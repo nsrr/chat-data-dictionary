@@ -1,7 +1,8 @@
 {
   "id": "totalpsq",
-  "display_name": "Total PSQ score algorithmm: 100*sum( PSL1A, PSL1B, PSL1C, PSL1D, PSL1E, PSL2, PSL3A, PSL3B,PSL3C, PSL4A, PSL4B, PSL5, PSL6, PSL7, PSL8, PSL9, PSL10A, PSL10B, PSL10C, PSL10D, PSL10E, PSL10F)/(22-nmiss)",
+  "display_name": "Total PSQ score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+   "calculations": "100*( PSL1A + PSL1B + PSL1C + PSL1D + PSL1E + PSL2 + PSL3A + PSL3B + PSL3C + PSL4A + PSL4B + PSL5 + PSL6 + PSL7 + PSL8 + PSL9 + PSL10A + PSL10B + PSL10C + PSL10D + PSL10E + PSL10F)/(22 - nmiss)"
 }

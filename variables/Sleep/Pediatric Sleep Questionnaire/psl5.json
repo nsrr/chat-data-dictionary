@@ -3,5 +3,8 @@
   "display_name": "Has a teacher commented child appears sleepy during the day?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow",
+  "form": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Snore more than half the time?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow",
+  "form": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

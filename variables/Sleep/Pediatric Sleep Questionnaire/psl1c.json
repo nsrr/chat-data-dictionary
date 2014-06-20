@@ -3,5 +3,8 @@
   "display_name": "Snore loudly?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow",
+  "form": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

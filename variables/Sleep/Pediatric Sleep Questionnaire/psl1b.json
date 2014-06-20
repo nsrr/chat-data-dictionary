@@ -3,5 +3,8 @@
   "display_name": "Always snore?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow",
+  "form": [
+    "chat_sleepquestionnaire_form"
+  ]
 }

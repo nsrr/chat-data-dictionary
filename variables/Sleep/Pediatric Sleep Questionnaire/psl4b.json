@@ -3,5 +3,8 @@
   "display_name": "Have a problem with sleepiness during the day?",
   "description": "",
   "type": "choices",
-  "domain":"noyesdontknow"
+  "domain": "noyesdontknow",
+  "form": [
+    "chat_sleepquestionnaire_form"
+  ]
 }
