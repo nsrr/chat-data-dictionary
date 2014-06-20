@@ -5,7 +5,6 @@
   "type": "numeric",
   "units": "",
   "labels": [
-    "waz_gain",
     "ant4_gain"
   ]
 }

@@ -3,8 +3,5 @@
   "display_name": "Waist hip ratio algorithm",
   "description": "Waist measurement / hip measurement",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "waisthipratio"
-  ]
+  "units": "centimeters"
 }

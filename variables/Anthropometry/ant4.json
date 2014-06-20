@@ -6,8 +6,5 @@
   "units": "kilograms",
   "forms": [
     "chat_anthropometry_form"
-  ],
-  "labels": [
-    "ant4"
   ]
 }

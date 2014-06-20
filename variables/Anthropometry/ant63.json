@@ -6,8 +6,5 @@
   "units": "centimeters",
   "forms": [
     "chat_anthropometry_form"
-  ],
-  "labels": [
-    "ant63"
   ]
 }
