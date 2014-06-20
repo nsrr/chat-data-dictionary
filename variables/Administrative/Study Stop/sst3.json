@@ -3,5 +3,8 @@
   "display_name": "What was the primary reason that the participant stopped?",
   "description": "",
   "type": "choices",
-  "domain":"participant"
+  "domain": "participant",
+  "forms": [
+    "chat_stop_form"
+  ]
 }

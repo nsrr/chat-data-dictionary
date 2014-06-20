@@ -3,5 +3,8 @@
   "display_name": "Did the participant complete the study, as per protocol?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_stop_form"
+  ]
 }
