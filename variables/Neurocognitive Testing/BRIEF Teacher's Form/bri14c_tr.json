@@ -3,7 +3,7 @@
   "display_name": "GEC percentile",
   "description": " GEC = BRI + MI ",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_brief__tr_form"
   ]

@@ -3,5 +3,5 @@
   "display_name": "Percentile for head circumference-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percentile"
 }

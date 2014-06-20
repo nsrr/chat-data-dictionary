@@ -3,7 +3,7 @@
   "display_name": "Percentile SNC",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percentile",
   "forms": [
     "chat_das2_form"
   ]

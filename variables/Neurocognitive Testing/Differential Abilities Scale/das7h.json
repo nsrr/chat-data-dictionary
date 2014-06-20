@@ -1,9 +1,9 @@
 {
   "id": "das7h",
-  "display_name": "Matrices Percentile",
+  "display_name": "Matrices percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_das2_form"
   ]

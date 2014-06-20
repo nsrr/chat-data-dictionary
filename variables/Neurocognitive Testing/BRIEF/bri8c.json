@@ -3,7 +3,7 @@
   "display_name": "Working Memory percentile",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percentile",
   "forms": [
     "chat_brief_form"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Word Definitions Percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_das2_form"
   ]

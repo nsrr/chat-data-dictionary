@@ -1,9 +1,9 @@
 {
   "id": "nep2a_nepsy2",
-  "display_name": "Inhibition Naming Total Errors Percentile Rank",
+  "display_name": "Inhibition naming total errors percentile rank",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_nepsy2_form"
   ]

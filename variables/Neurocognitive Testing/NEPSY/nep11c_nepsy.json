@@ -1,9 +1,9 @@
 {
   "id": "nep11c_nepsy",
-  "display_name": "Percentile Language Scaled Scores",
+  "display_name": "Percentile language scaled scores",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_nepsy_form"
   ]

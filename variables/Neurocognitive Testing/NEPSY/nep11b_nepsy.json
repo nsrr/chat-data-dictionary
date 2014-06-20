@@ -1,9 +1,9 @@
 {
   "id": "nep11b_nepsy",
-  "display_name": "Percentile Attn / Exec Scaled Scores",
+  "display_name": "Percentile attn / exec scaled scores",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percentile",
   "forms": [
     "chat_nepsy_form"
   ]

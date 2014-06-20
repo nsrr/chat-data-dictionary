@@ -3,7 +3,7 @@
   "display_name": "Attention problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percentile",
   "forms": [
     "chat_cbc_form"
   ]
