@@ -3,5 +3,8 @@
   "display_name": "Sleep diary weighted avg hrs",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_journal_form"
+  ]
 }

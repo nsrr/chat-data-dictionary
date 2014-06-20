@@ -3,5 +3,8 @@
   "display_name": "Avg hrs of sleep on the WEEKDAY",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_journal_form"
+  ]
 }

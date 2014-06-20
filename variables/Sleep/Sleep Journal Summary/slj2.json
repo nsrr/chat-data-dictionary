@@ -3,5 +3,8 @@
   "display_name": "Were the journals recorded for 5 days?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_journal_form"
+  ]
 }

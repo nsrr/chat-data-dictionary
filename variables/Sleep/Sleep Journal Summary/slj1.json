@@ -3,5 +3,8 @@
   "display_name": "Were the parent completed sleep journals returned?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_journal_form"
+  ]
 }
