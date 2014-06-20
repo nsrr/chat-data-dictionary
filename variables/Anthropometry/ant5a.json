@@ -3,7 +3,7 @@
   "display_name": "Child's BMI Z score",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "standard deviations from the mean",
   "forms": [
     "chat_anthropometry_form"
   ],

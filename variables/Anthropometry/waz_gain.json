@@ -1,10 +1,7 @@
 {
   "id": "waz_gain",
-  "display_name": "Z-score for weight-for-age velocity",
+  "display_name": "Z score for weight-for-age velocity",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "labels": [
-    "ant4_gain"
-  ]
+  "units": "standard deviations from the mean"
 }

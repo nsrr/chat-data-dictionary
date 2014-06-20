@@ -3,7 +3,7 @@
   "display_name": "Change in BMI Z score between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "standard deviations from the mean",
   "labels": [
     "bmiz_gain",
     "body mass index",

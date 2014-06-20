@@ -3,5 +3,5 @@
   "display_name": "Z score for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "standard deviations from the mean"
 }

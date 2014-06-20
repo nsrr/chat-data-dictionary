@@ -3,7 +3,7 @@
   "display_name": "Z score for body mass index-for-age",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "standard deviations from the mean",
   "labels": [
     "bmiz",
     "BMI",

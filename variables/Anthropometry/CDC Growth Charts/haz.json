@@ -3,5 +3,5 @@
   "display_name": "Z score for length-for-age or stature-for-age",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "standard deviations from the mean"
 }
