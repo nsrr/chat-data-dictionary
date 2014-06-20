@@ -3,5 +3,8 @@
   "display_name": "Standard Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_beery_form"
+  ]
 }
