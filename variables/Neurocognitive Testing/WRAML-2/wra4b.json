@@ -3,5 +3,8 @@
   "display_name": "Verbal Learning Recognition Scaled Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "forms": [
+    "chat_wraml_form"
+  ]
 }
