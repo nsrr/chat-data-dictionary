@@ -3,5 +3,8 @@
   "display_name": "Tonsilar Size",
   "description": "",
   "type": "choices",
-  "domain":"tonsilarsize"
+  "domain": "tonsilarsize",
+  "form": [
+    "chat_preop_form"
+  ]
 }

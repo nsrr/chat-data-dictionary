@@ -3,5 +3,8 @@
   "display_name": "Is the child a candidate for Adenotonsillectomy?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "form": [
+    "chat_preop_form"
+  ]
 }

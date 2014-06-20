@@ -3,5 +3,8 @@
   "display_name": "What was the pre-operation Tonsil size?",
   "description": "",
   "type": "choices",
-  "domain":"tonsilsize2"
+  "domain": "tonsilsize2",
+  "form": [
+    "chat_preop_form"
+  ]
 }
