@@ -3,5 +3,8 @@
   "display_name": "Child’s gender",
   "description": "",
   "type": "choices",
-  "domain":"sex"
+  "domain": "sex",
+  "forms": [
+    "chat_referral_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Child's race",
   "description": "",
   "type": "choices",
-  "domain": "childrace"
+  "domain": "childrace",
+  "forms": [
+    "chat_referral_form"
+  ]
 }

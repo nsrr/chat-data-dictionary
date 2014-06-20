@@ -3,5 +3,8 @@
   "display_name": "Recruitment source",
   "description": "",
   "type": "choices",
-  "domain": "recruitsource"
+  "domain": "recruitsource",
+  "forms": [
+    "chat_referral_form"
+  ]
 }

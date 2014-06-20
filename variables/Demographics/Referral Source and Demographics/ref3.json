@@ -3,5 +3,8 @@
   "display_name": "What is the screening PSG date?",
   "description": "",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_referral_form"
+  ]
 }
