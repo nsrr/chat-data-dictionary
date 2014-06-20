@@ -3,5 +3,8 @@
   "display_name": "Did this participant crossover?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_treatment-stop_form"
+  ]
 }

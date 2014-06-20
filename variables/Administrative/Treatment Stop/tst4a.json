@@ -3,5 +3,8 @@
   "display_name": "If yes, please indicate the primary reason",
   "description": "",
   "type": "choices",
-  "domain":"crossover"
+  "domain": "crossover",
+  "forms": [
+    "chat_treatment-stop_form"
+  ]
 }

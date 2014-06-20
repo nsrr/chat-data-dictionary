@@ -2,5 +2,8 @@
   "id": "tst2a",
   "display_name": "Other medical or neuropsychological necessitated reason, specify",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "forms": [
+    "chat_treatment-stop_form"
+  ]
 }

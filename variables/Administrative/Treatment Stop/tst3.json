@@ -3,5 +3,8 @@
   "display_name": "Has the Medical Monitor confirmed this to be a treatment failure?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_treatment-stop_form"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Will the participant be continuing with follow-up visits?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_treatment-stop_form"
+  ]
 }
