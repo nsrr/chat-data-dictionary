@@ -3,5 +3,8 @@
   "display_name": "Chance of Dozing or Falling Asleep: Sitting and reading. ",
   "description": "",
   "type": "choices",
-  "domain":"chance"
+  "domain":"chance",
+  "forms": [
+    "chat_epworth_form"
+  ]
 }
