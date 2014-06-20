@@ -3,5 +3,8 @@
   "display_name": "Date participant was unblinded",
   "description": "",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_unblind_form"
+  ]
 }

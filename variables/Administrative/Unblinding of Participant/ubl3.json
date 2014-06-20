@@ -3,5 +3,8 @@
   "display_name": "Why was the participant unblinded?",
   "description": "",
   "type": "choices",
-  "domain":"unblinded"
+  "domain": "unblinded",
+  "forms": [
+    "chat_unblind_form"
+  ]
 }

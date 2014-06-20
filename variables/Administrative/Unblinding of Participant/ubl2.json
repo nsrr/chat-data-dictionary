@@ -3,5 +3,8 @@
   "display_name": "What was the participant's randomization arm?",
   "description": "",
   "type": "choices",
-  "domain":"randomizationarm"
+  "domain": "randomizationarm",
+  "forms": [
+    "chat_unblind_form"
+  ]
 }
