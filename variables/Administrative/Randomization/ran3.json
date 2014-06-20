@@ -3,5 +3,8 @@
   "display_name": "Has the participant had an overnight PSG evaluation, and is within the protocol defined limits?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_random_form"
+  ]
 }

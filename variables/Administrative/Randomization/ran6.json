@@ -3,5 +3,8 @@
   "display_name": "Date of randomization",
   "description": "The original date has been removed as part of deidentification.",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_random_form"
+  ]
 }

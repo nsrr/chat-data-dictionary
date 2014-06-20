@@ -3,5 +3,8 @@
   "display_name": "Date the parent signed the consent form",
   "description": "",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_random_form"
+  ]
 }

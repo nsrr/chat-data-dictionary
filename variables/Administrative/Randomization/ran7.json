@@ -3,5 +3,8 @@
   "display_name": "Randomization Code assigned by DMS",
   "description": "",
   "type": "choices",
-  "domain":"code"
+  "domain": "code",
+  "forms": [
+    "chat_random_form"
+  ]
 }

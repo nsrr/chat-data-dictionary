@@ -3,5 +3,8 @@
   "display_name": "Has the participant met all eligibility criteria and signed the consent form; and has the principle investigator reviewed and certified the individual as being eligible?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_random_form"
+  ]
 }
