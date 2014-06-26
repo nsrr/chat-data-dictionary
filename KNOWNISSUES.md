@@ -18,3 +18,5 @@ These are known issues in the current version.
   -Some readings indicate that average sleep time was 17-23 hours per day
 -Multiple occurrences found: **High values in [avg_hrs_slpt](https://sleepdata.org/datasets/chat/variables/avg_hrs_slpt)**
   -Some readings indicate that average sleep time was 15-22
+- Multiple occurrences found: **Negative values in [ran5](https://sleepdata.org/datasets/chat/variables/ran5)**
+  - Some readings indicate that date was negative seconds
