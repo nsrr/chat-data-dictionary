@@ -29,3 +29,5 @@ These are known issues in the current version.
   - Two participants indicate that height velocity was negative
 - Multiple occurrences found: **Low values in [bp12](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp12)
   - Some diastolic blood pressure readings were below 40 mmHg
+- Multiple occurrences found: **Low values in [bp22](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp22)
+  - Some diastolic blood pressure readings were below 40 mmHg
