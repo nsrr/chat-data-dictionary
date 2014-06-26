@@ -28,3 +28,5 @@ These are known issues in the current version.
   - All readings indicate date in the unit of seconds
 - Multiple occurrences found: **High values in [ubl_pidate](https://sleepdata.org/datasets/chat/variables/ubl_pidate)**
   - All readings indicate date in the unit of seconds
+- Multiple occurrences found: **High values in [ant1](https://sleepdata.org/datasets/chat/variables/ant1)**
+  - All readings indicate date in the unit of seconds
