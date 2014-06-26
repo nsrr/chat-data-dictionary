@@ -24,3 +24,4 @@ These are known issues in the current version.
   - All readings indicate date in the unit of seconds
 - Multiple occurrences found: **High values in [tst1](https://sleepdata.org/datasets/chat/variables/tst1)**
   - All readings indicate date in the unit of seconds
+
