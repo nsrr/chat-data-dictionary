@@ -1,7 +1,7 @@
 {
   "id": "eli5",
   "display_name": "Has the participant had recurrent tonsillitis that meets published ENT clinical practice guidelines for surgery?",
-  "description": "Defined as; great than or equal to 3 episodes a year for 3 years, 5 episodes a year for 2 years or 7 episodes in 1 year.",
+  "description": "Defined as; greater than or equal to 3 episodes a year for 3 years, 5 episodes a year for 2 years or 7 episodes in 1 year.",
   "type": "choices",
   "domain":"noyes",
   "forms": [
