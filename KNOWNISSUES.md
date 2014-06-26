@@ -31,6 +31,6 @@ These are known issues in the current version.
 - Multiple occurrences found: **High values in [ant1](https://sleepdata.org/datasets/chat/variables/ant1)**
   - All readings indicate date in the unit of seconds
 - Multiple occurrences found: **Negative values in [ant3_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_change)**
-  - Some readings indicate that change in height was negative
+  - Two participants indicate that change in height was negative
 - Multiple occurrences found: **Negative values in [ant3_gain](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_gain)**
-  - Some readings indicate that height velocity was negative
+  - Two participants indicate that height velocity was negative
