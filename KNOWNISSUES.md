@@ -22,3 +22,5 @@ These are known issues in the current version.
   - Some readings indicate that date was negative seconds
 - Multiple occurrences found: **High values in [sst2](https://sleepdata.org/datasets/chat/variables/sst2)**
   - All readings indicate date in the unit of seconds
+- Multiple occurrences found: **High values in [tst1](https://sleepdata.org/datasets/chat/variables/tst1)**
+  - All readings indicate date in the unit of seconds
