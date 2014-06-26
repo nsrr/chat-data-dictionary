@@ -18,8 +18,6 @@ These are known issues in the current version.
   -Some readings indicate that average sleep time was 17-23 hours per day
 -Multiple occurrences found: **High values in [avg_hrs_slpt](https://sleepdata.org/datasets/chat/variables/avg_hrs_slpt)**
   -Some readings indicate that average sleep time was 15-22
-- Multiple occurrences found: **Negative values in [ran5](https://sleepdata.org/datasets/chat/variables/ran5)**
-  - Some readings indicate that date was negative seconds
 - Multiple occurrences found: **Negative values in [ant3_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_change)**
   - Two participants indicate that change in height was negative
 - Multiple occurrences found: **Negative values in [ant3_gain](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_gain)**
