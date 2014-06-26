@@ -1,6 +1,6 @@
 {
   "id": "eli3",
-  "display_name": "Does the participant have tonsillar hypertrophy great than or equal to two based on the standardized 0-4 scale?",
+  "display_name": "Does the participant have tonsillar hypertrophy greater than or equal to two based on the standardized 0-4 scale?",
   "description": "Standardized 0-4 scale: 0= Surgically absent, 1= Taking up < 25% of the airway, 2= 25-50% of the airway, 3=50-75% of the airway, 4= >75% of the airway.",
   "type": "choices",
   "domain":"noyes",
