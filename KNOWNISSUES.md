@@ -37,3 +37,5 @@ These are known issues in the current version.
 - One occurrence found: **Duplicate variables [ant3_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_change)[chg_ant3](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant3)**
 - One occurrence found: ** Duplicate variables [chg_ant4](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant4)[ant4_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant4_change)**
 - One occurrence found: **Duplicate variables [chg_bmi](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_bmi)[bmi_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bmi_change)**
+- Multiple occurrences found: **Negative values in [chg_ant3](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant3)**
+  - Two participants indicate that change in height was negative
