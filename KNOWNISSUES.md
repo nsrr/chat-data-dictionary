@@ -27,3 +27,5 @@ These are known issues in the current version.
 - One occurrence found: **Duplicate variables [chg_bmi](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_bmi)[bmi_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bmi_change)**
 - Multiple occurrences found: **Negative values in [haz_gain](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/haz_gain)**
   - Two participants indicate that height velocity was negative
+- Multiple occurrences found: **Low values in [bp12](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp12)
+  - Some diastolic blood pressure readings were below 40 mmHg
