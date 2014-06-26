@@ -12,24 +12,24 @@ These are known issues in the current version.
   - Readings in 98-99 range, yet variable unit is meant to be celsius.
 - Multiple occurrences found: **Low values in [chg_ant3](https://sleepdata.org/datasets/chat/variables/chg_ant3)**
   - Readings below zero, indicating child was shorter at follow-up than at baseline.
--Multiple occurrences found: **High values in [avg_hrs_slp_wd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wd)**
-  -Some readings indicate that average sleep time was 17-22 hours per day
--Multiple occurrences found: **High values in [avg_hrs_slp_wknd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wknd)**
-  -Some readings indicate that average sleep time was 17-23 hours per day
--Multiple occurrences found: **High values in [avg_hrs_slpt](https://sleepdata.org/datasets/chat/variables/avg_hrs_slpt)**
-  -Some readings indicate that average sleep time was 15-22
+- Multiple occurrences found: **High values in [avg_hrs_slp_wd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wd)**
+  - Some readings indicate that average sleep time was 17-22 hours per day
+- Multiple occurrences found: **High values in [avg_hrs_slp_wknd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wknd)**
+  - Some readings indicate that average sleep time was 17-23 hours per day
+- Multiple occurrences found: **High values in [avg_hrs_slpt](https://sleepdata.org/datasets/chat/variables/avg_hrs_slpt)**
+  - Some readings indicate that average sleep time was 15-22
 - Multiple occurrences found: **Negative values in [ant3_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_change)**
   - Two participants indicate that change in height was negative
 - Multiple occurrences found: **Negative values in [ant3_gain](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_gain)**
   - Two participants indicate that height velocity was negative
 - One occurrence found: **Duplicate variables [ant3_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant3_change)[chg_ant3](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant3)**
-- One occurrence found: ** Duplicate variables [chg_ant4](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant4)[ant4_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant4_change)**
+- One occurrence found: **Duplicate variables [chg_ant4](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_ant4)[ant4_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/ant4_change)**
 - One occurrence found: **Duplicate variables [chg_bmi](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/chg_bmi)[bmi_change](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bmi_change)**
 - Multiple occurrences found: **Negative values in [haz_gain](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/haz_gain)**
   - Two participants indicate that height velocity was negative
-- Multiple occurrences found: **Low values in [bp12](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp12)
+- Multiple occurrences found: **Low values in [bp12](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp12)**
   - Some diastolic blood pressure readings were below 40 mmHg
-- Multiple occurrences found: **Low values in [bp22](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp22)
+- Multiple occurrences found: **Low values in [bp22](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp22)**
   - Some diastolic blood pressure readings were below 40 mmHg
-- Multiple occurrences found: **Low values in [bp32](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp32)
+- Multiple occurrences found: **Low values in [bp32](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp32)**
   - Some diastolic blood pressure readings were below 40 mmHg
