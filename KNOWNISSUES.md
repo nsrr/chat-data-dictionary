@@ -28,3 +28,5 @@ These are known issues in the current version.
   - Some diastolic blood pressure readings were below 40 mmHg
 - Multiple occurrences found: **Low values in [bp32](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bp32)**
   - Some diastolic blood pressure readings were below 40 mmHg
+- Multiple occurrences found: **High values in [fam9](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/fam9)**
+  - Some height measurement were greater than 7 feet
