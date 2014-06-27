@@ -1,6 +1,6 @@
 {
   "id": "chi5a",
-  "display_name": "Reason child is not attending school.",
+  "display_name": "Reason child is not attending school",
   "description": "",
   "type": "choices",
   "domain": "schooling",
