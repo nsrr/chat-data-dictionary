@@ -277,6 +277,10 @@ data chat_latest;
         slh5a--slh5j /* removed because variables were separated into _ba and _fu versions */
         bmipct_cat /* variable definition not available */
         agec /* variable definition not available */
+        chg_ant3 /* duplicate variable of ant3_change */
+        chg_ant4 /* duplicate variable of ant4_change */
+        chg_bmi /* duplicate variable of bmi_change */
+        chg_bmiz /* duplicate variable of bmiz_change */
         ;
 run;
 

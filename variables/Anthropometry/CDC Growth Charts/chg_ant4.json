@@ -1,7 +1,0 @@
-{
-  "id": "chg_ant4",
-  "display_name": "Weight change between baseline and follow-up",
-  "description": "",
-  "type": "numeric",
-  "units": "kilograms"
-}
