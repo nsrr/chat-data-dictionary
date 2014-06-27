@@ -34,3 +34,5 @@ These are known issues in the current version.
   - Some height measurements were greater than 84 inches
 - Multiple occurrences found: **High values in [pe21](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/pe21)**
   - Readings in 93-99 range, yet variable unit is meant to be in Celsius
+- Multiple occurrences found: **Low values in [bpmmin](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bpmmin)**
+  - Some heart rate readings were below 20 beats per minute
