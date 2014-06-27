@@ -1,6 +1,6 @@
 {
   "id": "sls3",
-  "display_name": "Chance of Dozing or Falling Asleep: Sitting inactive in a public place(ergo: a classroom or a movie theater).",
+  "display_name": "Chance of Dozing or Falling Asleep: Sitting inactive in a public place (e.g. a classroom or a movie theater)",
   "description": "",
   "type": "choices",
   "domain": "chance",

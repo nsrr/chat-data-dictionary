@@ -1,6 +1,6 @@
 {
   "id": "sls9",
-  "display_name": "Chance of Dozing or Falling Asleep: Doing homework or taking a test.",
+  "display_name": "Chance of Dozing or Falling Asleep: Doing homework or taking a test",
   "description": "",
   "type": "choices",
   "domain": "chance",

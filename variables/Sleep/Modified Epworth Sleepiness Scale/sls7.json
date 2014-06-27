@@ -1,6 +1,6 @@
 {
   "id": "sls7",
-  "display_name": "Chance of Dozing or Falling Asleep: Sitting quietly after lunch.",
+  "display_name": "Chance of Dozing or Falling Asleep: Sitting quietly after lunch",
   "description": "",
   "type": "choices",
   "domain": "chance",

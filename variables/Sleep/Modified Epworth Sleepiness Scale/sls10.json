@@ -1,6 +1,6 @@
 {
   "id": "sls10",
-  "display_name": "Chance of Dozing or Falling Asleep: Playing a video game.",
+  "display_name": "Chance of Dozing or Falling Asleep: Playing a video game",
   "description": "",
   "type": "choices",
   "domain": "chance",
