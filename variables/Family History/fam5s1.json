@@ -1,7 +1,7 @@
 {
   "id": "fam5s1",
   "display_name": "Any siblings who have headaches?",
-  "description": "Either migraines or chronic severe headache",
+  "description": "Either migraines or chronic severe headaches",
   "type": "choices",
   "domain": "noyesnotsure",
   "forms": [
