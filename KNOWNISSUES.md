@@ -38,3 +38,5 @@ These are known issues in the current version.
   - Some heart rate readings were below 20 beats per minute
 - Multiple occurrences found: **Low values in [dmnbnbh](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/dmnbnbh)**
   - Some heart rate readings were below 20 beats per minute
+- Multiple occurrences found: **Low values in [dmnbrbh](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/dmnbrbh)**
+  - Some heart rate readings were below 20 beats per minute
