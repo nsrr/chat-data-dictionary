@@ -36,3 +36,5 @@ These are known issues in the current version.
   - Readings in 93-99 range, yet variable unit is meant to be in Celsius
 - Multiple occurrences found: **Low values in [bpmmin](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bpmmin)**
   - Some heart rate readings were below 20 beats per minute
+- Multiple occurrences found: **Low values in [dmnbnbh](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/dmnbnbh)**
+  - Some heart rate readings were below 20 beats per minute
