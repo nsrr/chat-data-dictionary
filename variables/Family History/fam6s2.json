@@ -1,6 +1,6 @@
 {
   "id": "fam6s2",
-  "display_name": "Biological mother have emphysema or CCOPD",
+  "display_name": "Biological mother have emphysema or COPD",
   "description": "COPD also known as chronic obstructive pulmonary disease",
   "type": "choices",
   "domain": "noyes",
