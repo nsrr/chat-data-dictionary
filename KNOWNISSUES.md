@@ -51,3 +51,5 @@ These are known issues in the current version.
 - One occurrence found: **[ant73](https://sleepdata.org/datasets/chat/variables/ant73) value = 0 centimeters**
 - One occurrence found: **[ant82](https://sleepdata.org/datasets/chat/variables/ant82) value = 0 centimeters**
 - One occurrence found: **[ant83](https://sleepdata.org/datasets/chat/variables/ant83) value = 0 centimeters**
+- Multiple occurrences found: **Low values in [bp31](https://sleepdata.org/datasets/chat/variables/bp31)**
+    - Two participant's systolic blood pressures were below 10 mmHg
