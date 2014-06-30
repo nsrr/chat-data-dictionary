@@ -54,3 +54,4 @@ These are known issues in the current version.
 - Multiple occurrences found: **Low values in [bp31](https://sleepdata.org/datasets/chat/variables/bp31)**
     - Two participant's systolic blood pressures were below 10 mmHg
 - One occurrence found: **[fam10](https://sleepdata.org/datasets/chat/variables/fam10) value = 0 pounds**
+- One occurrence found: **[fam10_tot_oz](https://sleepdata.org/datasets/chat/variables/fam10_tot_oz) value = 0 ounces**
