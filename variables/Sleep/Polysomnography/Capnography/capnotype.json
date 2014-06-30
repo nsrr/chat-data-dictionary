@@ -1,7 +1,7 @@
 {
   "id": "capnotype",
   "display_name": "Capnograph type",
-  "description": "1 = Novametrix, 2 = , 3 = EDF Issue, 4 = Unknown, 5 = Both collected/Novametrix scored, 6=Both collected/BCI scored",
+  "description": "",
   "type": "choices",
   "domain": "capnographtype",
   "commonly_used": true
