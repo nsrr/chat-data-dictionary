@@ -34,6 +34,7 @@ These are known issues in the current version.
 - One occurrence found: **[fam9](https://sleepdata.org/datasets/chat/variables/fam9) value = 0 feet**
 - Multiple occurrences found: **High values in [fam9_tot_inches](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/fam9_tot_inches)**
   - Some height measurements were greater than 84 inches
+- One occurrence found: **[fam9_tot_inches](https://sleepdata.org/datasets/chat/variables/fam9_tot_inches) value = 0 inches**
 - Multiple occurrences found: **High values in [pe21](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/pe21)**
   - Readings in 93-99 range, yet variable unit is meant to be in Celsius
 - Multiple occurrences found: **Low values in [bpmmin](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/bpmmin)**
