@@ -46,3 +46,4 @@ These are known issues in the current version.
     - Two participant's neck measurements were below 4 centimeters
 - Multiple occurrences found: **Low values in [ant63](https://sleepdata.org/datasets/chat/variables/ant63)**
     - Two participant's neck measurements were below 4 centimeters
+- One occurrence found: **[ant72](https://sleepdata.org/datasets/chat/variables/ant72) value = 0 centimeters**
