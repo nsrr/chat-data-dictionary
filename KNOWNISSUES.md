@@ -7,6 +7,7 @@ These are known issues in the current version.
 - One occurrence found: **[bp41](https://sleepdata.org/datasets/chat/variables/bp41) value = 35 millimeters of mercury**
 - One occurrence found: **[bp42](https://sleepdata.org/datasets/chat/variables/bp42) value = 23 millimeters of mercury**
 - One occurrence found: **[bp11](https://sleepdata.org/datasets/chat/variables/bp11) value = 60 millimeters of mercury**
+- One occurrence found: **[bp21](https://sleepdata.org/datasets/chat/variables/bp21) value = 0 mmHg**
 - One occurrence found: **[bp21](https://sleepdata.org/datasets/chat/variables/bp21) value = 50 millimeters of mercury**
 - Multiple occurrences found: **High values in [pe11](https://sleepdata.org/datasets/chat/variables/pe11)**
   - Readings in 98-99 range, yet variable unit is meant to be celsius.
