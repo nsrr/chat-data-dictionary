@@ -44,3 +44,5 @@ These are known issues in the current version.
   - Some heart rate readings were below 20 beats per minute
 - Multiple occurrences found: **Low values in [ant62](https://sleepdata.org/datasets/chat/variables/ant62)**
     - Two participant's neck measurements were below 4 centimeters
+- Multiple occurrences found: **Low values in [ant63](https://sleepdata.org/datasets/chat/variables/ant63)**
+    - Two participant's neck measurements were below 4 centimeters
