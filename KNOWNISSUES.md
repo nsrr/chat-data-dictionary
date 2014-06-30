@@ -49,3 +49,4 @@ These are known issues in the current version.
 - One occurrence found: **[ant72](https://sleepdata.org/datasets/chat/variables/ant72) value = 0 centimeters**
 - One occurrence found: **[ant73](https://sleepdata.org/datasets/chat/variables/ant73) value = 0 centimeters**
 - One occurrence found: **[ant82](https://sleepdata.org/datasets/chat/variables/ant82) value = 0 centimeters**
+- One occurrence found: **[ant83](https://sleepdata.org/datasets/chat/variables/ant83) value = 0 centimeters**
