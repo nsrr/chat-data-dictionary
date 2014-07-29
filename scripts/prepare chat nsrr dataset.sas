@@ -23,6 +23,9 @@ data chat_latest;
   length obf_pptid 8.;
   set chatb.redacted_chat_20140501;
 
+  *remove subjects from censored site;
+  if clusterid = 95 then delete;
+
   *create obfuscated ID for filenaming conventions;
   obf_pptid = new_pid + 300000;
 
