@@ -1,8 +1,9 @@
 ## 0.2.0
 
 ### Changes
-
-
+- Removed small set of subjects from dataset due to data being censored by CHAT investigators
+- Clarified key variables like `male` and `ageyear_bin` with Data Coordinating Center
+- Improved display names, descriptions, and labels for many variables
 
 ## 0.1.0 (July 1, 2014)
 
