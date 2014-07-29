@@ -6,5 +6,6 @@
   "units": "years",
   "forms": [
     "chat_sleepquestionnaire_form"
-  ]
+  ],
+  "commonly_used": true
 }

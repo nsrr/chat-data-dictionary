@@ -11,5 +11,6 @@
     "body mass index",
     "weight",
     "quetelet index"
-  ]
+  ],
+  "commonly_used": true
 }

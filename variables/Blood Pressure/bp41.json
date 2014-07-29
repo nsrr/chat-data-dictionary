@@ -8,7 +8,7 @@
     "chat_bp_form"
   ],
   "labels": [
-    "BP",
-    "Hypertension"
-  ]
+    "hypertension"
+  ],
+  "commonly_used": true
 }

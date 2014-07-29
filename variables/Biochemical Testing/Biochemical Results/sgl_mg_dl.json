@@ -3,5 +3,6 @@
   "display_name": "Serum glucose levels",
   "description": "",
   "type": "numeric",
-  "units": "milligrams per deciliter"
+  "units": "milligrams per deciliter",
+  "commonly_used": true
 }

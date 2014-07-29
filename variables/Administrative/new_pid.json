@@ -2,5 +2,6 @@
   "id": "new_pid",
   "display_name": "Participant ID",
   "description": "",
-  "type": "identifier"
+  "type": "identifier",
+  "commonly_used": true
 }

@@ -3,5 +3,6 @@
   "display_name": "Blood glucose levels",
   "description": "",
   "type": "numeric",
-  "units": "millimoles per litre"
+  "units": "millimoles per litre",
+  "commonly_used": true
 }

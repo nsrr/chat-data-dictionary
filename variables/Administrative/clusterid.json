@@ -3,5 +3,6 @@
   "display_name": "Disguised site cluster id for longitudinal models",
   "description": "",
   "type": "choices",
-  "domain": "cluster"
+  "domain": "cluster",
+  "commonly_used": true
 }

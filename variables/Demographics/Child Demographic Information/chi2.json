@@ -6,5 +6,6 @@
   "domain": "sex",
   "forms": [
     "chat_cdi_form"
-  ]
+  ],
+  "commonly_used": true
 }

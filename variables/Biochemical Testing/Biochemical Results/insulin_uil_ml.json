@@ -3,5 +3,6 @@
   "display_name": "Blood insulin levels",
   "description": "",
   "type": "numeric",
-  "units": "international units per milliliter"
+  "units": "international units per milliliter",
+  "commonly_used": true
 }
