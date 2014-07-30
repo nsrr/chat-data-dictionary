@@ -285,6 +285,7 @@ data chat_latest;
         chg_ant4 /* duplicate variable of ant4_change */
         chg_bmi /* duplicate variable of bmi_change */
         chg_bmiz /* duplicate variable of bmiz_change */
+        mat2a /* dubious worth, process variables */
         ;
 run;
 
