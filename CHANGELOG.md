@@ -5,6 +5,10 @@
 - Clarified key variables like `male` and `ageyear_bin` with Data Coordinating Center
 - Improved display names, descriptions, and labels for many variables
 - Set commonly used flag to true for many variables
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.2.0.beta1\`
+    - `chat-baseline-dataset-0.2.0.beta1.csv`
+    - `chat-followup-dataset-0.2.0.beta1.csv`
 
 ## 0.1.0 (July 1, 2014)
 
