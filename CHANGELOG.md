@@ -9,6 +9,8 @@
   - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.2.0.beta1\`
     - `chat-baseline-dataset-0.2.0.beta1.csv`
     - `chat-followup-dataset-0.2.0.beta1.csv`
+- **Gem Changes**
+  - Updated to spout 0.9.0.beta1
 
 ## 0.1.0 (July 1, 2014)
 
