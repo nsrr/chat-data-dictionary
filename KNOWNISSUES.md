@@ -2,15 +2,8 @@
 
 These are known issues in the current version.
 
-- One occurrence found: **[ant4](https://sleepdata.org/datasets/chat/variables/ant4) value = 209 kilograms**
-- One occurrence found: **[ant5](https://sleepdata.org/datasets/chat/variables/ant5) value = 121.79 kilograms per meter squared**
-- One occurrence found: **[bp41](https://sleepdata.org/datasets/chat/variables/bp41) value = 35 millimeters of mercury**
-- One occurrence found: **[bp42](https://sleepdata.org/datasets/chat/variables/bp42) value = 23 millimeters of mercury**
 - One occurrence found: **[bp11](https://sleepdata.org/datasets/chat/variables/bp11) value = 60 millimeters of mercury**
-- One occurrence found: **[bp21](https://sleepdata.org/datasets/chat/variables/bp21) value = 0 mmHg**
 - One occurrence found: **[bp21](https://sleepdata.org/datasets/chat/variables/bp21) value = 50 millimeters of mercury**
-- Multiple occurrences found: **High values in [pe11](https://sleepdata.org/datasets/chat/variables/pe11)**
-  - Readings in 98-99 range, yet variable unit is meant to be celsius.
 - Multiple occurrences found: **High values in [avg_hrs_slp_wd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wd)**
   - Some readings indicate that average sleep time was 17-22 hours per day
 - Multiple occurrences found: **High values in [avg_hrs_slp_wknd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wknd)**
@@ -45,16 +38,6 @@ These are known issues in the current version.
   - Some heart rate readings were below 20 beats per minute
 - Multiple occurrences found: **Low values in [hmnbnbh](https://sleepepi.partners.org/edge/sleepdata/datasets/chat/variables/hmnbnbh)**
   - Some heart rate readings were below 20 beats per minute
-- Multiple occurrences found: **Low values in [ant62](https://sleepdata.org/datasets/chat/variables/ant62)**
-    - Two participant's neck measurements were below 4 centimeters
-- Multiple occurrences found: **Low values in [ant63](https://sleepdata.org/datasets/chat/variables/ant63)**
-    - Two participant's neck measurements were below 4 centimeters
-- One occurrence found: **[ant72](https://sleepdata.org/datasets/chat/variables/ant72) value = 0 centimeters**
-- One occurrence found: **[ant73](https://sleepdata.org/datasets/chat/variables/ant73) value = 0 centimeters**
-- One occurrence found: **[ant82](https://sleepdata.org/datasets/chat/variables/ant82) value = 0 centimeters**
-- One occurrence found: **[ant83](https://sleepdata.org/datasets/chat/variables/ant83) value = 0 centimeters**
-- Multiple occurrences found: **Low values in [bp31](https://sleepdata.org/datasets/chat/variables/bp31)**
-    - Two participant's systolic blood pressures were below 10 mmHg
 - One occurrence found: **[fam10](https://sleepdata.org/datasets/chat/variables/fam10) value = 0 pounds**
 - One occurrence found: **[fam10_tot_oz](https://sleepdata.org/datasets/chat/variables/fam10_tot_oz) value = 0 ounces**
 - One occurrence found: **[med5](https://sleepdata.org/datasets/chat/variables/med5) value = 999 pounds**
