@@ -3,6 +3,5 @@
   "display_name": "Number of apnea events with >= 3% desaturation",
   "description": "Number of apnea events with >= 3% desaturation",
   "type": "numeric",
-  "units": "events",
-  "commonly_used": true
+  "units": "events"
 }

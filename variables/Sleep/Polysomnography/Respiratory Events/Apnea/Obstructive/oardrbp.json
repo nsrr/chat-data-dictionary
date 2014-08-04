@@ -3,6 +3,5 @@
   "display_name": "Obstructive apnea per hour (REM, Back, all desaturations)",
   "description": "Number of obstructive apnea per hour of REM sleep with supine body position",
   "type": "numeric",
-  "units": "events per hour",
-  "commonly_used": true
+  "units": "events per hour"
 }

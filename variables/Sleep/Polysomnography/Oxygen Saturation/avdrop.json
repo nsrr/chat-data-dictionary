@@ -3,6 +3,5 @@
   "display_name": "Average desaturation (REM, Other, all desaturations)",
   "description": "Average respiratory related desaturation during REM sleep with non-supine body position",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "commonly_used": true
+  "units": "percentage of oxygen saturation"
 }
