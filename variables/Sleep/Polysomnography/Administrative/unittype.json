@@ -1,0 +1,8 @@
+{
+  "id": "unittype",
+  "display_name": "PSG Unit type",
+  "description": "",
+  "type": "choices",
+  "domain": "unittype",
+  "commonly_used": true
+}

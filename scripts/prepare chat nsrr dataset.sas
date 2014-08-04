@@ -289,10 +289,20 @@ data chat_latest;
         ;
 run;
 
+*sort dataset by pptid and vnum;
+proc sort data=chat_latest;
+  by obf_pptid vnum;
+run;
+
+*merge latest dataset with unit data processed separately;
+data chat_latest_withunit;
+  merge chat_latest chatb.chat_unittype;
+  by obf_pptid vnum;
+run;
 
 *split dataset into two parts based on 'vnum';
 data chatbaseline chatfollowup;
-  set chat_latest;
+  set chat_latest_withunit;
 
   *visit number is 'vnum';
   if vnum = 3 then output chatbaseline;
