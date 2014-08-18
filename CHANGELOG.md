@@ -1,4 +1,4 @@
-## 0.2.0
+## 0.2.0 (August 18, 2014)
 
 ### Changes
 - Removed small set of subjects from dataset due to data being censored by CHAT investigators
@@ -7,9 +7,9 @@
 - Set commonly used flag to true for many variables
 - Added `unittype` variable to distinguish type of PSG equipment used for data collection
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.2.0.rc\`
-    - `chat-baseline-dataset-0.2.0.rc.csv`
-    - `chat-followup-dataset-0.2.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.2.0\`
+    - `chat-baseline-dataset-0.2.0.csv`
+    - `chat-followup-dataset-0.2.0.csv`
 - **Gem Changes**
   - Updated to spout 0.9.0.beta1
 
