@@ -1,3 +1,8 @@
+## 0.3.0
+
+### Changes
+- Removed extraneous variables (e.g. child_age)
+
 ## 0.2.0 (August 18, 2014)
 
 ### Changes

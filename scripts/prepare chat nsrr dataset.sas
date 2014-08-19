@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.2.0;
+%let release = 0.3.0.beta1;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -286,6 +286,7 @@ data chat_latest;
         chg_bmi /* duplicate variable of bmi_change */
         chg_bmiz /* duplicate variable of bmiz_change */
         mat2a /* dubious worth, process variables */
+        child_age /* confusing; use ageyear_at_meas instead */
         ;
 run;
 
