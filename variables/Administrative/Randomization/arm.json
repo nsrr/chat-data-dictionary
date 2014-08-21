@@ -1,7 +1,7 @@
 {
   "id": "arm",
-  "display_name": "Randomization Code assigned by DMS",
-  "description": "",
+  "display_name": "Treatment Arm",
+  "description": "The randomization code assigned by the Data Management System.",
   "type": "choices",
   "domain": "code",
   "forms": [

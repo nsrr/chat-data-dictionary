@@ -1,5 +1,7 @@
 visit: vnum
 charts:
+- chart: arm
+  title: Treatment Arm
 - chart: ageyear_bin
   title: Age
 - chart: male
