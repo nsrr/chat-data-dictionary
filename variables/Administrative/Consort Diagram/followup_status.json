@@ -3,5 +3,8 @@
   "display_name": "Did patient receive followup?",
   "description": "",
   "type": "choices",
-  "domain":"followup_status"
+  "domain":"followup_status",
+  "forms": [
+    "chat_consort"
+  ]
 }

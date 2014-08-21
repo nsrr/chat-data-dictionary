@@ -4,5 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "calculation": "if ran7=1 then do; if had_surgery=0 then itt=0; else itt=1; end; if ran7=2 then do; if TST4=1 then itt=0; else itt=1; end"
+  "calculation": "if ran7=1 then do; if had_surgery=0 then itt=0; else itt=1; end; if ran7=2 then do; if TST4=1 then itt=0; else itt=1; end",
+  "forms": [
+    "chat_consort"
+  ]
 }

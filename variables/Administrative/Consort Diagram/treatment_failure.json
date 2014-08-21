@@ -3,5 +3,8 @@
   "display_name": "The Medical Monitor confirmed treatment failure?",
   "description": "",
   "type": "choices",
-  "domain": "treatmentfailure"
+  "domain": "treatmentfailure",
+  "forms": [
+    "chat_consort"
+  ]
 }

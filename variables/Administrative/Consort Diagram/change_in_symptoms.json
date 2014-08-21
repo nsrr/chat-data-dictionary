@@ -3,5 +3,8 @@
   "display_name": "Change in symptoms",
   "description": "",
   "type": "choices",
-  "domain": "symptoms"
+  "domain": "symptoms",
+  "forms": [
+    "chat_consort"
+  ]
 }

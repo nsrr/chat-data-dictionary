@@ -3,5 +3,8 @@
   "display_name": "Patient surgery status",
   "description": "",
   "type": "choices",
-  "domain":"surgery_status"
+  "domain": "surgery_status",
+  "forms": [
+    "chat_consort"
+  ]
 }

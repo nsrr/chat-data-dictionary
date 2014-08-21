@@ -3,5 +3,8 @@
   "display_name": "Did child have surgery?",
   "description": "",
   "type": "choices",
-  "domain":"noyes"
+  "domain":"noyes",
+  "forms": [
+    "chat_consort"
+  ]
 }
