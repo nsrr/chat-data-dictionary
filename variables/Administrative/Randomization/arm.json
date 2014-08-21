@@ -6,5 +6,6 @@
   "domain": "code",
   "forms": [
     "chat_random_form"
-  ]
+  ],
+  "commonly_used": true
 }
