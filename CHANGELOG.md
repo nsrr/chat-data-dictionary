@@ -1,7 +1,7 @@
 ## 0.3.0
 
 ### Changes
-- Removed extraneous variables (e.g. child_age)
+- Removed extraneous variables (e.g. child_age, eligibility criteria)
 - Add "Treatment Arm" to standard set of Spout graphs
 
 ## 0.2.0 (August 18, 2014)

@@ -287,6 +287,8 @@ data chat_latest;
         chg_bmiz /* duplicate variable of bmiz_change */
         mat2a /* dubious worth, process variables */
         child_age /* confusing; use ageyear_at_meas instead */
+        eli1-eli23 /* eligibility variables are irrelevant because all randomized subjects met inc/exc criteria */
+        eli11a eli16a eli3a /* more eligibility variables to drop */
         ;
 run;
 
