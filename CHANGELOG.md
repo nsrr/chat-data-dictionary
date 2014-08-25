@@ -3,6 +3,10 @@
 ### Changes
 - Removed extraneous variables (e.g. child_age, eligibility criteria)
 - Add "Treatment Arm" to standard set of Spout graphs
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.3.0.beta1\`
+    - `chat-baseline-dataset-0.3.0.beta1.csv`
+    - `chat-followup-dataset-0.3.0.beta1.csv`
 
 ## 0.2.0 (August 18, 2014)
 
