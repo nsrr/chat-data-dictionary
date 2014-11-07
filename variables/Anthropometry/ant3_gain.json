@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "centimeters per year",
   "forms": [
-    "chat_anthropometry_form"
+    "chat_anthropometry_forms"
   ],
   "labels": [
     "change in height"

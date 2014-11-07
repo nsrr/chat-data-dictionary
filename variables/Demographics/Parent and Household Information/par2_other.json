@@ -4,6 +4,6 @@
   "description": "",
   "type": "string",
   "forms": [
-    "chat_parentinfo_form"
+    "chat_parentinfo_forms"
   ]
 }

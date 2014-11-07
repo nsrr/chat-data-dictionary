@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "noyesnotsure",
   "form": [
-    "chat_medicalhx_form"
+    "chat_medicalhx_forms"
   ],
   "labels": [
     "gerd"

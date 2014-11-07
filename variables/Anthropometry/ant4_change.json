@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "kilograms",
   "forms": [
-    "chat_anthropometry_form"
+    "chat_anthropometry_forms"
   ]
 }

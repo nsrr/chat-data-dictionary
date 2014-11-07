@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyes",
   "forms": [
-    "chat_nepsy2_form"
+    "chat_nepsy2_forms"
   ]
 }

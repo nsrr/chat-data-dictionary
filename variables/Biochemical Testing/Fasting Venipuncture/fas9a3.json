@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "veinstatus",
   "forms": [
-    "chat_fastveni_form"
+    "chat_fastveni_forms"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "unblinded",
   "forms": [
-    "chat_unblind_form"
+    "chat_unblind_forms"
   ]
 }

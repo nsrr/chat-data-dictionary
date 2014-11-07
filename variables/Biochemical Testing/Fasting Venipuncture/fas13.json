@@ -5,6 +5,6 @@
   "type": "integer",
   "units": "seconds from date of randomization",
   "forms": [
-    "chat_fastveni_form"
+    "chat_fastveni_forms"
   ]
 }

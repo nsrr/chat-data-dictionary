@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "kilograms per year",
   "forms": [
-    "chat_anthropometry_form"
+    "chat_anthropometry_forms"
   ],
   "labels": [
     "change in weight"

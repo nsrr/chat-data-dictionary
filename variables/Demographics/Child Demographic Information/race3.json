@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "race3",
   "forms": [
-    "chat_cdi_form"
+    "chat_cdi_forms"
   ],
   "commonly_used": true
 }

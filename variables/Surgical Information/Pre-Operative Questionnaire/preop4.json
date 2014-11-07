@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyes",
   "form": [
-    "chat_preop_form"
+    "chat_preop_forms"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain":"followup_status",
   "forms": [
-    "chat_consort"
+    "chat_consorts"
   ]
 }

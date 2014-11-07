@@ -5,9 +5,9 @@
   "type": "choices",
   "domain": "neveroralways2",
   "forms": [
-    "chat_pqlchi_form"
+    "chat_pqlchi_forms"
   ],
   "forms": [
-    "chat_face_form"
+    "chat_face_forms"
   ]
 }

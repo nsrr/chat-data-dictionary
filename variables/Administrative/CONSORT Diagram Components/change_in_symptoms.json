@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "symptoms",
   "forms": [
-    "chat_consort"
+    "chat_consorts"
   ]
 }

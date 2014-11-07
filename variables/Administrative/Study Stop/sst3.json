@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "participant",
   "forms": [
-    "chat_stop_form"
+    "chat_stop_forms"
   ]
 }

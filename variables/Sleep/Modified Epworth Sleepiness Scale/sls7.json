@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "chance",
   "forms": [
-    "chat_epworth_form"
+    "chat_epworth_forms"
   ]
 }

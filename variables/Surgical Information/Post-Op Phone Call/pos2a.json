@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "admission",
   "forms": [
-    "chat_postop1_form"
+    "chat_postop1_forms"
   ]
 }

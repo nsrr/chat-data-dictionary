@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "dust",
   "form": [
-    "chat_medicalhx_form"
+    "chat_medicalhx_forms"
   ]
 }

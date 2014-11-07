@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "ethnicity2",
   "forms": [
-    "chat_parentinfo_form"
+    "chat_parentinfo_forms"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "sex",
   "forms": [
-    "chat_referral_form"
+    "chat_referral_forms"
   ]
 }

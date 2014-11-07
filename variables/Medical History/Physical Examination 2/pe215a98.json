@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "other",
   "form": [
-    "chat_physical1_form"
+    "chat_physical1_forms"
   ]
 }

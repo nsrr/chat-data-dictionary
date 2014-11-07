@@ -5,9 +5,9 @@
   "type": "choices",
   "domain": "ampm",
   "forms": [
-    "chat_sleepquestionnaire_form"
+    "chat_sleepquestionnaire_forms"
   ],
   "forms": [
-    "chat_sleepquestionnaire2_form"
+    "chat_sleepquestionnaire2_forms"
   ]
 }

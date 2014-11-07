@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "ifyes",
   "forms": [
-    "chat_familyhx_form"
+    "chat_familyhx_forms"
   ]
 }

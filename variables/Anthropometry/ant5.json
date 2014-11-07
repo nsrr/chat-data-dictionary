@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "kilograms / meters squared",
   "forms": [
-    "chat_anthropometry_form"
+    "chat_anthropometry_forms"
   ],
   "labels": [
     "body mass index",

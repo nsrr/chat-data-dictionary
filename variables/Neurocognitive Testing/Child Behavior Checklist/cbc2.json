@@ -5,6 +5,6 @@
   "type": "choices",
   "domain":"completedform",
   "forms": [
-    "chat_cbc_form"
+    "chat_cbc_forms"
   ]
 }

@@ -5,6 +5,6 @@
   "type": "choices",
   "domain":"noyes",
   "forms": [
-    "chat_cbc_form"
+    "chat_cbc_forms"
   ]
 }

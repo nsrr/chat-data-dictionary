@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "valid1",
   "forms": [
-    "chat_neuro_form"
+    "chat_neuro_forms"
   ]
 }

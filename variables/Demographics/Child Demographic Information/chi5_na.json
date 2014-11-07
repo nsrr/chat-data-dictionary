@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "notattending",
   "forms": [
-    "chat_cdi_form"
+    "chat_cdi_forms"
   ]
 }

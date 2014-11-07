@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "agelevel",
   "forms": [
-    "chat_das2_form"
+    "chat_das2_forms"
   ]
 }

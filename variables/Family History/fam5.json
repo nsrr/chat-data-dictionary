@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "notapplicable",
   "forms": [
-    "chat_familyhx_form"
+    "chat_familyhx_forms"
   ]
 }

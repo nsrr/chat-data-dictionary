@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "percentile",
   "forms": [
-    "chat_brief_form"
+    "chat_brief_forms"
   ]
 }

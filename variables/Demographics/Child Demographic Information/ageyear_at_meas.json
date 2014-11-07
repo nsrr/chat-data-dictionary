@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "years",
   "forms": [
-    "chat_sleepquestionnaire_form"
+    "chat_sleepquestionnaire_forms"
   ],
   "commonly_used": true
 }

@@ -4,6 +4,6 @@
   "description": "Not sure",
   "type": "string",
   "form": [
-    "chat_medicalhx_form"
+    "chat_medicalhx_forms"
   ]
 }

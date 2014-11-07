@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "schooling",
   "forms": [
-    "chat_cdi_form"
+    "chat_cdi_forms"
   ]
 }

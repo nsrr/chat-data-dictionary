@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "treatmentarm",
   "forms": [
-    "chat_random_form"
+    "chat_random_forms"
   ]
 }
