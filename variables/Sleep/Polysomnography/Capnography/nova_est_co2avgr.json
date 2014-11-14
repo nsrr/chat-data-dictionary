@@ -4,6 +4,6 @@
   "description": "For BCI: nova_est_co2avgr = (rco2avgr * 0.70253) + 10.67195",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
-  "calculation": "(Average EtCO2 in REM * 0.70253) + 10.67195",
+  "calculation": "(rco2avgr * 0.70253) + 10.67195",
   "commonly_used": true
 }

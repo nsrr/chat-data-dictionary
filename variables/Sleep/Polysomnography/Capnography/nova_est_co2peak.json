@@ -4,6 +4,6 @@
   "description": "For BCI: nova_est_co2peak = (rco2peak * 0.79956) + 9.17655",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
-  "calculation": "(Peak EtCO2 Asleep * 0.79956) + 9.17655",
+  "calculation": "(rco2peak * 0.79956) + 9.17655",
   "commonly_used": true
 }
