@@ -3,5 +3,8 @@
   "display_name": "Scoring arousals in REM (only) unreliable",
   "description": "1=arousals in rem unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

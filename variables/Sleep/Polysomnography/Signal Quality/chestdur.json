@@ -3,5 +3,8 @@
   "display_name": "Hours of usable chest effort",
   "description": "Hours of usable chest effort",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

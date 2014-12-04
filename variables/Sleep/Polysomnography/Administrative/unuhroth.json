@@ -3,5 +3,8 @@
   "display_name": "Urgent - other HR arrhythmia, heart block, v-tach, etc. = 1  urgent ineligible",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

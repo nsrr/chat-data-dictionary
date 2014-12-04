@@ -3,5 +3,8 @@
   "display_name": "Reason for study failure",
   "description": "",
   "type": "choices",
-  "domain": "reasonsforfailure"
+  "domain": "reasonsforfailure",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

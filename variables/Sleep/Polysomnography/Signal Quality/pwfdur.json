@@ -3,5 +3,8 @@
   "display_name": "Hours of usable PWF",
   "description": "Hours of usable pleth wave form",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

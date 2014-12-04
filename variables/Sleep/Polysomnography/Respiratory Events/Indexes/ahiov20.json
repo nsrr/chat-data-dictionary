@@ -3,5 +3,8 @@
   "display_name": "OAI > 15 or AHI > 20 = 1  Surgeon Alert",
   "description": "OAI > 15 or AHI > 20 = 1  Surgeon Alert",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

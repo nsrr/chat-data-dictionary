@@ -3,5 +3,8 @@
   "display_name": "Quality of reference",
   "description": "",
   "type": "choices",
-  "domain": "goodorproblem"
+  "domain": "goodorproblem",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

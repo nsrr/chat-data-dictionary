@@ -3,5 +3,8 @@
   "display_name": "Hours of usable cannula",
   "description": "Hours of usable cannula",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

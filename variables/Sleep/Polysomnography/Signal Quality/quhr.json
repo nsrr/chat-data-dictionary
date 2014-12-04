@@ -3,5 +3,8 @@
   "display_name": "Quality of hr",
   "description": "Quality of hr",
   "type": "choices",
-  "domain": "signalofsleeptime"
+  "domain": "signalofsleeptime",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

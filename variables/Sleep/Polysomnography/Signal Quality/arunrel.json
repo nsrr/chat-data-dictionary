@@ -3,5 +3,8 @@
   "display_name": "Scoring arousals unreliable",
   "description": "1=Arousals unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

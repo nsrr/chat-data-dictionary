@@ -3,5 +3,8 @@
   "display_name": "Maximum length respiratory event >30s verified",
   "description": "1=Outlier - max length respiratory event > 30s verified",
   "domain": "noyes",
-  "type": "choices"
+  "type": "choices",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

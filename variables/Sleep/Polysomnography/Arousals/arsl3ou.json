@@ -3,5 +3,8 @@
   "display_name": "Arousal index < 3 verified",
   "description": "1=Outlier - arousal index < 3 verified",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Scoring REM/NREM unreliable",
   "description": "1=Sleep staging problem - scoring rem/nrem unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

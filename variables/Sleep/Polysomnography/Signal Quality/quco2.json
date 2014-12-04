@@ -4,5 +4,8 @@
   "description": "*need to define quality scoring",
   "type": "choices",
   "domain": "signalofsleeptime",
-  "commonly_used": true
+  "commonly_used": true,
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

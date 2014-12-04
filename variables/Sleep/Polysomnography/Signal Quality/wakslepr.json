@@ -3,5 +3,8 @@
   "display_name": "Scoring stage wake/sleep unreliable",
   "description": "1=Sleep staging problem - scoring wake/sleep unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Physiologic alpha intrusion",
   "description": "1=Unusual Occurrences - Alpha intrusion",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

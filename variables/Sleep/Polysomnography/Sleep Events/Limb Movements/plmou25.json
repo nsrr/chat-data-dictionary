@@ -3,5 +3,8 @@
   "display_name": "PLM > 25 verified (must be in sleep)",
   "description": "1=Outlier - PLM > 25 verified",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

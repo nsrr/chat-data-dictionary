@@ -3,5 +3,8 @@
   "display_name": "Hours of usable heart rate",
   "description": "Hours of usable heart rate",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

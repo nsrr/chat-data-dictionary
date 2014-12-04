@@ -3,5 +3,8 @@
   "display_name": "Hours of usable airflow",
   "description": "Hours of usable airflow",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

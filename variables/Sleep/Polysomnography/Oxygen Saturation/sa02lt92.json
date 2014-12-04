@@ -3,5 +3,8 @@
   "display_name": "Urgent referral - O2sat <92% >2% sleep time = 1 Surgeon alert",
   "description": "*Note studies that have oxi problems here",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

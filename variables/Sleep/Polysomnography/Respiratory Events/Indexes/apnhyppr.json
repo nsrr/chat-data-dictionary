@@ -3,5 +3,8 @@
   "display_name": "Scoring Apnea/Hypopnea unreliable",
   "description": "1=Apnea/Hypopnea distinction unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

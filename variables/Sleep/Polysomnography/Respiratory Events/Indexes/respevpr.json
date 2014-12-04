@@ -3,5 +3,8 @@
   "display_name": "Scoring respiratory events (RDI) unreliable",
   "description": "1=Problems with respiratory events",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

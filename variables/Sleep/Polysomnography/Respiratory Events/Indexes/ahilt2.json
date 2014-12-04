@@ -4,5 +4,8 @@
   "description": "OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
   "type": "choices",
   "domain": "noyes",
-  "commonly_used": true
+  "commonly_used": true,
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

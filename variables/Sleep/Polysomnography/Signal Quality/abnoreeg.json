@@ -3,5 +3,8 @@
   "display_name": "Abnormal EEG background / waveforms",
   "description": "1=Unusual Occurrences - Abnormal EEG",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

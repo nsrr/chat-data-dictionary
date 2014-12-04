@@ -3,5 +3,8 @@
   "display_name": "Data lost - other",
   "description": "1=data lost - other",
   "domain": "noyes",
-  "type": "choices"
+  "type": "choices",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

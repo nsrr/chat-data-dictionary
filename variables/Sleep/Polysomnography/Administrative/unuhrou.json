@@ -3,5 +3,8 @@
   "display_name": "Urgent - problem HR < 40 bpm or > 140 bpm > 2 minutes = 1  urgent ineligible",
   "description": "1=Medical alert for unusual HR or ECG",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

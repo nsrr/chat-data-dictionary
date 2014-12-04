@@ -3,5 +3,8 @@
   "display_name": "Hours of usable M1",
   "description": "Hours of usable EEG",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

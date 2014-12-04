@@ -3,5 +3,8 @@
   "display_name": "Extreme staging distribution",
   "description": "1=outlier - unusual staging",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

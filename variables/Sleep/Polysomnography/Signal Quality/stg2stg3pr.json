@@ -3,5 +3,8 @@
   "display_name": "Scoring stage2/ deep sleep unreliable",
   "description": "1=sleep staging problem - scoring stage2/stage3-4 unreliable",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }

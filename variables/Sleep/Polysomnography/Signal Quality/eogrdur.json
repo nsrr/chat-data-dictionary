@@ -3,5 +3,8 @@
   "display_name": "Hours of usable EOG R",
   "description": "Hours of usable EOG R",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }
