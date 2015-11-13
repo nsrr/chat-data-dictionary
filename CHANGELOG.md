@@ -1,4 +1,6 @@
-## 0.3.1
+## 0.4.0
+
+- Add EEG spectral analysis and HRV analysis datasets
 
 ## 0.3.0 (September 4, 2014)
 
