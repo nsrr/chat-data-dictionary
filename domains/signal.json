@@ -8,5 +8,35 @@
     "value": "C4",
     "display_name": "C4",
     "description": ""
+  },
+  {
+    "value": "F3",
+    "display_name": "F3",
+    "description": ""
+  },
+  {
+    "value": "F4",
+    "display_name": "F4",
+    "description": ""
+  },
+  {
+    "value": "O1",
+    "display_name": "O1",
+    "description": ""
+  },
+  {
+    "value": "O2",
+    "display_name": "O2",
+    "description": ""
+  },
+  {
+    "value": "T3",
+    "display_name": "T3",
+    "description": ""
+  },
+  {
+    "value": "T4",
+    "display_name": "T4",
+    "description": ""
   }
 ]

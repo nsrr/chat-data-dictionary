@@ -1,6 +1,6 @@
 {
   "id": "avnn",
-  "display_name": "Average of all NN intervals",
+  "display_name": "Mean of all NN intervals",
   "description": "",
   "type": "numeric",
   "units": ""
