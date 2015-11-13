@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.3.0;
+%let release = 0.4.0.pre;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -289,6 +289,7 @@ data chat_latest;
         child_age /* confusing; use ageyear_at_meas instead */
         eli1-eli23 /* eligibility variables are irrelevant because all randomized subjects met inc/exc criteria */
         eli11a eli16a eli3a /* more eligibility variables to drop */
+        ahi /* duplicitous -- use 'omahi3' as primary AHI variable */
         ;
 run;
 
