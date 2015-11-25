@@ -1,6 +1,7 @@
 ## 0.4.0
 
 - Add EEG spectral analysis and HRV analysis datasets
+- Add 'nonrandomized' dataset for subjects with screening PSG, but were not randomized
 - Update race3 categories to 1=White, 2=Black, 3=Other (matches other NSRR datasets)
 - **Gem Changes**
   - Updated to spout 0.10.2
@@ -8,6 +9,7 @@
   - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.4.0.beta1\`
     - `chat-baseline-dataset-0.4.0.beta1.csv`
     - `chat-followup-dataset-0.4.0.beta1.csv`
+    - `chat-nonrandomized-dataset-0.4.0.beta1.csv`
 
 ## 0.3.0 (September 4, 2014)
 
