@@ -1,7 +1,7 @@
 ## 0.4.0
 
 - Add EEG spectral analysis and HRV analysis datasets
-- Add 'nonrandomized' dataset for subjects with screening PSG, but were not randomized
+- Add 'nonrandomized' dataset for subjects with screening PSG, but not randomized
 - Update race3 categories to 1=White, 2=Black, 3=Other (matches other NSRR datasets)
 - **Gem Changes**
   - Updated to spout 0.10.2
