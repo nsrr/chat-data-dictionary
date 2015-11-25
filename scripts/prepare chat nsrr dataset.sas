@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.4.0.pre;
+%let release = 0.4.0.beta1;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -313,17 +313,60 @@ data chatbaseline chatfollowup;
   if vnum = 10 then output chatfollowup;
 run;
 
+*create separate dataset for 'nonrandomized' participants and keep small number of key variables;
+*import list of nonrandomized ids;
+proc import datafile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_ids\chat_nonrandomized_ids.csv"
+  out=chat_nr_ids
+  dbms=csv
+  replace;
+run;
+
+proc sort data=chat_nr_ids;
+  by pid;
+run;
+
+data mega;
+  set chatb.chat_mega_data_04242014;
+
+  if vnum = 3;
+run;
+
+proc sort data=mega;
+  by pid;
+run;
+
+data chatnonrandomized;
+  merge chat_nr_ids (in=a) mega;
+  by pid;
+
+  if a;
+
+  format age_nr 8.1;
+  age_nr = (datepart(ref3) - datepart(ref2)) / 365.25;
+
+  keep obf_pptid omahi3 REF9 REF8 age_nr REF5;
+run;
+
+proc sort data=chatnonrandomized;
+  by obf_pptid;
+run;
+
 *set library for permanent CHAT NSRR datasets;
 libname chatn "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets";
 
 *save dated permanent SAS datasets;
-data chatn.chatbaseline_&release_&sasfiledate;
+data chatn.chatbaseline_&sasfiledate;
   set chatbaseline;
 run;
 
-data chatn.chatfollowup_&release_&sasfiledate;
-  set chatend;
+data chatn.chatfollowup_&sasfiledate;
+  set chatfollowup;
 run;
+
+data chatn.chatnonrandomized_&sasfiledate;
+  set chatnonrandomized;
+run;
+
 
 *export to csv;
 proc export data=chatbaseline
@@ -334,6 +377,12 @@ run;
 
 proc export data=chatfollowup
   outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-followup-dataset-&release..csv"
+  dbms=csv
+  replace;
+run;
+
+proc export data=chatnonrandomized
+  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-nonrandomized-dataset-&release..csv"
   dbms=csv
   replace;
 run;
