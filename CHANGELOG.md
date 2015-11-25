@@ -8,7 +8,13 @@
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.4.0.beta1\`
     - `chat-baseline-dataset-0.4.0.beta1.csv`
+    - `chat-baseline-eeg-band-summary-0.4.0.beta1.csv`
+    - `chat-baseline-eeg-spectral-summary-0.4.0.beta1.csv`
+    - `chat-baseline-hrv-summary-0.4.0.beta1.csv`
     - `chat-followup-dataset-0.4.0.beta1.csv`
+    - `chat-followup-eeg-band-summary-0.4.0.beta1.csv`
+    - `chat-followup-eeg-spectral-summary-0.4.0.beta1.csv`
+    - `chat-followup-hrv-summary-0.4.0.beta1.csv`
     - `chat-nonrandomized-dataset-0.4.0.beta1.csv`
 
 ## 0.3.0 (September 4, 2014)
