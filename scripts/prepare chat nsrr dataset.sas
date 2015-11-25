@@ -29,6 +29,11 @@ data chat_latest;
   *create obfuscated ID for filenaming conventions;
   obf_pptid = new_pid + 300000;
 
+  *recode race from 1=B, 2=W, 7=O, to 1=W, 2=B, 3=O to match other datasets;
+  if race3 = 1 then race3 = 2;
+  else if race3 = 2 then race3 = 1;
+  else if race3 = 7 then race3 = 3;
+
   *retain race3 variable to get it in followup dataset;
   retain race3retain;
   if vnum = 3 then race3retain = race3;

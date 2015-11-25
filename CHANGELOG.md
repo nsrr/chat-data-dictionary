@@ -1,6 +1,7 @@
 ## 0.4.0
 
 - Add EEG spectral analysis and HRV analysis datasets
+- Update race3 categories to 1=White, 2=Black, 3=Other (matches other NSRR datasets)
 - **Gem Changes**
   - Updated to spout 0.10.2
 - The CSV datasets generated from a SAS export are located here:
