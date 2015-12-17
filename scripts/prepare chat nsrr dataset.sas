@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.4.0.rc;
+%let release = 0.4.0;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";

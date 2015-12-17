@@ -1,4 +1,4 @@
-## 0.4.0
+## 0.4.0 (December 17, 2015)
 
 - Add EEG spectral analysis and HRV analysis datasets
 - Add 'nonrandomized' dataset for subjects with screening PSG, but not randomized
@@ -7,16 +7,18 @@
   - Updated to spout 0.10.2
   - Updated to Ruby 2.2.3
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.4.0.rc\`
-    - `chat-baseline-dataset-0.4.0.rc.csv`
-    - `chat-baseline-eeg-band-summary-0.4.0.rc.csv`
-    - `chat-baseline-eeg-spectral-summary-0.4.0.rc.csv`
-    - `chat-baseline-hrv-summary-0.4.0.rc.csv`
-    - `chat-followup-dataset-0.4.0.rc.csv`
-    - `chat-followup-eeg-band-summary-0.4.0.rc.csv`
-    - `chat-followup-eeg-spectral-summary-0.4.0.rc.csv`
-    - `chat-followup-hrv-summary-0.4.0.rc.csv`
-    - `chat-nonrandomized-dataset-0.4.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.4.0\`
+    - `chat-baseline-dataset-0.4.0.csv`
+    - `chat-baseline-eeg-band-summary-0.4.0.csv`
+    - `chat-baseline-eeg-spectral-summary-0.4.0.csv`
+    - `chat-baseline-hrv-5min-0.4.0.csv`
+    - `chat-baseline-hrv-summary-0.4.0.csv`
+    - `chat-followup-dataset-0.4.0.csv`
+    - `chat-followup-eeg-band-summary-0.4.0.csv`
+    - `chat-followup-eeg-spectral-summary-0.4.0.csv`
+    - `chat-followup-hrv-5min-0.4.0.csv`
+    - `chat-followup-hrv-summary-0.4.0.csv`
+    - `chat-nonrandomized-dataset-0.4.0.csv`
 
 ## 0.3.0 (September 4, 2014)
 
