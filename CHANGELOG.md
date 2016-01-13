@@ -1,5 +1,7 @@
 ## 0.3.1
 
+- Backporting updates to be compatible with Spout 0.11.0.beta1
+
 ## 0.3.0 (September 4, 2014)
 
 ### Changes
