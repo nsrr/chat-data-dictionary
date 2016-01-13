@@ -1,5 +1,8 @@
 ## 0.4.1
 
+- **Gem Changes**
+  - Updated to spout 0.11.0.beta1
+
 ## 0.4.0 (December 17, 2015)
 
 - Add EEG spectral analysis and HRV analysis datasets
