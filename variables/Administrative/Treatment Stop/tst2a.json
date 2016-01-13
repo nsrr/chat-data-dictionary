@@ -4,6 +4,6 @@
   "description": "",
   "type": "string",
   "forms": [
-    "chat_treatment-stop_form"
+    "chat_treatment_stop_form"
   ]
 }

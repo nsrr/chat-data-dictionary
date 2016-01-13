@@ -5,6 +5,6 @@
   "type": "integer",
   "units": "seconds from date of randomization",
   "forms": [
-    "chat_treatment-stop_form"
+    "chat_treatment_stop_form"
   ]
 }

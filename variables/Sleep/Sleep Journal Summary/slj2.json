@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "noyes",
   "forms": [
-    "chat_journal-summary_form"
+    "chat_journal_summary_form"
   ]
 }
