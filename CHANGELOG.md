@@ -1,5 +1,6 @@
 ## 0.4.1
 
+- Fixed naming convention of several forms
 - **Gem Changes**
   - Updated to spout 0.11.0.beta1
 

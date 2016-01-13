@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "crossover",
   "forms": [
-    "chat_treatment-stop_forms"
+    "chat_treatment_stop_forms"
   ]
 }
