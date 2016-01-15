@@ -2,7 +2,8 @@
 
 - Fixed naming convention of several forms
 - **Gem Changes**
-  - Updated to spout 0.11.0.beta1
+  - Updated to spout 0.11.0.rc
+  - Updated to Ruby 2.3.0
 
 ## 0.4.0 (December 17, 2015)
 
