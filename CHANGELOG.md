@@ -1,6 +1,7 @@
 ## 0.5.0
 
 - Remove `income` variable (duplicate)
+- Remove `siteid` variable (replaced by `clusterid`)
 
 ## 0.4.1 (January 19, 2016)
 
