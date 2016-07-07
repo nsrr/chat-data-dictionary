@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.4.0;
+%let release = 0.5.0.pre;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -349,7 +349,7 @@ data chatnonrandomized;
   format age_nr 8.1;
   age_nr = (datepart(ref3) - datepart(ref2)) / 365.25;
 
-  keep obf_pptid omahi3 REF9 REF8 age_nr REF5;
+  keep obf_pptid omahi3 REF9 REF8 age_nr REF5 REF4;
 run;
 
 proc sort data=chatnonrandomized;

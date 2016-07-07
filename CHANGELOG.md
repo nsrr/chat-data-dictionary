@@ -3,6 +3,7 @@
 - Remove `income` variable (duplicate)
 - Remove `siteid` variable (replaced by `clusterid`)
 - Clarify income-related variable (`par5` and `par5_rc`) definitions
+- Add `ref4` (race) to non-randomized subject dataset
 
 ## 0.4.1 (January 19, 2016)
 
