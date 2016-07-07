@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "< 20k",
+    "display_name": "Less than $20,000",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "20-40k",
+    "display_name": "$20,000 to $40,000",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "> 40k",
+    "display_name": "More than $40,000",
     "description": ""
   }
 ]

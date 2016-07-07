@@ -2,6 +2,7 @@
 
 - Remove `income` variable (duplicate)
 - Remove `siteid` variable (replaced by `clusterid`)
+- Clarify income-related variable (`par5` and `par5_rc`) definitions
 
 ## 0.4.1 (January 19, 2016)
 
