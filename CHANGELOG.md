@@ -4,6 +4,22 @@
 - Remove `siteid` variable (replaced by `clusterid`)
 - Clarify income-related variable (`par5` and `par5_rc`) definitions
 - Add `ref4` (race) to non-randomized subject dataset
+- Include updated EEG spectral datasets, including nonrandomized
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.5.0.rc\`
+    - `chat-baseline-dataset-0.5.0.rc.csv`
+    - `chat-baseline-eeg-band-summary-0.5.0.rc.csv`
+    - `chat-baseline-eeg-spectral-summary-0.5.0.rc.csv`
+    - `chat-baseline-hrv-5min-0.5.0.rc.csv`
+    - `chat-baseline-hrv-summary-0.5.0.rc.csv`
+    - `chat-followup-dataset-0.5.0.rc.csv`
+    - `chat-followup-eeg-band-summary-0.5.0.rc.csv`
+    - `chat-followup-eeg-spectral-summary-0.5.0.rc.csv`
+    - `chat-followup-hrv-5min-0.5.0.rc.csv`
+    - `chat-followup-hrv-summary-0.5.0.rc.csv`
+    - `chat-nonrandomized-dataset-0.5.0.rc.csv`
+    - `chat-nonrandomized-eeg-band-summary-0.5.0.rc.csv`
+    - `chat-nonrandomized-eeg-spectral-summary-0.5.0.rc.csv`
 
 ## 0.4.1 (January 19, 2016)
 

@@ -13,7 +13,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.5.0.pre;
+%let release = 0.5.0.rc;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -295,6 +295,9 @@ data chat_latest;
         eli1-eli23 /* eligibility variables are irrelevant because all randomized subjects met inc/exc criteria */
         eli11a eli16a eli3a /* more eligibility variables to drop */
         ahi /* duplicitous -- use 'omahi3' as primary AHI variable */
+        income /* unknown why this column was mixed in with PSG data, duplicate of other income variables */
+        par5_ats_rc /* recoding of income variable (par5), unneeded duplication */
+        siteid /* embedded in PSG dataset but supposed to be removed in favor of clusterid */
         ;
 run;
 
