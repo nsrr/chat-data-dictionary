@@ -1,6 +1,6 @@
 {
   "id": "chi5",
-  "display_name": "Child's grade?",
+  "display_name": "Child's grade",
   "description": "",
   "type": "choices",
   "domain": "grade",
