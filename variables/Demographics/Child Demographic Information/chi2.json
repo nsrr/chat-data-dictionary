@@ -1,6 +1,6 @@
 {
   "id": "chi2",
-  "display_name": "Child's gender?",
+  "display_name": "Child's gender",
   "description": "",
   "type": "choices",
   "domain": "sex",
