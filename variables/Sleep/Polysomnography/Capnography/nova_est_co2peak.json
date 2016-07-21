@@ -1,7 +1,7 @@
 {
   "id": "nova_est_co2peak",
   "display_name": "Peak end-tidal carbon dioxide asleep (normalized for capnograph type)",
-  "description": "For BCI: nova_est_co2peak = (rco2peak * 0.79956) + 9.17655",
+  "description": "",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
   "calculation": "(rco2peak * 0.79956) + 9.17655",
