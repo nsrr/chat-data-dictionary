@@ -1,4 +1,4 @@
-## 0.5.0
+## 0.5.0 (July 21, 2016)
 
 - Remove `income` variable (duplicate)
 - Remove `siteid` variable (replaced by `clusterid`)
@@ -7,19 +7,19 @@
 - Include updated EEG spectral datasets, including nonrandomized
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.5.0.rc\`
-    - `chat-baseline-dataset-0.5.0.rc.csv`
-    - `chat-baseline-eeg-band-summary-0.5.0.rc.csv`
-    - `chat-baseline-eeg-spectral-summary-0.5.0.rc.csv`
-    - `chat-baseline-hrv-5min-0.5.0.rc.csv`
-    - `chat-baseline-hrv-summary-0.5.0.rc.csv`
-    - `chat-followup-dataset-0.5.0.rc.csv`
-    - `chat-followup-eeg-band-summary-0.5.0.rc.csv`
-    - `chat-followup-eeg-spectral-summary-0.5.0.rc.csv`
-    - `chat-followup-hrv-5min-0.5.0.rc.csv`
-    - `chat-followup-hrv-summary-0.5.0.rc.csv`
-    - `chat-nonrandomized-dataset-0.5.0.rc.csv`
-    - `chat-nonrandomized-eeg-band-summary-0.5.0.rc.csv`
-    - `chat-nonrandomized-eeg-spectral-summary-0.5.0.rc.csv`
+    - `chat-baseline-dataset-0.5.0.csv`
+    - `chat-baseline-eeg-band-summary-0.5.0.csv`
+    - `chat-baseline-eeg-spectral-summary-0.5.0.csv`
+    - `chat-baseline-hrv-5min-0.5.0.csv`
+    - `chat-baseline-hrv-summary-0.5.0.csv`
+    - `chat-followup-dataset-0.5.0.csv`
+    - `chat-followup-eeg-band-summary-0.5.0.csv`
+    - `chat-followup-eeg-spectral-summary-0.5.0.csv`
+    - `chat-followup-hrv-5min-0.5.0.csv`
+    - `chat-followup-hrv-summary-0.5.0.csv`
+    - `chat-nonrandomized-dataset-0.5.0.csv`
+    - `chat-nonrandomized-eeg-band-summary-0.5.0.csv`
+    - `chat-nonrandomized-eeg-spectral-summary-0.5.0.csv`
 
 ## 0.4.1 (January 19, 2016)
 
