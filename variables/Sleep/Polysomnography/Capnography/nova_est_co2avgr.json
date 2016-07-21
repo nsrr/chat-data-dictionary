@@ -1,7 +1,7 @@
 {
   "id": "nova_est_co2avgr",
   "display_name": "Average end-tidal carbon dioxide in REM (normalized for capnograph type)",
-  "description": "For BCI: nova_est_co2avgr = (rco2avgr * 0.70253) + 10.67195",
+  "description": ",
   "type": "numeric",
   "units": "percentage of carbon dioxide",
   "calculation": "(rco2avgr * 0.70253) + 10.67195",

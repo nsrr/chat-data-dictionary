@@ -1,7 +1,7 @@
 {
   "id": "co2dur",
   "display_name": "Hours of usable carbon dioxide",
-  "description": "Hours of usable carbon dioxide signal - requires use of calibrated channel type with upper and lower limites for valid signal",
+  "description": "Hours of usable carbon dioxide signal - requires use of calibrated channel type with upper and lower limits for valid signal",
   "type": "numeric",
   "units": "hours",
   "commonly_used": true,
