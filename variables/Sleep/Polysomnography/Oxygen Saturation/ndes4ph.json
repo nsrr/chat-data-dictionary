@@ -1,7 +1,7 @@
 {
   "id": "ndes4ph",
   "display_name": "Number of desaturation with >= 4% desaturation",
-  "description": "Number of desaturations with desaturation >= 4%",
+  "description": "",
   "type": "numeric",
   "units": "desaturation events",
   "commonly_used": true

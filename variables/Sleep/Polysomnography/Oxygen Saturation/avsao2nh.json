@@ -1,8 +1,8 @@
 {
   "id": "avsao2nh",
   "display_name": "Average oxygen saturation during NREM sleep",
-  "description": "Average oxygen saturation during NREM sleep",
-  "type": "numeric",
+  "description": "",
+  "type": "numeric"
   "units": "percentage of oxygen saturation",
   "commonly_used": true
 }

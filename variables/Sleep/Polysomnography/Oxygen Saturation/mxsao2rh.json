@@ -1,7 +1,7 @@
 {
   "id": "mxsao2rh",
   "display_name": "Maximum oxygen saturation during REM sleep",
-  "description": "Highest oxygen saturation during REM sleep",
+  "description": "",
   "type": "numeric",
   "units": "percentage of oxygen saturation",
   "commonly_used": true
