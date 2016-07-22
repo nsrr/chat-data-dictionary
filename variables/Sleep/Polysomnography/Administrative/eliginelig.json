@@ -1,7 +1,7 @@
 {
   "id": "eliginelig",
   "display_name": "Eligibility status by PSG",
-  "description" : "Ineligible if omahi3 <2 and omai0p<1 or meets any of urgent criteria variables ahiov30=1, saO2lt90=1, unuhrou=1,unuhroth=1"
+  "description": "Ineligible if omahi3 <2 and omai0p<1 or meets any of urgent criteria variables ahiov30=1, saO2lt90=1, unuhrou=1,unuhroth=1",
   "type": "choices",
   "domain": "eligible",
   "commonly_used": true,
