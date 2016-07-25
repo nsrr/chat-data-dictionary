@@ -1,7 +1,7 @@
 {
   "id": "quoxim",
   "display_name": "Quality of oximetry",
-  "description": "Quality of oximetry",
+  "description": "",
   "type": "choices",
   "domain": "signalofsleeptime",
   "commonly_used": true,

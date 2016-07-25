@@ -1,7 +1,7 @@
 {
   "id": "ahilt2",
   "display_name": "OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
-  "description": "OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
+  "description": "",
   "type": "choices",
   "domain": "noyes",
   "commonly_used": true,
