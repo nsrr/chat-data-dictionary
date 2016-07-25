@@ -1,7 +1,7 @@
 {
   "id": "ant4_gain",
   "display_name": "Weight velocity",
-  "description": "Change in weight between baseline and followup / number of years between visits",
+  "description": "Change in weight between baseline and follow up / number of years between visits",
   "type": "numeric",
   "units": "kilograms per year",
   "forms": [
