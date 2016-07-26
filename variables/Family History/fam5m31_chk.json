@@ -1,6 +1,6 @@
 {
   "id": "fam5m31_chk",
-  "display_name": "Half sister have excessive sleepiness",
+  "display_name": "Half sister has excessive sleepiness",
   "description": "Defined as having this 3 or more times per week",
   "type": "choices",
   "domain": "check",
