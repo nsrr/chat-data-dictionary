@@ -1,6 +1,6 @@
 {
   "id": "fam5s21_chk",
-  "display_name": "Full sister have headaches",
+  "display_name": "Full sister has headaches",
   "description": "Either migraines or chronic severe headache",
   "type": "choices",
   "domain": "check",

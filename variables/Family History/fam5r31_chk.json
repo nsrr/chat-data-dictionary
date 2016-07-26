@@ -1,6 +1,6 @@
 {
   "id": "fam5r31_chk",
-  "display_name": "Half sister whom snore loudly",
+  "display_name": "Half sister who snores loudly",
   "description": "Defined as having loud snores 3 or more times per week.",
   "type": "choices",
   "domain": "check",
