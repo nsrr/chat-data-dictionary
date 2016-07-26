@@ -1,6 +1,6 @@
 {
   "id": "fam13b",
-  "display_name": "Any runny or stuffy nose when exposed to dust?",
+  "display_name": "Occurrence of runny or stuffy nose when exposed to dust",
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
