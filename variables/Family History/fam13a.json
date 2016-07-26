@@ -1,6 +1,6 @@
 {
   "id": "fam13a",
-  "display_name": "Any stuffy or runny nose when exposed to smoke?",
+  "display_name": "Occurrence of stuffy or runny nose when exposed to smoke",
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",

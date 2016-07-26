@@ -1,6 +1,6 @@
 {
   "id": "par6_rc",
-  "display_name": "Mothers education level",
+  "display_name": "Mother's education level",
   "description": "Reclassed variable",
   "type": "choices",
   "domain": "education_rc",

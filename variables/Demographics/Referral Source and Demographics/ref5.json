@@ -1,6 +1,6 @@
 {
   "id": "ref5",
-  "display_name": "Child’s ethnicity?",
+  "display_name": "Child's ethnicity",
   "description": "",
   "type": "choices",
   "domain": "ethnicity",

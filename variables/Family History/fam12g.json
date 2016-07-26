@@ -1,6 +1,6 @@
 {
   "id": "fam12g",
-  "display_name": "Any runny or stuffy nose occur in the past year?",
+  "display_name": "Occurrence of runny or stuffy nose in the past year",
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
