@@ -1,6 +1,6 @@
 {
   "id": "fam6k1",
-  "display_name": "Do biological parent have high blood pressure",
+  "display_name": "Biological parents have high blood pressure",
   "description": "Also known as hypertension",
   "type": "choices",
   "domain": "noyesnotsure",
