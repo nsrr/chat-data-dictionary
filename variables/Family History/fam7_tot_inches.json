@@ -1,6 +1,6 @@
 {
   "id": "fam7_tot_inches",
-  "display_name": "Mother height at child birth in total inches",
+  "display_name": "Mother's height at child birth in total inches",
   "description": "",
   "type": "numeric",
   "units": "inches",

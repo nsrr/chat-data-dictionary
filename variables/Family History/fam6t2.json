@@ -1,6 +1,6 @@
 {
   "id": "fam6t2",
-  "display_name": "Biological mother other significant medical conditions",
+  "display_name": "Biological mother has other significant medical conditions",
   "description": "",
   "type": "choices",
   "domain":"noyes",

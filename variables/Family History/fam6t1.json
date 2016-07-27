@@ -1,6 +1,6 @@
 {
   "id": "fam6t1",
-  "display_name": "Do biological parent have other significant medical conditions",
+  "display_name": "Biological parents have other significant medical conditions",
   "description": "",
   "type": "choices",
   "domain":"noyesnotsure",
