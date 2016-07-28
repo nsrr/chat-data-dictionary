@@ -1,6 +1,6 @@
 {
   "id": "losao2r",
-  "display_name": "Minimum oxygen saturation rem",
+  "display_name": "Minimum oxygen saturation REM",
   "description": "Lowest oxygen saturation in REM sleep  [minimum(all oxygen saturation values in REM sleep)]",
   "type": "numeric",
   "units": "percent",
