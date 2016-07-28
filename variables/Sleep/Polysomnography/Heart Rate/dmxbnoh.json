@@ -1,7 +1,7 @@
 {
   "id": "dmxbnoh",
   "display_name": "Maximum heart rate with arousal (NREM, Other, 3% desaturation)",
-  "description": "Highest heart rate during REM sleep with non-supine body position",
+  "description": "Highest heart rate during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "beats per minute"
 }

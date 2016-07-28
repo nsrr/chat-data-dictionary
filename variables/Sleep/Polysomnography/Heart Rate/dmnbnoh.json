@@ -1,7 +1,7 @@
 {
   "id": "dmnbnoh",
   "display_name": "Minimum heart rate with arousal (NREM, Other, 3% desaturation)",
-  "description": "Lowest heart rate during REM sleep with non-supine body position",
+  "description": "Lowest heart rate during NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "beats per minute"
 }
