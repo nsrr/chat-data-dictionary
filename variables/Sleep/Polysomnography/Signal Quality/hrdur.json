@@ -1,7 +1,7 @@
 {
   "id": "hrdur",
   "display_name": "Hours of usable heart rate",
-  "description": "Hours of usable heart rate",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [

@@ -1,7 +1,7 @@
 {
   "id": "o1dur",
   "display_name": "Hours of usable O1",
-  "description": "Hours of usable EEG",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [

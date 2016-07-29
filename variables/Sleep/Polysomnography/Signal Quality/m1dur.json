@@ -1,7 +1,7 @@
 {
   "id": "m1dur",
   "display_name": "Hours of usable M1",
-  "description": "Hours of usable EEG",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [
