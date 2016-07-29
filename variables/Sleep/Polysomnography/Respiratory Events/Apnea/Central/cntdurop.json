@@ -1,7 +1,7 @@
 {
   "id": "cntdurop",
   "display_name": "Total central apnea length (NREM, Other)",
-  "description": "Total duration of central apnea in REM sleep with non-supine body position",
+  "description": "Total duration of central apnea in NREM sleep with non-supine body position",
   "type": "numeric",
   "units": "minutes"
 }

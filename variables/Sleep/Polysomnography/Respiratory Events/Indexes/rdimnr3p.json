@@ -1,6 +1,6 @@
 {
   "id": "rdimnr3p",
-  "display_name": "Overall non-rem RDI at 3% desaturation",
+  "display_name": "Overall Non-REM RDI at 3% desaturation",
   "description": "Non-REM RDI at 3% desaturation  [(total number of apneas and hypopneas in non-REM sleep associated with >= 3% desaturation) / (hours of NREM sleep)]",
   "type": "numeric",
   "units": "events per hour",

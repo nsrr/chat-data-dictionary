@@ -1,7 +1,7 @@
 {
   "id": "ahiov20",
   "display_name": "OAI > 15 or AHI > 20 = 1  Surgeon Alert",
-  "description": "OAI > 15 or AHI > 20 = 1  Surgeon Alert",
+  "description": "",
   "type": "choices",
   "domain": "noyes",
   "forms": [

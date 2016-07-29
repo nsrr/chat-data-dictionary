@@ -1,6 +1,6 @@
 {
   "id": "rdimrem4p",
-  "display_name": "Overall Rem RDI at 4% desaturation",
+  "display_name": "Overall REM RDI at 4% desaturation",
   "description": "REM RDI at 4% desaturation  [(total number of apneas and hypopneas in REM sleep associated with >= 4% desaturation) / (hours of REM sleep)]",
   "type": "numeric",
   "units": "events per hour",
