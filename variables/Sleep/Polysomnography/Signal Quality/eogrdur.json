@@ -1,7 +1,7 @@
 {
   "id": "eogrdur",
   "display_name": "Hours of usable EOG R",
-  "description": "Hours of usable EOG R",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [

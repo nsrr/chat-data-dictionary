@@ -1,7 +1,7 @@
 {
   "id": "f3dur",
   "display_name": "Hours of usable F3",
-  "description": "Hours of usable EEG",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [

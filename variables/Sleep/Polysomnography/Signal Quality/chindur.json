@@ -1,7 +1,7 @@
 {
   "id": "chindur",
   "display_name": "Hours of usable chin",
-  "description": "Hours of usable chin",
+  "description": "",
   "type": "numeric",
   "units": "hours",
   "forms": [
