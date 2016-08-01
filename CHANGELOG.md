@@ -1,6 +1,8 @@
 ## 0.5.1
 
 - Clean up variable display names
+- Clarify meaning of `slh3c_ck` variable
+- Fix issue with form linking for SLHQ variables
 
 ## 0.5.0 (July 21, 2016)
 
