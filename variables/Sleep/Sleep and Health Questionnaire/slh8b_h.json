@@ -5,9 +5,6 @@
   "type": "numeric",
   "units": "hours",
   "forms": [
-    "chat_sleepquestionnaire_forms"
-  ],
-  "forms": [
-    "chat_sleepquestionnaire2_forms"
+    "chat_slhq_forms"
   ]
 }
