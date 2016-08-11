@@ -1,4 +1,4 @@
-## 0.5.1
+## 0.5.1 (August 11, 2016)
 
 - Clean up variable display names
 - Clarify meaning of `slh3c_ck` variable
