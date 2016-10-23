@@ -1,3 +1,4 @@
+libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
 *preparing CHAT dataset for NSRR release;
 
 *set options;
@@ -13,10 +14,10 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.5.0;
+%let release = 0.6.0.beta1;
 
 *set library to BioLINCC CHAT dataset;
-libname chatb "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
+libname chatb "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
 
 *set latest dataset based upon most recent release;
 data chat_latest;
@@ -312,9 +313,39 @@ data chat_latest_withunit;
   by obf_pptid vnum;
 run;
 
+*merge Thoraco-Abdominal Asynchrony data;
+proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20160916.xlsx"
+  out=chat_asynchrony_baseline
+  dbms=xlsx
+  replace;
+  sheet="baseline";
+  getnames=yes;
+run;
+
+proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20160916.xlsx"
+  out=chat_asynchrony_followup
+  dbms=xlsx
+  replace;
+  sheet="followup";
+  getnames=yes;
+run;
+
+data chat_async_base;
+  length obf_pptid vnum 8.;
+  set chat_asynchrony_baseline;
+  vnum = 3;
+run;
+
+data chat_async_fu;
+  length obf_pptid vnum 8.;
+  set chat_asynchrony_followup;
+  vnum = 10;
+run;
+
 *split dataset into two parts based on 'vnum';
 data chatbaseline chatfollowup;
-  set chat_latest_withunit;
+  merge chat_latest_withunit chat_async_base chat_async_fu;
+  by obf_pptid vnum;
 
   *visit number is 'vnum';
   if vnum = 3 then output chatbaseline;
@@ -323,7 +354,7 @@ run;
 
 *create separate dataset for 'nonrandomized' participants and keep small number of key variables;
 *import list of nonrandomized ids;
-proc import datafile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_ids\chat_nonrandomized_ids.csv"
+proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids\chat_nonrandomized_ids.csv"
   out=chat_nr_ids
   dbms=csv
   replace;
@@ -360,7 +391,7 @@ proc sort data=chatnonrandomized;
 run;
 
 *set library for permanent CHAT NSRR datasets;
-libname chatn "\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets";
+libname chatn "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets";
 
 *save dated permanent SAS datasets;
 data chatn.chatbaseline_&sasfiledate;
@@ -375,22 +406,21 @@ data chatn.chatnonrandomized_&sasfiledate;
   set chatnonrandomized;
 run;
 
-
 *export to csv;
 proc export data=chatbaseline
-  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-baseline-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-baseline-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export data=chatfollowup
-  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-followup-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-followup-dataset-&release..csv"
   dbms=csv
   replace;
 run;
 
 proc export data=chatnonrandomized
-  outfile="\\rfa01\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-nonrandomized-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\nsrr-csvs\chat-nonrandomized-dataset-&release..csv"
   dbms=csv
   replace;
 run;

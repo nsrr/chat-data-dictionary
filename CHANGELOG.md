@@ -1,5 +1,12 @@
 ## 0.6.0
 
+- Adds Thoraco-Abdominal Asynchrony data calculated and submitted by an NSRR user
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.6.0.beta1\`
+    - `chat-baseline-dataset-0.6.0.beta1.csv`
+    - `chat-followup-dataset-0.6.0.beta1.csv`
+    - `chat-nonrandomized-dataset-0.6.0.beta1.csv`
+
 ## 0.5.1 (August 11, 2016)
 
 - Clean up variable display names

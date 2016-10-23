@@ -1,0 +1,7 @@
+{
+  "id": "taa_total_st",
+  "display_name": "Amount of sleep included in the total thoraco-abdominal asynchrony analysis",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}
