@@ -1,3 +1,5 @@
+## 0.6.0
+
 ## 0.5.1 (August 11, 2016)
 
 - Clean up variable display names
