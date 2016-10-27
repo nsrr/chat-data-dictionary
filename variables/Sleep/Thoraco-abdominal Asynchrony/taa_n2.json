@@ -3,5 +3,5 @@
   "display_name": "Average thoraco-abdominal asynchrony during scored-event-free N2 sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "natural logarithm degrees"
 }
