@@ -1,11 +1,22 @@
-## 0.6.0
+## 0.6.0 (November 11, 2016)
 
-- Adds Thoraco-Abdominal Asynchrony data calculated and submitted by an NSRR user
+- Add Thoraco-Abdominal Asynchrony data calculated and submitted by an NSRR user
+- Correct issue with HRV summary dataset from follow-up
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.6.0.rc\`
-    - `chat-baseline-dataset-0.6.0.rc.csv`
-    - `chat-followup-dataset-0.6.0.rc.csv`
-    - `chat-nonrandomized-dataset-0.6.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.6.0\`
+    - `chat-baseline-dataset-0.6.0.csv`
+    - `chat-baseline-eeg-band-summary-0.6.0.csv`
+    - `chat-baseline-eeg-spectral-summary-0.6.0.csv`
+    - `chat-baseline-hrv-5min-0.6.0.csv`
+    - `chat-baseline-hrv-summary-0.6.0.csv`
+    - `chat-followup-dataset-0.6.0.csv`
+    - `chat-followup-eeg-band-summary-0.6.0.csv`
+    - `chat-followup-eeg-spectral-summary-0.6.0.csv`
+    - `chat-followup-hrv-5min-0.6.0.csv`
+    - `chat-followup-hrv-summary-0.6.0.csv`
+    - `chat-nonrandomized-dataset-0.6.0.csv`
+    - `chat-nonrandomized-eeg-band-summary-0.6.0.csv`
+    - `chat-nonrandomized-eeg-spectral-summary-0.6.0.csv`
 
 ## 0.5.1 (August 11, 2016)
 
