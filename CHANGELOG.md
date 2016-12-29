@@ -1,3 +1,5 @@
+## 0.7.0
+
 ## 0.6.0 (November 11, 2016)
 
 - Add Thoraco-Abdominal Asynchrony data calculated and submitted by an NSRR user
