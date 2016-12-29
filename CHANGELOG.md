@@ -1,5 +1,8 @@
 ## 0.7.0
 
+- Correct Thoraco-abdominal Asynchrony values based on EDF fixes
+- Note: EDF fixes are detailed at https://www.sleepdata.org/datasets/chat/pages/polysomnography-introduction.md
+
 ## 0.6.0 (November 11, 2016)
 
 - Add Thoraco-Abdominal Asynchrony data calculated and submitted by an NSRR user

@@ -14,7 +14,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.6.0;
+%let release = 0.7.0.beta1;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
@@ -314,7 +314,7 @@ data chat_latest_withunit;
 run;
 
 *merge Thoraco-Abdominal Asynchrony data;
-proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20160916.xlsx"
+proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20161229.xlsx"
   out=chat_asynchrony_baseline
   dbms=xlsx
   replace;
@@ -322,7 +322,7 @@ proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_ab
   getnames=yes;
 run;
 
-proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20160916.xlsx"
+proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\asynchrony\Thoraco_abdominal_asynchrony_submission_20161229.xlsx"
   out=chat_asynchrony_followup
   dbms=xlsx
   replace;
