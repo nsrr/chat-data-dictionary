@@ -1,7 +1,10 @@
 ## 0.7.0
 
 - Correct Thoraco-abdominal Asynchrony values based on EDF fixes
+- Update HRV and EEG Spectral datasets based on EDF fixes
 - Note: EDF fixes are detailed at https://www.sleepdata.org/datasets/chat/pages/polysomnography-introduction.md
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-chat\nsrr-prep\_releases\0.7.0.rc\`
 
 ## 0.6.0 (November 11, 2016)
 
