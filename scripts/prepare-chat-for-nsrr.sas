@@ -1,3 +1,7 @@
+*******************************************************************************;
+/* prepare-chat-for-nsrr.sas */
+*******************************************************************************;
+
 libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
 *preparing CHAT dataset for NSRR release;
 
@@ -14,7 +18,7 @@ data _null_;
 run;
 
 *create macro variable for release number;
-%let release = 0.7.0;
+%let release = 0.8.0.pre;
 
 *set library to BioLINCC CHAT dataset;
 libname chatb "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
