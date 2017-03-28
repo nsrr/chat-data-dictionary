@@ -1,3 +1,5 @@
+## 0.8.0
+
 ## 0.7.0 (January 19, 2017)
 
 - Correct Thoraco-abdominal Asynchrony values based on EDF fixes
