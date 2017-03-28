@@ -408,6 +408,28 @@
   run;
 
 *******************************************************************************;
+* make all variable names lowercase ;
+*******************************************************************************;
+  options mprint;
+  %macro lowcase(dsn);
+       %let dsid=%sysfunc(open(&dsn));
+       %let num=%sysfunc(attrn(&dsid,nvars));
+       %put &num;
+       data &dsn;
+             set &dsn(rename=(
+          %do i = 1 %to &num;
+          %let var&i=%sysfunc(varname(&dsid,&i));    /*function of varname returns the name of a SAS data set variable*/
+          &&var&i=%sysfunc(lowcase(&&var&i))         /*rename all variables*/
+          %end;));
+          %let close=%sysfunc(close(&dsid));
+    run;
+  %mend lowcase;
+
+  %lowcase(chatbaseline);
+  %lowcase(chatfollowup);
+  %lowcase(chatnonrandomized);
+
+*******************************************************************************;
 * create permanent sas datasets ;
 *******************************************************************************;
   data chatn.chatbaseline_&sasfiledate;

@@ -1,5 +1,7 @@
 ## 0.8.0
 
+- Make all variable names lowercase in CSV datasets
+
 ## 0.7.0 (January 19, 2017)
 
 - Correct Thoraco-abdominal Asynchrony values based on EDF fixes
