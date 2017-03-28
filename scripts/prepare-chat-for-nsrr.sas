@@ -62,7 +62,7 @@
       par4r = .;
     end;
 
-    *fix Sleep and Health Questionnaire inconsistencies;
+    *fix sleep and health questionnaire inconsistencies;
     if vnum = 3 then do;
       slh3_ba = slh3;
       slh5a_ba = slh5a;
@@ -89,6 +89,47 @@
       slh5h_fu = slh5h;
       slh5i_fu = slh5i;
     end;
+
+    *create new AHI variables for ICSD3;
+    ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
+                    carbp + carop + canbp + canop + 
+                    oarbp + oarop + oanbp + oanop + 
+                    marbp + marop + manrbp + manrop ) / slpprdp;
+    ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
+                    carbp + carop + canbp + canop + 
+                    oarbp + oarop + oanbp + oanop + 
+                    marbp + marop + manrbp + manrop ) / slpprdp;
+    ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
+                      carbp + carop + canbp + canop + 
+                      oarbp + oarop + oanbp + oanop + 
+                      marbp + marop + manrbp + manrop ) / slpprdp;
+    ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
+                      carbp + carop + canbp + canop + 
+                      oarbp + oarop + oanbp + oanop + 
+                      marbp + marop + manrbp + manrop ) / slpprdp;
+
+    ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
+    ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
+                    oarbp + oarop + oanbp + oanop ) / slpprdp;
+    ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
+                      oarbp + oarop + oanbp + oanop ) / slpprdp;
+    ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
+                      oarbp + oarop + oanbp + oanop ) / slpprdp;
+
+    ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
+                    carbp + carop + canbp + canop ) / slpprdp;
+    ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
+                    carbp + carop + canbp + canop ) / slpprdp;
+    ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
+                    carbp + carop + canbp + canop ) / slpprdp;
+    ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
+                    carbp + carop + canbp + canop ) / slpprdp;
+
+    cent_obs_ratio = (carbp + carop + canbp + canop) / 
+                      (oarbp + oarop + oanbp + oanop);
+    cent_obs_ratioa = (carba + caroa + canba + canoa) / 
+                      (oarba + oaroa + oanba + oanoa);
 
     *recode values to missing;
     if bri10a_tr in (555,666,999) then bri10a_tr = .;

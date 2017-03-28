@@ -2,6 +2,7 @@
 
 - Make all variable names lowercase in CSV datasets
 - Change name of subject identifier variable from 'obf_pptid' to 'nsrrid'
+- Add ICSD AHI variables
 
 ## 0.7.0 (January 19, 2017)
 
