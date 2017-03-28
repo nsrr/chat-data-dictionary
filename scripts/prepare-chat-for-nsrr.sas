@@ -29,14 +29,14 @@
 * import and process master dataset from source ;
 *******************************************************************************;
   data chat_latest;
-    length obf_pptid 8.;
+    length nsrrid 8.;
     set chatb.redacted_chat_20140501;
 
     *remove subjects from censored site;
     if clusterid = 95 then delete;
 
-    *create obfuscated ID for filenaming conventions;
-    obf_pptid = new_pid + 300000;
+    *create obfuscated nsrr subject identifier for filenaming conventions;
+    nsrrid = new_pid + 300000;
 
     *recode race from 1=B, 2=W, 7=O, to 1=W, 2=B, 3=O to match other datasets;
     if race3 = 1 then race3 = 2;
@@ -313,15 +313,18 @@
 
   *sort dataset by pptid and vnum;
   proc sort data=chat_latest;
-    by obf_pptid vnum;
+    by nsrrid vnum;
   run;
 
 *******************************************************************************;
 * merge with unit data processed separately ;
 *******************************************************************************;
   data chat_latest_withunit;
-    merge chat_latest chatb.chat_unittype;
-    by obf_pptid vnum;
+    merge chat_latest (in=a) chatb.chat_unittype;
+    by nsrrid vnum;
+
+    *only keep if in latest chat dataset;
+    if a;
   run;
 
 *******************************************************************************;
@@ -344,13 +347,13 @@
   run;
 
   data chat_async_base;
-    length obf_pptid vnum 8.;
+    length nsrrid vnum 8.;
     set chat_asynchrony_baseline;
     vnum = 3;
   run;
 
   data chat_async_fu;
-    length obf_pptid vnum 8.;
+    length nsrrid vnum 8.;
     set chat_asynchrony_followup;
     vnum = 10;
   run;
@@ -361,7 +364,7 @@
   data chatbaseline 
     chatfollowup;
     merge chat_latest_withunit chat_async_base chat_async_fu;
-    by obf_pptid vnum;
+    by nsrrid vnum;
 
     *visit number is 'vnum';
     if vnum = 3 then output chatbaseline;
@@ -400,11 +403,11 @@
     format age_nr 8.1;
     age_nr = (datepart(ref3) - datepart(ref2)) / 365.25;
 
-    keep obf_pptid omahi3 REF9 REF8 age_nr REF5 REF4;
+    keep nsrrid omahi3 REF9 REF8 age_nr REF5 REF4;
   run;
 
   proc sort data=chatnonrandomized;
-    by obf_pptid;
+    by nsrrid;
   run;
 
 *******************************************************************************;

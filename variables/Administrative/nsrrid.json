@@ -1,0 +1,7 @@
+{
+  "id": "nsrrid",
+  "display_name": "NSRR Subject ID",
+  "description": "The NSRR subject identifer links the subject's data and files. Use 'new_pid' to link with BioLINCC and cohort-specific data.",
+  "type": "identifier",
+  "commonly_used": true
+}
