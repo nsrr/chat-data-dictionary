@@ -2,7 +2,7 @@
 
 require 'test_helper'
 
-# Launches default Spout tests and custom tests for specific to this dictionary
+# Launches default Spout tests and custom tests for specific to this dictionary.
 class DictionaryTest < Minitest::Test
   # This line includes all default Spout Dictionary tests
   include Spout::Tests
@@ -11,7 +11,8 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-  # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
+  # Example 1: Create custom tests to show that `integer` and `numeric`
+  # variables have a valid unit type.
   VALID_UNITS = [
     'natural logarithm degrees', 'seconds from start of recording',
     'seconds squared', 'microvolts squared per hertz', 'hertz',
@@ -26,7 +27,7 @@ class DictionaryTest < Minitest::Test
     'percentile', 'limb movements', 'percentage of oxygen saturation',
     'desaturation events', 'limb movements per hour',
     'percentage of carbon dioxide','events','millimoles per litre'
-  ] #Example ['mmHG','bpm','readings','minutes','%','hours','MET']
+  ]
 
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
