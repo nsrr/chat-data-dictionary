@@ -1,7 +1,7 @@
 {
   "id": "new_pid",
   "display_name": "Original Participant ID",
-  "description": "This is the participant identifier that is present on BioLINCC datasets. Use the `obf_pptid` when linking these data to other data on the NSRR.",
+  "description": "This is the participant identifier that is present on BioLINCC datasets. Use the `nsrrid` when linking these data to other data on the NSRR.",
   "type": "identifier",
   "commonly_used": true
 }

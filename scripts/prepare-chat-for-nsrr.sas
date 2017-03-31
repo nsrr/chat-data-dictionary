@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.8.0.pre;
+  %let version = 0.8.0.rc;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
@@ -55,7 +55,7 @@
     if vnum = 10 then male = maleretain;
     drop maleretain;
 
-    *remove values for 'par2r' and 'par4r' at follow-up -- only needed on 
+    *remove values for 'par2r' and 'par4r' at follow-up -- only needed on
       baseline dataset;
     if vnum = 10 then do;
       par2r = .;
@@ -91,44 +91,44 @@
     end;
 
     *create new AHI variables for ICSD3;
-    ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
-                    carbp + carop + canbp + canop + 
-                    oarbp + oarop + oanbp + oanop + 
+    ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop +
                     marbp + marop + manrbp + manrop ) / slpprdp;
-    ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
-                    carbp + carop + canbp + canop + 
-                    oarbp + oarop + oanbp + oanop + 
+    ahi_a0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
+                    carbp + carop + canbp + canop +
+                    oarbp + oarop + oanbp + oanop +
                     marbp + marop + manrbp + manrop ) / slpprdp;
-    ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
-                      carbp + carop + canbp + canop + 
-                      oarbp + oarop + oanbp + oanop + 
+    ahi_a0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
+                      carbp + carop + canbp + canop +
+                      oarbp + oarop + oanbp + oanop +
                       marbp + marop + manrbp + manrop ) / slpprdp;
-    ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
-                      carbp + carop + canbp + canop + 
-                      oarbp + oarop + oanbp + oanop + 
+    ahi_a0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
+                      carbp + carop + canbp + canop +
+                      oarbp + oarop + oanbp + oanop +
                       marbp + marop + manrbp + manrop ) / slpprdp;
 
-    ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
+    ahi_o0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
                     oarbp + oarop + oanbp + oanop ) / slpprdp;
-    ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
+    ahi_o0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
                     oarbp + oarop + oanbp + oanop ) / slpprdp;
-    ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
+    ahi_o0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
                       oarbp + oarop + oanbp + oanop ) / slpprdp;
-    ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
+    ahi_o0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
                       oarbp + oarop + oanbp + oanop ) / slpprdp;
 
-    ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + 
+    ahi_c0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 +
                     carbp + carop + canbp + canop ) / slpprdp;
-    ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 + 
+    ahi_c0h4 = 60 * (hrembp4 + hrop4 + hnrbp4 + hnrop4 +
                     carbp + carop + canbp + canop ) / slpprdp;
-    ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 + 
+    ahi_c0h3a = 60 * (hremba3 + hroa3 + hnrba3 + hnroa3 +
                     carbp + carop + canbp + canop ) / slpprdp;
-    ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 + 
+    ahi_c0h4a = 60 * (hremba4 + hroa4 + hnrba4 + hnroa4 +
                     carbp + carop + canbp + canop ) / slpprdp;
 
-    cent_obs_ratio = (carbp + carop + canbp + canop) / 
+    cent_obs_ratio = (carbp + carop + canbp + canop) /
                       (oarbp + oarop + oanbp + oanop);
-    cent_obs_ratioa = (carba + caroa + canba + canoa) / 
+    cent_obs_ratioa = (carba + caroa + canba + canoa) /
                       (oarba + oaroa + oanba + oanoa);
 
     *recode values to missing;
@@ -402,7 +402,7 @@
 *******************************************************************************;
 * split dataset into two parts based on vnum ;
 *******************************************************************************;
-  data chatbaseline 
+  data chatbaseline
     chatfollowup;
     merge chat_latest_withunit chat_async_base chat_async_fu;
     by nsrrid vnum;
