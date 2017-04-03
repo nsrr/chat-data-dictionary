@@ -1,10 +1,10 @@
-## 0.8.0
+## 0.8.0 (April 3, 2017)
 
-- Make all variable names lowercase in CSV datasets
+- Make all variable names lowercase in core CSV datasets
 - Change name of subject identifier variable from 'obf_pptid' to 'nsrrid'
 - Add ICSD AHI variables
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.8.0.rc\`
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.8.0\`
 - **Gem Changes**
   - Updated to spout 0.12.0
 
