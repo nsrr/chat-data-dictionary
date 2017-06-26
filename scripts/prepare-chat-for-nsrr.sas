@@ -349,6 +349,13 @@
           income /* unknown why this column was mixed in with PSG data, duplicate of other income variables */
           par5_ats_rc /* recoding of income variable (par5), unneeded duplication */
           siteid /* embedded in PSG dataset but supposed to be removed in favor of clusterid */
+          slp_time /* redundant with slpprdp */
+          slptime /* redundant with slpprdp */
+          slptimem /* redundant with slpprdp */
+          slp_lat /* redundant with slplatp */
+          slplatm /* redundant with slplatp */
+          time_bed /* redundant with timebedp */
+          timebedm /* redundant with timebedp */
           ;
   run;
 

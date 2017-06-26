@@ -3,6 +3,7 @@
 - Incorporate many new variable labels
 - Spell out abbreviations and acronyms in variable display names
 - Fix ICSD variable dispaly names and calculations
+- Remove redundant time in bed and sleep time variables
 
 ## 0.8.0 (April 3, 2017)
 
