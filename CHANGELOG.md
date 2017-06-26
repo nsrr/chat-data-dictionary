@@ -1,5 +1,9 @@
 ## 0.9.0
 
+- Incorporate many new variable labels
+- Spell out abbreviations and acronyms in variable display names
+- Fix ICSD variable dispaly names and calculations
+
 ## 0.8.0 (April 3, 2017)
 
 - Make all variable names lowercase in core CSV datasets
