@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.9.0.pre;
+  %let version = 0.9.0.beta1;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
