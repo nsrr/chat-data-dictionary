@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation (SaO2) with arousals (Non-rapid eye movement sleep (NREM), Non-supine, >=2% desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)",
+  "units": "percentage of oxygen saturation",
   "labels": [
     "non-rem"
   ]

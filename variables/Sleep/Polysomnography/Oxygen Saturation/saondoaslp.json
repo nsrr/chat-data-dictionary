@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation (SaO2) nadir associated with obstructive apnea (sleep)",
   "description": "Mean oxygen saturation (SaO2) nadir associated with obstructive apnea in sleep",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)",
+  "units": "percentage of oxygen saturation",
   "labels": [
     "%",
     "non-rem"

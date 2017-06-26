@@ -3,7 +3,7 @@
   "display_name": "Average end-tidal carbon dioxide (ETCO2) in non-rapid eye movement sleep (NREM) (normalized for capnograph type)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide (CO2)",
+  "units": "percentage of carbon dioxide",
   "calculation": "(rco2avgnr * 0.49613) + 20.83379",
   "labels": [
     "non-rem"

@@ -3,5 +3,5 @@
   "display_name": "Average desaturation with arousals (Rapid eye movement sleep (REM), Supine, >=3% desaturation)",
   "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)"
+  "units": "percentage of oxygen saturation"
 }

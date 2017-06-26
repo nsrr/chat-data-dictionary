@@ -3,7 +3,7 @@
   "display_name": "Maximum oxygen saturation (SaO2) during non-rapid eye movement sleep (NREM)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)",
+  "units": "percentage of oxygen saturation",
   "labels": [
     "%"
   ],

@@ -6,7 +6,7 @@
   "units": "seconds from date of randomization",
   "labels": [
     "dropout",
-    " dropped out"
+    "dropped out"
   ],
   "forms": [
     "chat_treatment_stop_forms"

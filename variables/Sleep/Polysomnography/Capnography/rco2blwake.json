@@ -3,6 +3,6 @@
   "display_name": "Baseline end-tidal carbon dioxide (ETCO2) awake",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide (CO2)",
+  "units": "percentage of carbon dioxide",
   "commonly_used": true
 }

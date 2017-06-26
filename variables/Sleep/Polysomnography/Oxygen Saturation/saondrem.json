@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation (SaO2) nadir (Rapid eye movement sleep (REM))",
   "description": "Mean oxygen saturation (SaO2) nadir in rapid eye movement sleep (REM)",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)",
+  "units": "percentage of oxygen saturation",
   "labels": [
     "%"
   ]

@@ -3,5 +3,5 @@
   "display_name": "Average desaturation (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
   "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)"
+  "units": "percentage of oxygen saturation"
 }

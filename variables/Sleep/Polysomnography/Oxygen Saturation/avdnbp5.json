@@ -3,7 +3,7 @@
   "display_name": "Average desaturation (Non-rapid eye movement sleep (NREM), Supine, >=5% desaturation)",
   "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation (SaO2)",
+  "units": "percentage of oxygen saturation",
   "labels": [
     "non-rem "
   ]
