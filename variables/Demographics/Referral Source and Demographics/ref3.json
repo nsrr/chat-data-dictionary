@@ -1,6 +1,6 @@
 {
   "id": "ref3",
-  "display_name": "What is the screening PSG date?",
+  "display_name": "What is the screening Polysomnography (PSG) date?",
   "description": "",
   "type": "integer",
   "units": "seconds from date of randomization",

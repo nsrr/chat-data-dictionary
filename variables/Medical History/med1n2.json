@@ -4,7 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "lifestyle change",
+    "statins",
+    "selective cholestrol absorption inhibitors",
+    "resins",
+    "lipid-lowering therapies"
   ]
 }

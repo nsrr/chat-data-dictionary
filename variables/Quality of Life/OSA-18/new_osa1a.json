@@ -3,5 +3,8 @@
   "display_name": "Loud Snoring",
   "description": "Original source: MS 003",
   "type": "choices",
-  "domain":"nonengoodbitoftime"
+  "domain": "nonengoodbitoftime",
+  "labels": [
+    "qol"
+  ]
 }

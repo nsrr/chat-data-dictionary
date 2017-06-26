@@ -4,7 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "lifestyle change",
+    "cbt",
+    "cognitive behavioral therapy"
   ]
 }

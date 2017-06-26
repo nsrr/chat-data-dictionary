@@ -4,6 +4,13 @@
   "description": "Defined as having this 3 or more times per week",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "mom",
+    "dad",
+    "eds",
+    "tiredness",
+    "sleepy"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

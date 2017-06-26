@@ -3,8 +3,5 @@
   "display_name": "Eczema still present?",
   "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

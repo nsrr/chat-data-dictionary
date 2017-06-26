@@ -1,7 +1,10 @@
 {
   "id": "cntdur",
-  "display_name": "Total central apnea length (NREM)",
-  "description": "Total duration of central apnea in NREM sleep",
+  "display_name": "Total central apnea length (Non-rapid eye movement sleep (NREM))",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

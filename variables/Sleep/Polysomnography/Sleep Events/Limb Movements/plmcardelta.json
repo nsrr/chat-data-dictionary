@@ -1,7 +1,15 @@
 {
   "id": "plmcardelta",
-  "display_name": "Number of PLM clusters with arousal and respiratory event (delta sleep)",
-  "description": "Total PLM clusters with arousal and  respiratory events in delta sleep",
+  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal and respiratory event (delta sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "sws",
+    "slow wave",
+    "stage 3",
+    " 4",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

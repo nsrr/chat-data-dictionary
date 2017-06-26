@@ -1,9 +1,13 @@
 {
   "id": "pctle90",
-  "display_name": "Percentage of time <= 90% oxygen saturation",
-  "description": "Percent of sleep time with oxygen saturation <= 90%  [100*(total number of minutes with oxygen saturation <= 90) / (total sleep time)].",
+  "display_name": "Percentage of time <= 90% oxygen saturation (SaO2)",
+  "description": "[100*(total number of minutes with oxygen saturation (SaO2) <= 90) / (Total Sleep Time (TST))].",
   "type": "numeric",
   "units": "percent",
   "calculation": "pctsa90",
+  "labels": [
+    "hypoxia",
+    "hypoxemia"
+  ],
   "commonly_used": true
 }

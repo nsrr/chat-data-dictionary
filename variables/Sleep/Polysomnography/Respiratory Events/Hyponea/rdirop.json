@@ -1,7 +1,7 @@
 {
   "id": "rdirop",
-  "display_name": "Hypopnea per hour (REM, Other, all desaturations)",
-  "description": "Number of hypopnea per hour of REM sleep with non-supine body position",
+  "display_name": "Hypopnea per hour (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
   "commonly_used": true

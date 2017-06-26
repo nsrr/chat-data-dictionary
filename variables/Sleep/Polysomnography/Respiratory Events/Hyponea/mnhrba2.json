@@ -1,7 +1,10 @@
 {
   "id": "mnhrba2",
-  "display_name": "Minimum hypopnea length with arousals (REM, Back, 2% desaturation)",
-  "description": "Shortest hypopnea during REM sleep with supine body position",
+  "display_name": "Minimum hypopnea length with >=2% desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

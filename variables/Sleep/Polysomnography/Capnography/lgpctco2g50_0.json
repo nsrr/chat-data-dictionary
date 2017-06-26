@@ -1,7 +1,15 @@
 {
   "id": "lgpctco2g50_0",
-  "display_name": "LOG % TST with CO2 > 50 mm Hg (0 replaced with 0.0001)",
+  "display_name": "LOG % Total Sleep Time (TST) with carbon dioxide (CO2) > 50 millimeters (mm) mercury (Hg) (0 replaced with 0.0001)",
   "description": "Original source: MS 003",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "etco2",
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

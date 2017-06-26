@@ -1,10 +1,10 @@
 {
   "id": "med1a3",
-  "display_name": "ALTE still present?",
-  "description": "Also known as an acute life threatening episode",
+  "display_name": "Acute life threatening episode (ALTE) still present?",
+  "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "apparent life threatening event"
   ]
 }

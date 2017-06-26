@@ -3,7 +3,6 @@
   "display_name": "GEC raw score",
   "description": " GEC = BRI + MI ",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_brief__tr_forms"
   ]

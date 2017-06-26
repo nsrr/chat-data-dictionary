@@ -3,7 +3,10 @@
   "display_name": "Number of half sisters with headaches",
   "description": "Either migraines or chronic severe headache",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

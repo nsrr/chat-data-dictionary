@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "stepbrother",
+    "stepsibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "education",
+  "labels": [
+    "mom"
+  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

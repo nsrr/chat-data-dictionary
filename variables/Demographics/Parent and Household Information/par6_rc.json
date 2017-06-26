@@ -4,6 +4,12 @@
   "description": "Reclassed variable",
   "type": "choices",
   "domain": "education_rc",
+  "labels": [
+    "mom",
+    "schooling",
+    "college",
+    "high school degree"
+  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

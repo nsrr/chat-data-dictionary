@@ -4,6 +4,9 @@
   "description": "Hours of usable EEG",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "length"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

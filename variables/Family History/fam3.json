@@ -4,6 +4,10 @@
   "description": "These siblings have the same mother and father as the child",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "brother",
+    "sister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

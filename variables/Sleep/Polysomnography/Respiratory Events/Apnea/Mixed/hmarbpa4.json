@@ -1,7 +1,7 @@
 {
   "id": "hmarbpa4",
-  "display_name": "Number of mixed apnea with arousal per hour (REM, Back, 4% desaturation)",
-  "description": "Number of mixed apnea per hour of REM sleep with supine body position",
+  "display_name": "Number of mixed apnea with >=4% desaturation or arousal per hour (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour"
 }

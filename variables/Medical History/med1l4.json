@@ -4,7 +4,16 @@
   "description": "This includes nasal allergies",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "allergic rhinitis",
+    "nasal corticosteroids",
+    "antihistamines",
+    "decongestants",
+    "cromolyn sodium",
+    "leukotriene modifier",
+    "nasal ipratropium",
+    "oral corticosteriods",
+    "immunotherapy",
+    "allergy shots"
   ]
 }

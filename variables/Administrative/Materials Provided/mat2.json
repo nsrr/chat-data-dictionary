@@ -3,7 +3,10 @@
   "display_name": "Was saline spray provided to the child?",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "nasal "
+  ],
   "forms": [
     "chat_materials_forms"
   ]

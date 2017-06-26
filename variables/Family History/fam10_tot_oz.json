@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "ounces",
+  "labels": [
+    "mom",
+    "wt",
+    "oz"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

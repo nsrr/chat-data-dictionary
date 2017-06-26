@@ -4,6 +4,11 @@
   "description": "Also known as nasal allergies",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "sibling",
+    "allergic rhinitis",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

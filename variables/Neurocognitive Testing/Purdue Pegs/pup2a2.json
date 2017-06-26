@@ -3,7 +3,6 @@
   "display_name": "Dominant Hand Number of Pegs",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_pegs_forms"
   ]

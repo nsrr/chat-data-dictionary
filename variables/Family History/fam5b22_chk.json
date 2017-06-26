@@ -1,9 +1,13 @@
 {
   "id": "fam5b22_chk",
-  "display_name": "Full brothers has SIDS",
-  "description": "Also known as crib death or sudden infant death syndrome",
+  "display_name": "Full brothers has Sudden Infant Death Syndrome (SIDS)",
+  "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "cot death",
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

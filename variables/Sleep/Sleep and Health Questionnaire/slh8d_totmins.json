@@ -4,6 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "labels": [
+    "exercise"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

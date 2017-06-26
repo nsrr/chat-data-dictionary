@@ -1,7 +1,7 @@
 {
   "id": "avmaropa3",
-  "display_name": "Average mixed apnea with arousal length (REM, Other, 3% desaturation)",
-  "description": "Average mixed apnea duration during REM sleep with non-supine body position",
+  "display_name": "Average mixed apnea length with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
   "units": "seconds"
 }

@@ -1,9 +1,12 @@
 {
   "id": "fam6s3",
-  "display_name": "Biological father has emphysema or COPD",
-  "description": "COPD also known as chronic obstructive pulmonary disease",
+  "display_name": "Biological father has emphysema or chronic obstructive pulmonary disease (COPD)",
+  "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

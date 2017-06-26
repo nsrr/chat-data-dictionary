@@ -3,9 +3,8 @@
   "display_name": "Height velocity",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
-    "haz_gain",
-    "ant3_gain"
+    "ant3_gain",
+    "ht"
   ]
 }

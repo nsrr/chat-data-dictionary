@@ -1,13 +1,14 @@
 {
   "id": "fas10a",
-  "display_name": "Processing start time for ethylenediaminetetraacetic acid.",
+  "display_name": "Processing start time for ethylenediaminetetraacetic acid (EDTA)",
   "description": "",
   "type": "time",
-  "units": "",
+  "labels": [
+    "chelation therapy",
+    "lead poisoning",
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
-  ],
-  "lables": [
-    "edta"
   ]
 }

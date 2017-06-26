@@ -1,7 +1,10 @@
 {
   "id": "arnremop",
-  "display_name": "Number of arousals (NREM, Other, all desaturations)",
-  "description": "Number of arousals during NREM and non-supine body position",
+  "display_name": "Number of arousals (Non-rapid eye movement sleep (NREM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem"
+  ]
 }

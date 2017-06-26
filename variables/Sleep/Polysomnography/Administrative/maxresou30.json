@@ -1,9 +1,9 @@
 {
   "id": "maxresou30",
-  "display_name": "Maximum length respiratory event >30s verified",
-  "description": "1=Outlier - max length respiratory event > 30s verified",
-  "domain": "noyes",
+  "display_name": "Maximum length respiratory event >30 seconds verified",
+  "description": "1=Outlier - max length respiratory event > 30 seconds verified",
   "type": "choices",
+  "domain": "noyes",
   "forms": [
     "chat_qs_forms"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "fam5e1",
-  "display_name": "Any siblings with ADD/ADHD?",
-  "description": "Known as attention deficit hyperactivity disorder",
+  "display_name": "Any siblings with Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)?",
+  "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
   "forms": [

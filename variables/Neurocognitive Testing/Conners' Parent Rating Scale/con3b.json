@@ -3,7 +3,6 @@
   "display_name": "Cognitive Problems / Inattention T-Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_conners_forms"
   ]

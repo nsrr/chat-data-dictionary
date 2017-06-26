@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "parentrace",
+  "labels": [
+    "dad"
+  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

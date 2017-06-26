@@ -1,7 +1,12 @@
 {
   "id": "hmnbnbh",
-  "display_name": "Minimum heart rate (NREM, Back, 3% desaturation)",
-  "description": "Lowest heart rate during NREM sleep with supine body position",
+  "display_name": "Minimum heart rate (Non-rapid eye movement sleep (NREM), Supine, >=3% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "non-rem"
+  ]
 }

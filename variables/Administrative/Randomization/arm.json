@@ -1,11 +1,18 @@
 {
   "id": "arm",
   "display_name": "Treatment Arm",
-  "description": "The randomization code assigned by the Data Management System.",
+  "description": "The randomization code assigned by the Data Management System (DMS).",
   "type": "choices",
   "domain": "treatmentarm",
+  "labels": [
+    "randomized",
+    "early adenotonsillectomy",
+    "eat",
+    "wwsc",
+    "watchful waiting plus supportive care"
+  ],
+  "commonly_used": true,
   "forms": [
     "chat_random_forms"
-  ],
-  "commonly_used": true
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "hntdur",
-  "display_name": "Total hypopnea length (NREM)",
-  "description": "Total duration of hypopnea in NREM sleep",
+  "display_name": "Total hypopnea length (Non-rapid eye movement sleep (NREM))",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

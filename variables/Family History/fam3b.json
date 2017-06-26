@@ -3,7 +3,9 @@
   "display_name": "If YES, how many FULL brothers?",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

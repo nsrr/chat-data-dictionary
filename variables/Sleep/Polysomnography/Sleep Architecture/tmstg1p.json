@@ -1,7 +1,13 @@
 {
   "id": "tmstg1p",
   "display_name": "Percentage of sleep time in stage 1 sleep",
-  "description": "[(Number of minutes scored as stage 1) / (total sleep time)] * 100  (use calculated variable - sleep wake studies screened out)",
+  "description": "[(Number of minutes scored as stage 1) / (Total Sleep Time (TST))] * 100  (use calculated variable - sleep wake studies screened out)",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "%",
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement "
+  ]
 }

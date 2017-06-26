@@ -1,9 +1,13 @@
 {
   "id": "fam5b1",
-  "display_name": "Any siblings with SIDS?",
-  "description": "Also known as crib death or sudden infant death syndrome",
+  "display_name": "Any siblings with Sudden Infant Death Syndrome (SIDS)?",
+  "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "brother sister",
+    "cot death"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

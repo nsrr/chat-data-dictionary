@@ -1,9 +1,17 @@
 {
   "id": "times34p",
   "display_name": "Percentage time stage 3-4",
-  "description": "Percent of sleep time in stage 3-4 [100*(number of minutes scored as stage 3-4) / (total sleep time)]",
+  "description": "Percent of sleep time in stage 3-4 [100*(number of minutes scored as stage 3-4) / (Total Sleep Time (TST))]",
   "type": "numeric",
   "units": "percent",
-  "commonly_used": true,
-  "calculation": "tmstg34p"
+  "calculation": "tmstg34p",
+  "labels": [
+    "%",
+    "slow wave sleep",
+    "sws",
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement sleep"
+  ],
+  "commonly_used": true
 }

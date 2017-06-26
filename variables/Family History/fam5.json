@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "notapplicable",
+  "labels": [
+    "brother",
+    "sister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

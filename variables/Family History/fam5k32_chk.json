@@ -4,6 +4,10 @@
   "description": "Eczema or atopic dermatitis",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "sibling",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

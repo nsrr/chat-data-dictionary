@@ -3,5 +3,10 @@
   "display_name": "Time in stage 1 sleep",
   "description": "Total time scored as stage 1, rounded to nearest minute  (use calculated variable - sleep wake studies screened out)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "avcanba",
-  "display_name": "Average central apnea length with arousals (NREM, Back, all desaturations)",
-  "description": "Average central apnea duration during NREM sleep with supine body position",
+  "display_name": "Average central apnea length with arousals (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

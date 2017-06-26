@@ -1,7 +1,7 @@
 {
   "id": "marop",
-  "display_name": "Number of mixed apnea (REM, Other, all desaturations)",
-  "description": "Number of mixed apnea during REM sleep with non-supine body position",
+  "display_name": "Number of mixed apnea (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "seconds"
 }

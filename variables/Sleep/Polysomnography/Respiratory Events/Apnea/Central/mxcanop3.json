@@ -1,7 +1,11 @@
 {
   "id": "mxcanop3",
-  "display_name": "Maximum central apnea length (NREM, Other 3% desaturation)",
-  "description": "Longest central apnea during NREM sleep with non-supine body position",
+  "display_name": "Maximum central apnea length (Non-rapid eye movement sleep (NREM), Non-supine >=3% desaturation)",
+  "description": "Longest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

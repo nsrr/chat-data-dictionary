@@ -1,7 +1,9 @@
 {
   "id": "pedsql_social_pctmiss_chld",
-  "display_name": "PedQL Child Social Function pct missing",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Child Social Function pct missing",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "qol"
+  ]
 }

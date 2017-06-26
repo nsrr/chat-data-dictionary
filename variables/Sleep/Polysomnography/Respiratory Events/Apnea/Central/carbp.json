@@ -1,7 +1,7 @@
 {
   "id": "carbp",
-  "display_name": "Number of central apnea (REM, Back, all desaturations)",
-  "description": "Number of central apnea during REM sleep with supine body position",
+  "display_name": "Number of central apnea (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events"
 }

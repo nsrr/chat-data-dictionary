@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling",
+    "dm"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

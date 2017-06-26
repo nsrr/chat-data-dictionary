@@ -1,9 +1,13 @@
 {
   "id": "fam5a31",
-  "display_name": "Number of half sisters with ATLE",
+  "display_name": "Number of half sisters with acute life threatening episode (ALTE)",
   "description": "Also known as acute life threatening episodes",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "apparent life-threatening event",
+    "stepsister",
+    "stepsibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

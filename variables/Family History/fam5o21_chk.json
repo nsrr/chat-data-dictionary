@@ -1,9 +1,12 @@
 {
   "id": "fam5o21_chk",
   "display_name": "Full sister has high blood pressure",
-  "description": "Also known as hypertension",
+  "description": "Also known as hypertension (HTN)",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

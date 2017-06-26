@@ -1,8 +1,11 @@
 {
   "id": "rdinba",
-  "display_name": "Hypopnea per hour with arousals (NREM, Back, all desaturations)",
-  "description": "Number of hypopnea per hour of NREM sleep with supine body position",
+  "display_name": "Hypopnea per hour with arousals (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ],
   "commonly_used": true
 }

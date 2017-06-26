@@ -4,6 +4,10 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
+  "labels": [
+    "circumference",
+    "cm"
+  ],
   "forms": [
     "chat_anthropometry_forms"
   ]

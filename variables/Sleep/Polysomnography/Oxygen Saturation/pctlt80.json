@@ -1,8 +1,12 @@
 {
   "id": "pctlt80",
-  "display_name": "Percentage time < 80% oxygen saturation",
-  "description": "Percent of sleep time with oxygen saturation < 80%  [100*(total number of minutes with oxygen saturation < 80) / (total sleep time)].",
+  "display_name": "Percentage time < 80% oxygen saturation (SaO2)",
+  "description": "[100*(total number of minutes with oxygen saturation (SaO2) < 80) / (Total Sleep Time (TST))].",
   "type": "numeric",
   "units": "percent",
-  "calculation": "pctsa80h"
+  "calculation": "pctsa80h",
+  "labels": [
+    "hypoxia",
+    "hypoxemia"
+  ]
 }

@@ -3,5 +3,11 @@
   "display_name": "Insulin levels determined by Roche meter",
   "description": "",
   "type": "numeric",
-  "units": "international units per milliliter"
+  "units": "international units per milliliter",
+  "labels": [
+    "diabetes",
+    "dm",
+    "metabolic syndrome",
+    "iu/ml"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "crtdurbp",
-  "display_name": "Total central apnea length (REM, Back)",
-  "description": "Total duration of central apnea in REM sleep with supine body position",
+  "display_name": "Total central apnea length (Rapid eye movement sleep (REM), Supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

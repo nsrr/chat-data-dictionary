@@ -1,9 +1,12 @@
 {
   "id": "qulegl",
   "display_name": "Quality of LegL",
-  "description": "Quality of L Leg",
+  "description": "",
   "type": "choices",
   "domain": "signalofsleeptime",
+  "labels": [
+    "emg"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

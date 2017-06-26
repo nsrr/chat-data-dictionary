@@ -1,7 +1,7 @@
 {
   "id": "cardroa3",
-  "display_name": "Central apnea per hour with arousals (REM, Other, 3% desaturation)",
-  "description": "Number of central apnea per hour of REM sleep with non-supine body position",
+  "display_name": "Central apnea per hour with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour"
 }

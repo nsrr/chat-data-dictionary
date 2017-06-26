@@ -1,7 +1,11 @@
 {
   "id": "pctsa75h",
-  "display_name": "Percentage of sleep time oxygen saturation is < 75%",
-  "description": "[(total time oxygen saturation is < 75%) / (total sleep time)] * 100",
+  "display_name": "Percentage of sleep time oxygen saturation (SaO2) is < 75%",
+  "description": "[(total time oxygen saturation (SaO2) is < 75%) / (Total Sleep Time (TST))] * 100",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "hypoxia",
+    "hypoxemia"
+  ]
 }

@@ -3,7 +3,9 @@
   "display_name": "Number of full brothers with eczema",
   "description": "Eczema or atopic dermatitis",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

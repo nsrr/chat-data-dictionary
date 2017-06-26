@@ -1,6 +1,6 @@
 {
   "id": "pos2a",
-  "display_name": "If child required evaluation in the ER, what was the reason?",
+  "display_name": "If child required evaluation in the emergency room (ER), what was the reason?",
   "description": "",
   "type": "choices",
   "domain": "admission",

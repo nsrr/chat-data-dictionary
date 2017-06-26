@@ -1,7 +1,10 @@
 {
   "id": "paq1g_rc",
-  "display_name": "Having hurts or aches (coded per pedsql manual)?",
+  "display_name": "Having hurts or aches (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "labels": [
+    "qol"
+  ]
 }

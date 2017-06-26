@@ -1,10 +1,7 @@
 {
   "id": "pe16",
-  "display_name": "Status of HEENT",
+  "display_name": "Status of head, eyes, ear, nose, and throat (HEENT)",
   "description": "",
   "type": "choices",
-  "domain": "normal",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "domain": "normal"
 }

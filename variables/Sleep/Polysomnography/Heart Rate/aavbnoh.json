@@ -1,7 +1,12 @@
 {
   "id": "aavbnoh",
-  "display_name": "Average heart rate with arousal (NREM, Back, all desaturations)",
-  "description": "Average heart rate during NREM sleep with supine body position",
+  "display_name": "Average heart rate with arousal (Non-rapid eye movement sleep (NREM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "non-rem"
+  ]
 }

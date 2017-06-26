@@ -3,7 +3,11 @@
   "display_name": "Number of half sisters with cerebral palsy",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "cp",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

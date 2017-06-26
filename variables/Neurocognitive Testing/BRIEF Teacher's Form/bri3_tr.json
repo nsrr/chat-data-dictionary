@@ -3,7 +3,6 @@
   "display_name": "How long as the teacher known the child?",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_brief__tr_forms"
   ]

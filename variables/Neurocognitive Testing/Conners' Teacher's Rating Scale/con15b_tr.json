@@ -3,8 +3,6 @@
   "display_name": "DSM-IV Hyperactive-Impulsive T-Score",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "units": "",
   "forms": [
     "chat_conners_tr_forms"
   ]

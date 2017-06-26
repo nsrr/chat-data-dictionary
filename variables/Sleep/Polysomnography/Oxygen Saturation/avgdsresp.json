@@ -1,7 +1,14 @@
 {
   "id": "avgdsresp",
   "display_name": "Average desaturation associated with respiratory events in sleep",
-  "description": "Average desaturation associated with respiratory events in sleep",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

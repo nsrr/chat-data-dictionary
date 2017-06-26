@@ -3,5 +3,8 @@
   "display_name": "Restless Sleep",
   "description": "Original source: MS 003",
   "type": "choices",
-  "domain":"nonengoodbitoftime"
+  "domain": "nonengoodbitoftime",
+  "labels": [
+    "qol"
+  ]
 }

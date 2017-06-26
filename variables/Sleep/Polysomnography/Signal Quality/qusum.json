@@ -4,6 +4,9 @@
   "description": "Quality of SUM channel",
   "type": "choices",
   "domain": "signalofsleeptime",
+  "labels": [
+    "respiratory belt"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "htdur",
   "display_name": "Total hypopnea length",
-  "description": "Total duration of hypopnea (entire recording)",
+  "description": "duration (entire recording)",
   "type": "numeric",
   "units": "minutes"
 }

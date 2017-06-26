@@ -1,7 +1,13 @@
 {
   "id": "ahntdurbp",
-  "display_name": "Total apnea and hypopnea Length (NREM, Back)",
-  "description": "Total duration of apnea and hypopnea in NREM sleep with supine body position",
+  "display_name": "Total apnea and hypopnea Length (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "obstructive",
+    "central",
+    "mixed",
+    "non-rem"
+  ]
 }

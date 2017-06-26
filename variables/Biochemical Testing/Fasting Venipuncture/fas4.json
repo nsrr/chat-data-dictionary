@@ -1,9 +1,13 @@
 {
   "id": "fas4",
-  "display_name":"Participant has experienced fainting spells while having blood drawn",
+  "display_name": "Participant has experienced fainting spells while having blood drawn",
   "description": "",
   "type": "choices",
   "domain": "noyesdontknow",
+  "labels": [
+    "blood draw",
+    "dizzy"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

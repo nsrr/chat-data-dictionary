@@ -3,7 +3,10 @@
   "display_name": "Number of half brothers whom loudly snore",
   "description": "Defined as having loud snores 3 or more times per week.",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

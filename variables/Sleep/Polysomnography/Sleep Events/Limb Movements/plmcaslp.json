@@ -1,7 +1,13 @@
 {
   "id": "plmcaslp",
-  "display_name": "Number of PLM clusters with arousal (sleep)",
-  "description": "Total PLM clusters with arousal  in all sleep",
+  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal (sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ]
 }

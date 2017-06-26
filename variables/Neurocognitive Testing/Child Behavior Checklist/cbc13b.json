@@ -3,7 +3,6 @@
   "display_name": "Rule-Breaking behavior T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_cbc_forms"
   ]

@@ -1,7 +1,11 @@
 {
   "id": "mxoanoa5",
-  "display_name": "Maximum obstructive apnea length with arousals (NREM, Other 5% desaturation)",
-  "description": "Longest obstructive apnea during NREM sleep with non-supine body position",
+  "display_name": "Maximum obstructive apnea length with >=5% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "Longest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

@@ -1,7 +1,15 @@
 {
   "id": "plmcadelta",
-  "display_name": "Number of PLM clusters with arousal (delta Sleep)",
-  "description": "Total PLM clusters with arousal  in delta sleep",
+  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal (delta Sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "sws",
+    "slow wave",
+    "stage 3",
+    " 4",
+    "nrem",
+    "non-rapid eye movement "
+  ]
 }

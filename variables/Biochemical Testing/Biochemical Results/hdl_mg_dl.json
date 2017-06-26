@@ -1,8 +1,12 @@
 {
   "id": "hdl_mg_dl",
-  "display_name": "Blood HDL levels",
+  "display_name": "Blood high-density lipoprotein (HDL) levels",
   "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl",
+    "cholestrol"
+  ],
   "commonly_used": true
 }

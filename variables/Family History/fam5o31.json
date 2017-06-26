@@ -1,9 +1,12 @@
 {
   "id": "fam5o31",
   "display_name": "Number of half sisters with high blood pressure",
-  "description": "Also known as hypertension",
+  "description": "Also known as hypertension (HTN)",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

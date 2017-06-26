@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "employment",
+  "labels": [
+    "mom",
+    "job"
+  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

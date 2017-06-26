@@ -4,6 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "length"
+  ],
   "commonly_used": true,
   "forms": [
     "chat_qs_forms"

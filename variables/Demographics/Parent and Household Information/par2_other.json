@@ -3,6 +3,9 @@
   "display_name": "Mother's race, other",
   "description": "",
   "type": "string",
+  "labels": [
+    "mom"
+  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "avhrba3",
-  "display_name": "Average hypopnea length with arousals (REM, Back, 3% desaturation)",
-  "description": "Average hypopnea duration during REM sleep with supine body position",
+  "display_name": "Average hypopnea length with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "duration",
   "type": "numeric",
   "units": "seconds"
 }

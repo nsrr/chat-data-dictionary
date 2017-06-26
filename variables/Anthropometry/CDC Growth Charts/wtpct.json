@@ -3,5 +3,10 @@
   "display_name": "Percentile for weight-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percentile"
+  "units": "percentile",
+  "labels": [
+    "%",
+    " kg",
+    "kilograms"
+  ]
 }

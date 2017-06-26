@@ -1,8 +1,12 @@
 {
   "id": "losao2nr",
-  "display_name": "Minimum oxygen saturation in non-REM sleep",
-  "description": "Lowest oxygen saturation in non-REM sleep  [minimum(all oxygen saturation values in NREM sleep)]",
+  "display_name": "Minimum oxygen saturation (SaO2) in non-rapid eye movement sleep (NREM)",
+  "description": "Lowest oxygen saturation (SaO2) in non-rapid eye movement sleep (NREM)  [minimum (all oxygen saturation (SaO2) values in non-rapid eye movement sleep (NREM))]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "mnsao2nh"
+  "calculation": "mnsao2nh",
+  "labels": [
+    "%",
+    "non-rem"
+  ]
 }

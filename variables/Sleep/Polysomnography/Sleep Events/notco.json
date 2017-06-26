@@ -1,7 +1,16 @@
 {
   "id": "notco",
   "display_name": "Number of tachycardia  related to obstructive apnea (sleep time)",
-  "description": "Number of tachycardia  related to obstructive apnea during sleep",
+  "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "bpm",
+    "hr",
+    "heart rate",
+    "nrem",
+    "rem",
+    "rapid eye movement",
+    "non-rapid eye movement"
+  ]
 }

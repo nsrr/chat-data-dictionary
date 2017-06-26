@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "thoracic",
+    "length",
+    "respiratory belt"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

@@ -1,7 +1,10 @@
 {
   "id": "canop2",
-  "display_name": "Number of central apnea (NREM, Other, 2% desaturation)",
-  "description": "Number of central apnea during NREM sleep with non-supine body position",
+  "display_name": "Number of central apnea (Non-rapid eye movement sleep (NREM), Non-supine, >=2% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem "
+  ]
 }

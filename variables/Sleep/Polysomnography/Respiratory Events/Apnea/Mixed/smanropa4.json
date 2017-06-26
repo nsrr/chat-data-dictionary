@@ -1,7 +1,11 @@
 {
   "id": "smanropa4",
-  "display_name": "Minimum mixed apnea with arousal length (NREM, Other, 4% desaturation)",
-  "description": "Shortest mixed apnea during NREM sleep with non-supine body position",
+  "display_name": "Minimum mixed apnea length with >=4% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "Shortest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

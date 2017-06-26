@@ -3,7 +3,9 @@
   "display_name": "Number of full sisters whom loudly snore",
   "description": "Defined as having loud snores 3 or more times per week.",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -4,8 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "time",
-  "forms": [
-    "chat_qol18_forms"
+  "labels": [
+    "qol"
   ],
   "forms": [
     "chat_qol18_2_forms"

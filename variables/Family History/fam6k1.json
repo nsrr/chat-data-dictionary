@@ -1,9 +1,14 @@
 {
   "id": "fam6k1",
   "display_name": "Biological parents have high blood pressure",
-  "description": "Also known as hypertension",
+  "description": "Also known as hypertension (HTN)",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "mom",
+    "dad",
+    "htn"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

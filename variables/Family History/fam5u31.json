@@ -3,7 +3,11 @@
   "display_name": "Number of half sisters with sleep apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "osa",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

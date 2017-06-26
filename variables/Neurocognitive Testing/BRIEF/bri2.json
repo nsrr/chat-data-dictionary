@@ -3,7 +3,7 @@
   "display_name": "Who completed this form?",
   "description": "",
   "type": "choices",
-  "domain":"completedform",
+  "domain": "completedform",
   "forms": [
     "chat_brief_forms"
   ]

@@ -1,7 +1,10 @@
 {
   "id": "oanoa2",
-  "display_name": "Number of obstructive apnea with arousals (NREM, Other, 2% desaturation)",
-  "description": "Number of obstructive apnea during NREM sleep with non-supine body position",
+  "display_name": "Number of obstructive apnea with >=2% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem"
+  ]
 }

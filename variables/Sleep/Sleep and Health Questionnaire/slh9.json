@@ -4,6 +4,12 @@
   "description": "",
   "type": "choices",
   "domain": "drink",
+  "labels": [
+    "cola",
+    "coffee",
+    "tea",
+    "energy drink"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

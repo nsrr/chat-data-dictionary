@@ -4,6 +4,10 @@
   "description": "Also known as nasal allergies",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "allergic rhinitis",
+    "mom"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

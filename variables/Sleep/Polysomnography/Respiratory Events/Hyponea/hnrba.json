@@ -1,7 +1,10 @@
 {
   "id": "hnrba",
-  "display_name": "Number of hypopnea with arousals (NREM, Back, all desaturations)",
-  "description": "Number of hypopnea during NREM sleep with supine body position",
+  "display_name": "Number of hypopnea with arousals (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem"
+  ]
 }

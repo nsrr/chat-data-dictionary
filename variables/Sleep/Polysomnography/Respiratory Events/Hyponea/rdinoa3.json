@@ -1,8 +1,11 @@
 {
   "id": "rdinoa3",
-  "display_name": "Hypopnea per hour with arousals (NREM, Other, 3% desaturation)",
-  "description": "Number of hypopnea per hour of NREM sleep with non-supine body position",
+  "display_name": "Hypopnea per hour with >=3% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ],
   "commonly_used": true
 }

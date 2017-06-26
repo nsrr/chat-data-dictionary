@@ -1,7 +1,7 @@
 {
   "id": "oaroa",
-  "display_name": "Number of obstructive apnea with arousals (REM, Other, all desaturations)",
-  "description": "Number of obstructive apnea during REM sleep with non-supine body position",
+  "display_name": "Number of obstructive apnea with arousals (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "events"
 }

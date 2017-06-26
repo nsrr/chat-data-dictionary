@@ -1,7 +1,7 @@
 {
   "id": "qucap",
   "display_name": "Quality of cap",
-  "description": "*need to define quality scoring",
+  "description": "usable mainly artifact free signal",
   "type": "choices",
   "domain": "signalofsleeptime",
   "commonly_used": true,

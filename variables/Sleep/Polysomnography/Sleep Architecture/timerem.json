@@ -1,9 +1,9 @@
 {
   "id": "timerem",
-  "display_name": "Time REM",
-  "description": "Total time scored as REM rounded to nearest minute",
+  "display_name": "Time rapid eye movement sleep (REM)",
+  "description": "Total time scored as rapid eye movement sleep (REM)",
   "type": "numeric",
   "units": "minutes",
-  "commonly_used": true,
-  "calculation": "minremp"
+  "calculation": "minremp",
+  "commonly_used": true
 }

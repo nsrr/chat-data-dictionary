@@ -1,7 +1,11 @@
 {
   "id": "mxcanba2",
-  "display_name": "Maximum central apnea length with arousals (NREM, Back, 2% desaturation)",
-  "description": "Longest central apnea during NREM sleep with supine body position",
+  "display_name": "Maximum central apnea length with >=2% desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "Longest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

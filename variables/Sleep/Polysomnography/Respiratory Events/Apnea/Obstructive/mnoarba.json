@@ -1,7 +1,10 @@
 {
   "id": "mnoarba",
-  "display_name": "Minimum obstructive apnea length with arousals (REM, Back, all desaturations)",
-  "description": "Shortest obstructive apnea during REM sleep with supine body position",
+  "display_name": "Minimum obstructive apnea length with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

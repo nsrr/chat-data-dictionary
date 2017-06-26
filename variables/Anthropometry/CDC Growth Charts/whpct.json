@@ -3,5 +3,15 @@
   "display_name": "Percentile for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
-  "units": "percentile"
+  "units": "percentile",
+  "labels": [
+    "%",
+    "cm",
+    "centimeter",
+    "centimeters",
+    "kg",
+    "kilogram",
+    "kilograms",
+    "wt"
+  ]
 }

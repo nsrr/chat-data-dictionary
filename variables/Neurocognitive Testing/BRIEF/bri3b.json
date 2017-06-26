@@ -3,7 +3,6 @@
   "display_name": "Inhibit T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_brief_forms"
   ]

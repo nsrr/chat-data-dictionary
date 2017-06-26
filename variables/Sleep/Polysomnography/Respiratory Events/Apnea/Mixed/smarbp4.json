@@ -1,7 +1,10 @@
 {
   "id": "smarbp4",
-  "display_name": "Minimum mixed apnea length (REM, Back, 4% desaturation)",
-  "description": "Shortest mixed apnea during REM sleep with supine body position",
+  "display_name": "Minimum mixed apnea length (Rapid eye movement sleep (REM), Supine, >=4% desaturation)",
+  "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

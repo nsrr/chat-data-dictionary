@@ -4,6 +4,9 @@
   "description": "Either migraines or chronic severe headache",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

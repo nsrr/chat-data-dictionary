@@ -1,9 +1,15 @@
 {
   "id": "plmou25",
-  "display_name": "PLM > 25 verified (must be in sleep)",
-  "description": "1=Outlier - PLM > 25 verified",
+  "display_name": "Periodic limb movement (PLM) > 25 verified (must be in sleep)",
+  "description": "1=Outlier - Periodic limb movement (PLM) > 25 verified",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

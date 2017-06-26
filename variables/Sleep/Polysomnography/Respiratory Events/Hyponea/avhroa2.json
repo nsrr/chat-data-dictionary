@@ -1,7 +1,7 @@
 {
   "id": "avhroa2",
-  "display_name": "Average hypopnea length with arousals (REM, Other, 2% desaturation)",
-  "description": "Average hypopnea duration during REM sleep with non-supine body position",
+  "display_name": "Average hypopnea length with >=2% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
   "units": "seconds"
 }

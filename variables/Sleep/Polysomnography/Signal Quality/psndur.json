@@ -1,9 +1,12 @@
 {
   "id": "psndur",
   "display_name": "Hours of usable position",
-  "description": "*All non-compumedics collected studies have position hand scored by scorer from notes supplied by site / none of position signals transfer in EDF only numbers",
+  "description": "*All non-compumedics collected studies have position hand scored by scorer from notes supplied by site / none of position signals transfer in European Data Format (EDF) only numbers",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "length"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

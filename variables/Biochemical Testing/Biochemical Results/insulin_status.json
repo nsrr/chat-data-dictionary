@@ -2,5 +2,10 @@
   "id": "insulin_status",
   "display_name": "Insulin alert status",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "diabetes",
+    "metabolic syndrome",
+    "dm"
+  ]
 }

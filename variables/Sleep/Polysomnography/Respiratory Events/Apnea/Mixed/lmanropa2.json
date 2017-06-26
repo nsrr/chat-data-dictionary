@@ -1,7 +1,11 @@
 {
   "id": "lmanropa2",
-  "display_name": "Maximum mixed apnea with arousal length (NREM, Other, 2% desaturation)",
-  "description": "Longest mixed apnea during NREM sleep with non-supine body position",
+  "display_name": "Maximum mixed apnea length with >=2% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "Longest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

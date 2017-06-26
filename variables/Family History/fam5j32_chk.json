@@ -4,6 +4,17 @@
   "description": "This includes anorexia and bulimia",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling",
+    "stepbrother",
+    "bed",
+    "an",
+    "nervosa",
+    "bn",
+    "muscle dysmorphia",
+    "binge eating disorder",
+    "osfedother specified feeding or eating disorder"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

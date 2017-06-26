@@ -1,6 +1,6 @@
 {
   "id": "vmi1",
-  "display_name": "Was the Beery VMI performed?",
+  "display_name": "Was the Beery-Buktenica Developmental Test of Visual-Motor Integration (Beery VMI) performed?",
   "description": "",
   "type": "choices",
   "domain": "noyes",

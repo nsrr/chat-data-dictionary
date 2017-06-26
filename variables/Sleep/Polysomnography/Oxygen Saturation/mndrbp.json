@@ -1,7 +1,10 @@
 {
   "id": "mndrbp",
-  "display_name": "Minimum oxygen saturation (REM, Back, all desaturations)",
-  "description": "Lowest oxygen saturation during REM sleep with supine body position",
+  "display_name": "Minimum oxygen saturation (SaO2) (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "%"
+  ]
 }

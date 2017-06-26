@@ -4,6 +4,11 @@
   "description": "These siblings only share one parent with the child",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "stepbrother",
+    "stepsister",
+    "stepsibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

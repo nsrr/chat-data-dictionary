@@ -3,5 +3,8 @@
   "display_name": "Recording time",
   "description": "total recording time (minutes)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "trt"
+  ]
 }

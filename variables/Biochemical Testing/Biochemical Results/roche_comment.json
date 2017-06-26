@@ -2,5 +2,10 @@
   "id": "roche_comment",
   "display_name": "Roche insulin comments",
   "description": "",
-  "type": "text"
+  "type": "text",
+  "labels": [
+    "diabetes",
+    "dm",
+    "metabolic syndrome"
+  ]
 }

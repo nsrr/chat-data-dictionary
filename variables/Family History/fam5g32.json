@@ -3,7 +3,11 @@
   "display_name": "Number of half brothers with cerebral palsy",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "cp",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

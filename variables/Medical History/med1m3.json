@@ -1,10 +1,7 @@
 {
   "id": "med1m3",
-  "display_name": "Hypertension still present?",
+  "display_name": "Hypertension (HTN) still present?",
   "description": "Also known as high blood pressure",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

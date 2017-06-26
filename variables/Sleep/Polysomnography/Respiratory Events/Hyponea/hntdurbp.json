@@ -1,7 +1,10 @@
 {
   "id": "hntdurbp",
-  "display_name": "Total hypopnea length (NREM, Back)",
-  "description": "Total duration of hypopnea in NREM sleep with supine body position",
+  "display_name": "Total hypopnea length (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

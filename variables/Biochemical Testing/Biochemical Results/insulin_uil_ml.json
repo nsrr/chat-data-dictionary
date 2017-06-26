@@ -4,5 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "international units per milliliter",
+  "labels": [
+    "iu/ml",
+    "diabetes",
+    "dm",
+    "metabolic syndrome"
+  ],
   "commonly_used": true
 }

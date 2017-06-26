@@ -1,6 +1,6 @@
 {
   "id": "unuhroth",
-  "display_name": "Urgent - other HR arrhythmia, heart block, v-tach, etc. = 1  urgent ineligible",
+  "display_name": "Urgent - other heart rate arrhythmia, heart block, v-tach, etc. = 1  urgent ineligible",
   "description": "",
   "type": "choices",
   "domain": "noyes",

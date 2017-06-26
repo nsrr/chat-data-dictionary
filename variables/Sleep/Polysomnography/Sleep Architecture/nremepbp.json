@@ -1,8 +1,11 @@
 {
   "id": "nremepbp",
-  "display_name": "Sleep time (NREM, Back)",
-  "description": "Total time in NREM sleep with supine body position",
+  "display_name": "Sleep time (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
   "type": "numeric",
   "units": "minutes",
+  "labels": [
+    "non-rem"
+  ],
   "commonly_used": true
 }

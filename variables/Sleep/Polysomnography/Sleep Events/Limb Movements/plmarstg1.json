@@ -1,7 +1,11 @@
 {
   "id": "plmarstg1",
-  "display_name": "Number of PLMs with arousal and respiratory event (stage 1 sleep)",
-  "description": "Total PLMs with arousal and  respiratory events stage 1 sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) with arousal and respiratory event (stage 1 sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

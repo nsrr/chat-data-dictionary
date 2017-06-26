@@ -3,7 +3,6 @@
   "display_name": "Somatic complaints total score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_cbc_forms"
   ]

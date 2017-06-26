@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "environmental",
+    "allergies"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

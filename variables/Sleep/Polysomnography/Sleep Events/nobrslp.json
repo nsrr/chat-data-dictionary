@@ -1,7 +1,16 @@
 {
   "id": "nobrslp",
   "display_name": "Number of bradycardia (sleep time)",
-  "description": "Number of bradycardia during sleep",
+  "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "bpm",
+    "hr",
+    "heart rate",
+    "nrem",
+    "rem",
+    "rapid eye movement",
+    "non-rapid eye movement"
+  ]
 }

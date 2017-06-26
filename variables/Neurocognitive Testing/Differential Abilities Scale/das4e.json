@@ -3,7 +3,6 @@
   "display_name": "Recall of Designs Spatial",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_das2_forms"
   ]

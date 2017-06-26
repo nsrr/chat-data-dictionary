@@ -1,7 +1,10 @@
 {
   "id": "mxdrbp",
-  "display_name": "Maximum desaturation (REM, Back, all desaturations)",
-  "description": "Largest respiratory related desaturation during REM sleep with supine body position",
+  "display_name": "Maximum desaturation (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "%"
+  ]
 }

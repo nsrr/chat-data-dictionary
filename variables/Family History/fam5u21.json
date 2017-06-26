@@ -3,7 +3,10 @@
   "display_name": "Number of full sisters with sleep apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "osa"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "apnhyppr",
   "display_name": "Scoring Apnea/Hypopnea unreliable",
-  "description": "1=Apnea/Hypopnea distinction unreliable",
+  "description": "1=Apnea/Hypopnea distinction unreliable (when airflow signal is artifactual or absent for over 20 % of scored respiratory events)",
   "type": "choices",
   "domain": "noyes",
   "forms": [

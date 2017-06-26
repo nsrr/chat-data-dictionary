@@ -1,6 +1,6 @@
 {
   "id": "month",
-  "display_name": "Calendar month of PSG",
+  "display_name": "Calendar month of Polysomnography (PSG)",
   "description": "",
   "type": "choices",
   "domain": "month"

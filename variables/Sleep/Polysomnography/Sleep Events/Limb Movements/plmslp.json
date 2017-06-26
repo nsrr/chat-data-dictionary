@@ -1,7 +1,13 @@
 {
   "id": "plmslp",
-  "display_name": "Number of PLMs (sleep)",
-  "description": "Total PLMs in all sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) (sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ]
 }

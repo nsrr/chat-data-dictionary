@@ -1,9 +1,11 @@
 {
   "id": "fam5o21",
   "display_name": "Number of full sisters with high blood pressure",
-  "description": "Also known as hypertension",
+  "description": "Also known as hypertension (HTN)",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "noyesdontknow",
-  "form": [
-    "chat_sleepquestionnaire_forms"
+  "labels": [
+    "oral breathing"
   ]
 }

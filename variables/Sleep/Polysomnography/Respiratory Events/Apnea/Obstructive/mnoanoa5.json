@@ -1,7 +1,11 @@
 {
   "id": "mnoanoa5",
-  "display_name": "Minimum obstructive apnea length with arousals (NREM, Other, 5% desatuartion)",
-  "description": "Shortest obstructive apnea during NREM sleep with non-supine body position",
+  "display_name": "Minimum obstructive apnea length with >=5% desatuartion or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "Shortest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

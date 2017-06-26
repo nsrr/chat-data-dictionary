@@ -3,7 +3,6 @@
   "display_name": "Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_beery_forms"
   ]

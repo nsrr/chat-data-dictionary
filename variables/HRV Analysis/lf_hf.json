@@ -3,5 +3,7 @@
   "display_name": "The ratio of low to high frequency power",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "heart rate variability"
+  ]
 }

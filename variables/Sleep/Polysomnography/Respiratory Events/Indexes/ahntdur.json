@@ -1,7 +1,13 @@
 {
   "id": "ahntdur",
-  "display_name": "Total apnea and hypopnea length (NREM)",
-  "description": "Total duration of apnea and hypopnea in NREM sleep",
+  "display_name": "Total apnea and hypopnea length (Non-rapid eye movement sleep (NREM))",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "obstructive",
+    "central",
+    "mixed",
+    "non-rem"
+  ]
 }

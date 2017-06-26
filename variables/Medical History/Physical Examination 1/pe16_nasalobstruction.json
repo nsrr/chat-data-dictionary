@@ -1,6 +1,6 @@
 {
   "id": "pe16_nasalobstruction",
-  "display_name": "HEENT: Nasal obstruction present or not present",
+  "display_name": "Head, eyes, ear, nose, and throat (HEENT): Nasal obstruction present or not present",
   "description": "Binary variable that flags keywords: swollen nasal mucous membranes, congested, swollen turbinates and nasal congestion from the PE16_EXPLAIN variable",
   "type": "choices",
   "domain": "present"

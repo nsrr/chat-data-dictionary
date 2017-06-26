@@ -4,6 +4,10 @@
   "description": "Did your child's biological mother smoke at least one cigarette a day while she was pregnant with your child?",
   "type": "choices",
   "domain": "smoking",
+  "labels": [
+    "mom",
+    "cigarettes"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

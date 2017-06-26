@@ -3,7 +3,10 @@
   "display_name": "Number of full sisters with hay fever",
   "description": "Also known as nasal allergies",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "allergic rhinitis"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

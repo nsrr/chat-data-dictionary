@@ -1,7 +1,13 @@
 {
   "id": "chg_pctsa95",
-  "display_name": "Percentage of sleep time oxygen saturation is <= 95% change between baseline and follow-up",
+  "display_name": "Percentage of sleep time oxygen saturation (SaO2) is <= 95% change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

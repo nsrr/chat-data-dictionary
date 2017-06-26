@@ -1,7 +1,10 @@
 {
   "id": "apntdurbp",
-  "display_name": "Total apnea length (NREM, Back)",
-  "description": "Total duration of apnea in NREM sleep with supine body position",
+  "display_name": "Total apnea length (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem"
+  ]
 }

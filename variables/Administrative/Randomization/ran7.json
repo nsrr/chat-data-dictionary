@@ -1,9 +1,12 @@
 {
   "id": "ran7",
-  "display_name": "Randomization Code assigned by DMS",
+  "display_name": "Randomization Code assigned by Data Management System (DMS)",
   "description": "",
   "type": "choices",
   "domain": "treatmentarm",
+  "labels": [
+    "randomized"
+  ],
   "forms": [
     "chat_random_forms"
   ]

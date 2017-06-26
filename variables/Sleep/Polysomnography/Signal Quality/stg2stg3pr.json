@@ -1,7 +1,7 @@
 {
   "id": "stg2stg3pr",
   "display_name": "Scoring stage2/ deep sleep unreliable",
-  "description": "1=sleep staging problem - scoring stage2/stage3-4 unreliable",
+  "description": "1=sleep staging problem - scoring stage2/stage3-4 unreliable (when distinction between Stage 2 and Deep Sleep is unreliable because of EEG artifact (usually due to the respiratory or sweat artifact on the EEG, and High Pass filter =1Hz used))",
   "type": "choices",
   "domain": "noyes",
   "forms": [

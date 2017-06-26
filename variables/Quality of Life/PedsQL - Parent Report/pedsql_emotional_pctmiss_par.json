@@ -1,7 +1,10 @@
 {
   "id": "pedsql_emotional_pctmiss_par",
-  "display_name": "PedQL Parent Emotional Function pct missing",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Emotional Function pct missing",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "qol"
+  ]
 }

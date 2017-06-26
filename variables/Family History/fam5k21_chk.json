@@ -4,6 +4,9 @@
   "description": "Eczema or atopic dermatitis",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -3,7 +3,10 @@
   "display_name": "Number of full sisters with diabetes",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "dm"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

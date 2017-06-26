@@ -4,7 +4,14 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "tca",
+    "tricyclic antidepressants",
+    "maoi",
+    "monoamine oxidase inhibitors",
+    "ssri",
+    "selective serotonin reuptake inhibitors",
+    "sari",
+    "serotononi antagonist and reuptake inhibitors"
   ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "cardnba5",
-  "display_name": "Central apnea per hour with arousals (NREM, Back, 5% desaturation)",
-  "description": "Number of central apnea per hour of NREM sleep with supine body position",
+  "display_name": "Central apnea per hour with >=5% desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem "
+  ]
 }

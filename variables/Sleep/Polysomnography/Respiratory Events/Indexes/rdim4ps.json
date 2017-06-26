@@ -1,7 +1,7 @@
 {
   "id": "rdim4ps",
-  "display_name": "Overall supine RDI at 4% desaturation",
-  "description": "Supine RDI at 4% desaturation  [(total number of apneas and hypopneas in supine body position associated with >= 4% desaturation) / (hours of sleep)]",
+  "display_name": "Overall supine Respiratory Disturbance Index (RDI) at >=4% desaturation",
+  "description": "[(total number of apneas and hypopneas in supine body position associated with >= 4% desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60*(hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 + marbp4 + manrbp4)/(remepbp+nremepbp)"

@@ -1,10 +1,7 @@
 {
   "id": "pe216a5",
-  "display_name": "Surgery (other than TA)",
+  "display_name": "Surgery (other than tonsillectomy and adenoidectomy (TA))",
   "description": "",
   "type": "choices",
-  "domain": "othersurgery",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "domain": "othersurgery"
 }

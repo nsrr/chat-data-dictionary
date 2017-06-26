@@ -1,16 +1,16 @@
 {
   "id": "ant5",
-  "display_name": "Child's BMI",
+  "display_name": "Child's Body mass index (BMI)",
   "description": "",
   "type": "numeric",
   "units": "kilograms / meters squared",
+  "labels": [
+    "weight",
+    "quetelet index",
+    "kg/m2"
+  ],
+  "commonly_used": true,
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "labels": [
-    "body mass index",
-    "weight",
-    "quetelet index"
-  ],
-  "commonly_used": true
+  ]
 }

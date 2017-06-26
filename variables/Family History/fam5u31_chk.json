@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling",
+    "osa",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

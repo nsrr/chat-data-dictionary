@@ -1,7 +1,9 @@
 {
   "id": "pedsql_emotional_score_par",
-  "display_name": "PedQL Parent Emotional Function score",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Emotional Function score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "qol"
+  ]
 }

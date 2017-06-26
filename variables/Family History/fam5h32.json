@@ -3,7 +3,10 @@
   "display_name": "Number of half brothers with depression",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "stepbrother",
+    "stepsibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

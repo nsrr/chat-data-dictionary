@@ -1,7 +1,10 @@
 {
   "id": "paq4a_rc",
-  "display_name": "Paying attention in class (coded per pedsql manual)?",
+  "display_name": "Paying attention in class (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "labels": [
+    "qol"
+  ]
 }

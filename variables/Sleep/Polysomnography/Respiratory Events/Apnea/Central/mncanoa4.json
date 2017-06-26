@@ -1,7 +1,11 @@
 {
   "id": "mncanoa4",
-  "display_name": "Minimum central apnea length with arousals (NREM, Other, 4% desaturation)",
-  "description": "Shortest central apnea during NREM sleep with non-supine body position",
+  "display_name": "Minimum central apnea length with >=4% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

@@ -1,7 +1,9 @@
 {
   "id": "pedsql_physical_score_chld",
-  "display_name": "PedQL Child Physical Health Summary Score",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Child Physical Health Summary Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "qol"
+  ]
 }

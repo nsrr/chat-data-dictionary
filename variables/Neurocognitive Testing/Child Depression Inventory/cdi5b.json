@@ -3,7 +3,6 @@
   "display_name": "Scale A negative mood T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_cdep_forms"
   ]

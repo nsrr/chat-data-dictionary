@@ -3,5 +3,9 @@
   "display_name": "Any siblings with an anxiety disorder?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "labels": [
+    "brother",
+    "sister"
+  ]
 }

@@ -1,9 +1,12 @@
 {
   "id": "sleep_diary_weighted_avg_hrs",
-  "display_name": "Sleep diary weighted avg hrs",
+  "display_name": "Sleep diary weighted average hours",
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "diary"
+  ],
   "forms": [
     "chat_journal_forms"
   ]

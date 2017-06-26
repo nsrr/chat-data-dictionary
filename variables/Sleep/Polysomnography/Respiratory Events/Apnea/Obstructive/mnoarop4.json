@@ -1,7 +1,10 @@
 {
   "id": "mnoarop4",
-  "display_name": "Minimum obstructive apnea length (REM, Other, 4% desaturation)",
-  "description": "Shortest obstructive apnea during REM sleep with non-supine body position",
+  "display_name": "Minimum obstructive apnea length (Rapid eye movement sleep (REM), Non-supine, >=4% desaturation)",
+  "description": "Shortest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

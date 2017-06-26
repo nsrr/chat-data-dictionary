@@ -1,7 +1,7 @@
 {
   "id": "quco2",
-  "display_name": "Quality of carbon dioxide",
-  "description": "*need to define quality scoring",
+  "display_name": "Quality of carbon dioxide (CO2)",
+  "description": "",
   "type": "choices",
   "domain": "signalofsleeptime",
   "commonly_used": true,

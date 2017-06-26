@@ -1,6 +1,6 @@
 {
   "id": "unittype",
-  "display_name": "PSG Unit type",
+  "display_name": "Polysomnography (PSG) Unit type",
   "description": "",
   "type": "choices",
   "domain": "unittype",

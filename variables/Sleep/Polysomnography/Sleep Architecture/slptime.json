@@ -1,7 +1,14 @@
 {
   "id": "slptime",
   "display_name": "Sleep time",
-  "description": "total sleep time (minutes)",
+  "description": "Total Sleep Time (TST)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

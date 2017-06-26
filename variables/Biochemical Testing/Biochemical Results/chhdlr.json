@@ -1,8 +1,7 @@
 {
   "id": "chhdlr",
-  "display_name": "Total cholesterol to HDL ratio",
+  "display_name": "Total cholesterol to high-density lipoprotein (HDL) ratio",
   "description": "",
   "type": "numeric",
-  "units": "",
   "calculation": "chol / hdl_mg_dl"
 }

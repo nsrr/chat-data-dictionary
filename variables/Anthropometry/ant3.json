@@ -4,8 +4,13 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
+  "labels": [
+    "ht",
+    "cm",
+    "centimeters"
+  ],
+  "commonly_used": true,
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "commonly_used": true
+  ]
 }

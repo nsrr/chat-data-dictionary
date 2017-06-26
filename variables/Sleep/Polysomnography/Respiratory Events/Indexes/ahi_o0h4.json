@@ -1,13 +1,12 @@
 {
   "id": "ahi_o0h4",
-  "display_name": "Obstructive AHI 4% - obstructive apneas and hypopneas with >=4% oxygen desaturation",
+  "display_name": "Obstructive Apnea-Hypopnea Index (AHI) 4% - [obstructive apneas] and [hypopneas with >=4% oxygen desaturation]",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + oarbp + oarop + oanbp + oanop ) / slpprdp",
-  "commonly_used": true,
   "labels": [
-    "icsd",
-    "apnea-hypopnea index"
-  ]
+    "icsd"
+  ],
+  "commonly_used": true
 }

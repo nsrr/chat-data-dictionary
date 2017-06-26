@@ -1,7 +1,7 @@
 {
   "id": "arunrel",
   "display_name": "Scoring arousals unreliable",
-  "description": "1=Arousals unreliable",
+  "description": "1=Arousals unreliable (when the technical quality of the study does not allow one to distinguish discrete increases in EEG frequency from background changes in EEG. EEG still may be of sufficient quality to score stages. Studies with the physiological alpha intrusion will have arousals scored regardless of difficulty)",
   "type": "choices",
   "domain": "noyes",
   "forms": [

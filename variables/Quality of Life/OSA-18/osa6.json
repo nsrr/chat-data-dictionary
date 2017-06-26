@@ -3,9 +3,8 @@
   "display_name": "Child's quality of life as a result of the above problems?",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "forms": [
-    "chat_qol18_forms"
+  "labels": [
+    "qol"
   ],
   "forms": [
     "chat_qol18_2_forms"

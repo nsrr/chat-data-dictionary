@@ -1,9 +1,12 @@
 {
   "id": "pos2",
-  "display_name": "After their adenotonsillectomy, did the child require evaluation in the ER",
+  "display_name": "After their adenotonsillectomy, did the child require evaluation in the emergency room (ER)",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "a&t"
+  ],
   "forms": [
     "chat_postop1_forms"
   ]

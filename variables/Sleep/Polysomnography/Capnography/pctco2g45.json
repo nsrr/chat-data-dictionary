@@ -1,7 +1,14 @@
 {
   "id": "pctco2g45",
-  "display_name": "Percentage of total sleep time where end-tidal carbon dioxide > 45 mmHg",
+  "display_name": "Percentage of Total Sleep Time (TST) where end-tidal carbon dioxide (ETCO2) > 45 millimeters (mm) mercury (Hg)",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

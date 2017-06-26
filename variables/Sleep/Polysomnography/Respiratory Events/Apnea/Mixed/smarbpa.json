@@ -1,7 +1,10 @@
 {
   "id": "smarbpa",
-  "display_name": "Minimum mixed apnea with arousal length (REM, Back, all desaturations)",
-  "description": "Shortest mixed apnea during REM sleep with supine body position",
+  "display_name": "Minimum mixed apnea with arousal length (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

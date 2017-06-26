@@ -1,7 +1,9 @@
 {
   "id": "pedsql_total_scale_score_chld",
-  "display_name": "PedQL Child Total Scale Score",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Child Total Scale Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "qol"
+  ]
 }

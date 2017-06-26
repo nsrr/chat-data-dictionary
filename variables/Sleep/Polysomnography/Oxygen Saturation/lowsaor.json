@@ -1,7 +1,10 @@
 {
   "id": "lowsaor",
-  "display_name": "Minimum oxygen saturation (REM)",
-  "description": "Lowest oxygen saturation during REM sleep",
+  "display_name": "Minimum oxygen saturation (SaO2) (Rapid eye movement sleep (REM))",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "%"
+  ]
 }

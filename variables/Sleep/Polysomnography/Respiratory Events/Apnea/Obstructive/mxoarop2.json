@@ -1,7 +1,10 @@
 {
   "id": "mxoarop2",
-  "display_name": "Maximum obstructive apnea length (REM, Other, 2% desaturation)",
-  "description": "Longest obstructive apnea during REM sleep with non-supine body position",
+  "display_name": "Maximum obstructive apnea length (Rapid eye movement sleep (REM), Non-supine, >=2% desaturation)",
+  "description": "Longest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

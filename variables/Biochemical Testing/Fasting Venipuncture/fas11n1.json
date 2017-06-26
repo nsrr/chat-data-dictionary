@@ -1,9 +1,12 @@
 {
   "id": "fas11n1",
   "display_name": "Was vial processing done on vial 14?",
-  "description": "EDTA, purple, 0.5mL",
+  "description": "ethylenediaminetetraacetic acid (EDTA), purple, 0.5mL",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

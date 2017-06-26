@@ -3,7 +3,6 @@
   "display_name": "Sum of Core Subtest T-Scores GCA",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_das2_forms"
   ]

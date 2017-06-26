@@ -3,7 +3,7 @@
   "display_name": "Other outlier",
   "description": "1=Outlier - other",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
   "forms": [
     "chat_qs_forms"
   ]

@@ -1,8 +1,12 @@
 {
   "id": "ldl_mg_dl",
-  "display_name": "Blood LDL levels",
+  "display_name": "Blood low-density lipoprotein (LDL) levels",
   "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter",
+  "labels": [
+    "mg/dl",
+    "cholestrol"
+  ],
   "commonly_used": true
 }

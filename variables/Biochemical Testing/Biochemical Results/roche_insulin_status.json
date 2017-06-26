@@ -2,5 +2,10 @@
   "id": "roche_insulin_status",
   "display_name": "Roche insulin alert status",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "diabetes",
+    "dm",
+    "metabolic syndrome"
+  ]
 }

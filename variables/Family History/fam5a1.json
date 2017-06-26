@@ -1,9 +1,14 @@
 {
   "id": "fam5a1",
-  "display_name": "Do any siblings have ALTE?",
+  "display_name": "Do any siblings have acute life threatening episode (ALTE)?",
   "description": "Also known as acute life threatening episodes",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "brother",
+    "sister",
+    "apparent life-threatening event"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

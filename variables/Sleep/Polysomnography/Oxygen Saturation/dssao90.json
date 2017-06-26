@@ -1,7 +1,14 @@
 {
   "id": "dssao90",
-  "display_name": "Number of desaturations with oxygen saturation drops below 90% in sleep",
-  "description": "Number of desaturations with oxygen saturation drops below 90% in sleep",
+  "display_name": "Number of desaturations with oxygen saturation (SaO2) drops below 90% in sleep",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ]
 }

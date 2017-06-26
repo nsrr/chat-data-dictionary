@@ -1,9 +1,13 @@
 {
   "id": "pwfdur",
-  "display_name": "Hours of usable PWF",
-  "description": "Hours of usable pleth wave form",
+  "display_name": "Hours of usable pleth wave form",
+  "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "length",
+    "duration"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

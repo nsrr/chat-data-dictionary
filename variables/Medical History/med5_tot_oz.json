@@ -3,7 +3,7 @@
   "display_name": "Childs birth weight total ounces",
   "description": "",
   "type": "string",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "oz"
   ]
 }

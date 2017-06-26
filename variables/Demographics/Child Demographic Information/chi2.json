@@ -4,8 +4,12 @@
   "description": "",
   "type": "choices",
   "domain": "sex",
+  "labels": [
+    "male",
+    "female"
+  ],
+  "commonly_used": true,
   "forms": [
     "chat_cdi_forms"
-  ],
-  "commonly_used": true
+  ]
 }

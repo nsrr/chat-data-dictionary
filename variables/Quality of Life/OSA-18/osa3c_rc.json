@@ -3,5 +3,8 @@
   "display_name": "Discipline problems (recoded)?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time1",
+  "labels": [
+    "qol"
+  ]
 }

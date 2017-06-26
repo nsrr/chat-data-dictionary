@@ -1,7 +1,10 @@
 {
   "id": "ahnrembp",
-  "display_name": "Arousals per hour (NREM, Back, all desaturations)",
-  "description": "Number of arousals per hour during NREM and supine body position",
+  "display_name": "Arousals per hour (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "Number of arousals per hour during non-rapid eye movement sleep (NREM) and supine body position",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem"
+  ]
 }

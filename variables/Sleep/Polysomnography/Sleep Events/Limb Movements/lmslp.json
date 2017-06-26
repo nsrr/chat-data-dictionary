@@ -1,7 +1,14 @@
 {
   "id": "lmslp",
   "display_name": "Number of limb movements (sleep)",
-  "description": "Total limb movements in all sleep",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement "
+  ]
 }

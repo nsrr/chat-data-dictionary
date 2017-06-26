@@ -1,7 +1,6 @@
 {
   "id": "theta_logrem",
-  "display_name": "Log transformed theta power density in REM sleep",
+  "display_name": "Log transformed theta power density in rapid eye movement sleep (rapid) ",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

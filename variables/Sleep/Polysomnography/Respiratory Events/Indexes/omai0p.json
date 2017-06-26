@@ -1,9 +1,9 @@
 {
   "id": "omai0p",
-  "display_name": "CHAT OAI (obstructive/mixed apnea index all desaturations) no centrals",
+  "display_name": "Childhood Adenotonsillectomy Trial (CHAT) OMAI (obstructive/mixed apnea index all desaturations) no centrals",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
-  "commonly_used": true,
-  "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop) / slpprdp"
+  "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop) / slpprdp",
+  "commonly_used": true
 }

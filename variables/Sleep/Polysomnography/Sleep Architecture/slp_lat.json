@@ -1,9 +1,17 @@
 {
   "id": "slp_lat",
   "display_name": "Sleep latency",
-  "description": "Time from lights out time to beginning of sleep, rounded to nearest minute",
+  "description": "Time from lights out time to beginning of sleep",
   "type": "numeric",
   "units": "minutes",
-  "commonly_used": true,
-  "calculation": "slplatp"
+  "calculation": "slplatp",
+  "labels": [
+    "sl",
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
+  "commonly_used": true
 }

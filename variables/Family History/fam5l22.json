@@ -3,7 +3,10 @@
   "display_name": "Number of full brothers with enlarged tonsils or adenoids",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "t&a"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

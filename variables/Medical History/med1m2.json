@@ -1,10 +1,19 @@
 {
   "id": "med1m2",
-  "display_name": "Diagnosed or treated by a physician for hypertension?",
+  "display_name": "Diagnosed or treated by a physician for hypertension (HTN)?",
   "description": "Also known as high blood pressure",
   "type": "choices",
-  "domain":"noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "domain": "noyesnotsure",
+  "labels": [
+    "diuretic",
+    "beta-blocker",
+    "ace inhibitors",
+    "angiotensin II receptor blockers",
+    "calcium channel blockers",
+    "alpha blockers",
+    "alpha-2 receptor agonists",
+    "central agonists",
+    "peripheral adrenergic inhibitors",
+    "vasodilators"
   ]
 }

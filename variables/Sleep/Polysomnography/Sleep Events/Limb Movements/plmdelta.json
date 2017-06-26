@@ -1,7 +1,11 @@
 {
   "id": "plmdelta",
-  "display_name": "Number of PLMs (delta sleep)",
-  "description": "Total PLMs in delta sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) (delta sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement "
+  ]
 }

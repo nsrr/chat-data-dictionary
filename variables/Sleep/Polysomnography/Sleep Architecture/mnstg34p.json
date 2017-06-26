@@ -4,5 +4,10 @@
   "description": "Total time scored as stage 3/4, rounded to nearest minute (use calculated variable - sleep wake studies screened out)",
   "type": "numeric",
   "units": "minutes",
-  "calculation": "calculated vaiable - sleep wake studies screened out"
+  "calculation": "calculated vaiable - sleep wake studies screened out",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

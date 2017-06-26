@@ -4,6 +4,10 @@
   "description": "Either migraines or chronic severe headache",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "mom",
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -1,7 +1,12 @@
 {
   "id": "amnbnbh",
-  "display_name": "Minimum heart rate with arousal (NREM, Back, all desaturations)",
-  "description": "Lowest heart rate during NREM sleep with supine body position",
+  "display_name": "Minimum heart rate with arousal (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "Lowest",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm",
+    "non-rem"
+  ]
 }

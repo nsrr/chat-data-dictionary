@@ -1,8 +1,8 @@
 {
   "id": "rco2blwake",
-  "display_name": "Baseline end-tidal carbon dioxide awake",
+  "display_name": "Baseline end-tidal carbon dioxide (ETCO2) awake",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percentage of carbon dioxide (CO2)",
   "commonly_used": true
 }

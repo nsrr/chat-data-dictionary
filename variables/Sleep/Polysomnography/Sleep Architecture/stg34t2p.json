@@ -3,5 +3,10 @@
   "display_name": "Number of stage 3/4 to stage 1/2 shifts during sleep",
   "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

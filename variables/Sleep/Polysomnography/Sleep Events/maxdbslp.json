@@ -3,5 +3,11 @@
   "display_name": "Maximum snore level during sleep",
   "description": "",
   "type": "numeric",
-  "units": "decibels"
+  "units": "decibels",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ]
 }

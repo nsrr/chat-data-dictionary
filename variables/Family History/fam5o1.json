@@ -1,9 +1,13 @@
 {
   "id": "fam5o1",
   "display_name": "Any siblings with high blood pressure",
-  "description": "Also known as hypertension",
+  "description": "Also known as hypertension (HTN)",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "brother",
+    "sister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

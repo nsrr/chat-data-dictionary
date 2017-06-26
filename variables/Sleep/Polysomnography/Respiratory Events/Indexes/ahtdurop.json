@@ -1,7 +1,12 @@
 {
   "id": "ahtdurop",
-  "display_name": "Total apnea and hypopnea length (REM, Other)",
-  "description": "Total duration of apnea and hypopnea in REM sleep with non-supine body position",
+  "display_name": "Total apnea and hypopnea length (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "obstructive",
+    "central",
+    "mixed"
+  ]
 }

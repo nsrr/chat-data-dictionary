@@ -3,7 +3,6 @@
   "display_name": "How well does the teacher know the child?",
   "description": "",
   "type": "string",
-  "units": "",
   "forms": [
     "chat_conners_tr_forms"
   ]

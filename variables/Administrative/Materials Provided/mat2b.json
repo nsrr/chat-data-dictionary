@@ -3,7 +3,10 @@
   "display_name": "Were directions and application uses reviewed with the parent or guardian?",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "instructions"
+  ],
   "forms": [
     "chat_materials_forms"
   ]

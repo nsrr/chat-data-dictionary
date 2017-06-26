@@ -1,9 +1,12 @@
 {
   "id": "sao2rem",
-  "display_name": "Average oxygen saturation REM",
-  "description": "Average oxygen saturation in REM sleep  [mean(all oxygen saturation values in REM sleep)]. will be missing if study scored as sleep/wake only.",
+  "display_name": "Average oxygen saturation (SaO2) rapid eye movement sleep (REM)",
+  "description": "[mean(all oxygen saturation (SaO2) values in rapid eye movement sleep (REM))]. will be missing if study scored as sleep/wake only.",
   "type": "numeric",
   "units": "percent",
   "calculation": "avsao2rh",
+  "labels": [
+    "%"
+  ],
   "commonly_used": true
 }

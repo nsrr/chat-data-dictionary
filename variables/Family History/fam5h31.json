@@ -3,7 +3,10 @@
   "display_name": "Number of half sisters with depression",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "stepsister",
+    "stepsibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

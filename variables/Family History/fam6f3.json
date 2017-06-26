@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "dm",
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

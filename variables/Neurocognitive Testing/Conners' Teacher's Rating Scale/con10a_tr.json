@@ -1,9 +1,8 @@
 {
   "id": "con10a_tr",
-  "display_name": "Conners' ADHD Index Raw Score",
+  "display_name": "Conners' Attention Deficit Hyperactivity Disorder(ADHD) Index Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_conners_tr_forms"
   ]

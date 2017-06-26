@@ -1,7 +1,10 @@
 {
   "id": "taa_r",
-  "display_name": "Average thoraco-abdominal asynchrony during scored-event-free REM sleep",
+  "display_name": "Average thoraco-abdominal asynchrony during scored-event-free rapid eye movement sleep (REM) ",
   "description": "",
   "type": "numeric",
-  "units": "natural logarithm degrees"
+  "units": "natural logarithm degrees",
+  "labels": [
+    "paradoxical"
+  ]
 }

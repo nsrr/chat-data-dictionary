@@ -1,7 +1,10 @@
 {
   "id": "mxdnop",
-  "display_name": "Maximum desaturation (NREM, Other, all desaturations)",
-  "description": "Largest respiratory related desaturation during NREM sleep with non-supine body position",
+  "display_name": "Maximum desaturation (Non-rapid eye movement sleep (NREM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "non-rem"
+  ]
 }

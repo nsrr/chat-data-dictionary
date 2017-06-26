@@ -4,10 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ],
   "labels": [
-    "gerd"
+    "gerd",
+    "gastroesophageal reflux disease"
   ]
 }

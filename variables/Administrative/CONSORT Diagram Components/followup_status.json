@@ -3,7 +3,7 @@
   "display_name": "Patient received followup",
   "description": "",
   "type": "choices",
-  "domain":"followup_status",
+  "domain": "followup_status",
   "forms": [
     "chat_consorts"
   ]

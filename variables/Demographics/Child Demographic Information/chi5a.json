@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "schooling",
+  "labels": [
+    "homeschooled"
+  ],
   "forms": [
     "chat_cdi_forms"
   ]

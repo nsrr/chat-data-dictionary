@@ -1,7 +1,7 @@
 {
   "id": "oarbp3",
-  "display_name": "Number of obstructive apnea (REM, Back, 3% desaturation)",
-  "description": "Number of obstructive apnea during REM sleep with supine body position",
+  "display_name": "Number of obstructive apnea (Rapid eye movement sleep (REM), Supine, >=3% desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events"
 }

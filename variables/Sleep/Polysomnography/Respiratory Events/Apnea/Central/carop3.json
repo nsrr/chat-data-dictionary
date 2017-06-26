@@ -1,7 +1,7 @@
 {
   "id": "carop3",
-  "display_name": "Number of central apnea (REM, Other, 3% desaturation)",
-  "description": "Number of central apnea during REM sleep with non-supine body position",
+  "display_name": "Number of central apnea (Rapid eye movement sleep (REM), Non-supine, >=3% desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events"
 }

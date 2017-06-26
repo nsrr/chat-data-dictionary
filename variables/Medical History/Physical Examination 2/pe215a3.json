@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "cats",
-  "form": [
-    "chat_physical1_forms"
+  "labels": [
+    "feline"
   ]
 }

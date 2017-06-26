@@ -5,6 +5,10 @@
   "type": "numeric",
   "units": "standard deviations from the mean",
   "labels": [
-    "standard score"
+    "standard score",
+    "z-scores",
+    " z-values",
+    "z values",
+    "wt"
   ]
 }

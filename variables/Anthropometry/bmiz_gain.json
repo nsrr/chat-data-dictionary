@@ -1,14 +1,11 @@
 {
   "id": "bmiz_gain",
-  "display_name": "BMI velocity",
+  "display_name": "Body mass index (BMI) velocity",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
-    "bmiz_gain",
-    "body mass index",
     "weight",
     "quetelet index",
-    "change in BMI per year"
+    "change per year"
   ]
 }

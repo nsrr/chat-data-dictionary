@@ -3,7 +3,9 @@
   "display_name": "Processing start time for serum.",
   "description": "",
   "type": "time",
-  "units": "",
+  "labels": [
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

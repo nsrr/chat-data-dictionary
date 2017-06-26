@@ -1,7 +1,11 @@
 {
   "id": "saonrem",
-  "display_name": "Average oxygen saturation (NREM)",
-  "description": "Mean oxygen saturation during nonREM sleep",
+  "display_name": "Average oxygen saturation (SaO2) (Non-rapid eye movement sleep (NREM))",
+  "description": "Mean oxygen saturation (SaO2) during non-rapid eye movement sleep (NREM)",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "%",
+    "non-rem"
+  ]
 }

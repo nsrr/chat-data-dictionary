@@ -3,8 +3,5 @@
   "display_name": "Nasal steroids",
   "description": "",
   "type": "choices",
-  "domain": "check",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "domain": "check"
 }

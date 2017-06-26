@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "pounds",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "lbs"
   ]
 }

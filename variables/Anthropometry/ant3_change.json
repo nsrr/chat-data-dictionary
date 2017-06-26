@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "centimeters",
+  "labels": [
+    "ht",
+    "cm",
+    "centimeters"
+  ],
   "forms": [
     "chat_anthropometry_forms"
   ]

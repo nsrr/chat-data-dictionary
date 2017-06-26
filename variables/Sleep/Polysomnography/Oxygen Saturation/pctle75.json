@@ -1,8 +1,12 @@
 {
   "id": "pctle75",
-  "display_name": "Percent time <= 75% oxygen saturation",
-  "description": "Percent of sleep time with oxygen saturation <= 75%  [100*(total number of minutes with oxygen saturation <= 75) / (total sleep time)].",
+  "display_name": "Percent time <= 75% oxygen saturation (SaO2)",
+  "description": "[100*(total number of minutes with oxygen saturation (SaO2) <= 75) / (Total Sleep Time (TST))].",
   "type": "numeric",
   "units": "percent",
-  "calculation": "pctsa75"
+  "calculation": "pctsa75",
+  "labels": [
+    "hypoxia",
+    "hypoxemia"
+  ]
 }

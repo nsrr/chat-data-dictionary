@@ -4,8 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "neveroralways2",
-  "forms": [
-    "chat_peds5_7_forms"
+  "labels": [
+    "qol"
   ],
   "forms": [
     "chat_peds8_12_forms"

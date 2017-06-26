@@ -1,7 +1,11 @@
 {
   "id": "plmcstg2",
-  "display_name": "Number of PLM clusters (stage 2 sleep)",
-  "description": "Total PLM clusters stage 2 sleep",
+  "display_name": "Number of Periodic limb movement (PLM) clusters (stage 2 sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

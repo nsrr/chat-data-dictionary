@@ -3,7 +3,14 @@
   "display_name": "Number of full brothers with autism",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "asd",
+    "autistic disorder",
+    "childhood disintegrative disorder",
+    "pervasive developmental disorder-not otherwise specified",
+    "asperger syndrome"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

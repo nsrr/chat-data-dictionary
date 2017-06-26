@@ -1,10 +1,7 @@
 {
   "id": "med1d2",
-  "display_name": "Diagnosed or treated by a physician for ADD/ADHD?",
-  "description": "Also known as attention deficit hyperactivity disorder",
+  "display_name": "Diagnosed or treated by a physician for Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)?",
+  "description": "Also known as Attention Deficit Hyperactivity Disorder (ADHD)",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

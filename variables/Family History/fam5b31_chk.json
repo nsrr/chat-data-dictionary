@@ -1,9 +1,14 @@
 {
   "id": "fam5b31_chk",
-  "display_name": "Half sister has SIDS",
-  "description": "Also known as crib death or sudden infant death syndrome",
+  "display_name": "Half sister has Sudden Infant Death Syndrome (SIDS)",
+  "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "cot death",
+    "sibling",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

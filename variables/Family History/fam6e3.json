@@ -3,7 +3,10 @@
   "display_name": "Biological father has depression",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

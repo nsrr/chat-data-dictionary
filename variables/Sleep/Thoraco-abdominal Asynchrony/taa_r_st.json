@@ -1,7 +1,10 @@
 {
   "id": "taa_r_st",
-  "display_name": "Amount of R sleep included in the total thoraco-abdominal asynchrony analysis",
+  "display_name": "Amount of rapid eye movement sleep (REM) included in the total thoraco-abdominal asynchrony analysis",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "paradoxical"
+  ]
 }

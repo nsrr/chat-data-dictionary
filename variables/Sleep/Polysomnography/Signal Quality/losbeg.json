@@ -2,8 +2,8 @@
   "id": "losbeg",
   "display_name": "Data lost - recording begain in sleep",
   "description": "1=data lost - loss at beginning of study",
-  "domain": "noyes",
   "type": "choices",
+  "domain": "noyes",
   "forms": [
     "chat_qs_forms"
   ]

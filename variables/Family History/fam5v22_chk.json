@@ -4,6 +4,14 @@
   "description": "",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "sibling",
+    "asd",
+    "autistic disorder",
+    "childhood disintegrative disorder",
+    "pervasive developmental disorder-not otherwise specified",
+    "asperger syndrome"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

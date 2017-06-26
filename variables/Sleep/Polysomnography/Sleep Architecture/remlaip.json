@@ -1,7 +1,7 @@
 {
   "id": "remlaip",
-  "display_name": "REM Latency I - including wake time",
-  "description": "Total time from beginning of sleep to first epoch of REM, rounded to nearest minute  (data can be inaccurate if scorer has not set sleep onset rule properly in compumedics software)",
+  "display_name": "Rapid eye movement sleep (REM) Latency I - including wake time",
+  "description": "Total time from beginning of sleep to first epoch of rapid eye movement sleep (REM) (data can be inaccurate if scorer has not set sleep onset rule properly in compumedics software)",
   "type": "numeric",
   "units": "minutes"
 }

@@ -1,7 +1,10 @@
 {
   "id": "paq2a_rc",
-  "display_name": "Feeling afraid or scared (coded per pedsql manual)?",
+  "display_name": "Feeling afraid or scared (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
-  "domain":"neveroralways"
+  "domain": "neveroralways",
+  "labels": [
+    "qol"
+  ]
 }

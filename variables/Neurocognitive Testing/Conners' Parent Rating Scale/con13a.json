@@ -3,7 +3,6 @@
   "display_name": "DSM-IV Inattentive Raw Score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_conners_forms"
   ]

@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "sex",
+  "labels": [
+    "male",
+    "female"
+  ],
   "forms": [
     "chat_referral_forms"
   ]

@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "dm",
+    "mom",
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

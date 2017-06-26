@@ -1,9 +1,13 @@
 {
   "id": "fam5a21_chk",
-  "display_name": "Full sisters have ATLE",
+  "display_name": "Full sisters have acute life threatening episode (ALTE)",
   "description": "Also known as acute life threatening episodes",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "apparent life-threatening event",
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

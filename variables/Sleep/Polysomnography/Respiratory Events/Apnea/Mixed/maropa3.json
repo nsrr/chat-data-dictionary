@@ -1,7 +1,7 @@
 {
   "id": "maropa3",
-  "display_name": "Number of mixed apnea with arousal (REM, Other, 3% desaturation)",
-  "description": "Number of mixed apnea during REM sleep with non-supine body position",
+  "display_name": "Number of mixed apnea with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
   "type": "numeric",
   "units": "seconds"
 }

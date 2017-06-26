@@ -1,7 +1,10 @@
 {
   "id": "canoa3",
-  "display_name": "Number of central apnea with arousals (NREM, Other, 3% desaturation)",
-  "description": "Number of central apnea during NREM sleep with non-supine body position",
+  "display_name": "Number of central apnea with >=3% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem "
+  ]
 }

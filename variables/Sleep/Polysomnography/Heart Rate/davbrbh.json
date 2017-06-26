@@ -1,7 +1,11 @@
 {
   "id": "davbrbh",
-  "display_name": "Average heart rate with arousal (REM, Back, 3% desaturation)",
-  "description": "Average heart rate during REM sleep with supine body position",
+  "display_name": "Average heart rate with arousal (Rapid eye movement sleep (REM), Supine, >=3% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "beats per minute"
+  "units": "beats per minute",
+  "labels": [
+    "hr",
+    "bpm"
+  ]
 }

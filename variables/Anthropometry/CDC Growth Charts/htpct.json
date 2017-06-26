@@ -3,5 +3,12 @@
   "display_name": "Percentile for length-for-age or stature-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percentile"
+  "units": "percentile",
+  "labels": [
+    "%",
+    "cm",
+    "centimeter",
+    "centimeters",
+    "height"
+  ]
 }

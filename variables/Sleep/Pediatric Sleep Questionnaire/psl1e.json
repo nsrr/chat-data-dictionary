@@ -3,8 +3,5 @@
   "display_name": "Have trouble breathing, or struggle to breathe?",
   "description": "",
   "type": "choices",
-  "domain": "noyesdontknow",
-  "form": [
-    "chat_sleepquestionnaire_forms"
-  ]
+  "domain": "noyesdontknow"
 }

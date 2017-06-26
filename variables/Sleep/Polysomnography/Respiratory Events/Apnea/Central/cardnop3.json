@@ -1,7 +1,10 @@
 {
   "id": "cardnop3",
-  "display_name": "Central apnea per hour (NREM, Other, 3% desaturation)",
-  "description": "Number of central apnea per hour of NREM sleep with non-supine body position",
+  "display_name": "Central apnea per hour (Non-rapid eye movement sleep (NREM), Non-supine, >=3% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour",
+  "labels": [
+    "non-rem "
+  ]
 }

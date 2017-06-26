@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "signalofsleeptime",
+  "labels": [
+    "thorax",
+    "thoracic",
+    "respiratory belt"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

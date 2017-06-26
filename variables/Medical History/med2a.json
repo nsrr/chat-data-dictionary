@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "immunotherapy"
   ]
 }

@@ -3,7 +3,7 @@
   "display_name": "Participant completed the study as per protocol",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
   "commonly_used": true,
   "forms": [
     "chat_consorts"

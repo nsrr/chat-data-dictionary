@@ -4,5 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter",
+  "labels": [
+    "insulin",
+    "sugar/mg/dl"
+  ],
   "commonly_used": true
 }

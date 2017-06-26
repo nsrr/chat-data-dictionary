@@ -4,6 +4,12 @@
   "description": "Defined as having this 3 or more times per week",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "sibling",
+    "eds",
+    "tired",
+    "sleepy"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

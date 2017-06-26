@@ -1,7 +1,7 @@
 {
   "id": "rdimnr3p",
-  "display_name": "Overall Non-REM RDI at 3% desaturation",
-  "description": "Non-REM RDI at 3% desaturation  [(total number of apneas and hypopneas in non-REM sleep associated with >= 3% desaturation) / (hours of NREM sleep)]",
+  "display_name": "Overall non-rapid eye movement sleep (NREM) Respiratory Disturbance Index (RDI) at >=3% desaturation",
+  "description": "[(total number of apneas and hypopneas in non-rapid eye movement sleep (NREM) associated with >= 3% desaturation) / (hours of non-rapid eye movement sleep (NREM))]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60*(hnrbp3 + hnrop3 + canbp3 + canop3 + oanbp3 + oanop3 + manrbp3 + manrop3) / (slpprdp - minremp)"

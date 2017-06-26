@@ -4,8 +4,14 @@
   "description": "",
   "type": "numeric",
   "units": "kilograms",
+  "labels": [
+    "kg",
+    "kilogram",
+    "kilograms",
+    "wt"
+  ],
+  "commonly_used": true,
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "commonly_used": true
+  ]
 }

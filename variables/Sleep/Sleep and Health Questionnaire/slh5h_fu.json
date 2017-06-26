@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "alwaysornever",
+  "labels": [
+    "somniloquy"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

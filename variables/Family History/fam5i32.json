@@ -3,7 +3,10 @@
   "display_name": "Number of half brothers with diabetes",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

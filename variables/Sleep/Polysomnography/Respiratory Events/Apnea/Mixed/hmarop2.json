@@ -1,7 +1,7 @@
 {
   "id": "hmarop2",
-  "display_name": "Number of mixed apnea per hour (REM, Other, 2% desaturation)",
-  "description": "Number of mixed apnea per hour of REM sleep with non-supine body position",
+  "display_name": "Number of mixed apnea per hour (Rapid eye movement sleep (REM), Non-supine, >=2% desaturation)",
+  "description": "",
   "type": "numeric",
   "units": "events per hour"
 }

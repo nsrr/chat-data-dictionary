@@ -1,7 +1,10 @@
 {
   "id": "mxhrba3",
-  "display_name": "Maximum hypopnea length with arousals (REM, Back, 3% desaturation)",
-  "description": "Longest hypopnea during REM sleep with supine body position",
+  "display_name": "Maximum hypopnea length with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "description": "Longest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "avgsaominnr",
-  "display_name": "Average oxygen saturation minimum (NREM)",
-  "description": "Average oxygen saturation minimum in non-REM sleep",
+  "display_name": "Average oxygen saturation (SaO2) minimum (Non-rapid eye movement sleep (NREM))",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "non-rem"
+  ]
 }

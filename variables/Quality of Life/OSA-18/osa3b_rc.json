@@ -3,5 +3,8 @@
   "display_name": "Aggressive or hyperactive behavior (recoded)?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time1",
+  "labels": [
+    "qol"
+  ]
 }

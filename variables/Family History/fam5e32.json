@@ -1,9 +1,11 @@
 {
   "id": "fam5e32",
-  "display_name": "Number of half brothers with ADD/ADHD",
-  "description": "Known as attention deficit hyperactivity disorder",
+  "display_name": "Number of half brothers with Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)",
+  "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

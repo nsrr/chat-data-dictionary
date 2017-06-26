@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "form": [
-    "chat_preop_forms"
+  "labels": [
+    "a&t"
   ]
 }

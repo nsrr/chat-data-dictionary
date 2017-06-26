@@ -1,7 +1,10 @@
 {
   "id": "ortdurop",
-  "display_name": "Total obstructive apnea length (REM, Other)",
-  "description": "Total duration of obstructive apnea in REM sleep with non-supine body position",
+  "display_name": "Total obstructive apnea length (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "rdim2pa",
-  "display_name": "Overall RDI at 2% desaturation or arousal",
-  "description": "RDI with arousals at 2% desaturation  [(total number of apneas and hypopneas with arousal associated with >= 2% desaturation) / (hours of sleep)]",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) at >=2% desaturation or arousal",
+  "description": "Respiratory Disturbance Index (RDI) at >=2% desaturation or arousal  [(total number of apneas and hypopneas with >=2% desaturation or arousal) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60*(hremba2 +hroa2 + hnrba2 + hnroa2 +carba2+ caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 + marbpa2 + maropa2 + manrbpa2 + manropa2) / slpprdp"

@@ -3,8 +3,5 @@
   "display_name": "Tree allergy since last visit",
   "description": "",
   "type": "choices",
-  "domain": "trees",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "domain": "trees"
 }

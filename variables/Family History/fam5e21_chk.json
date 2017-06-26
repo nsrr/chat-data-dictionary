@@ -1,9 +1,12 @@
 {
   "id": "fam5e21_chk",
-  "display_name": "Full sister has ADD/ADHD",
-  "description": "Known as attention deficit hyperactivity disorder",
+  "display_name": "Full sister has Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)",
+  "description": "",
   "type": "choices",
   "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

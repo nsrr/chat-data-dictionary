@@ -1,7 +1,11 @@
 {
   "id": "plmcarstg1",
-  "display_name": "Number of PLM clusters with arousal and respiratory event (stage 1 sleep)",
-  "description": "Total PLM clusters with arousal and  respiratory events stage 1 sleep",
+  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal and respiratory event (stage 1 sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

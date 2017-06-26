@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
+  "labels": [
+    "brother",
+    "sister",
+    "cp"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -1,7 +1,10 @@
 {
   "id": "canbp5",
-  "display_name": "Number of central apnea (NREM, Back, 5% desaturation)",
-  "description": "Number of central apnea during NREM sleep with supine body position",
+  "display_name": "Number of central apnea (Non-rapid eye movement sleep (NREM), Supine, >=5% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem "
+  ]
 }

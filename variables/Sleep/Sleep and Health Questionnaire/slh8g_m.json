@@ -1,9 +1,12 @@
 {
   "id": "slh8g_m",
-  "display_name": "In gym class or PE, being active: Minutes per day",
+  "display_name": "In gym class or physical education (PE), being active: Minutes per day",
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "labels": [
+    "exercise"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

@@ -3,8 +3,5 @@
   "display_name": "How was this information obtained?",
   "description": "",
   "type": "choices",
-  "domain": "infoobtained",
-  "form": [
-    "chat_preop_forms"
-  ]
+  "domain": "infoobtained"
 }

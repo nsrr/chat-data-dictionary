@@ -1,9 +1,12 @@
 {
   "id": "supinep",
   "display_name": "Percentage of time supine",
-  "description": "Percent of sleep time in supine body position  [100*(number of minutes of sleep in supine body position) / (total sleep time)]",
+  "description": "Percent of sleep time in supine body position  [100*(number of minutes of sleep in supine body position) / (Total Sleep Time (TST))]",
   "type": "numeric",
   "units": "percent",
-  "commonly_used": true,
-  "calculation": "100*(remepbp+nremepbp)/slpprdp"
+  "calculation": "100*(remepbp+nremepbp)/slpprdp",
+  "labels": [
+    "back"
+  ],
+  "commonly_used": true
 }

@@ -3,7 +3,12 @@
   "display_name": "Homeostasis Model Assessment (HOMA) estimate of insulin resistance",
   "description": "",
   "type": "numeric",
-  "units": "",
   "calculation": "(glucose_mmol * roche_insulin) / 22.5",
+  "labels": [
+    "diabetes",
+    "metabolic syndrome",
+    "ir",
+    "dm"
+  ],
   "commonly_used": true
 }

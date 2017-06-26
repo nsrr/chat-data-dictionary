@@ -1,7 +1,10 @@
 {
   "id": "avcanoa5",
-  "display_name": "Average central apnea length with arousals (NREM, Other, 5% desaturations)",
-  "description": "Average central apnea duration during NREM sleep with non-supine body position",
+  "display_name": "Average central apnea length with >=5% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

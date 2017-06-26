@@ -1,8 +1,15 @@
 {
   "id": "odi4",
-  "display_name": "Oxygen Desaturation Index at 4% (during sleep time)",
+  "display_name": "Oxygen Desaturation Index at >=4% (during sleep time)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
   "commonly_used": true
 }

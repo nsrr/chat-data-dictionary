@@ -1,7 +1,7 @@
 {
   "id": "mxdroa2",
-  "display_name": "Maximum desaturation with arousals (REM, Other, 2% desaturation)",
-  "description": "Largest respiratory related desaturation during REM sleep with non-supine body position",
+  "display_name": "Maximum desaturation with arousals (Rapid eye movement sleep (REM), Non-supine, >=2% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)"
 }

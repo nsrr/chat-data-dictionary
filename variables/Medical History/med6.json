@@ -3,8 +3,5 @@
   "display_name": "Was your child born early (prematurely, or 4 or more weeks early)?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

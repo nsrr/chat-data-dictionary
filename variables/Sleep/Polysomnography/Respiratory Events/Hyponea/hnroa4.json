@@ -1,7 +1,10 @@
 {
   "id": "hnroa4",
-  "display_name": "Number of hypopnea with arousals (NREM, Other, 4% desaturation)",
-  "description": "Number of hypopnea during NREM sleep with non-supine body position",
+  "display_name": "Number of hypopnea with >=4% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
   "type": "numeric",
-  "units": "events"
+  "units": "events",
+  "labels": [
+    "non-rem"
+  ]
 }

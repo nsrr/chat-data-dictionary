@@ -4,7 +4,7 @@
   "description": "",
   "type": "integer",
   "units": "seconds from date of randomization",
-   "forms": [
+  "forms": [
     "chat_qs_forms"
   ]
 }

@@ -1,9 +1,12 @@
 {
   "id": "fam5b22",
-  "display_name": "Number of full brothers with SIDS",
-  "description": "Also known as crib death or sudden infant death syndrome",
+  "display_name": "Number of full brothers with Sudden Infant Death Syndrome (SIDS)",
+  "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "cot death",
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

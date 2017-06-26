@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "inches",
+  "labels": [
+    "mom",
+    "ht",
+    "in"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

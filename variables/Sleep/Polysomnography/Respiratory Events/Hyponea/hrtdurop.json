@@ -1,7 +1,7 @@
 {
   "id": "hrtdurop",
-  "display_name": "Total hypopnea length (REM, Other)",
-  "description": "Total duration of hypopnea in REM sleep with non-supine body position",
+  "display_name": "Total hypopnea length (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "duration",
   "type": "numeric",
   "units": "minutes"
 }

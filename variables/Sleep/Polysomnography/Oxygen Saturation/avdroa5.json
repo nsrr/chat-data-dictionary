@@ -1,7 +1,7 @@
 {
   "id": "avdroa5",
-  "display_name": "Average desaturation with arousals (REM, Other, 5% desaturation)",
-  "description": "Average respiratory related desaturation during REM sleep with non-supine body position",
+  "display_name": "Average desaturation with arousals (Rapid eye movement sleep (REM), Non-supine, >=5% desaturation)",
+  "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)"
 }

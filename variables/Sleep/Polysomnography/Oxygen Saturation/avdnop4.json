@@ -1,7 +1,10 @@
 {
   "id": "avdnop4",
-  "display_name": "Average desaturation (NREM, Other, 4% desaturation)",
-  "description": "Average respiratory related desaturation during NREM sleep with non-supine body position",
+  "display_name": "Average desaturation (Non-rapid eye movement sleep (NREM), Non-supine, >=4% desaturation)",
+  "description": "Average respiratory related desaturation ",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "non-rem "
+  ]
 }

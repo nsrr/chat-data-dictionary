@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "chance",
+  "labels": [
+    "ess"
+  ],
   "forms": [
     "chat_epworth_forms"
   ]

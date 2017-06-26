@@ -1,7 +1,11 @@
 {
   "id": "lmanrbp",
-  "display_name": "Maximum mixed apnea length (NREM, Back, all desaturations)",
-  "description": "Longest mixed apnea during NREM sleep with supine body position",
+  "display_name": "Maximum mixed apnea length (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "Longest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

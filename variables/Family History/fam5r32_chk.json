@@ -4,6 +4,10 @@
   "description": "Defined as having loud snores 3 or more times per week.",
   "type": "choices",
   "domain": "checked",
+  "labels": [
+    "sibling",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -3,7 +3,10 @@
   "display_name": "Full sisters have asthma",
   "description": "",
   "type": "choices",
-  "domain":"check",
+  "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

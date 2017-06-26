@@ -3,8 +3,5 @@
   "display_name": "Child has food or drink allergy",
   "description": "",
   "type": "choices",
-  "domain": "food",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "food"
 }

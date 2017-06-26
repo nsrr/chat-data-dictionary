@@ -4,6 +4,6 @@
   "description": "Arousal Index - total arousals per hour of sleep  [(Total number of arousals) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
-  "commonly_used": true,
-  "calculation": "60*(arrembp + arremop +arnrembp +arnremop) / slpprdp"
+  "calculation": "60*(arrembp + arremop +arnrembp +arnremop) / slpprdp",
+  "commonly_used": true
 }

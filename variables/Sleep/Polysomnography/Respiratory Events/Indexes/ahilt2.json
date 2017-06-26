@@ -1,6 +1,6 @@
 {
   "id": "ahilt2",
-  "display_name": "OAI < 1 and AHI < 2 (normal range) = 1 Ineligible Normal",
+  "display_name": "Obstructive Apnea Index (OAI) < 1 and Apnea-Hypopnea Index (AHI) < 2 (normal range) = 1 Ineligible Normal",
   "description": "",
   "type": "choices",
   "domain": "noyes",

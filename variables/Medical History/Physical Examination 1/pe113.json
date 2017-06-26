@@ -3,8 +3,5 @@
   "display_name": "Status of the lymphatic system",
   "description": "",
   "type": "choices",
-  "domain": "normal",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "domain": "normal"
 }

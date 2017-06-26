@@ -3,8 +3,6 @@
   "display_name": "Anxious / Shy T-Score",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "units": "",
   "forms": [
     "chat_conners_tr_forms"
   ]

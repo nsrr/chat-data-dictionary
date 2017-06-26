@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "signalofsleeptime",
+  "labels": [
+    "emg"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

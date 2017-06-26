@@ -1,7 +1,10 @@
 {
   "id": "avoarop5",
-  "display_name": "Average obstructive apnea length (REM, Other, 5% desaturation)",
-  "description": "Average obstructive apnea duration during REM sleep with non-supine body position",
+  "display_name": "Average obstructive apnea length (Rapid eye movement sleep (REM), Non-supine, >=5% desaturation)",
+  "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

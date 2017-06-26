@@ -4,8 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "ethnicity",
+  "commonly_used": true,
   "forms": [
     "chat_cdi_forms"
-  ],
-  "commonly_used": true
+  ]
 }

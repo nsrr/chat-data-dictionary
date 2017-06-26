@@ -1,8 +1,14 @@
 {
   "id": "plmaslp",
-  "display_name": "Number of PLMs with arousal (sleep)",
-  "description": "Total PLMs with arousal in all sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) with arousal (sleep)",
+  "description": "Total",
   "type": "numeric",
   "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement"
+  ],
   "commonly_used": true
 }

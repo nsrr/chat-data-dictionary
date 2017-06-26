@@ -3,7 +3,9 @@
   "display_name": "Number of full brothers with headaches",
   "description": "Either migraines or chronic severe headache",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -1,7 +1,7 @@
 {
   "id": "ahremop",
-  "display_name": "Arousals per hour (REM, Other, all desaturations)",
-  "description": "Number of arousals per hour during REM and non-supine body position",
+  "display_name": "Arousals per hour (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "Number of arousals per hour during rapid eye movement sleep (REM) and non-supine body position",
   "type": "numeric",
   "units": "events per hour"
 }

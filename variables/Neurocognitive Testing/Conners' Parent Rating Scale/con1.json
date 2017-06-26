@@ -3,7 +3,7 @@
   "display_name": "Was the questionnaire given to the parent/guardian?",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
   "forms": [
     "chat_conners_forms"
   ]

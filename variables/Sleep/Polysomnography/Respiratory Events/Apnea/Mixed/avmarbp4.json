@@ -1,7 +1,7 @@
 {
   "id": "avmarbp4",
-  "display_name": "Average mixed apnea length (REM, Back, 4% desaturation)",
-  "description": "Average mixed apnea duration during REM sleep with supine body position",
+  "display_name": "Average mixed apnea length (Rapid eye movement sleep (REM), Supine, >=4% desaturation)",
+  "description": "duration",
   "type": "numeric",
   "units": "seconds"
 }

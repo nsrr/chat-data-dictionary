@@ -4,6 +4,13 @@
   "description": "",
   "type": "choices",
   "domain": "randomizationarm",
+  "labels": [
+    "randomized",
+    "early adenotonsillectomy",
+    "eat",
+    "wwsc",
+    "watchful waiting plus supportive care"
+  ],
   "forms": [
     "chat_unblind_forms"
   ]

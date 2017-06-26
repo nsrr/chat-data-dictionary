@@ -1,9 +1,12 @@
 {
   "id": "slh8g_totmins",
-  "display_name": "Total minutes in gym class or PE, being active",
+  "display_name": "Total minutes in gym class or physical education (PE), being active",
   "description": "",
   "type": "numeric",
   "units": "minutes",
+  "labels": [
+    "exercise"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

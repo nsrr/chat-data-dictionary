@@ -3,8 +3,5 @@
   "display_name": "Have heavy or loud breathing?",
   "description": "",
   "type": "choices",
-  "domain": "noyesdontknow",
-  "form": [
-    "chat_sleepquestionnaire_forms"
-  ]
+  "domain": "noyesdontknow"
 }

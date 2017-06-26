@@ -5,5 +5,11 @@
   "type": "numeric",
   "units": "minutes",
   "calculation": "minstg2p",
+  "labels": [
+    "%",
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement sleep"
+  ],
   "commonly_used": true
 }

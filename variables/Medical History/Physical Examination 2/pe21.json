@@ -4,7 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "celsius",
-  "form": [
-    "chat_physical1_forms"
+  "labels": [
+    "c "
   ]
 }

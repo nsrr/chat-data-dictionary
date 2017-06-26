@@ -4,5 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "millimoles per litre",
+  "labels": [
+    "mmol/l",
+    "sugar"
+  ],
   "commonly_used": true
 }

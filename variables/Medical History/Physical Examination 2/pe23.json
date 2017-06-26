@@ -3,8 +3,7 @@
   "display_name": "Respiratory rate of the participant",
   "description": "",
   "type": "numeric",
-  "units": "",
-  "form": [
-    "chat_physical1_forms"
+  "labels": [
+    "rr"
   ]
 }

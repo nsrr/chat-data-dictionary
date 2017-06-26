@@ -3,5 +3,8 @@
   "display_name": "Difficulty getting out of bed in the morning recoded)?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time1",
+  "labels": [
+    "qol"
+  ]
 }

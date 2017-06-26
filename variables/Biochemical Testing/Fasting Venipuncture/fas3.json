@@ -4,6 +4,12 @@
   "description": "",
   "type": "choices",
   "domain": "noyesdontknow",
+  "labels": [
+    "blood draw",
+    "hemophilia",
+    "hemophiliac",
+    "haemophilia"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

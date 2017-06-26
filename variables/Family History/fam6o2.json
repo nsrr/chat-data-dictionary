@@ -4,6 +4,9 @@
   "description": "Defined as having loud snores 3 or more times per week",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "mom"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

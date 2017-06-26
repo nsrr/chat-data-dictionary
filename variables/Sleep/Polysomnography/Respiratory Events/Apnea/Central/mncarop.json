@@ -1,7 +1,10 @@
 {
   "id": "mncarop",
-  "display_name": "Minimum central apnea length (REM, Other, all desaturations)",
-  "description": "Shortest central apnea during REM sleep with non-supine body position",
+  "display_name": "Minimum central apnea length (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "Shortest ",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

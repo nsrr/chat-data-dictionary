@@ -3,7 +3,6 @@
   "display_name": "Attention deficit/hyperactivity problems T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_cbc_forms"
   ]

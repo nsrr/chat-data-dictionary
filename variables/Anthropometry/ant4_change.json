@@ -4,6 +4,12 @@
   "description": "",
   "type": "numeric",
   "units": "kilograms",
+  "labels": [
+    "kg",
+    "kilogram",
+    "kilograms",
+    "wt"
+  ],
   "forms": [
     "chat_anthropometry_forms"
   ]

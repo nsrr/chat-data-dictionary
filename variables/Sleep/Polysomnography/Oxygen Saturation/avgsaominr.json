@@ -1,7 +1,7 @@
 {
   "id": "avgsaominr",
-  "display_name": "Average oxygen saturation (REM)",
-  "description": "Average oxygen saturation minimum during REM sleep",
+  "display_name": "Average oxygen saturation (SaO2) (Rapid eye movement sleep (REM))",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)"
 }

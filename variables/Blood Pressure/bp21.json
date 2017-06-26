@@ -4,12 +4,13 @@
   "description": "",
   "type": "numeric",
   "units": "millimeters of mercury",
+  "labels": [
+    "bp",
+    "hypertension",
+    "mmHg",
+    "htn"
+  ],
   "forms": [
     "chat_bp_forms"
-  ],
-  "labels": [
-    "BP",
-    "Hypertension"
   ]
 }
-

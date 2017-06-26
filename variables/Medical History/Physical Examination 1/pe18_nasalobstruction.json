@@ -3,5 +3,5 @@
   "display_name": "Respiratory: Nasal obstruction present or not present",
   "description": "Binary variable that flags keywords: swollen nasal mucous membranes, congested, swollen turbinates and nasal congestion from the PE18_EXPLAIN variable",
   "type": "choices",
-  "domain":"present"
+  "domain": "present"
 }

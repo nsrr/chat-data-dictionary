@@ -3,5 +3,8 @@
   "display_name": "Mood swings or temper tantrums (recoded)?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time1",
+  "labels": [
+    "qol"
+  ]
 }

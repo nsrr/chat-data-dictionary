@@ -1,8 +1,15 @@
 {
   "id": "rco2peak",
-  "display_name": "Peak end-tidal carbon dioxide asleep",
+  "display_name": "Peak end-tidal carbon dioxide (ETCO2) asleep",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percentage of carbon dioxide (CO2)",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
   "commonly_used": true
 }

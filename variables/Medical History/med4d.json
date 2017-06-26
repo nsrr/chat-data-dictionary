@@ -3,8 +3,5 @@
   "display_name": "Referred to Neurologist",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyes"
 }

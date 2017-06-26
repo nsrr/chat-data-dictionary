@@ -1,9 +1,16 @@
 {
   "id": "slp_eff",
   "display_name": "Sleep efficiency percentage",
-  "description": "Percentage of time in bed that was spent sleeping [100*(total sleep time) / (total time in bed)]",
+  "description": "Percentage of time in bed that was spent sleeping [100*(Total Sleep Time (TST)) / (total time in bed)]",
   "type": "numeric",
   "units": "percent",
-  "commonly_used": true,
-  "calculation":"100*(slpprdp)/timebedp"
+  "calculation": "100*(slpprdp)/timebedp",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
+  "commonly_used": true
 }

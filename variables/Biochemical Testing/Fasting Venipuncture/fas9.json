@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "traumaticclean",
+  "labels": [
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

@@ -1,7 +1,10 @@
 {
   "id": "avmanrbpa2",
-  "display_name": "Average mixed apnea with arousal length (NREM, Back, 2% desaturation)",
-  "description": "Average mixed apnea duration during NREM sleep with supine body position",
+  "display_name": "Average mixed apnea length with >=2% desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Restless sleep or frequent awakenings from sleep (coded per Dr. Ramon Arturo Franco's publication)?",
   "description": "",
   "type": "choices",
-  "domain":"time1"
+  "domain": "time1",
+  "labels": [
+    "qol"
+  ]
 }

@@ -4,6 +4,11 @@
   "description": "",
   "type": "numeric",
   "units": "pounds",
+  "labels": [
+    "mom",
+    "wt",
+    "lbs"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

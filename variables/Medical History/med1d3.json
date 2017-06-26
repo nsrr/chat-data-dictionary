@@ -1,10 +1,7 @@
 {
   "id": "med1d3",
-  "display_name": "ADD/ADHD still present?",
-  "description": "Also known as attention deficit hyperactivity disorder",
+  "display_name": "Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD) still present?",
+  "description": "Also known as Attention Deficit Hyperactivity Disorder (ADHD)",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

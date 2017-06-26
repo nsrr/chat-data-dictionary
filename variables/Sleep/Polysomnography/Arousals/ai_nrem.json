@@ -1,9 +1,12 @@
 {
   "id": "ai_nrem",
-  "display_name": "Arousal Index NREM",
-  "description": "Non-REM Arousal Index - total arousals in non-REM sleep per hours of non-REM sleep  [(Total number of arousals in non-REM sleep) / (hours of non-REM sleep)]",
+  "display_name": "Arousal Index non-rapid eye movement sleep (NREM)",
+  "description": "Non-rapid eye movement sleep (NREM) Arousal Index - total arousals in non-rapid eye movement sleep (NREM) per hours of non-rapid eye movement sleep (NREM)  [(Total number of arousals in non-rapid eye movement sleep (NREM)) / (hours of non-rapid eye movement sleep (NREM))]",
   "type": "numeric",
   "units": "events per hour",
-  "commonly_used": true,
-  "calculation": "60*(arnrembp +arnremop) / (slpprdp - minremp)"
+  "calculation": "60*(arnrembp +arnremop) / (slpprdp - minremp)",
+  "labels": [
+    "non-rem"
+  ],
+  "commonly_used": true
 }

@@ -3,7 +3,11 @@
   "display_name": "Number of half brothers with sleep apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "osa",
+    "stepbrother"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

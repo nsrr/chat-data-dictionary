@@ -2,5 +2,9 @@
   "id": "sgl_status",
   "display_name": "Serum glucose alert status",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "labels": [
+    "insulin",
+    "sugar/mg/dl"
+  ]
 }

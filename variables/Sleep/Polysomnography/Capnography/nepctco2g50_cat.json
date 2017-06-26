@@ -1,7 +1,7 @@
 {
   "id": "nepctco2g50_cat",
-  "display_name": "Carbon dioxide cutoff < 25",
+  "display_name": "Carbon dioxide (CO2) cutoff < 25",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide"
+  "units": "percentage of carbon dioxide (CO2)"
 }

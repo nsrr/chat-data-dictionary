@@ -3,7 +3,13 @@
   "display_name": "Child had surgery?",
   "description": "",
   "type": "choices",
-  "domain":"noyes",
+  "domain": "noyes",
+  "labels": [
+    "tonsillectomy",
+    "adenoidectomy",
+    " t&a",
+    " early adenotonsillectomy"
+  ],
   "forms": [
     "chat_consorts"
   ]

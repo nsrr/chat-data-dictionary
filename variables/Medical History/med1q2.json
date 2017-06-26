@@ -4,7 +4,15 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "asd",
+    "autistic disorder",
+    "childhood disintegrative disorder",
+    "pervasive developmental disorder-not otherwise specified",
+    "asperger syndrome",
+    "behavioral training and management",
+    "speech therapy",
+    "occupational therapy",
+    "physical therapy"
   ]
 }

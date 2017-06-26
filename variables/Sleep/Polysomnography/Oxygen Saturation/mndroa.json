@@ -1,7 +1,7 @@
 {
   "id": "mndroa",
-  "display_name": "Minimum oxygen saturation with arousals (REM, Other, all desaturations)",
-  "description": "Lowest oxygen saturation during REM sleep with non-supine body position",
+  "display_name": "Minimum oxygen saturation (SaO2) with arousals (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)"
 }

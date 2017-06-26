@@ -1,7 +1,7 @@
 {
   "id": "avdrba3",
-  "display_name": "Average desaturation with arousals (REM, Back, 3% desaturation)",
-  "description": "Average respiratory related desaturation during REM sleep with supine body position",
+  "display_name": "Average desaturation with arousals (Rapid eye movement sleep (REM), Supine, >=3% desaturation)",
+  "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)"
 }

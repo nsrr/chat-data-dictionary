@@ -4,5 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "capnographtype",
+  "labels": [
+    "etco2"
+  ],
   "commonly_used": true
 }

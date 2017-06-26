@@ -3,7 +3,9 @@
   "display_name": "Time at start of venipuncture",
   "description": "",
   "type": "time",
-  "units": "",
+  "labels": [
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

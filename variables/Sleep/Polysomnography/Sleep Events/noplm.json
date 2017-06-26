@@ -1,8 +1,14 @@
 {
   "id": "noplm",
-  "display_name": "Number of PLM during sleep",
-  "description": "Number of PLM during sleep",
+  "display_name": "Number of Periodic limb movement (PLM) during sleep",
+  "description": "",
   "type": "numeric",
   "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement sleep"
+  ],
   "commonly_used": true
 }

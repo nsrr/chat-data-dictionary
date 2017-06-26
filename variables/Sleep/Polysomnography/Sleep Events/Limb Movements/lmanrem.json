@@ -1,7 +1,10 @@
 {
   "id": "lmanrem",
-  "display_name": "Number of limb movements with arousal (NREM)",
-  "description": "Total limb movements with arousal  in NREM sleep",
+  "display_name": "Number of limb movements with arousal (Non-rapid eye movement sleep (NREM))",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "non-rem"
+  ]
 }

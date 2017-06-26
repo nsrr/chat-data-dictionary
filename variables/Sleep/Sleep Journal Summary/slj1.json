@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "diary"
+  ],
   "forms": [
     "chat_journal_summary_forms"
   ]

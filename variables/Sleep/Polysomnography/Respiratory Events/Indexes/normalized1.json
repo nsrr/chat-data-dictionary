@@ -1,6 +1,6 @@
 {
   "id": "normalized1",
-  "display_name": "AHI normalized (improved) between baseline and follow-up",
+  "display_name": "Apnea-Hypopnea Index (AHI) normalized (improved) between baseline and follow-up",
   "description": "Indicates an OMAHI3 <= 2 and OAI0P <= 1 at follow-up, whereas one or both of these thresholds were exceeded at baseline.",
   "type": "choices",
   "domain": "noyes"

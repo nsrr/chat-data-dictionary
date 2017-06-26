@@ -2,8 +2,8 @@
   "id": "losoth",
   "display_name": "Data lost - other",
   "description": "1=data lost - other",
-  "domain": "noyes",
   "type": "choices",
+  "domain": "noyes",
   "forms": [
     "chat_qs_forms"
   ]

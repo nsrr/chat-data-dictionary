@@ -3,7 +3,6 @@
   "display_name": "Verbal Similarities GCA",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_das2_forms"
   ]

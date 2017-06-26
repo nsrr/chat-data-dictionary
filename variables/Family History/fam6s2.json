@@ -1,9 +1,12 @@
 {
   "id": "fam6s2",
-  "display_name": "Biological mother has emphysema or COPD",
-  "description": "COPD also known as chronic obstructive pulmonary disease",
+  "display_name": "Biological mother has emphysema or chronic obstructive pulmonary disease (COPD)",
+  "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "mom"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

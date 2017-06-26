@@ -4,6 +4,9 @@
   "description": "",
   "type": "numeric",
   "units": "days",
+  "labels": [
+    "exercise"
+  ],
   "forms": [
     "chat_slhq_forms"
   ]

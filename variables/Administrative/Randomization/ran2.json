@@ -1,9 +1,12 @@
 {
   "id": "ran2",
-  "display_name": "Has the participant had an ENT evaluation within 90 days of baseline, and is considered a candidate for surgery?",
+  "display_name": "Has the participant had an ear, nose, and throat (ENT) evaluation within 90 days of baseline, and is considered a candidate for surgery?",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "randomized"
+  ],
   "forms": [
     "chat_random_forms"
   ]

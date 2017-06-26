@@ -3,7 +3,9 @@
   "display_name": "If No, how many days were recorded?",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "diary"
+  ],
   "forms": [
     "chat_journal_summary_forms"
   ]

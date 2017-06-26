@@ -4,5 +4,5 @@
   "description": "(Total number of obstructive apneas) / (hours of sleep)",
   "type": "numeric",
   "units": "events per hour",
-  "commonly_used": "true"
+  "commonly_used": true
 }

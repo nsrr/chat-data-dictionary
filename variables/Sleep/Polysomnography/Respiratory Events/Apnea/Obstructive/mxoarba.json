@@ -1,7 +1,10 @@
 {
   "id": "mxoarba",
-  "display_name": "Maximum obstructive apnea length with arousals (REM, Back, all desaturations)",
-  "description": "Longest obstructive apnea during REM sleep with supine body position",
+  "display_name": "Maximum obstructive apnea length with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "Longest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration"
+  ]
 }

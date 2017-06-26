@@ -3,7 +3,11 @@
   "display_name": "Number of half sisters with enlarged tonsils or adenoids",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling",
+    "t&a",
+    "stepsister"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

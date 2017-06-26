@@ -1,7 +1,7 @@
 {
   "id": "slpprdm",
   "display_name": "Sleep period",
-  "description": "Total sleep period (minutes) = total sleep time + total time awake, includes time spent awake after lights on and therefore is not correct (not used in final dataset)",
+  "description": "Total sleep period (minutes) = Total Sleep Time (TST) + total time awake, includes time spent awake after lights on and therefore is not correct (not used in final dataset)",
   "type": "numeric",
   "units": "minutes"
 }

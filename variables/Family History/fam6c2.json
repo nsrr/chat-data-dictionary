@@ -1,9 +1,12 @@
 {
   "id": "fam6c2",
-  "display_name": "Biological mother has ADD/ADHD",
+  "display_name": "Biological mother has Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "mom"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

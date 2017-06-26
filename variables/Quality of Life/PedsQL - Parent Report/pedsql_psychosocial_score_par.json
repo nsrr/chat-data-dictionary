@@ -1,7 +1,9 @@
 {
   "id": "pedsql_psychosocial_score_par",
-  "display_name": "PedQL Parent Psychosocial Health Summary Score",
+  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Psychosocial Health Summary Score",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "labels": [
+    "qol"
+  ]
 }

@@ -4,6 +4,14 @@
   "description": "Total time scored as stage 3/4 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
-  "commonly_used": true,
-  "calculation": "mnstg34p"
+  "calculation": "mnstg34p",
+  "labels": [
+    "%",
+    "non-rem",
+    "nrem",
+    "slow wave sleep",
+    "sws",
+    "non-rapid eye movement sleep"
+  ],
+  "commonly_used": true
 }

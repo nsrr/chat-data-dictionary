@@ -1,7 +1,15 @@
 {
   "id": "minsaondoaslp",
-  "display_name": "Minimum oxygen saturation nadir associated with obstructive apnea (sleep)",
-  "description": "Lowest oxygen saturation nadir associated with obstructive apnea in sleep",
+  "display_name": "Minimum oxygen saturation (SaO2) nadir associated with obstructive apnea (sleep)",
+  "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation"
+  "units": "percentage of oxygen saturation (SaO2)",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement",
+    "%"
+  ]
 }

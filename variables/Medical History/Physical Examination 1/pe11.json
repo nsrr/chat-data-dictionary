@@ -3,8 +3,5 @@
   "display_name": "Temperature of participant.",
   "description": "",
   "type": "numeric",
-  "units": "celsius",
-  "form": [
-    "chat_physical1_forms"
-  ]
+  "units": "celsius"
 }

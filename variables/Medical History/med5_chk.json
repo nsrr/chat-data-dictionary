@@ -3,7 +3,7 @@
   "display_name": "What was your child's weight at birth",
   "description": "Not sure",
   "type": "string",
-  "form": [
-    "chat_medicalhx_forms"
+  "labels": [
+    "lbs"
   ]
 }

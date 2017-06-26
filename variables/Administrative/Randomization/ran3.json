@@ -1,9 +1,12 @@
 {
   "id": "ran3",
-  "display_name": "Has the participant had an overnight PSG evaluation, and is within the protocol defined limits?",
+  "display_name": "Has the participant had an overnight Polysomnography (PSG) evaluation, and is within the protocol defined limits?",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "randomized"
+  ],
   "forms": [
     "chat_random_forms"
   ]

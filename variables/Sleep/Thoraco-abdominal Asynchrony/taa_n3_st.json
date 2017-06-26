@@ -1,7 +1,11 @@
 {
   "id": "taa_n3_st",
-  "display_name": "Amount of N3 sleep included in the total thoraco-abdominal asynchrony analysis",
+  "display_name": "Amount of non-rapid eye movement sleep (NREM) Stage 3 included in the total thoraco-abdominal asynchrony analysis",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "paradoxical",
+    "non-rem"
+  ]
 }

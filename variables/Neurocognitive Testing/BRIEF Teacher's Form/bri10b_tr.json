@@ -3,7 +3,6 @@
   "display_name": "Plan/Organize T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_brief__tr_forms"
   ]

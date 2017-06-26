@@ -4,7 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "tonsilarsize",
-  "form": [
-    "chat_preop_forms"
+  "labels": [
+    "grade 0",
+    "1",
+    "2",
+    "3",
+    "4"
   ]
 }

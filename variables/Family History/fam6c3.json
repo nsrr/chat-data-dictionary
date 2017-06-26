@@ -1,9 +1,12 @@
 {
   "id": "fam6c3",
-  "display_name": "Biological father has ADD/ADHD",
+  "display_name": "Biological father has Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)",
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "dad"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

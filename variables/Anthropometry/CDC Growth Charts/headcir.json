@@ -3,5 +3,8 @@
   "display_name": "Child's head circumference",
   "description": "",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters",
+  "labels": [
+    "cm"
+  ]
 }

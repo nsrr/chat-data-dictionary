@@ -3,7 +3,10 @@
   "display_name": "Full sister who snores loudly",
   "description": "Defined as having loud snores 3 or more times per week.",
   "type": "choices",
-  "domain":"check",
+  "domain": "check",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

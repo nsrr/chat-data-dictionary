@@ -4,7 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "class",
-  "form": [
-    "chat_physical1_forms"
+  "labels": [
+    "class",
+    "I",
+    "II",
+    "III",
+    "IV"
   ]
 }

@@ -3,7 +3,6 @@
   "display_name": "Thought problems T score",
   "description": "",
   "type": "numeric",
-  "units": "",
   "forms": [
     "chat_cbc_forms"
   ]

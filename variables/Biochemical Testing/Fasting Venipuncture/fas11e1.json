@@ -4,6 +4,9 @@
   "description": "Serum, red, 0.5mL",
   "type": "choices",
   "domain": "noyes",
+  "labels": [
+    "blood draw"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

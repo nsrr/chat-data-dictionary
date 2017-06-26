@@ -1,7 +1,7 @@
 {
   "id": "marbp",
-  "display_name": "Number of mixed apnea (REM, Back, all desaturations)",
-  "description": "Number of mixed apnea during REM sleep with supine body position",
+  "display_name": "Number of mixed apnea (Rapid eye movement sleep (REM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
   "units": "seconds"
 }

@@ -1,8 +1,11 @@
 {
   "id": "losao2r",
-  "display_name": "Minimum oxygen saturation REM",
-  "description": "Lowest oxygen saturation in REM sleep  [minimum(all oxygen saturation values in REM sleep)]",
+  "display_name": "Minimum oxygen saturation (SaO2) Rapid eye movement sleep (REM)",
+  "description": "Lowest oxygen saturation (SaO2) in rapid eye movement sleep (REM)  [minimum (all oxygen saturation (SaO2) values in rapid eye movement sleep (REM))]",
   "type": "numeric",
   "units": "percent",
-  "calculation": "mnsao2rh"
+  "calculation": "mnsao2rh",
+  "labels": [
+    "%"
+  ]
 }

@@ -1,9 +1,12 @@
 {
   "id": "fam5a21",
-  "display_name": "Number of full sisters with ATLE",
+  "display_name": "Number of full sisters with acute life threatening episode (ALTE)",
   "description": "Also known as acute life threatening episodes",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "apparent life-threatening event",
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

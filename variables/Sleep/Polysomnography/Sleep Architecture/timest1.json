@@ -4,6 +4,11 @@
   "description": "Total time scored as stage 1 rounded to nearest minute",
   "type": "numeric",
   "units": "minutes",
-  "commonly_used": true,
-  "calculation": "minstg1p"
+  "calculation": "minstg1p",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "non-rapid eye movement sleep"
+  ],
+  "commonly_used": true
 }

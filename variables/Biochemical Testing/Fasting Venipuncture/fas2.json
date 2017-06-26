@@ -4,6 +4,14 @@
   "description": "",
   "type": "choices",
   "domain": "noyesdontknow",
+  "labels": [
+    "blood draw",
+    "hemophilia",
+    "hemophiliac",
+    "haemophilia",
+    "blood clotting",
+    "coagulation"
+  ],
   "forms": [
     "chat_fastveni_forms"
   ]

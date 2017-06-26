@@ -1,7 +1,11 @@
 {
   "id": "avoanoa4",
-  "display_name": "Average obstructive apnea length with arousals (NREM, Other, 4% desaturation)",
-  "description": "Average obstructive apnea duration during NREM sleep with non-supine body position",
+  "display_name": "Average obstructive apnea length with >=4% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "duration",
+    "non-rem"
+  ]
 }

@@ -4,6 +4,10 @@
   "description": "",
   "type": "numeric",
   "units": "hours",
+  "labels": [
+    "eeg",
+    "length"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

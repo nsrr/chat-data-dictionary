@@ -1,7 +1,10 @@
 {
   "id": "plmrnrem",
-  "display_name": "Number of PLMs with respiratory events (NREM)",
-  "description": "Total PLMs with respiratory events in NREM sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) with respiratory events (Non-rapid eye movement sleep (NREM))",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "non-rem"
+  ]
 }

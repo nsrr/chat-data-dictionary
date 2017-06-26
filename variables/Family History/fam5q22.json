@@ -3,7 +3,9 @@
   "display_name": "Number of full brothers with insomnia",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

@@ -1,7 +1,10 @@
 {
   "id": "manrbpa",
-  "display_name": "Number of mixed apnea with arousal (NREM, Back, all desaturations)",
-  "description": "Number of mixed apnea during NREM sleep with supine body position",
+  "display_name": "Number of mixed apnea with arousal (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
+  "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
 }

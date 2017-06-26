@@ -3,7 +3,9 @@
   "display_name": "Number of full sisters with cancer",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "labels": [
+    "sibling"
+  ],
   "forms": [
     "chat_familyhx_forms"
   ]

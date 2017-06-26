@@ -1,7 +1,10 @@
 {
   "id": "timebedm",
   "display_name": "Time in bed",
-  "description": "Total time from lights out to lights on, rounded to nearest minute (total time in bed)",
+  "description": "Total time from lights out to lights on (total time in bed)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes",
+  "labels": [
+    "tib"
+  ]
 }

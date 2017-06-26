@@ -4,5 +4,8 @@
   "description": "",
   "type": "numeric",
   "units": "micrograms per milliliter",
+  "labels": [
+    "mg/ml"
+  ],
   "commonly_used": true
 }

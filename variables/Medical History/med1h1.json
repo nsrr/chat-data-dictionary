@@ -3,8 +3,5 @@
   "display_name": "Ever had depression?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "form": [
-    "chat_medicalhx_forms"
-  ]
+  "domain": "noyesnotsure"
 }

@@ -1,7 +1,15 @@
 {
   "id": "plmrdelta",
-  "display_name": "Number of PLMs with respiratory events (delta sleep)",
-  "description": "Total PLMs with respiratory events in delta sleep",
+  "display_name": "Number of Periodic limb movements (PLMs) with respiratory events (delta sleep)",
+  "description": "Total",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "limb movements",
+  "labels": [
+    "sws",
+    "slow wave",
+    "stage 3",
+    " 4",
+    "nrem",
+    "non-rapid eye movement"
+  ]
 }

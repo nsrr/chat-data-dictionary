@@ -1,9 +1,12 @@
 {
   "id": "chq2b_rc",
-  "display_name": "Feeling sad or blue (coded per pedsql manual)?",
+  "display_name": "Feeling sad or blue (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
   "domain": "neveroralways",
+  "labels": [
+    "qol"
+  ],
   "forms": [
     "chat_pqlchi2_forms"
   ]
