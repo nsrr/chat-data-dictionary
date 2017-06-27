@@ -1,6 +1,6 @@
 {
   "id": "crp_ug_ml",
-  "display_name": "C-reactive protein levels",
+  "display_name": "C-reactive protein (CRP) levels",
   "description": "",
   "type": "numeric",
   "units": "micrograms per milliliter",
