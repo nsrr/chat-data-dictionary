@@ -356,6 +356,7 @@
           slplatm /* redundant with slplatp */
           time_bed /* redundant with timebedp */
           timebedm /* redundant with timebedp */
+          totalosa /* redudant with osas18 */
           ;
   run;
 
