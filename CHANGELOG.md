@@ -1,11 +1,11 @@
-## 0.9.0
+## 0.9.0 (February 12, 2018)
 
 - Incorporate many new variable labels
 - Spell out abbreviations and acronyms in variable display names
 - Fix ICSD variable display names and calculations
 - Remove redundant time in bed and sleep time variables
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.9.0.rc\`
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.9.0\`
 
 ## 0.8.0 (April 3, 2017)
 
