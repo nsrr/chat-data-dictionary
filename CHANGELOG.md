@@ -1,5 +1,8 @@
 ## 0.9.1
 
+- Update variable display names and units
+- Update domain name from 'fm' to 'sex_2'
+
 ## 0.9.0 (February 12, 2018)
 
 - Incorporate many new variable labels
