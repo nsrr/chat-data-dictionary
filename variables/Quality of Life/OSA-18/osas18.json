@@ -3,9 +3,6 @@
   "display_name": "OSA-18 Survey Score (sum of all 18 resp)",
   "description": "",
   "type": "numeric",
-  "labels": [
-    "qol"
-  ],
   "forms": [
     "chat_qol18_2_forms"
   ]

@@ -3,11 +3,9 @@
   "display_name": "Mother weight at child birth in total ounces",
   "description": "",
   "type": "numeric",
-  "units": "ounces",
+  "units": "ounces (oz)",
   "labels": [
-    "mom",
-    "wt",
-    "oz"
+    "mom"
   ],
   "forms": [
     "chat_familyhx_forms"

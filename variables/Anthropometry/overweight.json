@@ -3,9 +3,5 @@
   "display_name": "BMIPCT greater than or equal to 85 binary",
   "description": "",
   "type": "choices",
-  "domain": "overweightbmi85",
-  "labels": [
-    "percentile for body mass index-for-age",
-    "body mass index"
-  ]
+  "domain": "overweightbmi85"
 }

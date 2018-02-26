@@ -3,9 +3,5 @@
   "display_name": "Minimum heart rate with arousal (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
   "description": "Lowest ",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm"
-  ]
+  "units": "beats per minute (bpm)"
 }

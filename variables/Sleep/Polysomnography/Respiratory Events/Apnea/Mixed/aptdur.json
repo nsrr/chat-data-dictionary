@@ -3,8 +3,5 @@
   "display_name": "Total mixed apnea length",
   "description": "duration (entire recording)",
   "type": "numeric",
-  "units": "minutes",
-  "labels": [
-    "ma"
-  ]
+  "units": "minutes (min)"
 }

@@ -3,6 +3,6 @@
   "display_name": "Total hours slept on weekdays algorithm",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "calculation": "hour(SLH1C_11_time - SLH1B_11_time)"
 }

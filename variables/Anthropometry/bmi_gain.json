@@ -5,9 +5,6 @@
   "type": "numeric",
   "units": "kilograms per year * meters squared",
   "labels": [
-    "weight",
-    "quetelet index",
-    "kg/yr*m2",
-    "wt"
+    "weight"
   ]
 }

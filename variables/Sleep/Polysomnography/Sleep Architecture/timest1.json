@@ -3,7 +3,7 @@
   "display_name": "Time stage 1",
   "description": "Total time scored as stage 1 rounded to nearest minute",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "minstg1p",
   "labels": [
     "non-rem",

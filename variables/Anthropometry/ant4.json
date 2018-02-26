@@ -3,13 +3,7 @@
   "display_name": "Child's weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms",
-  "labels": [
-    "kg",
-    "kilogram",
-    "kilograms",
-    "wt"
-  ],
+  "units": "kilograms (kg)",
   "commonly_used": true,
   "forms": [
     "chat_anthropometry_forms"

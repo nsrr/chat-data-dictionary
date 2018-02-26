@@ -3,7 +3,7 @@
   "display_name": "Average central apnea length (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "non-rem"
   ]

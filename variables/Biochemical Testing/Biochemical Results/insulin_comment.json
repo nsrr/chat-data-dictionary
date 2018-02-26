@@ -2,10 +2,5 @@
   "id": "insulin_comment",
   "display_name": "Insulin comment",
   "description": "",
-  "type": "text",
-  "labels": [
-    "diabetes",
-    "metabolic syndrome",
-    "dm"
-  ]
+  "type": "text"
 }

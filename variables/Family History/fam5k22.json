@@ -4,7 +4,8 @@
   "description": "Eczema or atopic dermatitis",
   "type": "numeric",
   "labels": [
-    "sibling"
+    "sibling",
+    "skin"
   ],
   "forms": [
     "chat_familyhx_forms"

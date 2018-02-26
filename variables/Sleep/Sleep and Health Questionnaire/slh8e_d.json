@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "days",
   "labels": [
-    "exercise"
+    "exercise",
+    "activity"
   ],
   "forms": [
     "chat_slhq_forms"

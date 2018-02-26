@@ -3,6 +3,6 @@
   "display_name": "Overall non-supine Respiratory Disturbance Index (RDI) at >=4% desaturation",
   "description": "[(total number of apneas and hypopneas in non-supine body position associated with >= 4% desaturation) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(hrop4 +   hnrop4 + carop4 + canop4 + oarop4 + oanop4 + marop4 + manrop4)/(remepop+nremepop)"
 }

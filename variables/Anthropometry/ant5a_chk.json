@@ -1,13 +1,7 @@
 {
   "id": "ant5a_chk",
-  "display_name": "Body mass index (BMI) Z score not required at this visit",
+  "display_name": "Body mass index (BMI) Z-score not required at this visit",
   "description": "",
   "type": "choices",
-  "domain": "notrequired",
-  "labels": [
-    "z-score",
-    "standard score",
-    "z-values",
-    "z values"
-  ]
+  "domain": "notrequired"
 }

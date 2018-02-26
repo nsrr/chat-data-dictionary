@@ -3,7 +3,7 @@
   "display_name": "Other activity (specify): Minutes per day",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "forms": [
     "chat_slhq_forms"
   ]

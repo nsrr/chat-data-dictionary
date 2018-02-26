@@ -2,8 +2,5 @@
   "id": "pedsql_physical_nmiss_par",
   "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Physical Function number of missings",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "qol"
-  ]
+  "type": "numeric"
 }

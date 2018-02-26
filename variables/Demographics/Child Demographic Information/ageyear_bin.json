@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "childageyear1",
-  "labels": [
-    "yrs"
-  ],
   "forms": [
     "chat_cdi_forms"
   ]

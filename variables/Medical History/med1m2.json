@@ -1,6 +1,6 @@
 {
   "id": "med1m2",
-  "display_name": "Diagnosed or treated by a physician for hypertension (HTN)?",
+  "display_name": "Diagnosed or treated by a physician for hypertension?",
   "description": "Also known as high blood pressure",
   "type": "choices",
   "domain": "noyesnotsure",

@@ -4,8 +4,7 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "sibling",
-    "t&a"
+    "sibling"
   ],
   "forms": [
     "chat_familyhx_forms"

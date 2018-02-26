@@ -3,5 +3,5 @@
   "display_name": "Number of desaturations per hour (Rapid eye movement sleep (REM), >= 5%)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour"
+  "units": "events per hour (h)"
 }

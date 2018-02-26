@@ -3,11 +3,7 @@
   "display_name": "Hours of usable pleth wave form",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "length",
-    "duration"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]

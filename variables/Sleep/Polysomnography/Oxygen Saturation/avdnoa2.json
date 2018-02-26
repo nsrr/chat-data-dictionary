@@ -3,7 +3,7 @@
   "display_name": "Average desaturation with arousals (Non-rapid eye movement sleep (NREM), Non-supine, >=2% desaturation)",
   "description": "Average respiratory related desaturation",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "non-rem "
   ]

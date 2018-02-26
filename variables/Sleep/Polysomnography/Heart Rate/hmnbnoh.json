@@ -3,10 +3,8 @@
   "display_name": "Minimum heart rate (Non-rapid eye movement sleep (NREM), Non-supine, >=3% desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
+  "units": "beats per minute (bpm)",
   "labels": [
-    "hr",
-    "bpm",
     "non-rem"
   ]
 }

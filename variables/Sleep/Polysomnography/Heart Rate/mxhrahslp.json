@@ -3,9 +3,5 @@
   "display_name": "Maximum heart rate associated with apnea and hypopnea (sleep time onset)",
   "description": "Maximum heart rate associated with apnea and hypopnea during sleep",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm"
-  ]
+  "units": "beats per minute (bpm)"
 }

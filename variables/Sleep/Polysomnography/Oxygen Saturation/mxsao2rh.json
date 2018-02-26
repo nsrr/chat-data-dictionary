@@ -3,9 +3,6 @@
   "display_name": "Maximum oxygen saturation (SaO2) during rapid eye movement sleep (REM) ",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "labels": [
-    "%"
-  ],
+  "units": "percent (%)",
   "commonly_used": true
 }

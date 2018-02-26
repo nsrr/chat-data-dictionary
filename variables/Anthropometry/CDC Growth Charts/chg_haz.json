@@ -1,18 +1,7 @@
 {
   "id": "chg_haz",
-  "display_name": "Z score for length-for-age change between baseline and follow-up",
+  "display_name": "Z-score for length-for-age change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean",
-  "labels": [
-    "standard score",
-    "height",
-    "ht",
-    "cm",
-    "centimeter",
-    "centimeters",
-    "z-values",
-    "z values",
-    "z-score"
-  ]
+  "units": "standard deviations from the mean"
 }

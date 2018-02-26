@@ -6,7 +6,8 @@
   "labels": [
     "chelation therapy",
     "lead poisoning",
-    "blood draw"
+    "blood draw",
+    "venipuncture"
   ],
   "forms": [
     "chat_fastveni_forms"

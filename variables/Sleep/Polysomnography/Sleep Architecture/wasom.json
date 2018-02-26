@@ -3,5 +3,5 @@
   "display_name": "Wake time during sleep period",
   "description": "Actually is total time awake after sleep onset - includes wake time after lights on (not used in final dataset)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

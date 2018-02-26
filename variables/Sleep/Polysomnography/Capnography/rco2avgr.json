@@ -3,6 +3,6 @@
   "display_name": "Average end-tidal carbon dioxide (ETCO2) in rapid eye movement sleep (REM)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percent (%)",
   "commonly_used": true
 }

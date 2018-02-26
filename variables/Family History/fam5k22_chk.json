@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "checked",
   "labels": [
-    "sibling"
+    "sibling",
+    "skin"
   ],
   "forms": [
     "chat_familyhx_forms"

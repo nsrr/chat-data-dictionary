@@ -3,11 +3,7 @@
   "display_name": "Hours of usable F4",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "eeg",
-    "length"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]

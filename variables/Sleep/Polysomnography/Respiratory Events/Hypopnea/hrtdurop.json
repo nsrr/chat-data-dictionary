@@ -3,5 +3,5 @@
   "display_name": "Total hypopnea length (Rapid eye movement sleep (REM), Non-supine)",
   "description": "duration",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

@@ -3,6 +3,6 @@
   "display_name": "Obstructive apnea index >=4% or arousal",
   "description": " [(total number of obstructive apneas with >= 4% desaturation or arousal) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(oarba4 + oaroa4 + oanba4 + oanoa4 ) / slpprdp"
 }

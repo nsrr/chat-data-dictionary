@@ -3,5 +3,5 @@
   "display_name": "Average central apnea length (Rapid eye movement sleep (REM), Non-supine, >=4% desaturation)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

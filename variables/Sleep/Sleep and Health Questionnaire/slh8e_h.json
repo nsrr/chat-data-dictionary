@@ -3,9 +3,10 @@
   "display_name": "Swimming: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "labels": [
-    "exercise"
+    "exercise",
+    "activity"
   ],
   "forms": [
     "chat_slhq_forms"

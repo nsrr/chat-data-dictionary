@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "parentrace",
   "labels": [
-    "mom"
+    "ethnicity"
   ],
   "forms": [
     "chat_parentinfo_forms"

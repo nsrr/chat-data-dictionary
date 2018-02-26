@@ -3,7 +3,5 @@
   "display_name": "Respiratory rate of the participant",
   "description": "",
   "type": "numeric",
-  "labels": [
-    "rr"
-  ]
+  "units": "breaths per minute"
 }

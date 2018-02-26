@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "Chart review from previous ent evaluation",
+    "display_name": "Chart review from previous ENT evaluation",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Current ent evaluation",
+    "display_name": "Current ENT evaluation",
     "description": ""
   }
 ]

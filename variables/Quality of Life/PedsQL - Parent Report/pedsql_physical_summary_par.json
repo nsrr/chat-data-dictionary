@@ -2,8 +2,5 @@
   "id": "pedsql_physical_summary_par",
   "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Physical Health Summary Score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "qol"
-  ]
+  "type": "numeric"
 }

@@ -3,7 +3,7 @@
   "display_name": "Sleep efficiency",
   "description": "[(Total Sleep Time (TST)) / (time from sleep onset to morning waking)] * 100  (data can be inaccurate if scorer has not set sleep onset rule properly in compumedics software)",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "non-rem",
     "nrem",

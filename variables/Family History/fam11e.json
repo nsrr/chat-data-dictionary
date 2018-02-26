@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "noyesnotsure",
-  "labels": [
-    "am"
-  ],
   "forms": [
     "chat_familyhx_forms"
   ]

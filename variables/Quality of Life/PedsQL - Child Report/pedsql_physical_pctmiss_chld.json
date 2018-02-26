@@ -2,8 +2,5 @@
   "id": "pedsql_physical_pctmiss_chld",
   "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Child Physical Function pct missing",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "qol"
-  ]
+  "type": "numeric"
 }

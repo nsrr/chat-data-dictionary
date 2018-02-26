@@ -3,5 +3,5 @@
   "display_name": "Rapid eye movement sleep (REM) Latency II - excluding wake",
   "description": "Total sleep time from beginning of sleep to first epoch of rapid eye movement sleep (REM) (excluding wake)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

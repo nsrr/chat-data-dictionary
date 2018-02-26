@@ -3,9 +3,10 @@
   "display_name": "Total minutes swimming",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
-    "exercise"
+    "exercise",
+    "activity"
   ],
   "forms": [
     "chat_slhq_forms"

@@ -3,8 +3,5 @@
   "display_name": "Minimum oxygen saturation (SaO2) (Rapid eye movement sleep (REM))",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "labels": [
-    "%"
-  ]
+  "units": "percent (%)"
 }

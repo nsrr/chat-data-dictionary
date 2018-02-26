@@ -3,7 +3,7 @@
   "display_name": "Peak end-tidal carbon dioxide (ETCO2) asleep",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percent (%)",
   "labels": [
     "non-rem",
     "nrem",

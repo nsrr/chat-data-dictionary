@@ -3,10 +3,7 @@
   "display_name": "Hours of usable T4",
   "description": "Hours of usable EEG",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "length"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]

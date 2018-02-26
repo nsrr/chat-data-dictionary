@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "noyesnotsure",
   "labels": [
-    "inhaler",
-    "rescue"
+    "inhaler"
   ]
 }

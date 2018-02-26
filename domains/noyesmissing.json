@@ -2,7 +2,8 @@
   {
     "value": "-9",
     "display_name": "Missing",
-    "description": ""
+    "description": "",
+    "missing": true
   },
   {
     "value": "0",

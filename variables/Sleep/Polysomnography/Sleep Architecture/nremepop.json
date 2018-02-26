@@ -3,7 +3,7 @@
   "display_name": "Sleep time (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "non-rem"
   ],

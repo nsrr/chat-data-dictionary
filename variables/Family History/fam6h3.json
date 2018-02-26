@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "dad",
-    "t&a"
+    "dad"
   ],
   "forms": [
     "chat_familyhx_forms"

@@ -4,8 +4,6 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "weight",
-    "quetelet index",
-    "change per year"
+    "weight"
   ]
 }

@@ -3,6 +3,7 @@
   "display_name": "Log transformed slow sigma power density in non-rapid eye movement sleep (NREM) ",
   "description": "",
   "type": "numeric",
+  "units": "",
   "labels": [
     "non-rem"
   ]

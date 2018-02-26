@@ -3,7 +3,7 @@
   "display_name": "Peak end-tidal carbon dioxide (ETCO2) asleep (normalized for capnograph type)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percent (%)",
   "calculation": "(rco2peak * 0.79956) + 9.17655",
   "labels": [
     "non-rem",

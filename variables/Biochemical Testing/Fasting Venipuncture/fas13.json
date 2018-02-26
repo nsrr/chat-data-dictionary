@@ -4,9 +4,6 @@
   "description": "",
   "type": "integer",
   "units": "seconds from date of randomization",
-  "labels": [
-    "blood draw"
-  ],
   "forms": [
     "chat_fastveni_forms"
   ]

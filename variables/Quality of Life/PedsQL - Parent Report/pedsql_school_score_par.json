@@ -2,8 +2,5 @@
   "id": "pedsql_school_score_par",
   "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent School Function Score",
   "description": "",
-  "type": "numeric",
-  "labels": [
-    "qol"
-  ]
+  "type": "numeric"
 }

@@ -3,5 +3,5 @@
   "display_name": "Average hypopnea length (Rapid eye movement sleep (REM), Supine, >=3% desaturation)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

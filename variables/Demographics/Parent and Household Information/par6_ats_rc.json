@@ -4,10 +4,6 @@
   "description": "ATS reclassed variable",
   "type": "choices",
   "domain": "noyes",
-  "labels": [
-    "mom",
-    "college"
-  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

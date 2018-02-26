@@ -3,9 +3,8 @@
   "display_name": "Average oxygen saturation (SaO2) nadir (Non-rapid eye movement sleep (NREM))",
   "description": "Mean oxygen saturation (SaO2) nadir in non-rapid eye movement sleep (NREM)",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
-    "%",
     "non-rem",
     "nrem",
     "rem",

@@ -3,10 +3,7 @@
   "display_name": "Hours of usable oximetry",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "length"
-  ],
+  "units": "hours (h)",
   "commonly_used": true,
   "forms": [
     "chat_qs_forms"

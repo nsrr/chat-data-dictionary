@@ -3,8 +3,5 @@
   "display_name": "Maximum desaturation with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
-  "labels": [
-    "%"
-  ]
+  "units": "percent (%)"
 }

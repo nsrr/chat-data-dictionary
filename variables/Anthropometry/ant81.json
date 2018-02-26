@@ -1,13 +1,9 @@
 {
   "id": "ant81",
-  "display_name": "Hip Measurement 1",
+  "display_name": "Hip circumference measurement 1",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "circumference",
-    "cm"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

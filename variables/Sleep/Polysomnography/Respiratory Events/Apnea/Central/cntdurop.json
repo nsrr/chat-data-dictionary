@@ -3,7 +3,7 @@
   "display_name": "Total central apnea length (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "duration",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "non-rem"
   ]

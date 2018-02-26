@@ -1,13 +1,9 @@
 {
   "id": "ant71",
-  "display_name": "Waist Measurement 1",
+  "display_name": "Waist circumference measurement 1",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "circumference",
-    "cm"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

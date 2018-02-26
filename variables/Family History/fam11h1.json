@@ -4,9 +4,6 @@
   "description": "Defined as occurring during mild exercise such as walking on level ground or up a slight hill.",
   "type": "choices",
   "domain": "noyesnotsure",
-  "labels": [
-    "sob"
-  ],
   "forms": [
     "chat_familyhx_forms"
   ]

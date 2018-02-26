@@ -3,5 +3,5 @@
   "display_name": "Temperature of participant.",
   "description": "",
   "type": "numeric",
-  "units": "celsius"
+  "units": "celsius (C)"
 }

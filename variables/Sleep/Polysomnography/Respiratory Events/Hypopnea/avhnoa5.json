@@ -3,7 +3,7 @@
   "display_name": "Average hypopnea length with >=5% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "non-rem"
   ]

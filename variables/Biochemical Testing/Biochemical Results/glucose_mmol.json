@@ -3,10 +3,10 @@
   "display_name": "Blood glucose levels",
   "description": "",
   "type": "numeric",
-  "units": "millimoles per litre",
+  "units": "millimoles per liter (mmol/L)",
   "labels": [
-    "mmol/l",
-    "sugar"
+    "sugar",
+    "diabetes"
   ],
   "commonly_used": true
 }

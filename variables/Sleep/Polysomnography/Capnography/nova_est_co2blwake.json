@@ -3,7 +3,7 @@
   "display_name": "Baseline end-tidal carbon dioxide (ETCO2) awake (normalized for capnograph type)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percent (%)",
   "calculation": "(rco2blwake * 0.65305) + 13.40939",
   "commonly_used": true
 }

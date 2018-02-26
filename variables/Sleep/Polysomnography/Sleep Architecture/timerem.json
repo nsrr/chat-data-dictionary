@@ -3,7 +3,7 @@
   "display_name": "Time rapid eye movement sleep (REM)",
   "description": "Total time scored as rapid eye movement sleep (REM)",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "calculation": "minremp",
   "commonly_used": true
 }

@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "income",
-  "labels": [
-    "gross"
-  ],
   "forms": [
     "chat_parentinfo_forms"
   ]

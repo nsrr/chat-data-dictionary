@@ -3,7 +3,7 @@
   "display_name": "Total apnea and hypopnea Length (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "duration",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "obstructive",
     "central",

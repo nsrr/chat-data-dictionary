@@ -3,6 +3,6 @@
   "display_name": "Overall Respiratory Disturbance Index (RDI) at 0% desaturation",
   "description": "[(total number of apneas and hypopneas) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(hrembp + hrop + hnrbp + hnrop + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop) / slpprdp"
 }

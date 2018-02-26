@@ -3,7 +3,7 @@
   "display_name": "Percentage time < 75% oxygen saturation (SaO2)",
   "description": "[100*(total number of minutes with oxygen saturation (SaO2) < 75) / (Total Sleep Time (TST))].",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "pctsa75h",
   "labels": [
     "hypoxia",

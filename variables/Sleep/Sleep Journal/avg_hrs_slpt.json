@@ -3,7 +3,7 @@
   "display_name": "Average hours sleep regardless of day",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "labels": [
     "diary"
   ],

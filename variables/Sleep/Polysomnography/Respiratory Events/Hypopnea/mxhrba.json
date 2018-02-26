@@ -3,7 +3,7 @@
   "display_name": "Maximum hypopnea length with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "Longest",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration"
   ]

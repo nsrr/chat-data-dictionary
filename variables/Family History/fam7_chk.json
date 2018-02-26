@@ -5,9 +5,7 @@
   "type": "choices",
   "domain": "notsure",
   "labels": [
-    "mom",
-    "ht",
-    "in"
+    "mom"
   ],
   "forms": [
     "chat_familyhx_forms"

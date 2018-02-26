@@ -3,9 +3,5 @@
   "display_name": "Average heart rate with arousal (Rapid eye movement sleep (REM), Non-supine, >=3% desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm"
-  ]
+  "units": "beats per minute (bpm)"
 }

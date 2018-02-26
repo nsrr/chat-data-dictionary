@@ -3,5 +3,5 @@
   "display_name": "Average mixed apnea with arousal length (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

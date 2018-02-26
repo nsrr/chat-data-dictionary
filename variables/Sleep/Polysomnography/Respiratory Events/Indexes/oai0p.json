@@ -3,6 +3,6 @@
   "display_name": "Obstructive apnea index (all obstructives with all desaturations)",
   "description": " [(total number of obstructive apneas associated with all desaturations) / (hours of sleep)]. will be missing if Total Sleep Time (TST) is 0.",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(oarbp +  oarop  + oanbp  + oanop ) / slpprdp"
 }

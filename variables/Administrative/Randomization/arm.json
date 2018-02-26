@@ -3,7 +3,7 @@
   "display_name": "Treatment Arm",
   "description": "The randomization code assigned by the Data Management System (DMS).",
   "type": "choices",
-  "domain": "treatmentarm",
+  "domain": "randomizationarm",
   "labels": [
     "randomized",
     "early adenotonsillectomy",

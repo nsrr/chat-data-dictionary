@@ -4,9 +4,6 @@
   "description": "ethylenediaminetetraacetic acid (EDTA), purple, 0.5mL",
   "type": "choices",
   "domain": "partialvolhemolysis",
-  "labels": [
-    "blood draw"
-  ],
   "forms": [
     "chat_fastveni_forms"
   ]

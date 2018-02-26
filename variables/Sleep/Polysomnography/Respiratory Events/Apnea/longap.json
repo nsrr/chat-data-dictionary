@@ -3,7 +3,7 @@
   "display_name": "Longest apnea",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration"
   ],

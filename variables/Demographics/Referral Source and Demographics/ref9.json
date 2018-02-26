@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "sex",
   "labels": [
-    "male",
-    "female"
+    "sex"
   ],
   "forms": [
     "chat_referral_forms"

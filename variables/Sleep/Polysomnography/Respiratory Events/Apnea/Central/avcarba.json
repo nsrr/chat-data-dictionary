@@ -3,5 +3,5 @@
   "display_name": "Average central apnea length with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "duration",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "race3",
+  "labels": [
+    "ethnicity"
+  ],
   "commonly_used": true,
   "forms": [
     "chat_cdi_forms"

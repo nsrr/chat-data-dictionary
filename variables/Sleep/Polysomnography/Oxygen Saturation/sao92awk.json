@@ -3,5 +3,5 @@
   "display_name": "Total time oxygen saturation (SaO2) > 92 in awake",
   "description": "in minutes",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

@@ -3,7 +3,7 @@
   "display_name": "Maximum hypopnea length (Non-rapid eye movement sleep (NREM), Supine, >=3% desaturation)",
   "description": "Longest",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration",
     "non-rem"

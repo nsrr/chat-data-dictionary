@@ -3,7 +3,7 @@
   "display_name": "Hours of usable carbon dioxide (CO2)",
   "description": "Hours of usable carbon dioxide (CO2) signal - requires use of calibrated channel type with upper and lower limits for valid signal",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "commonly_used": true,
   "forms": [
     "chat_qs_forms"

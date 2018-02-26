@@ -6,7 +6,8 @@
   "domain": "check",
   "labels": [
     "sibling",
-    "stepsister"
+    "stepsister",
+    "skin"
   ],
   "forms": [
     "chat_familyhx_forms"

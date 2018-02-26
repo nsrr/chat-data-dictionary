@@ -3,6 +3,6 @@
   "display_name": "Average hypopnea length",
   "description": "duration (entire recording)",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "commonly_used": true
 }

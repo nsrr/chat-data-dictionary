@@ -3,8 +3,5 @@
   "display_name": "Theta power density in rapid eye movement sleep (rapid)",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz",
-  "labels": [
-    "uv2/hz"
-  ]
+  "units": "microvolts squared per hertz (uV2/Hz)"
 }

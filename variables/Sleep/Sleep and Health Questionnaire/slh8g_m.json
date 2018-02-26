@@ -3,9 +3,10 @@
   "display_name": "In gym class or physical education (PE), being active: Minutes per day",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
-    "exercise"
+    "exercise",
+    "activity"
   ],
   "forms": [
     "chat_slhq_forms"

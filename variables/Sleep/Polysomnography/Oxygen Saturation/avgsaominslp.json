@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation (SaO2) minimum (Sleep time)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "non-rem",
     "nrem",

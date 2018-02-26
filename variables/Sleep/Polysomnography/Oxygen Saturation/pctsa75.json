@@ -3,7 +3,7 @@
   "display_name": "Percentage of sleep time oxygen saturation (SaO2) is <= 75%",
   "description": "[(total time oxygen saturation (SaO2) is <= 75%) / (Total Sleep Time (TST))] * 100",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "hypoxia",
     "hypoxemia"

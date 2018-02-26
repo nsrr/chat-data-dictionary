@@ -1,13 +1,10 @@
 {
   "id": "bmipct",
-  "display_name": "Percentile for Body mass index (BMI)-for-age",
+  "display_name": "Percentile for body mass index (BMI)-for-age",
   "description": "",
   "type": "numeric",
   "units": "percentile",
   "labels": [
-    "weight",
-    "quetelet index",
-    "%",
-    "wt"
+    "weight"
   ]
 }

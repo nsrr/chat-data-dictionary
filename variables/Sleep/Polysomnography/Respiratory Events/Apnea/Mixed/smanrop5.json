@@ -3,7 +3,7 @@
   "display_name": "Minimum mixed apnea length (Non-rapid eye movement sleep (NREM), Non-supine, >=5% desaturation)",
   "description": "Shortest",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration",
     "non-rem"

@@ -3,7 +3,7 @@
   "display_name": "Oxygen Desaturation Index at >=4% (during sleep time)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "labels": [
     "non-rem",
     "nrem",

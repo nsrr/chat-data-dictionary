@@ -3,11 +3,7 @@
   "display_name": "Hours of usable legR",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "length",
-    "emg"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]

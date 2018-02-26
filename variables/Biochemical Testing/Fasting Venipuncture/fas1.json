@@ -4,7 +4,8 @@
   "description": "",
   "type": "time",
   "labels": [
-    "blood draw"
+    "blood draw",
+    "venipuncture"
   ],
   "forms": [
     "chat_fastveni_forms"

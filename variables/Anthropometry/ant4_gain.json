@@ -4,11 +4,6 @@
   "description": "Change in weight between baseline and follow up / number of years between visits",
   "type": "numeric",
   "units": "kilograms per year",
-  "labels": [
-    "kg",
-    "kilograms",
-    "wt"
-  ],
   "forms": [
     "chat_anthropometry_forms"
   ]

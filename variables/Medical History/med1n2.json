@@ -5,9 +5,8 @@
   "type": "choices",
   "domain": "noyesnotsure",
   "labels": [
-    "lifestyle change",
     "statins",
-    "selective cholestrol absorption inhibitors",
+    "selective cholesterol absorption inhibitors",
     "resins",
     "lipid-lowering therapies"
   ]

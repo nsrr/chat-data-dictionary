@@ -3,10 +3,9 @@
   "display_name": "Percentage of non-rapid eye movement sleep (NREM) Stage 2 included in the total thoraco-abdominal asynchrony analysis",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "paradoxical",
-    "%",
     "non-rem"
   ]
 }

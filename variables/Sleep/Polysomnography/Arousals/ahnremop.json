@@ -3,7 +3,7 @@
   "display_name": "Arousals per hour (Non-rapid eye movement sleep (NREM), Non-supine, all desaturation)",
   "description": "Number of arousals per hour during non-rapid eye movement sleep (NREM) and non-supine body position",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "labels": [
     "non-rem"
   ]

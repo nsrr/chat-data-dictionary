@@ -3,9 +3,8 @@
   "display_name": "Alpha band end",
   "description": "",
   "type": "numeric",
-  "units": "hertz",
+  "units": "hertz (Hz)",
   "labels": [
-    "hz",
     "nrem",
     "rem",
     "non-rapid eye movement",

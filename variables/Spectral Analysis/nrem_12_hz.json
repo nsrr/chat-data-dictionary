@@ -3,9 +3,8 @@
   "display_name": "Non-rapid eye movement sleep (NREM) power density at 12.0 Hertz",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz",
+  "units": "microvolts squared per hertz (uV2/Hz)",
   "labels": [
-    "uv2/hz",
     "non-rem"
   ]
 }

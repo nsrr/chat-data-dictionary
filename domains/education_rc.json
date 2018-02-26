@@ -1,17 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "Some high school education or high school diploma/GED",
+    "display_name": "Some high school education or high school diploma / GED",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Associates degree or some college",
+    "display_name": "Associate degree or some college",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "College degree or advanced degrees",
+    "display_name": "College degree or advanced degree",
     "description": ""
   }
 ]

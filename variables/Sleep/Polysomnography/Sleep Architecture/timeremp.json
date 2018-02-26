@@ -3,10 +3,7 @@
   "display_name": "Percentage time rapid eye movement sleep (REM)",
   "description": "Percent of sleep time in rapid eye movement sleep (REM)  [100*(number of minutes scored as rapid eye movement sleep (REM)) / (Total Sleep Time (TST))] * 100",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "tmremp",
-  "labels": [
-    "%"
-  ],
   "commonly_used": true
 }

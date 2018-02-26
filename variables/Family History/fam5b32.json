@@ -4,7 +4,6 @@
   "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "numeric",
   "labels": [
-    "cot death",
     "sibling",
     "stepbrother"
   ],

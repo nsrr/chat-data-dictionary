@@ -3,7 +3,7 @@
   "display_name": "Percentage Total Sleep Time (TST) where end-tidal carbon dioxide (ETCO2) > 45 millimeters (mm) mercury (Hg) (normalized for capnograph type)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of carbon dioxide",
+  "units": "percent (%)",
   "calculation": "(rpctco2g45 * 0.64525) + 7.67373",
   "labels": [
     "non-rem",

@@ -3,7 +3,7 @@
   "display_name": "Total minutes other activity (specify)",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "forms": [
     "chat_slhq_forms"
   ]

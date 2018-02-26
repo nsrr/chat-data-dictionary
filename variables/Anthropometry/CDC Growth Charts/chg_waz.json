@@ -1,18 +1,7 @@
 {
   "id": "chg_waz",
-  "display_name": "Z score for weight-for-age change between baseline and follow-up",
+  "display_name": "Z-score for weight-for-age change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean",
-  "labels": [
-    "kg",
-    "kilogram",
-    "kilogram",
-    "standard score",
-    "wt",
-    "standard score",
-    "z-values",
-    "z values",
-    "z-score"
-  ]
+  "units": "standard deviations from the mean"
 }

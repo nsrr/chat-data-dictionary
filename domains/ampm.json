@@ -1,12 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "AM",
+    "display_name": "Am",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "PM",
+    "display_name": "Pm",
     "description": ""
   }
 ]

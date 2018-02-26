@@ -4,7 +4,6 @@
   "description": "Also known as acute life threatening episodes",
   "type": "numeric",
   "labels": [
-    "apparent life-threatening event",
     "stepsister",
     "stepsibling"
   ],

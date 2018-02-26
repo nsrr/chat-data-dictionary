@@ -1,13 +1,9 @@
 {
   "id": "ant84",
-  "display_name": "Hip Average",
+  "display_name": "Hip circumference average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "circumference",
-    "cm"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

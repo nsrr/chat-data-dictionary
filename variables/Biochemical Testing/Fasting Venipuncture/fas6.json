@@ -3,9 +3,6 @@
   "display_name": "Elapsed time until tourniquet released",
   "description": "",
   "type": "time",
-  "labels": [
-    "blood draw"
-  ],
   "forms": [
     "chat_fastveni_forms"
   ]

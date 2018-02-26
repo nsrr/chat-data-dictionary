@@ -3,12 +3,7 @@
   "display_name": "Mother's current weight",
   "description": "",
   "type": "numeric",
-  "units": "pounds",
-  "labels": [
-    "mom",
-    "wt",
-    "lbs"
-  ],
+  "units": "pounds (lb)",
   "forms": [
     "chat_familyhx_forms"
   ]

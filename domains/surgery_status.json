@@ -6,17 +6,17 @@
   },
   {
     "value": "1",
-    "display_name": "Had surgery before month 7 nepsy",
+    "display_name": "Had surgery before month 7 NEPSY",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Had surgery after month 7 nepsy",
+    "display_name": "Had surgery after month 7 NEPSY",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "Endpoint date (month 7 nepsy) is missing",
+    "display_name": "Endpoint date (month 7 NEPSY) is missing",
     "description": ""
   }
 ]

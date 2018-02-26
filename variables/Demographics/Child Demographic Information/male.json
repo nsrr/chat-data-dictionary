@@ -3,9 +3,9 @@
   "display_name": "Gender",
   "description": "",
   "type": "choices",
-  "domain": "fm",
+  "domain": "sex_2",
   "labels": [
-    "female"
+    "sex"
   ],
   "commonly_used": true,
   "forms": [

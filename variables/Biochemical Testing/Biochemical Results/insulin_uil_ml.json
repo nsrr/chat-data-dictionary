@@ -3,12 +3,9 @@
   "display_name": "Blood insulin levels",
   "description": "",
   "type": "numeric",
-  "units": "international units per milliliter",
+  "units": "international units per milliliter (IU/mL)",
   "labels": [
-    "iu/ml",
-    "diabetes",
-    "dm",
-    "metabolic syndrome"
+    "diabetes"
   ],
   "commonly_used": true
 }

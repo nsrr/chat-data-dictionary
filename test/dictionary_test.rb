@@ -15,18 +15,18 @@ class DictionaryTest < Minitest::Test
   # variables have a valid unit type.
   VALID_UNITS = [
     'natural logarithm degrees', 'seconds from start of recording',
-    'seconds squared', 'microvolts squared per hertz', 'hertz',
+    'seconds squared (s2)', 'microvolts squared per hertz (uV2/Hz)', 'hertz (Hz)',
     'standard deviations from the mean', 'snores',
-    'international units per milliliter', 'seconds from date of randomization',
-    'milligrams per deciliter', 'micrograms per milliliter',
+    'international units per milliliter (IU/mL)', 'seconds from date of randomization',
+    'milligrams per deciliter (mg/dL)', 'micrograms per milliliter (ug/mL)',
     'kilograms per year', 'kilograms per year * meters squared',
-    'centimeters per year', '', 'decibels', 'celsius', 'beats per minute',
-    'millimeters of mercury', 'centimeters', 'percent', 'months', 'years',
-    'pounds', 'ounces', 'inches', 'feet', 'kilograms', 'hours', 'days',
-    'minutes', 'seconds', 'events per hour', 'kilograms / meters squared',
+    'centimeters per year', '', 'decibels', 'celsius (C)', 'beats per minute (bpm)',
+    'millimeters of mercury (mmHg)', 'centimeters (cm)', 'percent (%)', 'months', 'years',
+    'pounds (lb)', 'ounces (oz)', 'inches (in)', 'feet', 'kilograms (kg)', 'hours (h)', 'days',
+    'minutes (min)', 'seconds (s)', 'events per hour (h)', 'kilograms / meters squared (kg/m2)',
     'percentile', 'limb movements', 'percentage of oxygen saturation',
-    'desaturation events', 'limb movements per hour',
-    'percentage of carbon dioxide','events','millimoles per litre', nil
+    'desaturation events', 'limb movements per hour', 'decibels (dB)', 'breaths per minute',
+    'percentage of carbon dioxide','events','millimoles per liter (mmol/L)','', nil
   ]
 
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|

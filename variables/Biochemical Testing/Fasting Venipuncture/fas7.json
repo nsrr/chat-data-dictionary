@@ -3,9 +3,6 @@
   "display_name": "Time at end of venipuncture.",
   "description": "",
   "type": "time",
-  "labels": [
-    "blood draw"
-  ],
   "forms": [
     "chat_fastveni_forms"
   ]

@@ -3,6 +3,6 @@
   "display_name": "Number of desaturation with >=3% desaturation",
   "description": "",
   "type": "numeric",
-  "units": "desaturation events",
+  "units": "events",
   "commonly_used": true
 }

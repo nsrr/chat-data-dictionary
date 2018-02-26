@@ -5,13 +5,7 @@
   "type": "choices",
   "domain": "grade",
   "labels": [
-    "kindergarten",
-    " first grade",
-    "1st",
-    "2nd",
-    "3rd",
-    "4th",
-    "elementary"
+    "school"
   ],
   "commonly_used": true,
   "forms": [

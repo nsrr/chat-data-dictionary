@@ -3,7 +3,7 @@
   "display_name": "Total sleep time (TST)",
   "description": "Total time from lights out to lights on that is scored as sleep",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "non-rem",
     "nrem",

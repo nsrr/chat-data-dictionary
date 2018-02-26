@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "checked",
   "labels": [
-    "cot death",
     "sibling",
     "stepbrother"
   ],

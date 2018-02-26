@@ -3,9 +3,5 @@
   "display_name": "BMIPCT greater than or equal to 95 binary",
   "description": "",
   "type": "choices",
-  "domain": "obesebmi95",
-  "labels": [
-    "percentile for body mass index-for-age",
-    "body mass index"
-  ]
+  "domain": "obesebmi95"
 }

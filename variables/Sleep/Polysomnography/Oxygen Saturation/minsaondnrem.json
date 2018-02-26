@@ -3,9 +3,8 @@
   "display_name": "Minimum oxygen saturation (SaO2) nadir (Non-rapid eye movement sleep (NREM))",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
-    "%",
     "non-rem"
   ]
 }

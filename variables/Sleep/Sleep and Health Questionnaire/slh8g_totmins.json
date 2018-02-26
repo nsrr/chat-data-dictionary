@@ -3,9 +3,10 @@
   "display_name": "Total minutes in gym class or physical education (PE), being active",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
-    "exercise"
+    "exercise",
+    "activity"
   ],
   "forms": [
     "chat_slhq_forms"

@@ -3,9 +3,5 @@
   "display_name": "Number of bradycardia related to obstructive apnea (sleep time onset)",
   "description": "Number of bradycardia related to obstructive apnea during sleep",
   "type": "numeric",
-  "units": "beats per minute",
-  "labels": [
-    "hr",
-    "bpm"
-  ]
+  "units": "beats per minute (bpm)"
 }

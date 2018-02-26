@@ -3,10 +3,9 @@
   "display_name": "Percentage of snore time in sleep (decibel (dB) level 5)",
   "description": "[(total time snore at decibel (dB) level 5) / (Total Sleep Time (TST))] * 100",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
-    "%",
-    " nrem",
+    "nrem",
     "rem",
     "non-rapid eye movement",
     "rapid eye movement"

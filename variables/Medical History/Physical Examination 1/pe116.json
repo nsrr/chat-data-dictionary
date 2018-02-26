@@ -5,10 +5,6 @@
   "type": "choices",
   "domain": "class",
   "labels": [
-    "class",
-    "I",
-    "II",
-    "III",
-    "IV"
+    "palate"
   ]
 }

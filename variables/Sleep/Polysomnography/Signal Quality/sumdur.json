@@ -3,9 +3,8 @@
   "display_name": "Hours of usable SUM",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "labels": [
-    "length",
     "respiratory belt"
   ],
   "forms": [

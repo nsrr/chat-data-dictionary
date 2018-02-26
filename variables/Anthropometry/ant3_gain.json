@@ -4,13 +4,6 @@
   "description": "Change in height between baseline and follow up / number of years between visits",
   "type": "numeric",
   "units": "centimeters per year",
-  "labels": [
-    "cm/yr",
-    "cm",
-    "centimeter",
-    "centimeters",
-    "ht"
-  ],
   "forms": [
     "chat_anthropometry_forms"
   ]

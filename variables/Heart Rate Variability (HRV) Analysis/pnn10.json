@@ -1,0 +1,6 @@
+{
+  "id": "pnn10",
+  "display_name": "Percentage of differences between adjacent  normal sinus to normal sinus interbeat (NN) intervals that are >10 ms",
+  "description": "",
+  "type": "numeric"
+}

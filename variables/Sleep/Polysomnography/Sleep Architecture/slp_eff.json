@@ -3,7 +3,7 @@
   "display_name": "Sleep efficiency percentage",
   "description": "Percentage of time in bed that was spent sleeping [100*(Total Sleep Time (TST)) / (total time in bed)]",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "100*(slpprdp)/timebedp",
   "labels": [
     "non-rem",

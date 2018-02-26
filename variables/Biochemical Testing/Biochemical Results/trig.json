@@ -3,9 +3,8 @@
   "display_name": "Triglyceride levels",
   "description": "",
   "type": "numeric",
-  "units": "milligrams per deciliter",
+  "units": "milligrams per deciliter (mg/dL)",
   "labels": [
-    "mg/dl",
     "fats"
   ],
   "commonly_used": true

@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "calculation": "(carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop)",
-  "labels": [
-    "icsd"
-  ],
   "commonly_used": true
 }

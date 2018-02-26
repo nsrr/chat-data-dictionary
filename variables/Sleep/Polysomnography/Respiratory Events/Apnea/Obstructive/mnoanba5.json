@@ -3,7 +3,7 @@
   "display_name": "Minimum obstructive apnea length with >=5% desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "Shortest ",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration",
     "non-rem"

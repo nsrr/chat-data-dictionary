@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "ethnicity2",
   "labels": [
-    "dad"
+    "race"
   ],
   "forms": [
     "chat_parentinfo_forms"

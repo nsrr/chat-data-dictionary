@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "participant",
   "labels": [
-    "dropout",
-    " dropped out"
+    "dropout"
   ],
   "forms": [
     "chat_stop_forms"

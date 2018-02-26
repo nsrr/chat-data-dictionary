@@ -3,8 +3,5 @@
   "display_name": "Other kids not wanting to be his or her friend (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
-  "domain": "neveroralways",
-  "labels": [
-    "qol"
-  ]
+  "domain": "neveroralways"
 }

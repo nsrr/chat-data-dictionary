@@ -4,9 +4,6 @@
   "description": "Defined as coughing on most days for at least 3 consecutive months",
   "type": "choices",
   "domain": "noyesnotsure",
-  "labels": [
-    "chronic"
-  ],
   "forms": [
     "chat_familyhx_forms"
   ]

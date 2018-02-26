@@ -3,7 +3,7 @@
   "display_name": "Total central apnea length",
   "description": "duration",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "non-rem"
   ]

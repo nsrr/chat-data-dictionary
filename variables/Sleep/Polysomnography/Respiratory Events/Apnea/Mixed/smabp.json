@@ -3,5 +3,5 @@
   "display_name": "Minimum mixed apnea length (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "Shortest",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds (s)"
 }

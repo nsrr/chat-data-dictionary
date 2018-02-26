@@ -5,7 +5,6 @@
   "type": "string",
   "labels": [
     "diabetes",
-    "dm",
     "metabolic syndrome"
   ]
 }

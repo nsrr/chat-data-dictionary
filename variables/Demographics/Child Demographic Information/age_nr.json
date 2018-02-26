@@ -3,8 +3,5 @@
   "display_name": "Age computed in years at time screening Polysomnography (PSG) was done",
   "description": "Recorded on the Screening Form. Only applicable to non-randomized subjects.",
   "type": "numeric",
-  "units": "years",
-  "labels": [
-    "yrs"
-  ]
+  "units": "years"
 }

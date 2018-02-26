@@ -3,7 +3,7 @@
   "display_name": "Arousal Index rapid eye movement sleep (REM)",
   "description": "Rapid eye movement sleep (REM) Arousal Index - total arousals in rapid eye movement sleep (REM) per hours of rapid eye movement sleep (REM) (Total number of arousals in rapid eye movement sleep (REM)) / (hours of rapid eye movement sleep (REM))",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(arrembp + arremop) / minremp",
   "commonly_used": true
 }

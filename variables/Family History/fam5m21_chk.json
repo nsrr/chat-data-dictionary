@@ -6,7 +6,6 @@
   "domain": "check",
   "labels": [
     "sibling",
-    "eds",
     "tired",
     "sleepy"
   ],

@@ -4,9 +4,6 @@
   "description": "",
   "type": "choices",
   "domain": "neveroralways2",
-  "labels": [
-    "qol"
-  ],
   "forms": [
     "chat_face_forms"
   ]

@@ -3,9 +3,5 @@
   "display_name": "Excessive daytime drowsiness or sleepiness (coded per Dr. Ramon Arturo Franco's publication)?",
   "description": "",
   "type": "choices",
-  "domain": "time1",
-  "labels": [
-    "qol",
-    "eds"
-  ]
+  "domain": "time1"
 }

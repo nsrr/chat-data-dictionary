@@ -1,19 +1,7 @@
 {
   "id": "whz",
-  "display_name": "Z score for weight-for-length or weight-for-stature",
+  "display_name": "Z-score for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean",
-  "labels": [
-    "cm",
-    "centimeter",
-    "centimeters",
-    "kg",
-    "kilogram",
-    "kilograms",
-    "standard score",
-    "wt",
-    "height",
-    "ht"
-  ]
+  "units": "standard deviations from the mean"
 }

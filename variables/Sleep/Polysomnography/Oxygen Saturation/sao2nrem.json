@@ -3,10 +3,9 @@
   "display_name": "Average oxygen saturation (SaO2) non-rapid eye movement sleep (NREM)",
   "description": "[mean(all oxygen saturation (SaO2) values in non-rapid eye movement sleep (NREM))]. will be missing if study scored as sleep/wake only.",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "calculation": "avsao2nh",
   "labels": [
-    "%",
     "non-rem"
   ],
   "commonly_used": true

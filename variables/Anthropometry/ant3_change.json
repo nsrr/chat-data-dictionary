@@ -3,12 +3,7 @@
   "display_name": "Change in height between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "ht",
-    "cm",
-    "centimeters"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

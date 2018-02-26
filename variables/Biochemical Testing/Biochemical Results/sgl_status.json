@@ -4,7 +4,6 @@
   "description": "",
   "type": "string",
   "labels": [
-    "insulin",
-    "sugar/mg/dl"
+    "insulin"
   ]
 }

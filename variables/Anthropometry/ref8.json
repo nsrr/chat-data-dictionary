@@ -1,13 +1,10 @@
 {
   "id": "ref8",
-  "display_name": "Child's Body mass index (BMI)",
+  "display_name": "Child's body mass index (BMI)",
   "description": "Recorded on the Screening Form. Only applicable to non-randomized subjects.",
   "type": "numeric",
-  "units": "kilograms / meters squared",
+  "units": "kilograms / meters squared (kg/m2)",
   "labels": [
-    "weight",
-    "quetelet index",
-    "kg/m2",
-    "wt"
+    "weight"
   ]
 }

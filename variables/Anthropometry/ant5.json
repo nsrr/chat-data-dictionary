@@ -3,11 +3,9 @@
   "display_name": "Child's Body mass index (BMI)",
   "description": "",
   "type": "numeric",
-  "units": "kilograms / meters squared",
+  "units": "kilograms / meters squared (kg/m2)",
   "labels": [
-    "weight",
-    "quetelet index",
-    "kg/m2"
+    "weight"
   ],
   "commonly_used": true,
   "forms": [

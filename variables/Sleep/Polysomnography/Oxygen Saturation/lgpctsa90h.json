@@ -3,7 +3,7 @@
   "display_name": "LOG % of Total Sleep Time (TST) with oxygen saturation (SaO2)<90%",
   "description": "Original source: MS 003",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "non-rem",
     "nrem",

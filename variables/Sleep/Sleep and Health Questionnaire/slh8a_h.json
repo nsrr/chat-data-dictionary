@@ -3,7 +3,7 @@
   "display_name": "Walking for exercise or to school: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "forms": [
     "chat_slhq_forms"
   ]

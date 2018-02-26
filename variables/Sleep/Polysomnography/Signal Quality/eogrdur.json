@@ -3,11 +3,7 @@
   "display_name": "Hours of usable EOG R",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "eye",
-    "length"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]

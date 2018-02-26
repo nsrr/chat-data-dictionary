@@ -3,7 +3,7 @@
   "display_name": "Total minutes walking for exercise or to school",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "forms": [
     "chat_slhq_forms"
   ]

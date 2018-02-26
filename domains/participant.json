@@ -2,31 +2,31 @@
   {
     "value": "1",
     "display_name": "Completed all",
-    "description": "1: Participant successfully completed all required study visits,"
+    "description": "Participant successfully completed all required study visits"
   },
   {
     "value": "2",
     "display_name": "Lost to follow up",
-    "description": "Participant lost to follow-up,"
+    "description": "Participant lost to follow-up"
   },
   {
     "value": "3",
     "display_name": "Withdrew",
-    "description": "Participant withdrew consent,"
+    "description": "Participant withdrew consent"
   },
   {
     "value": "6",
     "display_name": "Medical problem",
-    "description": "New medical problem determined to make continued participation unsafe,"
+    "description": "New medical problem determined to make continued participation unsafe"
   },
   {
     "value": "8",
     "display_name": "Declined",
-    "description": "Participant declined their assigned randomization arm,"
+    "description": "Participant declined their assigned randomization arm"
   },
   {
     "value": "98",
     "display_name": "Other",
-    "description": "Other, specify."
+    "description": ""
   }
 ]

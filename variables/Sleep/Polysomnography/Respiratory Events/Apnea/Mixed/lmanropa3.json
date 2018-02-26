@@ -3,7 +3,7 @@
   "display_name": "Maximum mixed apnea length with >=3% desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
   "description": "Longest ",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration",
     "non-rem"

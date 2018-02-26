@@ -1,13 +1,9 @@
 {
   "id": "bmi_change",
-  "display_name": "Change in Body mass index (BMI) between baseline and follow-up",
+  "display_name": "Change in body mass index (BMI) between baseline and follow-up",
   "description": "",
   "type": "numeric",
   "labels": [
-    "weight",
-    "quetelet index",
-    "kg",
-    "kilogram",
-    "kilograms"
+    "weight"
   ]
 }

@@ -3,9 +3,8 @@
   "display_name": "Percentage of sleep time in stage 2 sleep",
   "description": "[(Number of minutes scored as stage 2) / (Total Sleep Time (TST))] * 100  (use calculated variable - sleep wake studies screened out)",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
-    "%",
     "non-rem",
     "nrem",
     "non-rapid eye movement "

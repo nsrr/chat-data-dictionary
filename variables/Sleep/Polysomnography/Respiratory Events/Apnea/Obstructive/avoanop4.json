@@ -3,7 +3,7 @@
   "display_name": "Average obstructive apnea length (Non-rapid eye movement sleep (NREM), Non-supine, >=4% desaturation)",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "duration",
     "non-rem"

@@ -3,7 +3,7 @@
   "display_name": "Number of mixed apnea with >=2% desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
   "description": "",
   "type": "numeric",
-  "units": "seconds",
+  "units": "seconds (s)",
   "labels": [
     "non-rem"
   ]

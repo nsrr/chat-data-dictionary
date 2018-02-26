@@ -3,6 +3,6 @@
   "display_name": "Overall supine Respiratory Disturbance Index (RDI) at >=2% desaturation",
   "description": "[(total number of apneas and hypopneas in supine body position associated with >= 2% desaturation) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "events per hour (h)",
   "calculation": "60*(hrembp2 + hnrbp2 + carbp2 + canbp2 + oarbp2 + oanbp2 + marbp2 + manrbp2)/(remepbp+nremepbp)"
 }

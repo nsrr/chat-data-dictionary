@@ -4,8 +4,7 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "mom",
-    "wt"
+    "mom"
   ],
   "forms": [
     "chat_familyhx_forms"

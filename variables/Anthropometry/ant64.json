@@ -1,13 +1,9 @@
 {
   "id": "ant64",
-  "display_name": "Neck average",
+  "display_name": "Neck circumference average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "circumference",
-    "cm"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

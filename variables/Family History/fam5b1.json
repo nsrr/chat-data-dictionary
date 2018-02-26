@@ -5,8 +5,7 @@
   "type": "choices",
   "domain": "noyesnotsure",
   "labels": [
-    "brother sister",
-    "cot death"
+    "brother sister"
   ],
   "forms": [
     "chat_familyhx_forms"

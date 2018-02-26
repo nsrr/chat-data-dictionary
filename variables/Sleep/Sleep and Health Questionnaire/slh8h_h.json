@@ -3,7 +3,7 @@
   "display_name": "Other activity (specify): Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (h)",
   "forms": [
     "chat_slhq_forms"
   ]

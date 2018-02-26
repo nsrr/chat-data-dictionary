@@ -1,13 +1,9 @@
 {
   "id": "ant74",
-  "display_name": "Waist Average",
+  "display_name": "Waist circumference average",
   "description": "",
   "type": "numeric",
-  "units": "centimeters",
-  "labels": [
-    "circumference",
-    "cm"
-  ],
+  "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
   ]

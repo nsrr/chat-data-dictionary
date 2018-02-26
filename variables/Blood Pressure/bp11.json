@@ -3,12 +3,9 @@
   "display_name": "Systolic blood pressure 1",
   "description": "",
   "type": "numeric",
-  "units": "millimeters of mercury",
+  "units": "millimeters of mercury (mmHg)",
   "labels": [
-    "bp",
-    "hypertension",
-    "mmHg",
-    "htn"
+    "hypertension"
   ],
   "forms": [
     "chat_bp_forms"

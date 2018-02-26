@@ -3,5 +3,5 @@
   "display_name": "Time in rapid eye movement sleep (REM)",
   "description": "Total time scored as rapid eye movement sleep (REM), rounded to nearest minute  (use calculated variable - sleep wake studies screened out)",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

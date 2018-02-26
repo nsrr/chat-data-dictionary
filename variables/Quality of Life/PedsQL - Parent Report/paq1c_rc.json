@@ -3,8 +3,5 @@
   "display_name": "Participating in sports activity or exercise (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)?",
   "description": "",
   "type": "choices",
-  "domain": "neveroralways",
-  "labels": [
-    "qol"
-  ]
+  "domain": "neveroralways"
 }

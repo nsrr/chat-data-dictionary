@@ -3,13 +3,12 @@
   "display_name": "Minimum oxygen saturation (SaO2) nadir associated with obstructive apnea (sleep)",
   "description": "",
   "type": "numeric",
-  "units": "percentage of oxygen saturation",
+  "units": "percent (%)",
   "labels": [
     "non-rem",
     "nrem",
     "rem",
     "non-rapid eye movement",
-    "rapid eye movement",
-    "%"
+    "rapid eye movement"
   ]
 }

@@ -3,11 +3,7 @@
   "display_name": "Hours of usable chin",
   "description": "",
   "type": "numeric",
-  "units": "hours",
-  "labels": [
-    "emg",
-    "length"
-  ],
+  "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
   ]
