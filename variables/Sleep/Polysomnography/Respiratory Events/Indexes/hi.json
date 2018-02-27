@@ -3,6 +3,6 @@
   "display_name": "Hypopnea Index >= 3% desaturation or arousal",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "calculation": "hi= 60 * (hremba3 + hroa3 + hnrba3 + hnroa3) / slpprdp"
 }

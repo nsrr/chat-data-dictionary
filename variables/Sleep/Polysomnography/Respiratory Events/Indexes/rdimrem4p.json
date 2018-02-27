@@ -3,6 +3,6 @@
   "display_name": "Overall rapid eye movement sleep (REM) Respiratory Disturbance Index (RDI) at >=4% desaturation",
   "description": "[(total number of apneas and hypopneas in rapid eye movement sleep (REM) associated with >= 4% desaturation) / (hours of rapid eye movement sleep (REM))]",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "calculation": "60*(hrembp4 + hrop4 + carbp4 + carop4 + oarbp4 + oarop4 + marbp4 + marop4) / minremp"
 }

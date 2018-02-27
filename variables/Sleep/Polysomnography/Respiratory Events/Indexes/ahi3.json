@@ -3,6 +3,6 @@
   "display_name": "Apnea / Hypopnea events with >= 3% percent desaturation per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "commonly_used": true
 }

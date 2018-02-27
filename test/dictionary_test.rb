@@ -20,10 +20,10 @@ class DictionaryTest < Minitest::Test
     'international units per milliliter (IU/mL)', 'seconds from date of randomization',
     'milligrams per deciliter (mg/dL)', 'micrograms per milliliter (ug/mL)',
     'kilograms per year', 'kilograms per year * meters squared',
-    'centimeters per year', '', 'decibels', 'celsius (C)', 'beats per minute (bpm)',
+    'centimeters per year', 'celsius (C)', 'beats per minute (bpm)',
     'millimeters of mercury (mmHg)', 'centimeters (cm)', 'percent (%)', 'months', 'years',
     'pounds (lb)', 'ounces (oz)', 'inches (in)', 'feet', 'kilograms (kg)', 'hours (h)', 'days',
-    'minutes (min)', 'seconds (s)', 'events per hour (h)', 'kilograms / meters squared (kg/m2)',
+    'minutes (min)', 'seconds (s)', 'events per hour', 'kilograms / meters squared (kg/m2)',
     'percentile', 'limb movements', 'percentage of oxygen saturation',
     'desaturation events', 'limb movements per hour', 'decibels (dB)', 'breaths per minute',
     'percentage of carbon dioxide','events','millimoles per liter (mmol/L)','', nil

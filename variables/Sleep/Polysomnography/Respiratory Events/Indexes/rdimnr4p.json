@@ -3,6 +3,6 @@
   "display_name": "Overall non-rapid eye movement sleep (NREM) Respiratory Disturbance Index (RDI) at >=4% desaturation",
   "description": "[(total number of apneas and hypopneas in non-rapid eye movement sleep associated with >= 4% desaturation) / (hours of non-rapid eye movement sleep (NREM))]",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "calculation": "60*(hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 + manrbp4 + manrop4) / (slpprdp - minremp)"
 }

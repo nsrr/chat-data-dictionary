@@ -3,6 +3,6 @@
   "display_name": "Central apnea index >=4% or arousal",
   "description": "[(Total number of central apneas with  >= 4% desaturation or arousal) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "calculation": "60*(carba4 + caroa4 + canba4 + canoa4 ) / slpprdp"
 }

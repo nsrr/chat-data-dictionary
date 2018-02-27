@@ -3,7 +3,7 @@
   "display_name": "Number of mixed apnea with arousal per hour (Non-rapid eye movement sleep (NREM), Non-supine, all desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "labels": [
     "non-rem"
   ]

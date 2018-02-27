@@ -3,6 +3,6 @@
   "display_name": "Hypopnea per hour (Rapid eye movement sleep (REM), Supine, all desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "commonly_used": true
 }

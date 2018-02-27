@@ -3,6 +3,6 @@
   "display_name": "Central apnea index",
   "description": "(Total number of central apneas) / (hours of sleep)",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "commonly_used": true
 }

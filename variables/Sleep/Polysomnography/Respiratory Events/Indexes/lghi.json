@@ -2,5 +2,6 @@
   "id": "lghi",
   "display_name": "LOG Hypopnea Index with Arousal",
   "description": "Original source: MS 003",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

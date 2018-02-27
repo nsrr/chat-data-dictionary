@@ -3,6 +3,6 @@
   "display_name": "Hypopnea per hour with arousals (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "commonly_used": true
 }

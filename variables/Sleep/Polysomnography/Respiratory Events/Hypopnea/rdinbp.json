@@ -3,7 +3,7 @@
   "display_name": "Hypopnea per hour (Non-rapid eye movement sleep (NREM), Supine, all desaturations)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "labels": [
     "non-rem"
   ],

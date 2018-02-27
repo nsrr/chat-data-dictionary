@@ -3,7 +3,7 @@
   "display_name": "Respiratory Disturbance Index (RDI)-Apnea/Hypopnea/AASM Hypopneas (Unsure Compumedics label) with >= 3% desaturation",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "labels": [
     "obstructive",
     "central",

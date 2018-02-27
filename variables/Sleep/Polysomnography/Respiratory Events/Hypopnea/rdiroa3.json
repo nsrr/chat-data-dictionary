@@ -3,6 +3,6 @@
   "display_name": "Hypopnea per hour with >=3% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "commonly_used": true
 }

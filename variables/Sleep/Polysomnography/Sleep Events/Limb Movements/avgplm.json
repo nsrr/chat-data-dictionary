@@ -3,7 +3,7 @@
   "display_name": "Number of Periodic limb movement (PLM) per hour of sleep",
   "description": "",
   "type": "numeric",
-  "units": "events per hour (h)",
+  "units": "events per hour",
   "labels": [
     "non-rem",
     "nrem",
