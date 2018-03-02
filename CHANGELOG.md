@@ -2,6 +2,7 @@
 
 - Update variable display names and units
 - Update domain name from 'fm' to 'sex_2'
+- Update folder names to include abbreviations
 
 ## 0.9.0 (February 12, 2018)
 
