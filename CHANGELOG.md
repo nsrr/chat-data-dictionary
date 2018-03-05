@@ -1,4 +1,4 @@
-## 0.9.1
+## 0.9.1 (March 5, 2018)
 
 - Update variable display names and units
 - Update domain name from 'fm' to 'sex_2'
