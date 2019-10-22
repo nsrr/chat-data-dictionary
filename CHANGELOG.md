@@ -1,11 +1,11 @@
-## 0.10.0
+## 0.10.0 (October 22, 2019)
 
 - Swap out BMI z-score change variables (chg_bmiz for bmiz_change)
 - Add `omai0p` to nonrandomized dataset
 - Set key neurocognitive variables as commonly used
 - Add Epworth scale total variables
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.10.0.rc\`
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.10.0\`
 
 ## 0.9.1 (March 5, 2018)
 
