@@ -4,6 +4,8 @@
 - Add `omai0p` to nonrandomized dataset
 - Set key neurocognitive variables as commonly used
 - Add Epworth scale total variables
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.10.0.rc\`
 
 ## 0.9.1 (March 5, 2018)
 
