@@ -1,6 +1,7 @@
 ## 0.10.0
 
 - Swap out BMI z-score change variables (chg_bmiz for bmiz_change)
+- Add `omai0p` to nonrandomized dataset
 
 ## 0.9.1 (March 5, 2018)
 

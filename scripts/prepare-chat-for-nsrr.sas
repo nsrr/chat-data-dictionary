@@ -452,7 +452,7 @@
     format age_nr 8.1;
     age_nr = (datepart(ref3) - datepart(ref2)) / 365.25;
 
-    keep nsrrid omahi3 REF9 REF8 age_nr REF5 REF4;
+    keep nsrrid omahi3 omai0p REF9 REF8 age_nr REF5 REF4;
   run;
 
   proc sort data=chatnonrandomized;
