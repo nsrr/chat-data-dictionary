@@ -2,5 +2,6 @@
   "id": "pedsql_total_scale_score_par",
   "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Total Scale Score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "commonly_used": true
 }

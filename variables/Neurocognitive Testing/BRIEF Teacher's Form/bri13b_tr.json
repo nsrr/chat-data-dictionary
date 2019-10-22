@@ -5,5 +5,6 @@
   "type": "numeric",
   "forms": [
     "chat_brief__tr_forms"
-  ]
+  ],
+  "commonly_used": true
 }

@@ -2,6 +2,7 @@
 
 - Swap out BMI z-score change variables (chg_bmiz for bmiz_change)
 - Add `omai0p` to nonrandomized dataset
+- Set key neurocognitive variables as commonly used
 
 ## 0.9.1 (March 5, 2018)
 
