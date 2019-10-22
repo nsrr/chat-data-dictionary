@@ -1,0 +1,9 @@
+{
+  "id": "epworthscore_modified",
+  "display_name": "Total score for modified Epworth Sleepiness Scale (ESS)",
+  "description": "The sum of items 1-10.",
+  "type": "integer",
+  "forms": [
+    "chat_epworth_forms"
+  ]
+}

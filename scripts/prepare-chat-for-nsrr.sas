@@ -131,6 +131,11 @@
     cent_obs_ratioa = (carba + caroa + canba + canoa) /
                       (oarba + oaroa + oanba + oanoa);
 
+
+    *create epworth total variables;
+    epworthscore_adult = sum(of sls1-sls8);
+    epworthscore_modified = sum(of sls1-sls10);
+
     *recode values to missing;
     if bri10a_tr in (555,666,999) then bri10a_tr = .;
     if bri10b_tr in (555,999) then bri10b_tr = .;
@@ -499,20 +504,20 @@
 *******************************************************************************;
 * export nsrr csv datasets ;
 *******************************************************************************;
-proc export data=chatbaseline
-  outfile="&releasepath\&version\chat-baseline-dataset-&version..csv"
-  dbms=csv
-  replace;
-run;
+  proc export data=chatbaseline
+    outfile="&releasepath\&version\chat-baseline-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
 
-proc export data=chatfollowup
-  outfile="&releasepath\&version\chat-followup-dataset-&version..csv"
-  dbms=csv
-  replace;
-run;
+  proc export data=chatfollowup
+    outfile="&releasepath\&version\chat-followup-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
 
-proc export data=chatnonrandomized
-  outfile="&releasepath\&version\chat-nonrandomized-dataset-&version..csv"
-  dbms=csv
-  replace;
-run;
+  proc export data=chatnonrandomized
+    outfile="&releasepath\&version\chat-nonrandomized-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
