@@ -2,6 +2,7 @@
 
 These are known issues in the current version.
 
+- Missing values in [chg_bmiz](https://sleepdata.org/datasets/chat/variables/chg_bmiz). Recompute using `bmiz` variable.
 - One occurrence found: **[bp11](https://sleepdata.org/datasets/chat/variables/bp11) value = 60 millimeters of mercury**
 - One occurrence found: **[bp21](https://sleepdata.org/datasets/chat/variables/bp21) value = 50 millimeters of mercury**
 - Multiple occurrences found: **High values in [avg_hrs_slp_wd](https://sleepdata.org/datasets/chat/variables/avg_hrs_slp_wd)**
