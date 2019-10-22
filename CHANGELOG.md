@@ -1,5 +1,7 @@
 ## 0.10.0
 
+- Swap out BMI z-score change variables (chg_bmiz for bmiz_change)
+
 ## 0.9.1 (March 5, 2018)
 
 - Update variable display names and units

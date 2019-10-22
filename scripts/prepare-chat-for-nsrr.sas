@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.9.0;
+  %let version = 0.10.0.pre;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
@@ -340,7 +340,7 @@
           chg_ant3 /* duplicate variable of ant3_change */
           chg_ant4 /* duplicate variable of ant4_change */
           chg_bmi /* duplicate variable of bmi_change */
-          chg_bmiz /* duplicate variable of bmiz_change */
+          bmiz_change /* swap with chg_bmiz, which looks inconsistent */
           mat2a /* dubious worth, process variables */
           child_age /* confusing; use ageyear_at_meas instead */
           eli1-eli23 /* eligibility variables are irrelevant because all randomized subjects met inc/exc criteria */
