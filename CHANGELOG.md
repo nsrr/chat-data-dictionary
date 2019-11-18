@@ -1,7 +1,9 @@
-## 0.11.0
+## 0.11.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
 - Remove empty head circumference variables (not collected)
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.11.0\`
 
 ## 0.10.0 (October 22, 2019)
 
