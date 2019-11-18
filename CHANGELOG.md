@@ -1,3 +1,5 @@
+## 0.11.0
+
 ## 0.10.0 (October 22, 2019)
 
 - Swap out BMI z-score change variables (chg_bmiz for bmiz_change)
