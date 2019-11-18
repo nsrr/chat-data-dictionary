@@ -362,6 +362,9 @@
           time_bed /* redundant with timebedp */
           timebedm /* redundant with timebedp */
           totalosa /* redudant with osas18 */
+          headcir /* empty variable */
+          hcz /* empty variable */
+          hcpct /* empty variable */
           ;
   run;
 

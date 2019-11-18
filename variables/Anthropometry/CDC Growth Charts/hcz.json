@@ -1,7 +1,0 @@
-{
-  "id": "hcz",
-  "display_name": "Z-score for head circumference-for-age",
-  "description": "",
-  "type": "numeric",
-  "units": "standard deviations from the mean"
-}

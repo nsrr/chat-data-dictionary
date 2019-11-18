@@ -1,5 +1,8 @@
 ## 0.11.0
 
+- Remove EEG spectral summary variables
+- Remove empty head circumference variables (not collected)
+
 ## 0.10.0 (October 22, 2019)
 
 - Swap out BMI z-score change variables (chg_bmiz for bmiz_change)

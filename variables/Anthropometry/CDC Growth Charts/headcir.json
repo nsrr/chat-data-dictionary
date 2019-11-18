@@ -1,7 +1,0 @@
-{
-  "id": "headcir",
-  "display_name": "Child's head circumference",
-  "description": "",
-  "type": "numeric",
-  "units": "centimeters (cm)"
-}
