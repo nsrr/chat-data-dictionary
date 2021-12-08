@@ -467,6 +467,135 @@
     by nsrrid;
   run;
 
+
+proc print data=chatbaseline (obs=10);
+  run;
+
+/* quick check of blood pressure calculations
+data chatbaseline_temp;
+set chatbaseline;
+*systolic bp;
+format avgsys;
+avgsys = round(mean(BP11, BP21, BP31));
+*systolic bp;
+format avgdia;
+avgdia = round(mean(BP12, BP22, BP32));
+
+keep 
+nsrrid
+avgsys
+bp41
+avgdia
+bp42;
+run;
+
+proc print data = chatbaseline_temp (obs=10);
+run;
+*/
+
+*******************************************************************************;
+* create harmonized datasets ;
+*******************************************************************************;
+data chatbaseline_harmonized;
+	set chatbaseline;
+
+*demographics
+*age;
+*use ageyear_at_meas;
+	format nsrr_age 8.2;
+ 	nsrr_age = ageyear_at_meas;
+
+*age_gt89;
+*use ageyear_at_meas;
+	format nsrr_age_gt89; 
+	if ageyear_at_meas gt 89 then nsrr_age_gt89='yes';
+	else if ageyear_at_meas le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use male;
+	format nsrr_sex $100.;
+	if male = '01' then nsrr_sex = 'male';
+	else if male = '0' then nsrr_sex = 'female';
+	else if male = '.' then nsrr_sex = 'not reported';
+
+*race;
+*use ref4;
+    format nsrr_race $100.;
+    if ref4 = 1 then nsrr_race = 'american indian or alaska native';
+    else if ref4 = 2 then nsrr_race = 'asian';
+    else if ref4 = 3 then nsrr_race = 'native hawaiian or other pacific islander';
+  	else if ref4 = 4 then nsrr_race = 'black or african american';
+	else if ref4 = 5 then nsrr_race = 'white';
+	else if ref4 = 6 then nsrr_race = 'multiple';
+	else if ref4 = 7 then nsrr_race = 'other';
+	*note: the 'not reported includes 'not sure';
+	else  nsrr_race = 'not reported';
+
+*ethnicity;
+*use chi3;
+	format nsrr_ethnicity $100.;
+    if chi3 = '01' then nsrr_ethnicity = 'hispanic or latino';
+    else if chi3 = '02' then nsrr_ethnicity = 'not hispanic or latino';
+	else if chi3 = '.' then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use ant5;
+	format nsrr_bmi 10.9;
+ 	nsrr_bmi = ant5;
+
+*clinical data/vital signs
+*bp_systolic;
+*use bp41;
+	format nsrr_bp_systolic 8.2;
+	nsrr_bp_systolic = bp41;
+
+*bp_diastolic;
+*use bp42;
+	format nsrr_bp_diastolic 8.2;
+ 	nsrr_bp_diastolic = bp42;
+
+*lifestyle and behavioral health
+*current_smoker;
+*ever_smoker;
+*no data;
+
+	keep 
+		nsrrid
+		vnum
+		nsrr_age
+		nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_bmi
+		nsrr_bp_systolic
+		nsrr_bp_diastolic
+		;
+run;
+
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
+
+/* Checking for extreme values for continuous variables */
+
+proc means data=chatbaseline_harmonized;
+VAR 	nsrr_age
+		nsrr_bmi
+		nsrr_bp_systolic
+		nsrr_bp_diastolic;
+run;
+
+/* Checking categorical variables */
+
+proc freq data=chatbaseline_harmonized;
+table 	nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity;
+run;
+
 *******************************************************************************;
 * make all variable names lowercase ;
 *******************************************************************************;
@@ -488,6 +617,7 @@
   %lowcase(chatbaseline);
   %lowcase(chatfollowup);
   %lowcase(chatnonrandomized);
+  %lowcase(charbaseline_harmonized);
 
 *******************************************************************************;
 * create permanent sas datasets ;
@@ -521,6 +651,12 @@
 
   proc export data=chatnonrandomized
     outfile="&releasepath\&version\chat-nonrandomized-dataset-&version..csv"
+    dbms=csv
+    replace;
+  run;
+
+    proc export data=chatbaseline_harmonized
+    outfile="&releasepath\&version\chatbaseline-harmonized-dataset-&version..csv"
     dbms=csv
     replace;
   run;
