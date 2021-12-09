@@ -507,7 +507,7 @@ data chatbaseline_harmonized;
 
 *age_gt89;
 *use ageyear_at_meas;
-	format nsrr_age_gt89; 
+	format nsrr_age_gt89 $100.; 
 	if ageyear_at_meas gt 89 then nsrr_age_gt89='yes';
 	else if ageyear_at_meas le 89 then nsrr_age_gt89='no';
 

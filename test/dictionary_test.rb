@@ -25,7 +25,7 @@ class DictionaryTest < Minitest::Test
     'minutes (min)', 'seconds (s)', 'events per hour', 'kilograms / meters squared (kg/m2)',
     'percentile', 'limb movements', 'percentage of oxygen saturation',
     'desaturation events', 'limb movements per hour', 'decibels (dB)', 'breaths per minute',
-    'percentage of carbon dioxide','events','millimoles per liter (mmol/L)','', nil
+    'percentage of carbon dioxide','events','millimoles per liter (mmol/L)','millimeters of mercury','kilograms per square meter','', nil
   ]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
