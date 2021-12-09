@@ -25,6 +25,11 @@
     "description": ""
   },
   {
+    "value": "hispanic",
+    "display_name": "hispanic",
+    "description": ""
+  },
+  {
     "value": "multiple",
     "display_name": "multiple",
     "description": ""
@@ -35,8 +40,18 @@
     "description": ""
   },
   {
+    "value": "unknown",
+    "display_name": "unknown",
+    "description": ""
+  },
+  {
     "value": "not reported",
     "display_name": "not reported",
+    "description": ""
+  },
+  {
+    "value": "not allowed to collect",
+    "display_name": "not allowed to collect",
     "description": ""
   }
 ]
