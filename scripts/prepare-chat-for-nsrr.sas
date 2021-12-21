@@ -19,6 +19,9 @@
   *project source datasets from biolincc / sleep reading center;
   libname chatb "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets\biolincc-master";
 
+  *cyclic alternating pattern data;
+  libname cycl "\\rfawin\bwh-sleepepi-chat\nsrr-prep\cyclic-alternating-pattern";
+
   *output location for nsrr datasets;
   libname chatn "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_datasets";
 
@@ -416,11 +419,47 @@
   run;
 
 *******************************************************************************;
+* import cyclic alternating pattern data to merge ;
+*******************************************************************************;
+    proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\cyclic-alternating-pattern\CHATbaselineEvaluation_03-Jan-2020.xlsx"
+    out=chat_cyclic_baseline
+    dbms=xlsx
+    replace;
+    sheet="CAP";
+    getnames=yes;
+  run;
+
+        proc import datafile="\\rfawin\bwh-sleepepi-chat\nsrr-prep\cyclic-alternating-pattern\CHATfollowupEvaluation_03-Jan-2020.xlsx"
+    out=chat_cyclic_followup
+    dbms=xlsx
+    replace;
+    getnames=yes;
+  run;
+
+    data chat_cycl_base;
+    length vnum 8.;
+    set chat_cyclic_baseline;
+	nsrrid = input(id, 8.);
+	drop id;
+    vnum = 3;
+  run;
+
+
+    data chat_cycl_fu;
+    length vnum 8.;
+    set chat_cyclic_followup;
+    vnum = 10;
+	nsrrid = input(id, 8.);
+	drop id;
+	*rename id = nsrrid;
+  run;
+
+*******************************************************************************;
 * split dataset into two parts based on vnum ;
 *******************************************************************************;
   data chatbaseline
     chatfollowup;
-    merge chat_latest_withunit chat_async_base chat_async_fu;
+    merge chat_latest_withunit chat_async_base chat_async_fu chat_cycl_base chat_cycl_fu;
     by nsrrid vnum;
 
     *visit number is 'vnum';
