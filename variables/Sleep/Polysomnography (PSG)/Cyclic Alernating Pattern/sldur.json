@@ -1,0 +1,10 @@
+{
+  "id": "sldur",
+  "display_name": "Total duration of NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

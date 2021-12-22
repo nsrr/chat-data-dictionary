@@ -1,0 +1,10 @@
+{
+  "id": "ra3nre",
+  "display_name": "Total duration of A3-phases/total duration of NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}

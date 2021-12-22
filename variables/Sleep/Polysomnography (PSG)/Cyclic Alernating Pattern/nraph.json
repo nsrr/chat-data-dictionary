@@ -1,0 +1,10 @@
+{
+  "id": "nraph",
+  "display_name": "Total number of A-phases",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}

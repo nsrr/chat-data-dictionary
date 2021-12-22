@@ -1,0 +1,10 @@
+{
+  "id": "ra1aph",
+  "display_name": "Total number of A1-phases/total number of A-phases",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}

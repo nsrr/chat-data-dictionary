@@ -1,0 +1,10 @@
+{
+  "id": "avgaphdur",
+  "display_name": "Average duration of A-phases",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

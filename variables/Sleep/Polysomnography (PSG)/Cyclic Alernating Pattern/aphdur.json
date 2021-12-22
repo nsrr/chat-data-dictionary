@@ -1,0 +1,10 @@
+{
+  "id": "aphdur",
+  "display_name": "Total duration of A-phases",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

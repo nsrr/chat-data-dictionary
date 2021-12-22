@@ -1,0 +1,10 @@
+{
+  "id": "a2dur",
+  "display_name": "Total duration of A2 phases",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

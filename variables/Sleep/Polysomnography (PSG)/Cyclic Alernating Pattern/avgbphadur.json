@@ -1,0 +1,10 @@
+{
+  "id": "avgbphadur",
+  "display_name": "Average duration of B-phases",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

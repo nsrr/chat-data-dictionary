@@ -1,0 +1,10 @@
+{
+  "id": "ra2nre",
+  "display_name": "Total duration of A2-phases/total duration of NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}

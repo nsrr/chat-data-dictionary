@@ -1,0 +1,10 @@
+{
+  "id": "avgcycledur",
+  "display_name": "Average duration of CAP (cyclic alternating pattern) cycles",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

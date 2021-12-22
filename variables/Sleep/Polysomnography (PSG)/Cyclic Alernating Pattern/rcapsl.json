@@ -1,0 +1,10 @@
+{
+  "id": "rcapsl",
+  "display_name": "Total duration of CAP (cyclic alternating pattern) sequences/total duration of NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}

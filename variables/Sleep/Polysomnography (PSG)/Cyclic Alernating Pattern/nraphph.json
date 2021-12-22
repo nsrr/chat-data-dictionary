@@ -1,0 +1,10 @@
+{
+  "id": "nraphph",
+  "display_name": "Number of A-phases per hour of NREM sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "non-rem"
+  ]
+}
