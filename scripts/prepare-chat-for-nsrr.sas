@@ -441,6 +441,7 @@
     set chat_cyclic_baseline;
 	nsrrid = input(id, 8.);
 	vnum = 3;
+	rename capdur = capdurs;
 	drop id
 		 ac
 		 ad
@@ -460,6 +461,7 @@
     set chat_cyclic_followup;
 	nsrrid = input(id, 8.);
 	vnum = 10;
+	rename capdur = capdurs;
 	drop id
 		 ac
 		 ad
