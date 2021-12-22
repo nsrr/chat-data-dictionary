@@ -440,18 +440,38 @@
     length vnum 8.;
     set chat_cyclic_baseline;
 	nsrrid = input(id, 8.);
-	drop id;
-    vnum = 3;
+	vnum = 3;
+	drop id
+		 ac
+		 ad
+		 ae
+	     af
+		 ag
+		 eeg1hurst
+		 eeg1var
+		 eeg2hurst
+		 eeg2var
+		 eegcorr
+		 ;
   run;
-
 
     data chat_cycl_fu;
     length vnum 8.;
     set chat_cyclic_followup;
-    vnum = 10;
 	nsrrid = input(id, 8.);
-	drop id;
-	*rename id = nsrrid;
+	vnum = 10;
+	drop id
+		 ac
+		 ad
+		 ae
+	     af
+		 ag
+		 eeg1hurst
+		 eeg1var
+		 eeg2hurst
+		 eeg2var
+		 eegcorr
+		 ;
   run;
 
 *******************************************************************************;
