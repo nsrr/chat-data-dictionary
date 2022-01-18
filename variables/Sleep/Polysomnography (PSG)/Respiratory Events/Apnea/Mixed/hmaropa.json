@@ -1,7 +1,0 @@
-{
-  "id": "hmaropa",
-  "display_name": "Number of mixed apnea with arousal per hour (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

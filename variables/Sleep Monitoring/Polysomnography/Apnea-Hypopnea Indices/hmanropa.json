@@ -1,0 +1,13 @@
+{
+  "id": "hmanropa",
+  "display_name": "Mixed Apnea Index (NREM, Non-Supine): (Mixed apneas with no oxygen desaturation threshold used only with arousal) / hour of NREM sleep in non-supine position from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "mai_snpo_ma0o_f1t1"
+  ],
+  "other": {
+    "": "955"
+  }
+}

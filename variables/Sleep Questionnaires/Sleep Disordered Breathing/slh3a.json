@@ -1,0 +1,17 @@
+{
+  "id": "slh3a",
+  "display_name": "Child's snores are usually:",
+  "description": "",
+  "type": "choices",
+  "domain": "snoring",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3085"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fas6",
+  "display_name": "Elapsed time until tourniquet released",
+  "description": "",
+  "type": "time",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2036"
+  }
+}

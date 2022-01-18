@@ -1,0 +1,13 @@
+{
+  "id": "mnoanoa4",
+  "display_name": "Minimum duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Shortest ",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_snpo_oa4r_f1t1"
+  ],
+  "other": {
+    "": "456"
+  }
+}

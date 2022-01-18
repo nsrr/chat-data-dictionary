@@ -3,5 +3,8 @@
   "display_name": "Ever had high cholesterol?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2614"
+  }
 }

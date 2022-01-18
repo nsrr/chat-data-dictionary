@@ -1,0 +1,17 @@
+{
+  "id": "slh6f",
+  "display_name": "Jumpy or jerky legs?",
+  "description": "Over the PAST MONTH, has your child had any of the following during sleep? ",
+  "type": "choices",
+  "domain": "alwaysornever",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "rls_plms"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3125"
+  }
+}

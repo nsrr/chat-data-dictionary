@@ -1,0 +1,13 @@
+{
+  "id": "ahrembp",
+  "display_name": "Number of arousals per hour in REM sleep in supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_srpb_f1t1"
+  ],
+  "other": {
+    "": "16"
+  }
+}

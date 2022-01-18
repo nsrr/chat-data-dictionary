@@ -1,0 +1,13 @@
+{
+  "id": "qucan",
+  "display_name": "Quality of cannula",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1597"
+  }
+}

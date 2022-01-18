@@ -1,0 +1,16 @@
+{
+  "id": "fam11f",
+  "display_name": "Did your child have periods of worsened cough or phlegm?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2092"
+  }
+}

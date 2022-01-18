@@ -1,0 +1,16 @@
+{
+  "id": "das6h",
+  "display_name": "Pattern Construction Percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2929"
+  }
+}

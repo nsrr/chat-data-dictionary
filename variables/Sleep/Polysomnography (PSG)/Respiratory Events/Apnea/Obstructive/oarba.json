@@ -1,7 +1,0 @@
-{
-  "id": "oarba",
-  "display_name": "Number of obstructive apnea with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events"
-}

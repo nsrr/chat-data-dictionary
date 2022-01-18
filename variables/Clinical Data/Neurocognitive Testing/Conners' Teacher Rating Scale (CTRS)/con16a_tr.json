@@ -1,0 +1,15 @@
+{
+  "id": "con16a_tr",
+  "display_name": "DSM-IV Total Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2875"
+  }
+}

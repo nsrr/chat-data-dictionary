@@ -1,0 +1,13 @@
+{
+  "id": "slptawp",
+  "display_name": "Total number of shift (sleep stages shift) from sleep to awake from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumsf_spsw_f1t1"
+  ],
+  "other": {
+    "": "884"
+  }
+}

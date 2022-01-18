@@ -1,0 +1,14 @@
+{
+  "id": "total_hrs_slept_weekend",
+  "display_name": "Total hours slept on weekend algorithm",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "calculation": "hour(SLH1C_21_time - SLH1B_21_time)",
+  "labels": [
+    "sleep_duration"
+  ],
+  "other": {
+    "": "3167"
+  }
+}

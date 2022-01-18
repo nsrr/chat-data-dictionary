@@ -5,9 +5,13 @@
   "type": "choices",
   "domain": "checked",
   "labels": [
-    "sibling"
+    "sibling",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2132"
+  }
 }

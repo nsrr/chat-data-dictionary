@@ -3,5 +3,8 @@
   "display_name": "Child has tree allergy",
   "description": "",
   "type": "choices",
-  "domain": "trees"
+  "domain": "trees",
+  "other": {
+    "": "2640"
+  }
 }

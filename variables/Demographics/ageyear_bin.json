@@ -1,0 +1,13 @@
+{
+  "id": "ageyear_bin",
+  "display_name": "Child's age",
+  "description": "",
+  "type": "choices",
+  "domain": "childageyear1",
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2058"
+  }
+}

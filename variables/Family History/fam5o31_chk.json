@@ -6,9 +6,13 @@
   "domain": "check",
   "labels": [
     "sibling",
-    "stepsister"
+    "stepsister",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2251"
+  }
 }

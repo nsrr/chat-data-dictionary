@@ -1,0 +1,16 @@
+{
+  "id": "par4r",
+  "display_name": "Father's race recoded",
+  "description": "",
+  "type": "choices",
+  "domain": "parentrace",
+  "labels": [
+    "ethnicity"
+  ],
+  "forms": [
+    "chat_parentinfo_forms"
+  ],
+  "other": {
+    "": "2069"
+  }
+}

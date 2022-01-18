@@ -1,0 +1,13 @@
+{
+  "id": "avghrahslp",
+  "display_name": "Average heart rate: Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 50% flow reduction and with no oxygen desaturation used and with or without arousal from type I polysomnography",
+  "description": "Average heart rate associated with apnea and hypopnea during sleep",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_ap0uhp5x0u_f1t1"
+  ],
+  "other": {
+    "": "1137"
+  }
+}

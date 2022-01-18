@@ -1,0 +1,15 @@
+{
+  "id": "wra4b",
+  "display_name": "Verbal Learning Recognition Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "wraml2"
+  ],
+  "forms": [
+    "chat_wraml2_forms"
+  ],
+  "other": {
+    "": "3020"
+  }
+}

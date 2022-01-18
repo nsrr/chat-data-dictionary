@@ -1,0 +1,15 @@
+{
+  "id": "con2a",
+  "display_name": "Oppositional Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2847"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eogrdur",
+  "display_name": "Hours of usable EOG R",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1233"
+  }
+}

@@ -3,5 +3,8 @@
   "display_name": "Child has food or drink allergy",
   "description": "",
   "type": "choices",
-  "domain": "food"
+  "domain": "food",
+  "other": {
+    "": "2646"
+  }
 }

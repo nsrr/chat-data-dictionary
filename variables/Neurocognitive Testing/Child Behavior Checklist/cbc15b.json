@@ -1,9 +1,0 @@
-{
-  "id": "cbc15b",
-  "display_name": "Internalizing problems T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

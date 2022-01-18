@@ -1,0 +1,16 @@
+{
+  "id": "nep12b_nepsy",
+  "display_name": "Please provide the scores for the Arrows sub-section Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2971"
+  }
+}

@@ -3,5 +3,8 @@
   "display_name": "Percentile for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
-  "units": "percentile"
+  "units": "percentile",
+  "other": {
+    "": "1923"
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "unustgou",
+  "display_name": "Extreme staging distribution",
+  "description": "1=outlier - unusual staging",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1699"
+  }
+}

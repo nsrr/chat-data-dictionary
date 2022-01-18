@@ -10,9 +10,13 @@
     "nervosa",
     "muscle dysmorphia",
     "binge eating disorder",
-    "osfedother specified feeding or eating disorder"
+    "osfedother specified feeding or eating disorder",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2206"
+  }
 }

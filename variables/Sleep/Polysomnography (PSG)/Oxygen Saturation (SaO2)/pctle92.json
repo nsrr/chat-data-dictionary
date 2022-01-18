@@ -1,9 +1,0 @@
-{
-  "id": "pctle92",
-  "display_name": "Percentage of time <= 92% oxygen saturation (SaO2)",
-  "description": "[100*(total number of minutes with oxygen saturation (SaO2) <= 92) / (Total Sleep Time (TST))].",
-  "type": "numeric",
-  "units": "percent (%)",
-  "calculation": "pctsa92",
-  "commonly_used": true
-}

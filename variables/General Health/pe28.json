@@ -1,0 +1,13 @@
+{
+  "id": "pe28",
+  "display_name": "Status of the respiratory system",
+  "description": "",
+  "type": "choices",
+  "domain": "normal",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2560"
+  }
+}

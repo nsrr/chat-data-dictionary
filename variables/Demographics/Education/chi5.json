@@ -1,0 +1,17 @@
+{
+  "id": "chi5",
+  "display_name": "Child's grade",
+  "description": "",
+  "type": "choices",
+  "domain": "grade",
+  "labels": [
+    "school"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2061"
+  }
+}

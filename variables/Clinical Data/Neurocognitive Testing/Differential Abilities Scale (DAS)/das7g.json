@@ -1,0 +1,15 @@
+{
+  "id": "das7g",
+  "display_name": "Matrices SNC",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2934"
+  }
+}

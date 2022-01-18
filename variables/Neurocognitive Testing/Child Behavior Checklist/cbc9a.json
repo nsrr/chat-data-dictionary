@@ -1,9 +1,0 @@
-{
-  "id": "cbc9a",
-  "display_name": "Somatic complaints total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

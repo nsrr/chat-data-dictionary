@@ -1,0 +1,14 @@
+{
+  "id": "capnotype",
+  "display_name": "Capnograph type",
+  "description": "",
+  "type": "choices",
+  "domain": "capnographtype",
+  "labels": [
+    "etco2"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1225"
+  }
+}

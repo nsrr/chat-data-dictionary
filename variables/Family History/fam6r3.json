@@ -6,9 +6,13 @@
   "domain": "noyes",
   "labels": [
     "dad",
-    "osa"
+    "osa",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2389"
+  }
 }

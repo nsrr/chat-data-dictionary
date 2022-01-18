@@ -1,0 +1,16 @@
+{
+  "id": "nep7b_nepsy",
+  "display_name": "Visual Attention: Attn / Exec Scaled Scores",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2983"
+  }
+}

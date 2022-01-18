@@ -1,0 +1,14 @@
+{
+  "id": "stdydt",
+  "display_name": "Date of study",
+  "description": "",
+  "type": "integer",
+  "units": "seconds from date of randomization",
+  "commonly_used": true,
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1680"
+  }
+}

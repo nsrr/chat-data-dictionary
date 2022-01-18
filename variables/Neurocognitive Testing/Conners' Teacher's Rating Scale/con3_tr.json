@@ -1,9 +1,0 @@
-{
-  "id": "con3_tr",
-  "display_name": "How long has the teacher known the child (months)?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_tr_forms"
-  ]
-}

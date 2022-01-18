@@ -1,7 +1,0 @@
-{
-  "id": "avdrop4",
-  "display_name": "Average desaturation (Rapid eye movement sleep (REM), Non-supine, >=4% desaturation)",
-  "description": "Average respiratory related desaturation ",
-  "type": "numeric",
-  "units": "percent (%)"
-}

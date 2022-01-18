@@ -1,0 +1,13 @@
+{
+  "id": "ahiov20",
+  "display_name": "Obstructive Apnea Index (OAI) > 15 or Apnea-Hypopnea Index (AHI) > 20 = 1  Surgeon Alert",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1079"
+  }
+}

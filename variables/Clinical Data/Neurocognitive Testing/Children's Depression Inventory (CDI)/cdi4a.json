@@ -1,0 +1,15 @@
+{
+  "id": "cdi4a",
+  "display_name": "Total CDI score total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cdi"
+  ],
+  "forms": [
+    "chat_cdep_forms"
+  ],
+  "other": {
+    "": "2820"
+  }
+}

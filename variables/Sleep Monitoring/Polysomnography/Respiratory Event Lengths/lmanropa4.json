@@ -1,0 +1,13 @@
+{
+  "id": "lmanropa4",
+  "display_name": "Maximum duration of mixed apnea in NREM sleep in non-supine position: Mixed apneas with >= 4% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Longest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurma_snpo_ma4r_f1t1"
+  ],
+  "other": {
+    "": "1315"
+  }
+}

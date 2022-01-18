@@ -6,5 +6,8 @@
   "domain": "noyesnotsure",
   "labels": [
     "allergic rhinitis"
-  ]
+  ],
+  "other": {
+    "": "2607"
+  }
 }

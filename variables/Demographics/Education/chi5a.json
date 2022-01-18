@@ -1,0 +1,16 @@
+{
+  "id": "chi5a",
+  "display_name": "Reason child is not attending school",
+  "description": "",
+  "type": "choices",
+  "domain": "schooling",
+  "labels": [
+    "homeschooled"
+  ],
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2063"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "slh3c",
+  "display_name": "Approximately how many years has the snoring been this loud:",
+  "description": "",
+  "type": "choices",
+  "domain": "startsnoring",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3087"
+  }
+}

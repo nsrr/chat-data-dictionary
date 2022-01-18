@@ -1,7 +1,0 @@
-{
-  "id": "aprtdurop",
-  "display_name": "Total apnea length (Rapid eye movement sleep (REM), Non-supine)",
-  "description": "duration",
-  "type": "numeric",
-  "units": "minutes (min)"
-}

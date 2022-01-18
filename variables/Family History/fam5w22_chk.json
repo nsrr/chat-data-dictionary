@@ -10,9 +10,13 @@
     "autistic disorder",
     "childhood disintegrative disorder",
     "pervasive developmental disorder-not otherwise specified",
-    "asperger syndrome"
+    "asperger syndrome",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2321"
+  }
 }

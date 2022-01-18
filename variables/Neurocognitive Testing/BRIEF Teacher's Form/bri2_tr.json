@@ -1,9 +1,0 @@
-{
-  "id": "bri2_tr",
-  "display_name": "How well does the teacher know the child?",
-  "description": "",
-  "type": "string",
-  "forms": [
-    "chat_brief__tr_forms"
-  ]
-}

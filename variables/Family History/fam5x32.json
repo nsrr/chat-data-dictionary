@@ -5,9 +5,13 @@
   "type": "numeric",
   "labels": [
     "sibling",
-    "stepbrother"
+    "stepbrother",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2333"
+  }
 }

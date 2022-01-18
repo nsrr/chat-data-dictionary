@@ -1,0 +1,12 @@
+{
+  "id": "nova_est_co2blwake",
+  "display_name": "Baseline end-tidal carbon dioxide (ETCO2) awake (normalized for capnograph type)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "(rco2blwake * 0.65305) + 13.40939",
+  "commonly_used": true,
+  "other": {
+    "": "1559"
+  }
+}

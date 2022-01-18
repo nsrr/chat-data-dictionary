@@ -1,0 +1,16 @@
+{
+  "id": "bri1",
+  "display_name": "Was the form completed?",
+  "description": "From the Behavior Rating Inventory of Executive Function (BRIEF). [Gioia G et al, 2010](https://www.tandfonline.com/doi/abs/10.1076/chin.6.3.235.3152)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=brief)",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "brief"
+  ],
+  "forms": [
+    "chat_brief_forms"
+  ],
+  "other": {
+    "": "2706"
+  }
+}

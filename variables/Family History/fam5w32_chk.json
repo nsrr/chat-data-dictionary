@@ -11,9 +11,13 @@
     "childhood disintegrative disorder",
     "pervasive developmental disorder-not otherwise specified",
     "asperger syndrome",
-    "stepbrother"
+    "stepbrother",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2325"
+  }
 }

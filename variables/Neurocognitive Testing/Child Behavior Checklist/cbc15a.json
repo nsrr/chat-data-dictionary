@@ -1,9 +1,0 @@
-{
-  "id": "cbc15a",
-  "display_name": "Internalizing problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "otherou",
+  "display_name": "Other outlier",
+  "description": "1=Outlier - other",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1566"
+  }
+}

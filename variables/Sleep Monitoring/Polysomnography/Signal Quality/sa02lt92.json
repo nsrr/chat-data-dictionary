@@ -1,0 +1,22 @@
+{
+  "id": "sa02lt92",
+  "display_name": "Urgent referral - oxygen saturation (SaO2) <92% >2% sleep time = 1 Surgeon alert",
+  "description": "*Note studies that have oximetry problems here",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "hypoxia",
+    "hypoxemia",
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "849"
+  }
+}

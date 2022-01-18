@@ -1,7 +1,0 @@
-{
-  "id": "maropa4",
-  "display_name": "Number of mixed apnea with >=4% desaturation or arousal (Rapid eye movement sleep (REM), Non-supine)",
-  "description": "",
-  "type": "numeric",
-  "units": "seconds (s)"
-}

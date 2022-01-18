@@ -1,9 +1,0 @@
-{
-  "id": "nep4b_nepsy",
-  "display_name": "Tower: Attn / Exec Scaled Scores",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_nepsy_forms"
-  ]
-}

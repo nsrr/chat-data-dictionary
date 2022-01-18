@@ -1,0 +1,13 @@
+{
+  "id": "fas8",
+  "display_name": "Was any blood drawn?",
+  "description": "",
+  "type": "choices",
+  "domain": "samplestatus",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2038"
+  }
+}

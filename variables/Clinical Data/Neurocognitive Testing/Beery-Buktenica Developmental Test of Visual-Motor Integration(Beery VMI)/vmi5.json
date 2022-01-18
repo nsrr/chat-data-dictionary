@@ -1,0 +1,12 @@
+{
+  "id": "vmi5",
+  "display_name": "Standard Score",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "chat_beery_forms"
+  ],
+  "other": {
+    "": "2749"
+  }
+}

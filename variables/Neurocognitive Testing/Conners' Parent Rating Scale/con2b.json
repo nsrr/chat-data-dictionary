@@ -1,9 +1,0 @@
-{
-  "id": "con2b",
-  "display_name": "Oppositional T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

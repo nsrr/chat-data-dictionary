@@ -1,0 +1,17 @@
+{
+  "id": "chq1e",
+  "display_name": "Pediatric Quality of Life Inventory: Take a bath or shower by self",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "choices",
+  "domain": "neveroralways2",
+  "labels": [
+    "pedsql",
+    "pedsql_05bath"
+  ],
+  "forms": [
+    "chat_face_forms"
+  ],
+  "other": {
+    "": "1708"
+  }
+}

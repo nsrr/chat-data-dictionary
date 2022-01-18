@@ -1,9 +1,0 @@
-{
-  "id": "cbc17a",
-  "display_name": "Total problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

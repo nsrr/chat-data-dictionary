@@ -1,0 +1,13 @@
+{
+  "id": "fas11t1",
+  "display_name": "Was vial processing done on vial 20?",
+  "description": "Packed cells, white, 5.0mL",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2028"
+  }
+}

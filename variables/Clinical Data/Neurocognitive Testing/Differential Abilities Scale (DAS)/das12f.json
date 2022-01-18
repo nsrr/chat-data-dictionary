@@ -1,0 +1,16 @@
+{
+  "id": "das12f",
+  "display_name": "Percentile GCA",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2908"
+  }
+}

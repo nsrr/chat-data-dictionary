@@ -1,7 +1,0 @@
-{
-  "id": "hrtdur",
-  "display_name": "Total apnea and hypopnea length (Rapid eye movement sleep (REM))",
-  "description": "duration",
-  "type": "numeric",
-  "units": "minutes (min)"
-}

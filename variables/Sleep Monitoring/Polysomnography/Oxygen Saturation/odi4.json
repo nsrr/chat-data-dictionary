@@ -1,0 +1,14 @@
+{
+  "id": "odi4",
+  "display_name": "Oxygen Desaturation Index: Oxygen desaturation with >= 5% desat per hour of sleep from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumds_su_dsge4_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1565"
+  }
+}

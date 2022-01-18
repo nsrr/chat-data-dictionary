@@ -1,0 +1,15 @@
+{
+  "id": "das10c",
+  "display_name": "Sum of Core Subtest T-Scores Verbal",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2895"
+  }
+}

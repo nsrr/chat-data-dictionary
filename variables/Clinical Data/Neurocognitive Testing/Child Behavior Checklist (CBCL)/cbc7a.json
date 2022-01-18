@@ -1,0 +1,15 @@
+{
+  "id": "cbc7a",
+  "display_name": "Anxious/Depressed total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2807"
+  }
+}

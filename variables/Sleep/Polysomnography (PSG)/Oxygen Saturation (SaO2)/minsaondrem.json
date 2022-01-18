@@ -1,7 +1,0 @@
-{
-  "id": "minsaondrem",
-  "display_name": "Minimum oxygen saturation (SaO2) nadir (Rapid eye movement sleep (REM))",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)"
-}

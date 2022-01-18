@@ -3,5 +3,8 @@
   "display_name": "Acute life threatening episode (ALTE) still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2564"
+  }
 }

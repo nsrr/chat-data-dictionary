@@ -1,0 +1,15 @@
+{
+  "id": "cbc20a",
+  "display_name": "Somatic problems total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2783"
+  }
+}

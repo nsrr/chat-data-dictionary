@@ -1,9 +1,0 @@
-{
-  "id": "con15b",
-  "display_name": "DSM-IV Total T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

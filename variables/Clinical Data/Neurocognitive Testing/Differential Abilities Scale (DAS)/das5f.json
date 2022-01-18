@@ -1,0 +1,15 @@
+{
+  "id": "das5f",
+  "display_name": "Word Definitions GCA",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2921"
+  }
+}

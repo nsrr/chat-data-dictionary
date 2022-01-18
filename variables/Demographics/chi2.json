@@ -1,0 +1,17 @@
+{
+  "id": "chi2",
+  "display_name": "Child's gender",
+  "description": "",
+  "type": "choices",
+  "domain": "sex",
+  "labels": [
+    "sex"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2059"
+  }
+}

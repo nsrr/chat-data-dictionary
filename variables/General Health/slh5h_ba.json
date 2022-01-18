@@ -1,0 +1,16 @@
+{
+  "id": "slh5h_ba",
+  "display_name": "Extreme irritability or mood problems?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3114"
+  }
+}

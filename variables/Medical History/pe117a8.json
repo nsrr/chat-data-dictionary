@@ -1,0 +1,13 @@
+{
+  "id": "pe117a8",
+  "display_name": "Food or drink allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "food",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2507"
+  }
+}

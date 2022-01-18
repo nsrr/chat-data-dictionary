@@ -1,0 +1,17 @@
+{
+  "id": "chq1f_rc",
+  "display_name": "Pediatric Quality of Life Inventory: Do chores around the house (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "choices",
+  "domain": "neveroralways",
+  "labels": [
+    "pedsql",
+    "pedsql_06chores"
+  ],
+  "forms": [
+    "chat_pqlchi2_forms"
+  ],
+  "other": {
+    "": "1711"
+  }
+}

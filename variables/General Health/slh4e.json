@@ -1,0 +1,16 @@
+{
+  "id": "slh4e",
+  "display_name": "Difficulties with school work?",
+  "description": "Related to attention problems or sleepiness",
+  "type": "choices",
+  "domain": "school",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3094"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "avmanrbpa",
+  "display_name": "Average duration of mixed apnea in NREM sleep in supine position: Mixed apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_snpb_ma0o_f1t1"
+  ],
+  "other": {
+    "": "1183"
+  }
+}

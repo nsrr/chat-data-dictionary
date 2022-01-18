@@ -1,0 +1,14 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum oxygen saturation from type I polysomnography",
+  "description": "Lowest oxygen saturation (SaO2) during sleep  [minimum (all oxygen saturation (SaO2) values in sleep)]",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "lowsaoslp",
+    "minlvlsa_su_f1t1"
+  ],
+  "other": {
+    "": "398"
+  }
+}

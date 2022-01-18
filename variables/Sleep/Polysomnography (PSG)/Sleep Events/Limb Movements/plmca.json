@@ -1,7 +1,0 @@
-{
-  "id": "plmca",
-  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal",
-  "description": "Total",
-  "type": "numeric",
-  "units": "limb movements"
-}

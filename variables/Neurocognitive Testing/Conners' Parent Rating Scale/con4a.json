@@ -1,9 +1,0 @@
-{
-  "id": "con4a",
-  "display_name": "Hyperactivity Raw Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

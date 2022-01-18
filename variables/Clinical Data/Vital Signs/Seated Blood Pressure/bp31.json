@@ -1,0 +1,16 @@
+{
+  "id": "bp31",
+  "display_name": "Systolic blood pressure 3",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "hypertension"
+  ],
+  "forms": [
+    "chat_bp_forms"
+  ],
+  "other": {
+    "": "2052"
+  }
+}

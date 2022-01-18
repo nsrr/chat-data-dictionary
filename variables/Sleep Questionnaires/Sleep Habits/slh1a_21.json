@@ -1,0 +1,16 @@
+{
+  "id": "slh1a_21",
+  "display_name": "Time in bed on weekdays?",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sleep_timing"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3051"
+  }
+}

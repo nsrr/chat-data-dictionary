@@ -1,0 +1,13 @@
+{
+  "id": "par6_rc",
+  "display_name": "Mother's education level",
+  "description": "Reclassed variable",
+  "type": "choices",
+  "domain": "education_rc",
+  "forms": [
+    "chat_parentinfo_forms"
+  ],
+  "other": {
+    "": "2073"
+  }
+}

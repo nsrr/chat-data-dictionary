@@ -1,0 +1,11 @@
+{
+  "id": "ai",
+  "display_name": "Arousal Index - Compumedics calculated - changed with new American Academy of Sleep Medicine (AASM) rules now have two other variables",
+  "description": "(Total number of arousals) / (hours of sleep) New Variable @632 for Prof 3.1 build 239 Number of Arousals per hour during Report Time Options: 0 - All (default); 1 - Type 1 Arousal; 2 - Type 2 Arousal; 3 - Type 3 Arousal; 4 - Type 4 Arousal; 5 - Type 5 Arousal - See Arousal Sheet with new application of American Academy of Sleep Medicine (AASM) rules",
+  "type": "numeric",
+  "units": "events per hour",
+  "commonly_used": true,
+  "other": {
+    "": "1086"
+  }
+}

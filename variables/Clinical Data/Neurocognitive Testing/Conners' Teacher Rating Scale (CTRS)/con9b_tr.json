@@ -1,0 +1,15 @@
+{
+  "id": "con9b_tr",
+  "display_name": "Social Problems T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2893"
+  }
+}

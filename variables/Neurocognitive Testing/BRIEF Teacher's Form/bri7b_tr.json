@@ -1,9 +1,0 @@
-{
-  "id": "bri7b_tr",
-  "display_name": "BRI T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief__tr_forms"
-  ]
-}

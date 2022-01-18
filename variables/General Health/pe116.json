@@ -1,0 +1,13 @@
+{
+  "id": "pe116",
+  "display_name": "What is the Mallampati position?",
+  "description": "",
+  "type": "choices",
+  "domain": "class",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2498"
+  }
+}

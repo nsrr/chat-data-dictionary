@@ -1,9 +1,0 @@
-{
-  "id": "bri7a",
-  "display_name": "Initiate raw score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief_forms"
-  ]
-}

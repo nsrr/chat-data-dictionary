@@ -3,5 +3,8 @@
   "display_name": "Diagnosed or treated by a physician for cancer?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2579"
+  }
 }

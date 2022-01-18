@@ -1,0 +1,17 @@
+{
+  "id": "nep10b_nepsy",
+  "display_name": "Core Domain Scores Attn / Exec Scaled Scores",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2966"
+  }
+}

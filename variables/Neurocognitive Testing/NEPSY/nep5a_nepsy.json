@@ -1,9 +1,0 @@
-{
-  "id": "nep5a_nepsy",
-  "display_name": "Auditory Attention and Response Set: Raw Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_nepsy_forms"
-  ]
-}

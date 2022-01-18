@@ -1,0 +1,16 @@
+{
+  "id": "nodb5slp",
+  "display_name": "Number of snore during sleep (decibel (dB) level 5)",
+  "description": "",
+  "type": "integer",
+  "units": "snores",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement sleep"
+  ],
+  "other": {
+    "": "1552"
+  }
+}

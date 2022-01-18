@@ -1,0 +1,15 @@
+{
+  "id": "con14a",
+  "display_name": "DSM-IV Hyperactive-Impulsive Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2841"
+  }
+}

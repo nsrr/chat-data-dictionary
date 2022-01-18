@@ -1,0 +1,13 @@
+{
+  "id": "pe17_nasalobstruction",
+  "display_name": "Neck: Nasal obstruction present or not present",
+  "description": "Binary variable that flags keywords: swollen nasal mucous membranes, congested, swollen turbinates and nasal congestion from the PE17_EXPLAIN variable",
+  "type": "choices",
+  "domain": "present",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2522"
+  }
+}

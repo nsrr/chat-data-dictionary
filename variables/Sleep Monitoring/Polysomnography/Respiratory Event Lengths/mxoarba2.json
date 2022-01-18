@@ -1,0 +1,13 @@
+{
+  "id": "mxoarba2",
+  "display_name": "Maximum duration of obstructive apnea in REM sleep in supine position: Obstructive apneas with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "Longest ",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxduroa_srpb_oa2r_f1t1"
+  ],
+  "other": {
+    "": "552"
+  }
+}

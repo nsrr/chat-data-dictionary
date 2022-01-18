@@ -1,0 +1,15 @@
+{
+  "id": "losao2nr",
+  "display_name": "Minimum oxygen saturation in NREM sleep from type I polysomnography",
+  "description": "Lowest oxygen saturation (SaO2) in non-rapid eye movement sleep (NREM)  [minimum (all oxygen saturation (SaO2) values in non-rapid eye movement sleep (NREM))]",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "mnsao2nh",
+  "labels": [
+    "lowsaonr",
+    "minlvlsa_sn_f1t1"
+  ],
+  "other": {
+    "": "376"
+  }
+}

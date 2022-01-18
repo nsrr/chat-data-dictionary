@@ -1,7 +1,0 @@
-{
-  "id": "avdroa5",
-  "display_name": "Average desaturation with arousals (Rapid eye movement sleep (REM), Non-supine, >=5% desaturation)",
-  "description": "Average respiratory related desaturation",
-  "type": "numeric",
-  "units": "percent (%)"
-}

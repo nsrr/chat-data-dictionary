@@ -1,0 +1,15 @@
+{
+  "id": "das6a",
+  "display_name": "Pattern Construction Ability Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2924"
+  }
+}

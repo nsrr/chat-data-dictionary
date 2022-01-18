@@ -1,0 +1,13 @@
+{
+  "id": "maropa",
+  "display_name": "Total number of mixed apnea in REM sleep in non-supine position: Mixed apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "ttlnumma_srpo_ma0o_f1t1"
+  ],
+  "other": {
+    "": "1376"
+  }
+}

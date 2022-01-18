@@ -1,9 +1,0 @@
-{
-  "id": "con6b_tr",
-  "display_name": "Hyperactivity T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_tr_forms"
-  ]
-}

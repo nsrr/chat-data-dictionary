@@ -1,0 +1,16 @@
+{
+  "id": "slh4i",
+  "display_name": "Has your child been professionally counseled for a behavior problem?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3098"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "quchin",
+  "display_name": "Quality of chin",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "emg"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "787"
+  }
+}

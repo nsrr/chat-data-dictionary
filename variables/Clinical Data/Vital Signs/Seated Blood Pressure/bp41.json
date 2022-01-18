@@ -1,0 +1,17 @@
+{
+  "id": "bp41",
+  "display_name": "Average systolic blood pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "hypertension"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_bp_forms"
+  ],
+  "other": {
+    "": "2054"
+  }
+}

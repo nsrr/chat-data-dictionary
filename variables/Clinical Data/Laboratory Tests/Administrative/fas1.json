@@ -1,0 +1,16 @@
+{
+  "id": "fas1",
+  "display_name": "Draw time.",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "blood draw",
+    "venipuncture"
+  ],
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "1987"
+  }
+}

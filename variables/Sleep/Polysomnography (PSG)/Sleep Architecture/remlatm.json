@@ -1,7 +1,0 @@
-{
-  "id": "remlatm",
-  "display_name": "Rapid eye movement sleep (REM) latency I",
-  "description": "Total time from beginning of sleep to first epoch of rapid eye movement sleep (REM)",
-  "type": "numeric",
-  "units": "minutes (min)"
-}

@@ -1,0 +1,15 @@
+{
+  "id": "fam2",
+  "display_name": "How many people currently smoke at home?",
+  "description": "Smoking is defined as at least 1 cigarette a day",
+  "type": "numeric",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2111"
+  }
+}

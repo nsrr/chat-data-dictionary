@@ -1,8 +1,0 @@
-{
-  "id": "oai",
-  "display_name": "Obstructive apnea index",
-  "description": "(Total number of obstructive apneas) / (hours of sleep)",
-  "type": "numeric",
-  "units": "events per hour",
-  "commonly_used": true
-}

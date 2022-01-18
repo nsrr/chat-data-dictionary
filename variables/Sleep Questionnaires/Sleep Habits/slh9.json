@@ -1,0 +1,17 @@
+{
+  "id": "slh9",
+  "display_name": "Amount of caffinated beverages per day?",
+  "description": "",
+  "type": "choices",
+  "domain": "drink",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3164"
+  }
+}

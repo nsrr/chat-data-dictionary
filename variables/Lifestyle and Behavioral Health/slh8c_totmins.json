@@ -1,0 +1,16 @@
+{
+  "id": "slh8c_totmins",
+  "display_name": "Total minutes bicycling",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3142"
+  }
+}

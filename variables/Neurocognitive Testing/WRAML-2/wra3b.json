@@ -1,9 +1,0 @@
-{
-  "id": "wra3b",
-  "display_name": "Verbal Learning Recall Scaled Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_wraml2_forms"
-  ]
-}

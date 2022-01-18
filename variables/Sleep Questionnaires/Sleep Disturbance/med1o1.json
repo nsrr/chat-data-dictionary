@@ -1,0 +1,10 @@
+{
+  "id": "med1o1",
+  "display_name": "Ever had insomnia?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2618"
+  }
+}

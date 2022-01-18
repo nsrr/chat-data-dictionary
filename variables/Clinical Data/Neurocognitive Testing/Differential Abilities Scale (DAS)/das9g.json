@@ -1,0 +1,15 @@
+{
+  "id": "das9g",
+  "display_name": "Sequential & Quantitative Reasoning SNC",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2945"
+  }
+}

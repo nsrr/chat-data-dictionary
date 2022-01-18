@@ -1,0 +1,17 @@
+{
+  "id": "slh2d",
+  "display_name": "Was your child's snoring so loud it disturbed others?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3081"
+  }
+}

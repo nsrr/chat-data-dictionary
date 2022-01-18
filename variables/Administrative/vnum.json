@@ -3,5 +3,8 @@
   "display_name": "Visit Number",
   "description": "",
   "type": "choices",
-  "domain": "vnum"
+  "domain": "vnum",
+  "other": {
+    "": "1917"
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "id": "slh6a",
+  "display_name": "Difficulty breathing?",
+  "description": "Over the PAST MONTH, has your child had any of the following during sleep? ",
+  "type": "choices",
+  "domain": "alwaysornever",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sdb"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3120"
+  }
+}

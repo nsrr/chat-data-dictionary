@@ -1,0 +1,17 @@
+{
+  "id": "lgpctsa90h",
+  "display_name": "LOG % of Total Sleep Time (TST) with oxygen saturation (SaO2)<90%",
+  "description": "Original source: MS 003",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
+  "other": {
+    "": "338"
+  }
+}

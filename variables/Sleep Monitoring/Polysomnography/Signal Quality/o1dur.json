@@ -1,0 +1,13 @@
+{
+  "id": "o1dur",
+  "display_name": "Hours of usable O1",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1561"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "remt2p",
+  "display_name": "Total number of shift (sleep stages shift) from REM sleep to stage 2 sleep from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumsf_srs2_f1t1"
+  ],
+  "other": {
+    "": "840"
+  }
+}

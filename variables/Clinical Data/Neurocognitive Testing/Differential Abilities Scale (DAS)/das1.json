@@ -1,0 +1,16 @@
+{
+  "id": "das1",
+  "display_name": "Was the DAS-II administered?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2894"
+  }
+}

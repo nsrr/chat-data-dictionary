@@ -1,9 +1,0 @@
-{
-  "id": "bri10a",
-  "display_name": "Organization of Materials raw score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief_forms"
-  ]
-}

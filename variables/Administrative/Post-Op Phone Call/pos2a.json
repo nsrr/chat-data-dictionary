@@ -1,0 +1,13 @@
+{
+  "id": "pos2a",
+  "display_name": "If child required evaluation in the emergency room (ER), what was the reason?",
+  "description": "",
+  "type": "choices",
+  "domain": "admission",
+  "forms": [
+    "chat_postop1_forms"
+  ],
+  "other": {
+    "": "3169"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "id": "cbc16a",
-  "display_name": "Externalizing problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

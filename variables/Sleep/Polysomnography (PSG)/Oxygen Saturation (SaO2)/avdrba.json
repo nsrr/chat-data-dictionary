@@ -1,7 +1,0 @@
-{
-  "id": "avdrba",
-  "display_name": "Average desaturation with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
-  "description": "Average respiratory related desaturation",
-  "type": "numeric",
-  "units": "percent (%)"
-}

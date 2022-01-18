@@ -1,0 +1,15 @@
+{
+  "id": "con15b",
+  "display_name": "DSM-IV Total T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2844"
+  }
+}

@@ -3,5 +3,8 @@
   "display_name": "Diagnosed or treated by a physician for eczema?",
   "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2603"
+  }
 }

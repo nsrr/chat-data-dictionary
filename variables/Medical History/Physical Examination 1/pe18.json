@@ -1,7 +1,0 @@
-{
-  "id": "pe18",
-  "display_name": "Status of the respiratory system",
-  "description": "This is not the OSAS",
-  "type": "choices",
-  "domain": "normal"
-}

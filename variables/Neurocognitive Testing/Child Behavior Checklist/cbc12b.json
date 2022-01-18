@@ -1,9 +1,0 @@
-{
-  "id": "cbc12b",
-  "display_name": "Attention problems T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

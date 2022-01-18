@@ -1,0 +1,15 @@
+{
+  "id": "con12b",
+  "display_name": "Conners' GI Total T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2838"
+  }
+}

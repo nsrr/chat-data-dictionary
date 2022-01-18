@@ -1,9 +1,0 @@
-{
-  "id": "con13a_tr",
-  "display_name": "Conners' GI Total Raw Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_tr_forms"
-  ]
-}

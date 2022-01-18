@@ -1,0 +1,13 @@
+{
+  "id": "remlaiip",
+  "display_name": "REM Sleep Latency: the interval between the first sleep epoch and REM sleep excluding wake from type I polysomnography",
+  "description": "Total sleep time from beginning of sleep to first epoch of rapid eye movement sleep (REM) (excluding wake)",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_s1sr_f1t1"
+  ],
+  "other": {
+    "": "834"
+  }
+}

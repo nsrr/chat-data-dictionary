@@ -1,0 +1,16 @@
+{
+  "id": "das3",
+  "display_name": "What is the child's handedness?",
+  "description": "",
+  "type": "choices",
+  "domain": "writinghand",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2911"
+  }
+}

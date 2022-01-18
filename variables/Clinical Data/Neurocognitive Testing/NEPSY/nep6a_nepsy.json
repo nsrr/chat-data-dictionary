@@ -1,0 +1,16 @@
+{
+  "id": "nep6a_nepsy",
+  "display_name": "Speeded Naming: Raw Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2980"
+  }
+}

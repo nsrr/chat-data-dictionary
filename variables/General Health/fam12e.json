@@ -1,0 +1,17 @@
+{
+  "id": "fam12e",
+  "display_name": "Any wheezy or whistling chest sounds when exposed to fumes or dust?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "environmental",
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2103"
+  }
+}

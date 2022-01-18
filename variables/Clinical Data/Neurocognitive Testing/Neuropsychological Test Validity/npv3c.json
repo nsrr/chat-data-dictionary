@@ -1,0 +1,13 @@
+{
+  "id": "npv3c",
+  "display_name": "Validity of the NEPSY(NEPSY) that was given to the child.",
+  "description": "",
+  "type": "choices",
+  "domain": "valid1",
+  "forms": [
+    "chat_neuro_forms"
+  ],
+  "other": {
+    "": "3001"
+  }
+}

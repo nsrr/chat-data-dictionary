@@ -1,0 +1,16 @@
+{
+  "id": "slh8h_totmins",
+  "display_name": "Total minutes other activity (specify)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3163"
+  }
+}

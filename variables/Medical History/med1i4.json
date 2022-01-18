@@ -6,5 +6,8 @@
   "domain": "noyesnotsure",
   "labels": [
     "insulin"
-  ]
+  ],
+  "other": {
+    "": "2597"
+  }
 }

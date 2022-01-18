@@ -3,5 +3,8 @@
   "display_name": "Time interval between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "other": {
+    "": "1918"
+  }
 }

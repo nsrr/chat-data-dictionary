@@ -1,0 +1,15 @@
+{
+  "id": "das11f",
+  "display_name": "Dasii Gca",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2903"
+  }
+}

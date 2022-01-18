@@ -1,0 +1,14 @@
+{
+  "id": "paq4d_rc",
+  "display_name": "Pediatric Quality of Life Inventory: Missing school because of not feeling well (coded per Pediatric Quality of Life Inventory (PEDsQL) manual)",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "choices",
+  "domain": "neveroralways",
+  "labels": [
+    "pedsql",
+    "pedsql_22well"
+  ],
+  "other": {
+    "": "1832"
+  }
+}

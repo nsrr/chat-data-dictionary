@@ -1,0 +1,15 @@
+{
+  "id": "con16b_tr",
+  "display_name": "DSM-IV Total T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2876"
+  }
+}

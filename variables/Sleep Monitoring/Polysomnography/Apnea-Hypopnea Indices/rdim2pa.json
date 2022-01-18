@@ -1,0 +1,14 @@
+{
+  "id": "rdim2pa",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with >= 2% oxygen desaturation threshold used or with arousal+ hypopneas with > 50% flow reduction and with >= 2% oxygen desaturation used or with arousal) / hour of sleep from type I polysomnography",
+  "description": "Respiratory Disturbance Index (RDI) at >=2% desaturation or arousal  [(total number of apneas and hypopneas with >=2% desaturation or arousal) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60*(hremba2 +hroa2 + hnrba2 + hnroa2 +carba2+ caroa2 + canba2 + canoa2 + oarba2 + oaroa2 + oanba2 + oanoa2 + marbpa2 + maropa2 + manrbpa2 + manropa2) / slpprdp",
+  "labels": [
+    "ahi_ap2rhp5x2r_f1t1"
+  ],
+  "other": {
+    "": "1011"
+  }
+}

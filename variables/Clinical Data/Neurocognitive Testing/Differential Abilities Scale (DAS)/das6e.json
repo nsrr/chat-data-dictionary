@@ -1,0 +1,15 @@
+{
+  "id": "das6e",
+  "display_name": "Pattern Construction Spatial",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2926"
+  }
+}

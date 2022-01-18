@@ -1,9 +1,0 @@
-{
-  "id": "fas7",
-  "display_name": "Time at end of venipuncture.",
-  "description": "",
-  "type": "time",
-  "forms": [
-    "chat_fastveni_forms"
-  ]
-}

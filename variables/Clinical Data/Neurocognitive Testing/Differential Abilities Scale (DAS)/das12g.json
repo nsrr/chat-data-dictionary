@@ -1,0 +1,16 @@
+{
+  "id": "das12g",
+  "display_name": "Percentile SNC",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2909"
+  }
+}

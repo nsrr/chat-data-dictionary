@@ -1,0 +1,16 @@
+{
+  "id": "sumdur",
+  "display_name": "Hours of usable SUM",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "respiratory belt"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "895"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "id": "bpmavg",
-  "display_name": "Average heart rate",
-  "description": "entire recording",
-  "type": "numeric",
-  "units": "beats per minute (bpm)",
-  "commonly_used": true
-}

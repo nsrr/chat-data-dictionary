@@ -1,0 +1,13 @@
+{
+  "id": "fas11f2",
+  "display_name": "Vial processing comments on vial 6",
+  "description": "Serum, red, 0.5mL",
+  "type": "choices",
+  "domain": "partialvolhemolysis",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2001"
+  }
+}

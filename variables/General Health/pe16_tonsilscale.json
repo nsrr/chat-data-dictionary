@@ -1,0 +1,12 @@
+{
+  "id": "pe16_tonsilscale",
+  "display_name": "Head, eyes, ear, nose, and throat (HEENT): What is the Friedman palate position",
+  "description": "If PE16_EXPLAIN variable has the string TONSIL then pulls off the highest numeric value within the string",
+  "type": "numeric",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2520"
+  }
+}

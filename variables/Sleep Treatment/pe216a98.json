@@ -1,0 +1,13 @@
+{
+  "id": "pe216a98",
+  "display_name": "Other treatment, specify",
+  "description": "",
+  "type": "choices",
+  "domain": "other",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2553"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pedsql_physical_nmiss_chld",
+  "display_name": "Pediatric Quality of Life Inventory: Child Physical Function number of missings",
+  "description": "The subscale score is based on 8 items from the Pediatric Quality of Life Inventory (PedsQL). A high score suggests better physical functioning. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "numeric",
+  "labels": [
+    "pedsql"
+  ],
+  "other": {
+    "": "3024"
+  }
+}

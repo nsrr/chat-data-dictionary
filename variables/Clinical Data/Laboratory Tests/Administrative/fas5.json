@@ -1,0 +1,15 @@
+{
+  "id": "fas5",
+  "display_name": "Time at start of venipuncture",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "blood draw"
+  ],
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2035"
+  }
+}

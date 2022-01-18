@@ -1,0 +1,15 @@
+{
+  "id": "con6b",
+  "display_name": "Perfectionism T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2856"
+  }
+}

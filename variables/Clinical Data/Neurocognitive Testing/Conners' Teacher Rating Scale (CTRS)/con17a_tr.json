@@ -1,0 +1,15 @@
+{
+  "id": "con17a_tr",
+  "display_name": "Inattentive Symptoms Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2877"
+  }
+}

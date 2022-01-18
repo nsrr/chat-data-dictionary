@@ -1,0 +1,13 @@
+{
+  "id": "ahnrembp",
+  "display_name": "Number of arousals per hour in NREM sleep in supine position from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_snpb_f1t1"
+  ],
+  "other": {
+    "": "14"
+  }
+}

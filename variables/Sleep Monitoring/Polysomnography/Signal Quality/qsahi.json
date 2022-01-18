@@ -1,0 +1,13 @@
+{
+  "id": "qsahi",
+  "display_name": "Apnea-Hypopnea Index (AHI)",
+  "description": "Recorded by the scorer on QS form",
+  "type": "numeric",
+  "units": "events",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1592"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "avgdsevent",
-  "display_name": "Average desaturation (associated with manually scored respiratory events)",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)"
-}

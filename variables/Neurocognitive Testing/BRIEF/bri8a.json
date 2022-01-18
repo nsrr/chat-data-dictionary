@@ -1,9 +1,0 @@
-{
-  "id": "bri8a",
-  "display_name": "Working Memory raw score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief_forms"
-  ]
-}

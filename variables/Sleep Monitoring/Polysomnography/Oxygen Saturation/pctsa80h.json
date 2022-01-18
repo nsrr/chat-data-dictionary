@@ -1,0 +1,15 @@
+{
+  "id": "pctsa80h",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 80% from type I polysomnography",
+  "description": "[(total time oxygen saturation (SaO2) is < 80%) / (Total Sleep Time (TST))] * 100",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt80",
+    "pctdursp_salt80_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "708"
+  }
+}

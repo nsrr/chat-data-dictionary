@@ -1,0 +1,13 @@
+{
+  "id": "hremt34p",
+  "display_name": "Number of shift (sleep stages shift) from REM sleep to stage 3/4 sleep per hour of sleep from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumsf_srs3_f1t1"
+  ],
+  "other": {
+    "": "327"
+  }
+}

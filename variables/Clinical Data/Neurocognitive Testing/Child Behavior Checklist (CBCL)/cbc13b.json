@@ -1,0 +1,15 @@
+{
+  "id": "cbc13b",
+  "display_name": "Rule-Breaking behavior T score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2762"
+  }
+}

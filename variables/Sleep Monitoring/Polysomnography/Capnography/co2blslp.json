@@ -1,0 +1,17 @@
+{
+  "id": "co2blslp",
+  "display_name": "Baseline end-tidal carbon dioxide (ETCO2) asleep",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement",
+    "rapid eye movement"
+  ],
+  "other": {
+    "": "293"
+  }
+}

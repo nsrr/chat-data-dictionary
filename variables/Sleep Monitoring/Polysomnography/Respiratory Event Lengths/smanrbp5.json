@@ -1,0 +1,13 @@
+{
+  "id": "smanrbp5",
+  "display_name": "Minimum duration of mixed apnea in NREM sleep in supine position: Mixed apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "Shortest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurma_snpb_ma5u_f1t1"
+  ],
+  "other": {
+    "": "1640"
+  }
+}

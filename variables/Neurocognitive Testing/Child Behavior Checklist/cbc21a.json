@@ -1,9 +1,0 @@
-{
-  "id": "cbc21a",
-  "display_name": "Attention deficit/hyperactivity problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

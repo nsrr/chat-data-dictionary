@@ -1,0 +1,14 @@
+{
+  "id": "quco2",
+  "display_name": "Quality of carbon dioxide (CO2)",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "commonly_used": true,
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1599"
+  }
+}

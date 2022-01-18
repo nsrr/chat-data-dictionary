@@ -1,0 +1,16 @@
+{
+  "id": "nep6_nepwrd",
+  "display_name": "Word Generation Semantic vs. Initial Letter Contrast Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy2_wg_forms",
+  "labels": [
+    "nepsyii"
+  ],
+  "forms": [
+    "chat_nepsy2_wg_forms"
+  ],
+  "other": {
+    "": "2965"
+  }
+}

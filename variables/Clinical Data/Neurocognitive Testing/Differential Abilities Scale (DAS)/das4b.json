@@ -1,0 +1,15 @@
+{
+  "id": "das4b",
+  "display_name": "Recall of Designs T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2913"
+  }
+}

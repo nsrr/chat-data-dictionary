@@ -1,0 +1,16 @@
+{
+  "id": "cbc9c",
+  "display_name": "Somatic complaints percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2815"
+  }
+}

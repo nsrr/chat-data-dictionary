@@ -1,0 +1,13 @@
+{
+  "id": "mxcarbp4",
+  "display_name": "Maximum duration of central apnea in REM sleep in supine position: Central apneas with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Longest ",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurca_srpb_ca4u_f1t1"
+  ],
+  "other": {
+    "": "519"
+  }
+}

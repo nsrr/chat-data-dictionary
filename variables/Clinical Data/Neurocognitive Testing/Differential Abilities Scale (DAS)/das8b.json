@@ -1,0 +1,16 @@
+{
+  "id": "das8b",
+  "display_name": "Verbal Similarities T-Score",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2937"
+  }
+}

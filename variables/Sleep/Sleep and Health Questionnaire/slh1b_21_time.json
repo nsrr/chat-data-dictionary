@@ -1,9 +1,0 @@
-{
-  "id": "slh1b_21_time",
-  "display_name": "Time child fell asleep weekday",
-  "description": "",
-  "type": "time",
-  "forms": [
-    "chat_slhq_forms"
-  ]
-}

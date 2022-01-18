@@ -1,0 +1,16 @@
+{
+  "id": "slh8b_totmins",
+  "display_name": "Total minutes jogging or running",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3138"
+  }
+}

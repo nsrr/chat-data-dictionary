@@ -1,0 +1,14 @@
+{
+  "id": "remepbp",
+  "display_name": "Total duration of sleep in REM sleep in supine position from type I polysomnography",
+  "description": "Total time in rapid eye movement sleep (REM) with supine body position",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_srpb_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "832"
+  }
+}

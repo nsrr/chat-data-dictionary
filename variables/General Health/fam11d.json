@@ -1,0 +1,16 @@
+{
+  "id": "fam11d",
+  "display_name": "Did your child bring up phlegm often?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2090"
+  }
+}

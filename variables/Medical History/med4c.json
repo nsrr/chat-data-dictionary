@@ -3,5 +3,8 @@
   "display_name": "Referred to Pulmonologist (Lung Doctor)",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyes",
+  "other": {
+    "": "2656"
+  }
 }

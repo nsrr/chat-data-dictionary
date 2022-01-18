@@ -1,0 +1,13 @@
+{
+  "id": "amxbnbh",
+  "display_name": "Maximum heart rate with arousal in REM sleep in supine position from type I polysomnography",
+  "description": "Highest",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_snsopb_f1t1"
+  ],
+  "other": {
+    "": "40"
+  }
+}

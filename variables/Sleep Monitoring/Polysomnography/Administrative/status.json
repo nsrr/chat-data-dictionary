@@ -1,0 +1,13 @@
+{
+  "id": "status",
+  "display_name": "Pass fail status (passed=1 failed=2)",
+  "description": "",
+  "type": "choices",
+  "domain": "passedorfailed",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1677"
+  }
+}

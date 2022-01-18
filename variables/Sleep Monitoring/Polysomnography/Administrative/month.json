@@ -1,0 +1,10 @@
+{
+  "id": "month",
+  "display_name": "Calendar month of Polysomnography (PSG)",
+  "description": "",
+  "type": "choices",
+  "domain": "month",
+  "other": {
+    "": "1463"
+  }
+}

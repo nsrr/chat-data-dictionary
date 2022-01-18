@@ -3,5 +3,8 @@
   "display_name": "Currently taking medication your anxiety disorder?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2569"
+  }
 }

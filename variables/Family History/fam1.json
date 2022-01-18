@@ -5,9 +5,12 @@
   "type": "choices",
   "domain": "smoking",
   "labels": [
-    "cigarettes"
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2083"
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "id": "nep1_nepsy",
+  "display_name": "Were any sections of the NEPSY performed?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2972"
+  }
+}

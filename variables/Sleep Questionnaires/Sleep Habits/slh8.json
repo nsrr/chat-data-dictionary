@@ -1,0 +1,17 @@
+{
+  "id": "slh8",
+  "display_name": "Number of caffeinate beverages per day?",
+  "description": "Such as cola, coffee, tea, etc.",
+  "type": "choices",
+  "domain": "drinksperday",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sleep_hygiene"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3130"
+  }
+}

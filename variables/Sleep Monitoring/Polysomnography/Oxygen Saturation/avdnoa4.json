@@ -1,0 +1,13 @@
+{
+  "id": "avdnoa4",
+  "display_name": "Average oxygen desaturation for all respiratory events with >= 4% desat or arousal in NREM sleep in non-supine position: Apneas with >= 4% oxygen desaturation or with arousal + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation or arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_snpo_ap4rhp5x4r_f1t1"
+  ],
+  "other": {
+    "": "1106"
+  }
+}

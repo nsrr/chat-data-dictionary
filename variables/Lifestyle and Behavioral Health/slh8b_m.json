@@ -1,0 +1,16 @@
+{
+  "id": "slh8b_m",
+  "display_name": "Jogging or running: Minutes per day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3137"
+  }
+}

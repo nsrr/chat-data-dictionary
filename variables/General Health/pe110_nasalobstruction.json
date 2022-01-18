@@ -1,0 +1,13 @@
+{
+  "id": "pe110_nasalobstruction",
+  "display_name": "Abdomen: Nasal obstruction present or not present",
+  "description": "Binary variable that flags keywords: swollen nasal mucous membranes, congested, swollen turbinates and nasal congestion from the PE110_EXPLAIN variable",
+  "type": "choices",
+  "domain": "present",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2483"
+  }
+}

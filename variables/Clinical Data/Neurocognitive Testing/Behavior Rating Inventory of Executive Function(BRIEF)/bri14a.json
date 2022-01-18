@@ -1,0 +1,13 @@
+{
+  "id": "bri14a",
+  "display_name": "What is the negativity score?",
+  "description": "From the Behavior Rating Inventory of Executive Function (BRIEF). [Gioia G et al, 2010](https://www.tandfonline.com/doi/abs/10.1076/chin.6.3.235.3152)<br><br>[Search for all BRIEF variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=brief)",
+  "type": "choices",
+  "domain": "negativityscore",
+  "labels": [
+    "brief"
+  ],
+  "other": {
+    "": "2720"
+  }
+}

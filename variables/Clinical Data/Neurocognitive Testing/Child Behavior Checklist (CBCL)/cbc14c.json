@@ -1,0 +1,16 @@
+{
+  "id": "cbc14c",
+  "display_name": "Aggressive behavior percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2766"
+  }
+}

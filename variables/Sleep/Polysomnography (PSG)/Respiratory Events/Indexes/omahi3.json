@@ -1,9 +1,0 @@
-{
-  "id": "omahi3",
-  "display_name": "Childhood Adenotonsillectomy Trial (CHAT) Apnea-Hypopnea Index (AHI) (obstructive apneas all desaturations, mixed apneas all desaturations, plus hypopneas with >=3% or arousal) no centrals",
-  "description": "{[(total number of obstructive apneas) + (total number of mixed apneas) + (total number of hypopneas associated with >= 3% desaturation or arousal)] / (hours of sleep)}. will be missing if Total Sleep Time (TST) is 0.",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculation": "60*(oarbp + oarop + oanbp + oanop + marbp + marop + manrbp + manrop + hremba3 +hroa3 + hnrba3 + hnroa3) / slpprdp",
-  "commonly_used": true
-}

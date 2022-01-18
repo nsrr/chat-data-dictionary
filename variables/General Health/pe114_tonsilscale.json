@@ -1,0 +1,12 @@
+{
+  "id": "pe114_tonsilscale",
+  "display_name": "Neurological: What is the Friedman palate position",
+  "description": "If PE114_EXPLAIN variable has the string TONSIL then pulls off the highest numeric value within the string",
+  "type": "numeric",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2496"
+  }
+}

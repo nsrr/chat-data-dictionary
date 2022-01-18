@@ -1,0 +1,16 @@
+{
+  "id": "slh8h_m",
+  "display_name": "Other activity (specify): Minutes per day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3161"
+  }
+}

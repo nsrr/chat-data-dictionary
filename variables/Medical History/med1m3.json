@@ -3,5 +3,8 @@
   "display_name": "Hypertension still present?",
   "description": "Also known as high blood pressure",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2612"
+  }
 }

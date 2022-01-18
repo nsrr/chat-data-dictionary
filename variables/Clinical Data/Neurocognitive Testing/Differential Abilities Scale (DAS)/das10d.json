@@ -1,0 +1,15 @@
+{
+  "id": "das10d",
+  "display_name": "Sum of Core Subtest T-Scores Nonverbal Reasoning",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2896"
+  }
+}

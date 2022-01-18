@@ -1,0 +1,16 @@
+{
+  "id": "slh8a_totmins",
+  "display_name": "Total minutes walking for exercise or to school",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3134"
+  }
+}

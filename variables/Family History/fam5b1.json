@@ -5,9 +5,13 @@
   "type": "choices",
   "domain": "noyesnotsure",
   "labels": [
-    "brother sister"
+    "brother sister",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2128"
+  }
 }

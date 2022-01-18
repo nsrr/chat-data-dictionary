@@ -1,0 +1,13 @@
+{
+  "id": "mxhnop4",
+  "display_name": "Maximum duration of hypopnea in NREM sleep in non-supine position: Hypopneas with > 50% flow reduction and with >= 4% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Longest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_snpo_hp5x4u_f1t1"
+  ],
+  "other": {
+    "": "1522"
+  }
+}

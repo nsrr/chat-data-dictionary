@@ -1,0 +1,16 @@
+{
+  "id": "ref5",
+  "display_name": "Child's ethnicity",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity",
+  "labels": [
+    "race"
+  ],
+  "forms": [
+    "chat_referral_forms"
+  ],
+  "other": {
+    "": "2081"
+  }
+}

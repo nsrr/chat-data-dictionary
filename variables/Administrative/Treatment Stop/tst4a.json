@@ -6,5 +6,8 @@
   "domain": "crossover",
   "forms": [
     "chat_treatment_stop_forms"
-  ]
+  ],
+  "other": {
+    "": "1908"
+  }
 }

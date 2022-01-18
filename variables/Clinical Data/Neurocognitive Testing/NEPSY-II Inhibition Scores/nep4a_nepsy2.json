@@ -1,0 +1,17 @@
+{
+  "id": "nep4a_nepsy2",
+  "display_name": "Switching total errors percentile rank",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "calculation": "chat_nepsy2_forms",
+  "labels": [
+    "nepsyii"
+  ],
+  "forms": [
+    "chat_nepsy2_forms"
+  ],
+  "other": {
+    "": "2954"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "chhdlr",
+  "display_name": "Total cholesterol to high-density lipoprotein (HDL) ratio",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chol / hdl_mg_dl",
+  "other": {
+    "": "1961"
+  }
+}

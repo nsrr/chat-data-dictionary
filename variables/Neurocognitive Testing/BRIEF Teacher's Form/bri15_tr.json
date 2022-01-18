@@ -1,9 +1,0 @@
-{
-  "id": "bri15_tr",
-  "display_name": "What is the negativity score?",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief__tr_forms"
-  ]
-}

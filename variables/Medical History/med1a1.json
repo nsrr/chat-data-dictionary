@@ -3,5 +3,8 @@
   "display_name": "Ever had acute life threatening episode (ALTE)?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2562"
+  }
 }

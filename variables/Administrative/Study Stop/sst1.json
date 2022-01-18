@@ -6,5 +6,8 @@
   "domain": "noyes",
   "forms": [
     "chat_stop_forms"
-  ]
+  ],
+  "other": {
+    "": "1900"
+  }
 }

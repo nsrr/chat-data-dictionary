@@ -1,0 +1,9 @@
+{
+  "id": "insulin_status",
+  "display_name": "Insulin alert status",
+  "description": "",
+  "type": "string",
+  "other": {
+    "": "1975"
+  }
+}

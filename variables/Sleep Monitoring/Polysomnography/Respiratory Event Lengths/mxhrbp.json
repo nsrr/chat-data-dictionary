@@ -1,0 +1,13 @@
+{
+  "id": "mxhrbp",
+  "display_name": "Maximum duration of hypopnea in REM sleep in supine position: Hypopneas with > 50% flow reduction and with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Longest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_srpb_hp5x0u_f1t1"
+  ],
+  "other": {
+    "": "1530"
+  }
+}

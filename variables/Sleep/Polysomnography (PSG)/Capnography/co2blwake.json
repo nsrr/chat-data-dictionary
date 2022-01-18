@@ -1,7 +1,0 @@
-{
-  "id": "co2blwake",
-  "display_name": "Baseline end-tidal carbon dioxide (ETCO2) awake",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)"
-}

@@ -1,0 +1,13 @@
+{
+  "id": "hnrba",
+  "display_name": "Total number of hypopnea in NREM sleep in supine position : hypopneas with > 50% flow reduction and with no oxygen desaturation threshold used and with arousal only from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumhp_snpb_hp5x0o_f1t1"
+  ],
+  "other": {
+    "": "1250"
+  }
+}

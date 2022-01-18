@@ -1,0 +1,13 @@
+{
+  "id": "pe12",
+  "display_name": "Pulse of the participant",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2510"
+  }
+}

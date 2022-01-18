@@ -1,0 +1,16 @@
+{
+  "id": "cbc10c",
+  "display_name": "Social problems percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2754"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "timebedp",
+  "display_name": "Total period of bed (in-bed) from type I polysomnography",
+  "description": "Time from lights out to lights on",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttlprdbd_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "906"
+  }
+}

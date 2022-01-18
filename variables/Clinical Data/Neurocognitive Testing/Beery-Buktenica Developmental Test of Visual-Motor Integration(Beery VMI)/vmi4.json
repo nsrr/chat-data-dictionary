@@ -1,0 +1,12 @@
+{
+  "id": "vmi4",
+  "display_name": "Raw Score",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "chat_beery_forms"
+  ],
+  "other": {
+    "": "2748"
+  }
+}

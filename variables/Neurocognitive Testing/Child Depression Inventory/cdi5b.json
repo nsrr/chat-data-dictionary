@@ -1,9 +1,0 @@
-{
-  "id": "cdi5b",
-  "display_name": "Scale A negative mood T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cdep_forms"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "preop3",
+  "display_name": "Is the child a candidate for Adenotonsillectomy?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "surgery"
+  ],
+  "other": {
+    "": "3181"
+  }
+}

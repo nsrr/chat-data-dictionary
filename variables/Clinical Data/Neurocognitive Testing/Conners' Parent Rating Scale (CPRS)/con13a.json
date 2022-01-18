@@ -1,0 +1,15 @@
+{
+  "id": "con13a",
+  "display_name": "DSM-IV Inattentive Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2839"
+  }
+}

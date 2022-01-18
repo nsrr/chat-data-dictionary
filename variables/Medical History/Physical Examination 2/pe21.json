@@ -1,7 +1,0 @@
-{
-  "id": "pe21",
-  "display_name": "Temperature of the participant",
-  "description": "",
-  "type": "numeric",
-  "units": "celsius (C)"
-}

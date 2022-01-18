@@ -1,0 +1,17 @@
+{
+  "id": "chq3c",
+  "display_name": "Pediatric Quality of Life Inventory: Other kids tease me",
+  "description": "Item from Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/)<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "choices",
+  "domain": "neveroralways2",
+  "labels": [
+    "pedsql",
+    "pedsql_16tease"
+  ],
+  "forms": [
+    "chat_face_forms"
+  ],
+  "other": {
+    "": "1730"
+  }
+}

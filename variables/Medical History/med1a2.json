@@ -3,5 +3,8 @@
   "display_name": "Diagnosed or treated by a physician for acute life threatening episode (ALTE)?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2563"
+  }
 }

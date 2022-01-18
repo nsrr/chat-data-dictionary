@@ -1,0 +1,16 @@
+{
+  "id": "nodb4slp",
+  "display_name": "Number of snore during sleep (decibel (dB) level 4)",
+  "description": "",
+  "type": "integer",
+  "units": "snores",
+  "labels": [
+    "nrem",
+    "non-rapid eye movement",
+    "rem",
+    "rapid eye movement sleep"
+  ],
+  "other": {
+    "": "1551"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c4dur",
+  "display_name": "Hours of usable C4",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1222"
+  }
+}

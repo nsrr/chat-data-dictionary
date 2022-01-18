@@ -1,0 +1,16 @@
+{
+  "id": "das8h",
+  "display_name": "Verbal similarities percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2940"
+  }
+}

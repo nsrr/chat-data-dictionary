@@ -1,0 +1,15 @@
+{
+  "id": "con17a",
+  "display_name": "Hyperactive-Impulsive Symptoms Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2846"
+  }
+}

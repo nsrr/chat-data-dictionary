@@ -1,7 +1,0 @@
-{
-  "id": "apavgdur",
-  "display_name": "Average apnea length",
-  "description": "duration (entire recording)",
-  "type": "numeric",
-  "units": "seconds (s)"
-}

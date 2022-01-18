@@ -1,9 +1,0 @@
-{
-  "id": "bri6a",
-  "display_name": "BRI raw score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief_forms"
-  ]
-}

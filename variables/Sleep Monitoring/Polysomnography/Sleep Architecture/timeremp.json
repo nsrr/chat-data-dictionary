@@ -1,0 +1,16 @@
+{
+  "id": "timeremp",
+  "display_name": "Percentage of REM sleep among total sleep duration from type I polysomnography",
+  "description": "Conventionally, total sleep duration would be called total sleep time (TST).<br><br>Percent of sleep time in rapid eye movement sleep (REM)  [100*(number of minutes scored as rapid eye movement sleep (REM)) / (Total Sleep Time (TST))] * 100",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "tmremp",
+  "labels": [
+    "tmremp",
+    "pctdursp_sr_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "911"
+  }
+}

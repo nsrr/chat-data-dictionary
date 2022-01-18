@@ -1,0 +1,13 @@
+{
+  "id": "otdur",
+  "display_name": "Total duration of obstructive apnea from type I polysomnography",
+  "description": "duration (entire recording)",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "ttlduroa_sc_f1t1"
+  ],
+  "other": {
+    "": "701"
+  }
+}

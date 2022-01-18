@@ -1,9 +1,0 @@
-{
-  "id": "con15b_tr",
-  "display_name": "DSM-IV Hyperactive-Impulsive T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_tr_forms"
-  ]
-}

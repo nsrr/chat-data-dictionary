@@ -1,0 +1,13 @@
+{
+  "id": "taa_total",
+  "display_name": "Average thoraco-abdominal asynchrony during scored-event-free sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "natural logarithm degrees",
+  "labels": [
+    "paradoxical"
+  ],
+  "other": {
+    "": "1695"
+  }
+}

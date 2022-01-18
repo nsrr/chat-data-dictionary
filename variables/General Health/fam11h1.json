@@ -1,0 +1,16 @@
+{
+  "id": "fam11h1",
+  "display_name": "Did your child experience shortness of breath?",
+  "description": "Defined as occurring during mild exercise such as walking on level ground or up a slight hill.",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2094"
+  }
+}

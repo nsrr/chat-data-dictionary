@@ -1,0 +1,14 @@
+{
+  "id": "qucap",
+  "display_name": "Quality of cap",
+  "description": "usable mainly artifact free signal",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "commonly_used": true,
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1598"
+  }
+}

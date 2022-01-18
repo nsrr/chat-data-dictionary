@@ -4,9 +4,13 @@
   "description": "",
   "type": "numeric",
   "labels": [
-    "sibling"
+    "sibling",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2162"
+  }
 }

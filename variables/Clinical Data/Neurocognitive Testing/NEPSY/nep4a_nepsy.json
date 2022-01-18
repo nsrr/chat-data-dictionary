@@ -1,0 +1,16 @@
+{
+  "id": "nep4a_nepsy",
+  "display_name": "Tower: Raw Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2976"
+  }
+}

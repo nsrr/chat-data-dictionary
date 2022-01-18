@@ -1,0 +1,13 @@
+{
+  "id": "pe117a5",
+  "display_name": "Dust allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "dust",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2504"
+  }
+}

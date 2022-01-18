@@ -1,9 +1,0 @@
-{
-  "id": "cbc19a",
-  "display_name": "Anxiety problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

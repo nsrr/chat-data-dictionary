@@ -1,0 +1,16 @@
+{
+  "id": "fam12",
+  "display_name": "Any wheezy or whistling chest sounds during colds?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2098"
+  }
+}

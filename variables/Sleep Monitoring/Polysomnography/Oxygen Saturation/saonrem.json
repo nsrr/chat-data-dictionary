@@ -1,0 +1,13 @@
+{
+  "id": "saonrem",
+  "display_name": "Average oxygen saturation in NREM sleep from type I polysomnography",
+  "description": "Mean oxygen saturation (SaO2) during non-rapid eye movement sleep (NREM)",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_sn_f1t1"
+  ],
+  "other": {
+    "": "863"
+  }
+}

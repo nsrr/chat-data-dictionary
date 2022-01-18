@@ -1,0 +1,16 @@
+{
+  "id": "slh8e_h",
+  "display_name": "Swimming: Hours per day",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3148"
+  }
+}

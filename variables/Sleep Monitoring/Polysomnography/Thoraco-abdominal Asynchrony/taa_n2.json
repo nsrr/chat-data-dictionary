@@ -1,0 +1,14 @@
+{
+  "id": "taa_n2",
+  "display_name": "Average thoraco-abdominal asynchrony during scored-event-free non-rapid eye movement sleep (NREM) Stage 2 ",
+  "description": "",
+  "type": "numeric",
+  "units": "natural logarithm degrees",
+  "labels": [
+    "paradoxical",
+    "non-rem"
+  ],
+  "other": {
+    "": "1686"
+  }
+}

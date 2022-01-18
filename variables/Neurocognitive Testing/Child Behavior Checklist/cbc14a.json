@@ -1,9 +1,0 @@
-{
-  "id": "cbc14a",
-  "display_name": "Aggressive behavior total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

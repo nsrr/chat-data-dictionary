@@ -1,0 +1,17 @@
+{
+  "id": "chestdur",
+  "display_name": "Hours of usable chest effort",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "thoracic",
+    "respiratory belt"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "271"
+  }
+}

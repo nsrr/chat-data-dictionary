@@ -1,0 +1,13 @@
+{
+  "id": "recbeaw",
+  "display_name": "Data lost - recording ended before waking",
+  "description": "1=data Lost - recording ended before wake",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1619"
+  }
+}

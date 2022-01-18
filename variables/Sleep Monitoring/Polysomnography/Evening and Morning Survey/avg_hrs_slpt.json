@@ -1,0 +1,16 @@
+{
+  "id": "avg_hrs_slpt",
+  "display_name": "Average hours sleep regardless of day",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "diary"
+  ],
+  "forms": [
+    "chat_journal_forms"
+  ],
+  "other": {
+    "": "1135"
+  }
+}

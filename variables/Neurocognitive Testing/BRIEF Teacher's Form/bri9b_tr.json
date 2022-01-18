@@ -1,9 +1,0 @@
-{
-  "id": "bri9b_tr",
-  "display_name": "Working memory T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief__tr_forms"
-  ]
-}

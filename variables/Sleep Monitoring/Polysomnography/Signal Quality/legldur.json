@@ -1,0 +1,13 @@
+{
+  "id": "legldur",
+  "display_name": "Hours of usable legL",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1291"
+  }
+}

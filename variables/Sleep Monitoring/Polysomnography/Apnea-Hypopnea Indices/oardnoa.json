@@ -1,0 +1,13 @@
+{
+  "id": "oardnoa",
+  "display_name": "Obstructive Apnea Index (NREM, Non-Supine): (Obstructive apneas with no oxygen desaturation threshold used only with arousal) / hour of NREM sleep in non-supine position from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ttlnumma_srpo_ma0o_f1t1"
+  ],
+  "other": {
+    "": "992"
+  }
+}

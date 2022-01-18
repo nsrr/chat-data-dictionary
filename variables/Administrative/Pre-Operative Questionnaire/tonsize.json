@@ -1,0 +1,10 @@
+{
+  "id": "tonsize",
+  "display_name": "Tonsilar Size",
+  "description": "",
+  "type": "choices",
+  "domain": "tonsilarsize",
+  "other": {
+    "": "3183"
+  }
+}

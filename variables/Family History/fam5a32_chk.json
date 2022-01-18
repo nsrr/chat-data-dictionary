@@ -6,9 +6,13 @@
   "domain": "checked",
   "labels": [
     "stepbrother",
-    "stepsibling"
+    "stepsibling",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2127"
+  }
 }

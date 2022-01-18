@@ -3,5 +3,8 @@
   "display_name": "Ever had other significant medical conditions?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2633"
+  }
 }

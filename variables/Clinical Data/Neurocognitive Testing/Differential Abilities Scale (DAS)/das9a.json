@@ -1,0 +1,15 @@
+{
+  "id": "das9a",
+  "display_name": "Sequential & Quantitative Reasoning Ability Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2941"
+  }
+}

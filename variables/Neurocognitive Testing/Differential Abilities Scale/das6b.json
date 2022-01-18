@@ -1,9 +1,0 @@
-{
-  "id": "das6b",
-  "display_name": "Pattern Construction T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_das2_forms"
-  ]
-}

@@ -1,0 +1,16 @@
+{
+  "id": "cbc13c",
+  "display_name": "Rule-Breaking behavior percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2763"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pe117a98",
+  "display_name": "Other allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "other",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2509"
+  }
+}

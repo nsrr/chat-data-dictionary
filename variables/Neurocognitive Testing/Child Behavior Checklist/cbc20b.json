@@ -1,9 +1,0 @@
-{
-  "id": "cbc20b",
-  "display_name": "Somatic problems T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

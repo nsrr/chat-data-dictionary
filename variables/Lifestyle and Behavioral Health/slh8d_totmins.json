@@ -1,0 +1,16 @@
+{
+  "id": "slh8d_totmins",
+  "display_name": "Total minutes sports involving running or jumping",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3146"
+  }
+}

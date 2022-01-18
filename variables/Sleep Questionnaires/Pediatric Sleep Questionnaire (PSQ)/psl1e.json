@@ -1,0 +1,14 @@
+{
+  "id": "psl1e",
+  "display_name": "Pediatric Sleep Questionnaire: Have trouble breathing, or struggle to breathe",
+  "description": "Item from Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=psq)",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "psq",
+    "psq_05breathe"
+  ],
+  "other": {
+    "": "1859"
+  }
+}

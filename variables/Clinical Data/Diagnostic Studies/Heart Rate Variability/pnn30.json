@@ -1,0 +1,9 @@
+{
+  "id": "pnn30",
+  "display_name": "Percentage of differences between adjacent  normal sinus to normal sinus interbeat (NN) intervals that are >30 ms",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "": "2459"
+  }
+}

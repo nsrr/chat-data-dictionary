@@ -1,0 +1,16 @@
+{
+  "id": "fam11h2",
+  "display_name": "If yes, please answer the following:",
+  "description": "",
+  "type": "choices",
+  "domain": "ifyes",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2095"
+  }
+}

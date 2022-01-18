@@ -1,0 +1,10 @@
+{
+  "id": "tot_pwr",
+  "display_name": "Total normal sinus to normal sinus interbeat (NN) interval spectral power up to 0.4 Hz",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds squared (s2)",
+  "other": {
+    "": "2477"
+  }
+}

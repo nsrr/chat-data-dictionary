@@ -7,9 +7,13 @@
   "labels": [
     "sibling",
     "allergic rhinitis",
-    "stepbrother"
+    "stepbrother",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2244"
+  }
 }

@@ -3,5 +3,8 @@
   "display_name": "Child has dog allergy",
   "description": "",
   "type": "choices",
-  "domain": "dogs"
+  "domain": "dogs",
+  "other": {
+    "": "2645"
+  }
 }

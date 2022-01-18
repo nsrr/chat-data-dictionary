@@ -1,0 +1,13 @@
+{
+  "id": "roche_insulin_status",
+  "display_name": "Roche insulin alert status",
+  "description": "",
+  "type": "string",
+  "labels": [
+    "diabetes",
+    "metabolic syndrome"
+  ],
+  "other": {
+    "": "1982"
+  }
+}

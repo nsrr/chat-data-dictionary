@@ -1,0 +1,13 @@
+{
+  "id": "co2avgnr",
+  "display_name": "Average end-tidal carbon dioxide (ETCO2) in non-rapid eye movement sleep (NREM)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem"
+  ],
+  "other": {
+    "": "287"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pe216",
+  "display_name": "New/Alternative medical treatments?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2547"
+  }
+}

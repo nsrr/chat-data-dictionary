@@ -1,7 +1,0 @@
-{
-  "id": "avmarop2",
-  "display_name": "Average mixed apnea length (Rapid eye movement sleep (REM), Non-supine, >=2% desaturation)",
-  "description": "duration",
-  "type": "numeric",
-  "units": "seconds (s)"
-}

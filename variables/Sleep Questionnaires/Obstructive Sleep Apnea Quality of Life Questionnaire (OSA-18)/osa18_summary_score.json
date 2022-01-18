@@ -1,0 +1,13 @@
+{
+  "id": "osa18_summary_score",
+  "display_name": "OSA-18 Quality of Life: Summary score (average)",
+  "description": "Average score for the Obstructive Sleep Apnea-18 Quality of Life Questionnaire. [Franco RA et al., 2000 (PubMed ID: 10889473)](https://pubmed.ncbi.nlm.nih.gov/10889473/)<br><br>[Search for all OSA-18 variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=osa18)",
+  "type": "numeric",
+  "labels": [
+    "osa18",
+    "osa18_avgscore"
+  ],
+  "other": {
+    "": "1751"
+  }
+}

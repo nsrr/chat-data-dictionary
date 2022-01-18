@@ -1,0 +1,13 @@
+{
+  "id": "m1dur",
+  "display_name": "Hours of usable M1",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1339"
+  }
+}

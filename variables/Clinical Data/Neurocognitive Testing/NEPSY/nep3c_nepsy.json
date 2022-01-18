@@ -1,0 +1,16 @@
+{
+  "id": "nep3c_nepsy",
+  "display_name": "Phonological Processing: Language Scaled Scores",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2975"
+  }
+}

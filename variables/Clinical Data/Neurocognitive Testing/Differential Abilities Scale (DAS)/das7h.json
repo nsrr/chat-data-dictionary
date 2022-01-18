@@ -1,0 +1,16 @@
+{
+  "id": "das7h",
+  "display_name": "Matrices percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2935"
+  }
+}

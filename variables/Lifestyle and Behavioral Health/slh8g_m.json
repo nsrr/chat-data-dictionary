@@ -1,0 +1,16 @@
+{
+  "id": "slh8g_m",
+  "display_name": "In gym class or physical education (PE), being active: Minutes per day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3157"
+  }
+}

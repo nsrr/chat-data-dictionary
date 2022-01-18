@@ -1,0 +1,17 @@
+{
+  "id": "slh3_ba",
+  "display_name": "How old was your child when they first started snoring?",
+  "description": "",
+  "type": "choices",
+  "domain": "startsnoring",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3082"
+  }
+}

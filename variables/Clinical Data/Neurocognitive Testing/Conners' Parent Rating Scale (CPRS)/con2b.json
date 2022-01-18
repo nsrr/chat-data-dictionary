@@ -1,0 +1,15 @@
+{
+  "id": "con2b",
+  "display_name": "Oppositional T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2848"
+  }
+}

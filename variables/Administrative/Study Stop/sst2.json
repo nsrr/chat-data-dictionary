@@ -9,5 +9,8 @@
   ],
   "forms": [
     "chat_stop_forms"
-  ]
+  ],
+  "other": {
+    "": "1901"
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "pe117a1",
+  "display_name": "Molds allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "molds",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2500"
+  }
+}

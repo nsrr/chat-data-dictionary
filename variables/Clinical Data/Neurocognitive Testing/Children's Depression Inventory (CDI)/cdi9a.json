@@ -1,0 +1,15 @@
+{
+  "id": "cdi9a",
+  "display_name": "Scale E negative self-esteem total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cdi"
+  ],
+  "forms": [
+    "chat_cdep_forms"
+  ],
+  "other": {
+    "": "2830"
+  }
+}

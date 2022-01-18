@@ -5,11 +5,13 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "sibling",
-    "tired",
-    "sleepy"
+    "",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2229"
+  }
 }

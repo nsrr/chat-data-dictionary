@@ -1,0 +1,16 @@
+{
+  "id": "cbc1",
+  "display_name": "Was the checklist completed?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2751"
+  }
+}

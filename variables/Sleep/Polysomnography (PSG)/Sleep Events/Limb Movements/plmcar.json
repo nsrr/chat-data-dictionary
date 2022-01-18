@@ -1,7 +1,0 @@
-{
-  "id": "plmcar",
-  "display_name": "Number of Periodic limb movement (PLM) clusters with arousal and respiratory event",
-  "description": "Total",
-  "type": "numeric",
-  "units": "limb movements"
-}

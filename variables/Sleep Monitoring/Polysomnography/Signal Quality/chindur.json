@@ -1,0 +1,13 @@
+{
+  "id": "chindur",
+  "display_name": "Hours of usable chin",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1228"
+  }
+}

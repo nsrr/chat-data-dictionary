@@ -1,0 +1,15 @@
+{
+  "id": "cbc11b",
+  "display_name": "Thought problems T score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2756"
+  }
+}

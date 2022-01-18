@@ -1,7 +1,0 @@
-{
-  "id": "caroa",
-  "display_name": "Number of central apnea with arousals (Rapid eye movement sleep (REM), Non-supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events"
-}

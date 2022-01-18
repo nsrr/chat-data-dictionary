@@ -1,0 +1,13 @@
+{
+  "id": "avoanoa",
+  "display_name": "Average duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgduroa_snpo_oa0o_f1t1"
+  ],
+  "other": {
+    "": "146"
+  }
+}

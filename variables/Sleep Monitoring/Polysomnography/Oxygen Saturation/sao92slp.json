@@ -1,0 +1,13 @@
+{
+  "id": "sao92slp",
+  "display_name": "Total duration of sleep with oxygen saturation > 92% from type I polysomnography",
+  "description": "Total time oxygen saturation (SaO2) > 92 in sleep",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_su_sagt92_f1t1"
+  ],
+  "other": {
+    "": "858"
+  }
+}

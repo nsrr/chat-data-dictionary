@@ -1,0 +1,13 @@
+{
+  "id": "pe13",
+  "display_name": "Respiratory rate of the participant",
+  "description": "",
+  "type": "numeric",
+  "units": "breaths per minute",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2511"
+  }
+}

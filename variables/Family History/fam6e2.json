@@ -5,9 +5,13 @@
   "type": "choices",
   "domain": "noyes",
   "labels": [
-    "mom"
+    "mom",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2349"
+  }
 }

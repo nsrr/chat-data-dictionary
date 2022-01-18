@@ -1,0 +1,15 @@
+{
+  "id": "cbc3b",
+  "display_name": "Activites T score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2796"
+  }
+}

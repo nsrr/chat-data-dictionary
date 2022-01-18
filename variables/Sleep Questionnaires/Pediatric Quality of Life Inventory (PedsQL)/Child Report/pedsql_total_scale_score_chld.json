@@ -1,0 +1,13 @@
+{
+  "id": "pedsql_total_scale_score_chld",
+  "display_name": "Pediatric Quality of Life Inventory: Child Total Score",
+  "description": "Summary score for the Pediatric Quality of Life Inventory. [Varni, Seid, and Rode 1999 (PubMed ID: 10024117)](https://www.ncbi.nlm.nih.gov/pubmed/10024117/) Each item is reverse transformed from 1-4 likert scale to 100-0 score. Higher scores indicate better HRQOL (Health-Related Quality of Life). The summary score is the mean is computed as the sum of all the items over the number of items answered on all the Scales.<br><br> [Search for all PedsQL variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=pedsql)",
+  "type": "numeric",
+  "labels": [
+    "pedsql",
+    "pedsql_total"
+  ],
+  "other": {
+    "": "1847"
+  }
+}

@@ -8,12 +8,15 @@
     "diuretic",
     "beta-blocker",
     "ace inhibitors",
-    "angiotensin II receptor blockers",
+    "angiotensin ii receptor blockers",
     "calcium channel blockers",
     "alpha blockers",
     "alpha-2 receptor agonists",
     "central agonists",
     "peripheral adrenergic inhibitors",
     "vasodilators"
-  ]
+  ],
+  "other": {
+    "": "2611"
+  }
 }

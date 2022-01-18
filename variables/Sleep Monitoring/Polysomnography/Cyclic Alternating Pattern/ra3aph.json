@@ -1,0 +1,12 @@
+{
+  "id": "ra3aph",
+  "display_name": "Total number of A3-phases/total number of A-phases",
+  "description": "Variable created as part of  [Hartmann et al. 2021 (PMID: 32777055)](https://pubmed.ncbi.nlm.nih.gov/32777055/).",
+  "type": "numeric",
+  "labels": [
+    "non-rem"
+  ],
+  "other": {
+    "": "812"
+  }
+}

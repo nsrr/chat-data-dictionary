@@ -1,0 +1,15 @@
+{
+  "id": "das11e",
+  "display_name": "Standard Score Spatial",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2902"
+  }
+}

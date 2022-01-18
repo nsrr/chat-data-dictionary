@@ -1,0 +1,15 @@
+{
+  "id": "omai0p",
+  "display_name": "Childhood Adenotonsillectomy Trial (CHAT) Obstructive and Mixed Apnea Index (AHI): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ mixed apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type I polysomnography",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. ",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60*(oarbp +  oarop  + oanbp  + oanop + marbp + marop + manrbp + manrop) / slpprdp",
+  "labels": [
+    "omai_pb_oa0uma0u_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1003"
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "hmarbpa5",
-  "display_name": "Number of mixed apnea with >=5% desaturation or arousal per hour (Rapid eye movement sleep (REM), Supine)",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}

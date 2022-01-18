@@ -1,0 +1,12 @@
+{
+  "id": "fpp",
+  "display_name": "Freidman palate position",
+  "description": "Original source: MS 003",
+  "type": "numeric",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2480"
+  }
+}

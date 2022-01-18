@@ -3,5 +3,8 @@
   "display_name": "Ever had cancer?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2578"
+  }
 }

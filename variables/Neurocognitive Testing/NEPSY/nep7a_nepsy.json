@@ -1,9 +1,0 @@
-{
-  "id": "nep7a_nepsy",
-  "display_name": "Visual Attention: Raw Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_nepsy_forms"
-  ]
-}

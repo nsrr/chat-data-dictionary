@@ -1,0 +1,17 @@
+{
+  "id": "slh3_fu",
+  "display_name": "Do you watch your child while they are asleep because you are afraid about their breathing?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesage",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sdb"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3084"
+  }
+}

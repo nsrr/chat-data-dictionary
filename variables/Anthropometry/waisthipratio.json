@@ -3,5 +3,8 @@
   "display_name": "Waist-hip ratio",
   "description": "",
   "type": "numeric",
-  "units": "centimeters (cm)"
+  "units": "centimeters (cm)",
+  "other": {
+    "": "1958"
+  }
 }

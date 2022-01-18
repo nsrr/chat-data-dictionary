@@ -1,0 +1,13 @@
+{
+  "id": "avdrop5",
+  "display_name": "Average oxygen desaturation for all respiratory events with >= 5% desat and with or without arousal in REM sleep in non-supine position: Apneas with >= 5% oxygen desaturation and with or without arousal + hypopneas with > 50% flow reduction and >= 5% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_srpo_ap5uhp5x5u_f1t1"
+  ],
+  "other": {
+    "": "1132"
+  }
+}

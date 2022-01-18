@@ -1,9 +1,0 @@
-{
-  "id": "cbc7b",
-  "display_name": "Anxious/Depressed T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "pos7",
+  "display_name": "Are there any other major health concerns?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_postop1_forms"
+  ],
+  "other": {
+    "": "3177"
+  }
+}

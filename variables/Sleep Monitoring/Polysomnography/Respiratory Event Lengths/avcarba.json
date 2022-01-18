@@ -1,0 +1,13 @@
+{
+  "id": "avcarba",
+  "display_name": "Average duration of central apnea in REM sleep in supine position: Central apneas with no oxygen desaturation threshold used only with arousal from type I polysomnography",
+  "description": "duration",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_srpb_ca0o_f1t1"
+  ],
+  "other": {
+    "": "86"
+  }
+}

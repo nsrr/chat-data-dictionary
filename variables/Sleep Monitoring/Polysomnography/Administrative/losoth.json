@@ -1,0 +1,13 @@
+{
+  "id": "losoth",
+  "display_name": "Data lost - other",
+  "description": "1=data lost - other",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1338"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cbc22a",
+  "display_name": "Oppositional defiant problems total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2789"
+  }
+}

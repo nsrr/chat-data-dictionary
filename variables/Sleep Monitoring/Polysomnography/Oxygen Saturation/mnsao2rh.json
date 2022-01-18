@@ -1,0 +1,16 @@
+{
+  "id": "mnsao2rh",
+  "display_name": "Minimum oxygen saturation in REM sleep from type I polysomnography",
+  "description": "The minimum of all oxygen saturation values in epochs scored as stage REM.",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "losao2r",
+    "lowsaor",
+    "minlvlsa_sr_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "486"
+  }
+}

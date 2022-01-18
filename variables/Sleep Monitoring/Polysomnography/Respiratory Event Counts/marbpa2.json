@@ -1,0 +1,13 @@
+{
+  "id": "marbpa2",
+  "display_name": "Total number of mixed apnea in REM sleep in supine position: Mixed apneas with >= 2% oxygen desaturation or with arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "ttlnumma_srpb_ma2r_f1t1"
+  ],
+  "other": {
+    "": "1367"
+  }
+}

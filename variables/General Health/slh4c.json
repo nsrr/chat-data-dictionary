@@ -1,0 +1,16 @@
+{
+  "id": "slh4c",
+  "display_name": "Difficulty swallowing?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3092"
+  }
+}

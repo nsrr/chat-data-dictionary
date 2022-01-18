@@ -1,0 +1,13 @@
+{
+  "id": "htdur",
+  "display_name": "Total duration of hypopnea from type I polysomnography",
+  "description": "duration (entire recording)",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurhp_sc_f1t1"
+  ],
+  "other": {
+    "": "333"
+  }
+}

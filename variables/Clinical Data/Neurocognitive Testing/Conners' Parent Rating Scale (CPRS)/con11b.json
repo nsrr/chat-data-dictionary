@@ -1,0 +1,15 @@
+{
+  "id": "con11b",
+  "display_name": "Conners' GI Emotional Liability T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2836"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "taa_n2_st",
+  "display_name": "Amount of non-rapid eye movement sleep (NREM) Stage 2 included in the total thoraco-abdominal asynchrony analysis",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "paradoxical",
+    "non-rem"
+  ],
+  "other": {
+    "": "1688"
+  }
+}

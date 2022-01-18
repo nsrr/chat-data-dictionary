@@ -1,0 +1,10 @@
+{
+  "id": "fasting",
+  "display_name": "Were the blood test drawing while the patient was fasting?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "other": {
+    "": "1969"
+  }
+}

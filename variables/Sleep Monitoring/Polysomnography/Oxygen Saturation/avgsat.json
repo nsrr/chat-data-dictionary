@@ -1,0 +1,14 @@
+{
+  "id": "avgsat",
+  "display_name": "Average oxygen saturation in sleep from type I polysomnography",
+  "description": "[Mean(all oxygen saturation (SaO2) values in sleep)]",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh_holder)*(tmremp))/100;",
+  "labels": [
+    "avglvlsa_su_f1t1"
+  ],
+  "other": {
+    "": "135"
+  }
+}

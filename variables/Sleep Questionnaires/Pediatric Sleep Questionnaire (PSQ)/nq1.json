@@ -1,0 +1,12 @@
+{
+  "id": "nq1",
+  "display_name": "PSQ total number of questions missing algorithm: nQ1=5-nmiss(of psl1a, psl1b, psl1c, psl1d, psl1e)",
+  "description": "Pediatric Sleep Questionnaire. [Chervin et al, 2000 (PubMed ID: 10733617)](https://www.ncbi.nlm.nih.gov/pubmed/10733617)<br><br> [Search for all PSQ variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=psq)",
+  "type": "numeric",
+  "labels": [
+    "psq"
+  ],
+  "other": {
+    "": "3047"
+  }
+}

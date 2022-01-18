@@ -1,8 +1,0 @@
-{
-  "id": "oavgdur",
-  "display_name": "Average obstructive apnea length",
-  "description": "duration (entire recording)",
-  "type": "numeric",
-  "units": "seconds (s)",
-  "commonly_used": true
-}

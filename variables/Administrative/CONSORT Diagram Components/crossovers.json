@@ -6,5 +6,8 @@
   "domain": "noyes",
   "forms": [
     "chat_consorts"
-  ]
+  ],
+  "other": {
+    "": "1882"
+  }
 }

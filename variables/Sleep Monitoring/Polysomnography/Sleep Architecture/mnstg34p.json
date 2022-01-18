@@ -1,0 +1,13 @@
+{
+  "id": "mnstg34p",
+  "display_name": "Total duration of sleep in stage 3/4 sleep from type I polysomnography",
+  "description": "Total time scored as stage 3/4, rounded to nearest minute (use calculated variable - sleep wake studies screened out)",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_s3_f1t1"
+  ],
+  "other": {
+    "": "489"
+  }
+}

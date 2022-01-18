@@ -1,0 +1,13 @@
+{
+  "id": "qsoai",
+  "display_name": "Obstructive apnea index (OAI)",
+  "description": "Recorded by the scorer on QS form",
+  "type": "numeric",
+  "units": "events",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1593"
+  }
+}

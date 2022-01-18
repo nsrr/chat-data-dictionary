@@ -1,0 +1,14 @@
+{
+  "id": "avsao2rh",
+  "display_name": "Average oxygen saturation in REM sleep from type I polysomnography",
+  "description": "The mean of all oxygen saturation values in epochs scored as stage REM.",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlsa_sr_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "179"
+  }
+}

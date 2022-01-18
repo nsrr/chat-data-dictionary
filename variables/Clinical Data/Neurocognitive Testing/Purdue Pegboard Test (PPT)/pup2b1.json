@@ -1,0 +1,17 @@
+{
+  "id": "pup2b1",
+  "display_name": "Non-dominant Hand",
+  "description": "",
+  "type": "choices",
+  "domain": "hand",
+  "labels": [
+    "right",
+    "left"
+  ],
+  "forms": [
+    "chat_pegs_forms"
+  ],
+  "other": {
+    "": "3011"
+  }
+}

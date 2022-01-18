@@ -1,0 +1,19 @@
+{
+  "id": "nova_est_co2peak",
+  "display_name": "Peak end-tidal carbon dioxide (ETCO2) asleep (normalized for capnograph type)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "(rco2peak * 0.79956) + 9.17655",
+  "labels": [
+    "non-rem",
+    "nrem",
+    "rem",
+    "non-rapid eye movement sleep",
+    "rapid eye movement sleep"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "595"
+  }
+}

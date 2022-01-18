@@ -1,0 +1,15 @@
+{
+  "id": "con7a",
+  "display_name": "Social Problems Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2857"
+  }
+}

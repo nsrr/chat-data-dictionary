@@ -1,7 +1,0 @@
-{
-  "id": "hmnbroh",
-  "display_name": "Minimum heart rate (Rapid eye movement sleep (REM), Non-supine, >=3% desaturation)",
-  "description": "",
-  "type": "numeric",
-  "units": "beats per minute (bpm)"
-}

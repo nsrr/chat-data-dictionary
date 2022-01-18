@@ -1,9 +1,0 @@
-{
-  "id": "con9b",
-  "display_name": "Conners' Attention Deficit Hyperactivity Disorder(ADHD) Index T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

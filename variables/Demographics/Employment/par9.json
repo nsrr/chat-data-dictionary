@@ -1,0 +1,13 @@
+{
+  "id": "par9",
+  "display_name": "Father's current employment",
+  "description": "",
+  "type": "choices",
+  "domain": "employment",
+  "forms": [
+    "chat_parentinfo_forms"
+  ],
+  "other": {
+    "": "2077"
+  }
+}

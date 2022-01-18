@@ -1,0 +1,16 @@
+{
+  "id": "das5h",
+  "display_name": "Word Definitions Percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2922"
+  }
+}

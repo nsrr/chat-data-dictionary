@@ -1,0 +1,16 @@
+{
+  "id": "cbc7c",
+  "display_name": "Anxious/Depressed percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2809"
+  }
+}

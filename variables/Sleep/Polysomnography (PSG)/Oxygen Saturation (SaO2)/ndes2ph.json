@@ -1,8 +1,0 @@
-{
-  "id": "ndes2ph",
-  "display_name": "Number of desaturations with >=2% desaturation",
-  "description": "",
-  "type": "numeric",
-  "units": "events",
-  "commonly_used": true
-}

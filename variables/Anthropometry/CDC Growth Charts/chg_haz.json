@@ -3,5 +3,8 @@
   "display_name": "Z-score for length-for-age change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean"
+  "units": "standard deviations from the mean",
+  "other": {
+    "": "1919"
+  }
 }

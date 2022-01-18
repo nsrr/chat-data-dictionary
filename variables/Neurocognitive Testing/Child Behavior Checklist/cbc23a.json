@@ -1,9 +1,0 @@
-{
-  "id": "cbc23a",
-  "display_name": "Conduct problems total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

@@ -3,5 +3,8 @@
   "display_name": "Child has dust allergy",
   "description": "",
   "type": "choices",
-  "domain": "dust"
+  "domain": "dust",
+  "other": {
+    "": "2643"
+  }
 }

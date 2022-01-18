@@ -1,0 +1,16 @@
+{
+  "id": "das12d",
+  "display_name": "Percentile Nonverbal Reasoning",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2906"
+  }
+}

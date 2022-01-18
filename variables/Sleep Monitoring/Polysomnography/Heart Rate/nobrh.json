@@ -1,0 +1,10 @@
+{
+  "id": "nobrh",
+  "display_name": "Number of bradycardia related to hypopnea (sleep time onset)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "other": {
+    "": "1548"
+  }
+}

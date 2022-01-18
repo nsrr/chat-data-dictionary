@@ -1,7 +1,0 @@
-{
-  "id": "pedsql_psychosocial_pctmiss_par",
-  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Psychosocial Health Summary pct missing",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)"
-}

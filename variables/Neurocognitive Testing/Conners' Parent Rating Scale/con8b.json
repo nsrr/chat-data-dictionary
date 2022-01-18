@@ -1,9 +1,0 @@
-{
-  "id": "con8b",
-  "display_name": "Psychosomatic T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

@@ -1,0 +1,14 @@
+{
+  "id": "pctsa95h",
+  "display_name": "Percentage duration of sleep with oxygen saturation < 95% from type I polysomnography",
+  "description": "[(total time oxygen saturation (SaO2) is < 95%) / (Total Sleep Time (TST))] * 100",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_salt95_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "712"
+  }
+}

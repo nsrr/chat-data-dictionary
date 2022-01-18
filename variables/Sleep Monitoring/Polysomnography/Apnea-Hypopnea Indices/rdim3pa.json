@@ -1,0 +1,15 @@
+{
+  "id": "rdim3pa",
+  "display_name": "Apnea-Hypopnea Index: (Apneas with >= 3% oxygen desaturation threshold used or with arousal+ hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation used or with arousal) / hour of sleep from type I polysomnography",
+  "description": "[(total number of apneas and hypopneas with >= 3% desaturation or arousal) / (hours of sleep)]",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60*(hremba3 +hroa3 + hnrba3 + hnroa3 +carba3+ caroa3 + canba3 + canoa3 + oarba3 + oaroa3 + oanba3 + oanoa3 + marbpa3 + maropa3 + manrbpa3 + manropa3) / slpprdp",
+  "labels": [
+    "ahi_ap3rhp5x3r_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1015"
+  }
+}

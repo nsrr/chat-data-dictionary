@@ -1,0 +1,16 @@
+{
+  "id": "slh4a",
+  "display_name": "Frequent colds or flu?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_sleep_health_questionnaire"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3090"
+  }
+}

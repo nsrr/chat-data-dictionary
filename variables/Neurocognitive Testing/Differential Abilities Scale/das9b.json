@@ -1,9 +1,0 @@
-{
-  "id": "das9b",
-  "display_name": "Sequential & Quantitative Reasoning T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_das2_forms"
-  ]
-}

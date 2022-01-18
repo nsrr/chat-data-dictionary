@@ -1,9 +1,0 @@
-{
-  "id": "cbc11b",
-  "display_name": "Thought problems T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

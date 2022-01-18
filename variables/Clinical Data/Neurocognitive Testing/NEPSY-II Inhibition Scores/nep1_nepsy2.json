@@ -1,0 +1,17 @@
+{
+  "id": "nep1_nepsy2",
+  "display_name": "Were any sections of the NEPSY-II Inhibition subtest performed?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "calculation": "chat_nepsy2_forms",
+  "labels": [
+    "nepsyii"
+  ],
+  "forms": [
+    "chat_nepsy2_forms"
+  ],
+  "other": {
+    "": "2947"
+  }
+}

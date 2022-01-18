@@ -1,0 +1,15 @@
+{
+  "id": "cbc18a",
+  "display_name": "Affective problems total score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2776"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "id": "con11b",
-  "display_name": "Conners' GI Emotional Liability T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

@@ -1,0 +1,13 @@
+{
+  "id": "fas11f1",
+  "display_name": "Was vial processing done on vial 6?",
+  "description": "Serum, red, 0.5mL",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2000"
+  }
+}

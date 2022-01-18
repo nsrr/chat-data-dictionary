@@ -1,7 +1,0 @@
-{
-  "id": "plmr",
-  "display_name": "Number of Periodic limb movements (PLMs) with respiratory events",
-  "description": "Total",
-  "type": "numeric",
-  "units": "limb movements"
-}

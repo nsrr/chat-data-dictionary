@@ -1,0 +1,13 @@
+{
+  "id": "pe21",
+  "display_name": "Temperature of the participant",
+  "description": "",
+  "type": "numeric",
+  "units": "celsius (C)",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2530"
+  }
+}

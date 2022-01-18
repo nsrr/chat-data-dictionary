@@ -1,0 +1,13 @@
+{
+  "id": "smarop3",
+  "display_name": "Minimum duration of mixed apnea in REM sleep in non-supine position: Mixed apneas with >= 3% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Shortest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurma_srpo_ma3u_f1t1"
+  ],
+  "other": {
+    "": "1667"
+  }
+}

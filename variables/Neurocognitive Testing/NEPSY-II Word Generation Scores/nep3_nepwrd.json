@@ -1,9 +1,0 @@
-{
-  "id": "nep3_nepwrd",
-  "display_name": "Word Generation Semantic Scaled Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_nepsy2_wg_forms"
-  ]
-}

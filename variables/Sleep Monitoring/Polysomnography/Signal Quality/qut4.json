@@ -1,0 +1,16 @@
+{
+  "id": "qut4",
+  "display_name": "Quality of T4",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "eeg"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1615"
+  }
+}

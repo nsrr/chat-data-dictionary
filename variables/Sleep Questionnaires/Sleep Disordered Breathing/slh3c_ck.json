@@ -1,0 +1,17 @@
+{
+  "id": "slh3c_ck",
+  "display_name": "Not sure how long snoring has been this long",
+  "description": "The 'Not Sure' checkbox from variable `slh3c`",
+  "type": "choices",
+  "domain": "notsure",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3088"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "id": "con3b",
-  "display_name": "Cognitive Problems / Inattention T-Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_conners_forms"
-  ]
-}

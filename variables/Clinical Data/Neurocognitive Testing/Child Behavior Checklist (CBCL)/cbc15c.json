@@ -1,0 +1,16 @@
+{
+  "id": "cbc15c",
+  "display_name": "Internalizing problems percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2769"
+  }
+}

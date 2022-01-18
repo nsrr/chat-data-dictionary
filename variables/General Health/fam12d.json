@@ -1,0 +1,16 @@
+{
+  "id": "fam12d",
+  "display_name": "Do wheezy or whistling chest sounds only occur at night?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2102"
+  }
+}

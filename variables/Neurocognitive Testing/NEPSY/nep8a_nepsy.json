@@ -1,9 +1,0 @@
-{
-  "id": "nep8a_nepsy",
-  "display_name": "Comprehension of Instructions: Raw Score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_nepsy_forms"
-  ]
-}

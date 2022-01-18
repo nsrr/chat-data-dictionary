@@ -1,0 +1,13 @@
+{
+  "id": "fas12",
+  "display_name": "Were samples frozen?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2030"
+  }
+}

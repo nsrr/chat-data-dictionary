@@ -1,0 +1,14 @@
+{
+  "id": "roche_insulin",
+  "display_name": "Insulin levels determined by Roche meter",
+  "description": "",
+  "type": "numeric",
+  "units": "international units per milliliter (IU/mL)",
+  "labels": [
+    "diabetes",
+    "metabolic syndrome"
+  ],
+  "other": {
+    "": "1981"
+  }
+}

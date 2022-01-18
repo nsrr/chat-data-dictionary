@@ -1,0 +1,17 @@
+{
+  "id": "fam12a",
+  "display_name": "Any wheezy or whistling chest sounds without colds?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "asthma",
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2099"
+  }
+}

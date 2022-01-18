@@ -4,10 +4,14 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
+  "calculation": "chat_materials_forms",
   "labels": [
     "instructions"
   ],
   "forms": [
     "chat_materials_forms"
-  ]
+  ],
+  "other": {
+    "": "1891"
+  }
 }

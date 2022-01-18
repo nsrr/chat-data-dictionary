@@ -1,7 +1,0 @@
-{
-  "id": "carop2",
-  "display_name": "Number of central apnea (Rapid eye movement sleep (REM), Non-supine, >=2% desaturation)",
-  "description": "",
-  "type": "numeric",
-  "units": "events"
-}

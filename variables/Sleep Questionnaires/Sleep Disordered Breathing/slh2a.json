@@ -1,0 +1,17 @@
+{
+  "id": "slh2a",
+  "display_name": "How often has your child experienced loud snoring during sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "alwaysornever",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3078"
+  }
+}

@@ -4,9 +4,13 @@
   "description": "Also known as crib death or Sudden Infant Death Syndrome (SIDS)",
   "type": "numeric",
   "labels": [
-    "sibling"
+    "sibling",
+    "chat_family_history_questionnaire"
   ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2129"
+  }
 }

@@ -1,9 +1,0 @@
-{
-  "id": "bri8b_tr",
-  "display_name": "Initiate T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief__tr_forms"
-  ]
-}

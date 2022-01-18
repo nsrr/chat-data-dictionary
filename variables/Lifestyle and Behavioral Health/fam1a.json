@@ -1,0 +1,16 @@
+{
+  "id": "fam1a",
+  "display_name": "Does the primary caregiver smoke?",
+  "description": "Smoking is defined as at least 1 cigarette a day",
+  "type": "choices",
+  "domain": "smoking",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2110"
+  }
+}

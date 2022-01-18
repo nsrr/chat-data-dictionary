@@ -1,7 +1,0 @@
-{
-  "id": "hremba",
-  "display_name": "Number of hypopnea with arousals (Rapid eye movement sleep (REM), Supine, all desaturations)",
-  "description": "",
-  "type": "numeric",
-  "units": "events"
-}

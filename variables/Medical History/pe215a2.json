@@ -1,0 +1,13 @@
+{
+  "id": "pe215a2",
+  "display_name": "Tree allergy since last visit",
+  "description": "",
+  "type": "choices",
+  "domain": "trees",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2538"
+  }
+}

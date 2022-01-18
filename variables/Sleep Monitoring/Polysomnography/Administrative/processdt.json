@@ -1,0 +1,13 @@
+{
+  "id": "processdt",
+  "display_name": "Date data were processed",
+  "description": "",
+  "type": "integer",
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1589"
+  }
+}

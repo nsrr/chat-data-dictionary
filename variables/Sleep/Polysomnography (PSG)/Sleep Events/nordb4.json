@@ -1,7 +1,0 @@
-{
-  "id": "nordb4",
-  "display_name": "Number of snore in rapid eye movement sleep (REM) (decibel (dB) level 4)",
-  "description": "",
-  "type": "integer",
-  "units": "snores"
-}

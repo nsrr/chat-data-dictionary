@@ -1,0 +1,16 @@
+{
+  "id": "fam11i1",
+  "display_name": "Been troubled by chest tightness?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2096"
+  }
+}

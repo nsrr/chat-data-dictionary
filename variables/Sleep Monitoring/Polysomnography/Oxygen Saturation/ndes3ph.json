@@ -1,0 +1,14 @@
+{
+  "id": "ndes3ph",
+  "display_name": "Total number of oxygen desaturation with oxygen desaturation >= 3% from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumds_dsge3_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "574"
+  }
+}

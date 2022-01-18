@@ -1,7 +1,0 @@
-{
-  "id": "reviewdt",
-  "display_name": "Date of preliminary review",
-  "description": "",
-  "type": "integer",
-  "units": "seconds from date of randomization"
-}

@@ -3,5 +3,8 @@
   "display_name": "Anxiety disorder still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2568"
+  }
 }

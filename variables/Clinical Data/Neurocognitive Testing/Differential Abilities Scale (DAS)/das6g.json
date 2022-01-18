@@ -1,0 +1,15 @@
+{
+  "id": "das6g",
+  "display_name": "Pattern Construction SNC",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2928"
+  }
+}

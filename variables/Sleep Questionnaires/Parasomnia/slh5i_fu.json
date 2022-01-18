@@ -1,0 +1,17 @@
+{
+  "id": "slh5i_fu",
+  "display_name": "Sleep walking?",
+  "description": "Over the PAST MONTH, has your child had any of the following during sleep? ",
+  "type": "choices",
+  "domain": "alwaysornever",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sleepwalk"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3117"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wra2a",
+  "display_name": "Verbal Learning Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "wraml2"
+  ],
+  "forms": [
+    "chat_wraml2_forms"
+  ],
+  "other": {
+    "": "3015"
+  }
+}

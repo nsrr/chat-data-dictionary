@@ -1,0 +1,9 @@
+{
+  "id": "lgminsat_0",
+  "display_name": "LOG minimum O2 sats (0 replaced with 0.0001)",
+  "description": "Original source: MS 003",
+  "type": "numeric",
+  "other": {
+    "": "1296"
+  }
+}

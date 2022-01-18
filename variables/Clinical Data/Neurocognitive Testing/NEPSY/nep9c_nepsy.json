@@ -1,0 +1,16 @@
+{
+  "id": "nep9c_nepsy",
+  "display_name": "Sum Scale Scores: Language Scaled Scores",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2987"
+  }
+}

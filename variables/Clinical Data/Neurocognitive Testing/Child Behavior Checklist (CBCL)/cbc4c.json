@@ -1,0 +1,16 @@
+{
+  "id": "cbc4c",
+  "display_name": "Social percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2800"
+  }
+}

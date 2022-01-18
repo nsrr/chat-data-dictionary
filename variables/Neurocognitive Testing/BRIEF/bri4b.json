@@ -1,9 +1,0 @@
-{
-  "id": "bri4b",
-  "display_name": "Shift T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_brief_forms"
-  ]
-}

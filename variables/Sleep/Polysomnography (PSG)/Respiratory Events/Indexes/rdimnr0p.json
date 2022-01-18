@@ -1,8 +1,0 @@
-{
-  "id": "rdimnr0p",
-  "display_name": "Overall non-rapid eye movement sleep (NREM) Respiratory Disturbance Index (RDI) at 0% desaturation",
-  "description": "Non-rapid eye movement sleep (NREM) Respiratory Disturbance Index (RDI) at all desaturations  [(total number of apneas and hypopneas in non-rapid eye movement sleep (NREM)) / (hours of non-rapid eye movement sleep (NREM))]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculation": "60*(hnrbp + hnrop + canbp + canop + oanbp + oanop + manrbp + manrop) / (slpprdp - minremp)"
-}

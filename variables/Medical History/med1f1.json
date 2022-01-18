@@ -3,5 +3,8 @@
   "display_name": "Ever had cerebral palsy?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure"
+  "domain": "noyesnotsure",
+  "other": {
+    "": "2582"
+  }
 }

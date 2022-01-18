@@ -1,0 +1,12 @@
+{
+  "id": "hdl_status",
+  "display_name": "High-density lipoprotein (HDL) alert status",
+  "description": "",
+  "type": "string",
+  "labels": [
+    "cholesterol"
+  ],
+  "other": {
+    "": "1972"
+  }
+}

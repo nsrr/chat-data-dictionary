@@ -1,0 +1,13 @@
+{
+  "id": "pe18",
+  "display_name": "Status of the respiratory system",
+  "description": "This is not the OSAS",
+  "type": "choices",
+  "domain": "normal",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2524"
+  }
+}

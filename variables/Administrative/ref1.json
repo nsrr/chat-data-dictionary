@@ -1,0 +1,18 @@
+{
+  "id": "ref1",
+  "display_name": "Recruitment source",
+  "description": "",
+  "type": "choices",
+  "domain": "recruitsource",
+  "labels": [
+    "flyer",
+    "phone call",
+    "other"
+  ],
+  "forms": [
+    "chat_referral_forms"
+  ],
+  "other": {
+    "": "2078"
+  }
+}

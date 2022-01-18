@@ -1,0 +1,12 @@
+{
+  "id": "sgl_status",
+  "display_name": "Serum glucose alert status",
+  "description": "",
+  "type": "string",
+  "labels": [
+    "insulin"
+  ],
+  "other": {
+    "": "1984"
+  }
+}

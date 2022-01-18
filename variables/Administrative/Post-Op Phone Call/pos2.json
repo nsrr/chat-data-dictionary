@@ -1,0 +1,16 @@
+{
+  "id": "pos2",
+  "display_name": "After their adenotonsillectomy, did the child require evaluation in the emergency room (ER)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "surgery"
+  ],
+  "forms": [
+    "chat_postop1_forms"
+  ],
+  "other": {
+    "": "3168"
+  }
+}

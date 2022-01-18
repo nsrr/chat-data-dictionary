@@ -4,7 +4,13 @@
   "description": "",
   "type": "numeric",
   "units": "pounds (lb)",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
   "forms": [
     "chat_familyhx_forms"
-  ]
+  ],
+  "other": {
+    "": "2084"
+  }
 }

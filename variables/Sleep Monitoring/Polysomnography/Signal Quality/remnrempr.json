@@ -1,0 +1,16 @@
+{
+  "id": "remnrempr",
+  "display_name": "Scoring rapid eye movement sleep (REM)/non-rapid eye movement sleep (NREM) unreliable",
+  "description": "1=Sleep staging problem - scoring rapid eye movement sleep (REM)/non-rapid eye movement sleep (NREM) unreliable (when identification of Stage rapid eye movement sleep (REM) is unreliable (usually due to poor or missing EMG or when both EOGs are absent))",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "non-rem"
+  ],
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "836"
+  }
+}

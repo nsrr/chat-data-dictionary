@@ -1,0 +1,13 @@
+{
+  "id": "pe117a9",
+  "display_name": "Latex allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "latex",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2508"
+  }
+}

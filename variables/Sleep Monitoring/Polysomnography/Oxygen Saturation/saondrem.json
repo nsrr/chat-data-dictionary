@@ -1,0 +1,13 @@
+{
+  "id": "saondrem",
+  "display_name": "Average nadirs in REM sleep from type I polysomnography",
+  "description": "Mean oxygen saturation (SaO2) nadir in rapid eye movement sleep (REM)",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlnd_sr_f1t1"
+  ],
+  "other": {
+    "": "862"
+  }
+}

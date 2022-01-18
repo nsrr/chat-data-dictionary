@@ -1,7 +1,0 @@
-{
-  "id": "pedsql_social_pctmiss_par",
-  "display_name": "Pediatric Quality of Life Inventory (PEDsQL) Parent Social Function pct missing",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)"
-}

@@ -1,0 +1,15 @@
+{
+  "id": "con3a",
+  "display_name": "Cognitive Problems / Inattention Raw Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2849"
+  }
+}

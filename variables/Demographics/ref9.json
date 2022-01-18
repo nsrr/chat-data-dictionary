@@ -1,0 +1,16 @@
+{
+  "id": "ref9",
+  "display_name": "Child's gender",
+  "description": "",
+  "type": "choices",
+  "domain": "sex",
+  "labels": [
+    "sex"
+  ],
+  "forms": [
+    "chat_referral_forms"
+  ],
+  "other": {
+    "": "2082"
+  }
+}

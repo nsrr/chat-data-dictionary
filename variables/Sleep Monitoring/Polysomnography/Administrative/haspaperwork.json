@@ -1,0 +1,10 @@
+{
+  "id": "haspaperwork",
+  "display_name": "Paperwork received at reading center",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesmissing",
+  "other": {
+    "": "1236"
+  }
+}

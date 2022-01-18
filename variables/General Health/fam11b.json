@@ -1,0 +1,16 @@
+{
+  "id": "fam11b",
+  "display_name": "Did your child cough often?",
+  "description": "Defined as coughing on most days for at least 3 consecutive months",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2088"
+  }
+}

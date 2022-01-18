@@ -1,0 +1,14 @@
+{
+  "id": "osa1a_rc",
+  "display_name": "OSA-18 Quality of Life: Loud Snoring (coded per Dr. Ramon Arturo Franco's publication)",
+  "description": "Item from the Obstructive Sleep Apnea-18 Quality of Life Questionnaire. [Franco RA et al., 2000 (PubMed ID: 10889473)](https://pubmed.ncbi.nlm.nih.gov/10889473/)<br><br>[Search for all OSA-18 variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=osa18)",
+  "type": "choices",
+  "domain": "time1",
+  "labels": [
+    "osa18",
+    "osa18_01snore"
+  ],
+  "other": {
+    "": "1753"
+  }
+}

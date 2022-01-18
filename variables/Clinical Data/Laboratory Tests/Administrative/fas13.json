@@ -1,0 +1,13 @@
+{
+  "id": "fas13",
+  "display_name": "Date samples were sent to the Vermont Lab.",
+  "description": "",
+  "type": "integer",
+  "units": "seconds from date of randomization",
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2031"
+  }
+}

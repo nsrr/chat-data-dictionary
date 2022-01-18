@@ -1,0 +1,17 @@
+{
+  "id": "sls8",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while in a car, while stopped for a few minutes in traffic",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=epworth)",
+  "type": "choices",
+  "domain": "chance",
+  "labels": [
+    "epworth",
+    "ess_8stoppedcar"
+  ],
+  "forms": [
+    "chat_epworth_forms"
+  ],
+  "other": {
+    "": "1878"
+  }
+}

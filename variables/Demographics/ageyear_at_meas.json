@@ -1,0 +1,14 @@
+{
+  "id": "ageyear_at_meas",
+  "display_name": "Child's age computed in years at time anthropometry were taken",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "commonly_used": true,
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2057"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chi3",
+  "display_name": "Child's ethnicity",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity",
+  "labels": [
+    "race"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2060"
+  }
+}

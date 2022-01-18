@@ -1,0 +1,13 @@
+{
+  "id": "pe216a3",
+  "display_name": "Oxygen therapy",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2550"
+  }
+}

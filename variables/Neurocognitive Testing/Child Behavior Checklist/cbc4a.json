@@ -1,9 +1,0 @@
-{
-  "id": "cbc4a",
-  "display_name": "Social total score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

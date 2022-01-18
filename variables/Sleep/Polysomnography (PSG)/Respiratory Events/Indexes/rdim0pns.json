@@ -1,8 +1,0 @@
-{
-  "id": "rdim0pns",
-  "display_name": "Overall non-supine Respiratory Disturbance Index (RDI) at 0% desaturation",
-  "description": "Non-supine Respiratory Disturbance Index (RDI) at all desaturations  [(total number of apneas and hypopneas in non-supine body position) / (hours of sleep)]",
-  "type": "numeric",
-  "units": "events per hour",
-  "calculation": "60*(hrop + hnrop + carop + canop + oarop + oanop + marop + manrop)/(remepop+nremepop)"
-}

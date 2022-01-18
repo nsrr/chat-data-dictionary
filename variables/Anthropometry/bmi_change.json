@@ -5,5 +5,8 @@
   "type": "numeric",
   "labels": [
     "weight"
-  ]
+  ],
+  "other": {
+    "": "1948"
+  }
 }

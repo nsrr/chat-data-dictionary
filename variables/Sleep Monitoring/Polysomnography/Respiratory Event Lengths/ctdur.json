@@ -1,0 +1,13 @@
+{
+  "id": "ctdur",
+  "display_name": "Total duration of central apnea from type I polysomnography",
+  "description": "duration",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurca_f1t1"
+  ],
+  "other": {
+    "": "299"
+  }
+}

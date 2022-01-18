@@ -1,0 +1,17 @@
+{
+  "id": "slh5h_fu",
+  "display_name": "Sleep talking?",
+  "description": "Over the PAST MONTH, has your child had any of the following during sleep? ",
+  "type": "choices",
+  "domain": "alwaysornever",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "insomnia_related_impairment"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3115"
+  }
+}

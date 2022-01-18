@@ -1,0 +1,13 @@
+{
+  "id": "chi5_na",
+  "display_name": "Child is not attending school",
+  "description": "",
+  "type": "choices",
+  "domain": "notattending",
+  "forms": [
+    "chat_cdi_forms"
+  ],
+  "other": {
+    "": "2062"
+  }
+}

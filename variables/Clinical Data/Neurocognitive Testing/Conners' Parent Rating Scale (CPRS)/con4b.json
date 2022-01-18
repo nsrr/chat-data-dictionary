@@ -1,0 +1,15 @@
+{
+  "id": "con4b",
+  "display_name": "Hyperactivity T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cprs"
+  ],
+  "forms": [
+    "chat_conners_forms"
+  ],
+  "other": {
+    "": "2852"
+  }
+}

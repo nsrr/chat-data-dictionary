@@ -1,0 +1,13 @@
+{
+  "id": "pe216a4",
+  "display_name": "Oral device",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2551"
+  }
+}

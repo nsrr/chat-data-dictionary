@@ -1,0 +1,13 @@
+{
+  "id": "mxcanop2",
+  "display_name": "Maximum duration of central apnea in NREM sleep in non-supine position: Central apneas with >= 2% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "Longest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurca_snpo_ca2u_f1t1"
+  ],
+  "other": {
+    "": "507"
+  }
+}

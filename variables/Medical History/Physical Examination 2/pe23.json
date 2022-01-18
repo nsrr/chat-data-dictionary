@@ -1,7 +1,0 @@
-{
-  "id": "pe23",
-  "display_name": "Respiratory rate of the participant",
-  "description": "",
-  "type": "numeric",
-  "units": "breaths per minute"
-}

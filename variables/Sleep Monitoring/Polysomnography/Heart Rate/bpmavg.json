@@ -1,0 +1,14 @@
+{
+  "id": "bpmavg",
+  "display_name": "Average level of heart rate from type I polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_sc_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1218"
+  }
+}

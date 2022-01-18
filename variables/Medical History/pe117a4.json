@@ -1,0 +1,13 @@
+{
+  "id": "pe117a4",
+  "display_name": "Insect allergy",
+  "description": "",
+  "type": "choices",
+  "domain": "insects",
+  "labels": [
+    "chat_physical_examination_1"
+  ],
+  "other": {
+    "": "2503"
+  }
+}

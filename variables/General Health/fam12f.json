@@ -1,0 +1,18 @@
+{
+  "id": "fam12f",
+  "display_name": "Any wheezy or whistling chest sounds when exposed to pollen?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "environmental",
+    "allergies",
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2104"
+  }
+}

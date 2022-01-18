@@ -1,7 +1,0 @@
-{
-  "id": "lmrem",
-  "display_name": "Number of limb movements (Rapid eye movement sleep (REM))",
-  "description": "Total",
-  "type": "numeric",
-  "units": "limb movements"
-}

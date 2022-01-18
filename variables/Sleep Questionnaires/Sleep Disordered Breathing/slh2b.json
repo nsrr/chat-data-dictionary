@@ -1,0 +1,17 @@
+{
+  "id": "slh2b",
+  "display_name": "Has your child's snoring usually been:",
+  "description": "",
+  "type": "choices",
+  "domain": "snoring",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "snore"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3079"
+  }
+}

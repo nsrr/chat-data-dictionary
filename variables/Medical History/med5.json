@@ -3,5 +3,8 @@
   "display_name": "Child's weight at birth?",
   "description": "",
   "type": "numeric",
-  "units": "pounds (lb)"
+  "units": "pounds (lb)",
+  "other": {
+    "": "2661"
+  }
 }

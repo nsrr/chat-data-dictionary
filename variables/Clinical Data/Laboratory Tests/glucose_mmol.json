@@ -1,0 +1,15 @@
+{
+  "id": "glucose_mmol",
+  "display_name": "Blood glucose levels",
+  "description": "",
+  "type": "numeric",
+  "units": "millimoles per liter (mmol/L)",
+  "labels": [
+    "sugar",
+    "diabetes"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1970"
+  }
+}

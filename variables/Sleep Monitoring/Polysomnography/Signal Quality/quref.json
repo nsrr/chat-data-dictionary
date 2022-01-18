@@ -1,0 +1,13 @@
+{
+  "id": "quref",
+  "display_name": "Quality of reference",
+  "description": "",
+  "type": "choices",
+  "domain": "goodorproblem",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1612"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fam13a",
+  "display_name": "Occurrence of stuffy or runny nose when exposed to smoke",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "congestion",
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2106"
+  }
+}

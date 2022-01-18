@@ -1,9 +1,0 @@
-{
-  "id": "cbc18b",
-  "display_name": "Affective problems T score",
-  "description": "",
-  "type": "numeric",
-  "forms": [
-    "chat_cbc_forms"
-  ]
-}

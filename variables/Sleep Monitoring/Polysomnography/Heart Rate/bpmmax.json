@@ -1,0 +1,14 @@
+{
+  "id": "bpmmax",
+  "display_name": "Maximum level of heart rate from type I polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "maxlvlhr_sc_f1t1"
+  ],
+  "commonly_used": true,
+  "other": {
+    "": "1219"
+  }
+}

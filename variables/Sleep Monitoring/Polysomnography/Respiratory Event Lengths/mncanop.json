@@ -1,0 +1,13 @@
+{
+  "id": "mncanop",
+  "display_name": "Minimum duration of central apnea in NREM sleep in non-supine position : central apneas with no oxygen desaturation threshold used and with or without arousal from type I polysomnography",
+  "description": "Shortest",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "mindurca_snpo_ca0u_f1t1"
+  ],
+  "other": {
+    "": "418"
+  }
+}

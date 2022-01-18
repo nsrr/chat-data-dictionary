@@ -1,0 +1,16 @@
+{
+  "id": "cbc20c",
+  "display_name": "Somatic problems percentile",
+  "description": "",
+  "type": "numeric",
+  "units": "percentile",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2785"
+  }
+}

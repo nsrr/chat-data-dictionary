@@ -1,0 +1,13 @@
+{
+  "id": "plmou25",
+  "display_name": "Periodic limb movement (PLM) > 25 verified (must be in sleep)",
+  "description": "1=Outlier - Periodic limb movement (PLM) > 25 verified",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1586"
+  }
+}

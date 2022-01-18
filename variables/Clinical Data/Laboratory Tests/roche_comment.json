@@ -1,0 +1,13 @@
+{
+  "id": "roche_comment",
+  "display_name": "Roche insulin comments",
+  "description": "",
+  "type": "text",
+  "labels": [
+    "diabetes",
+    "metabolic syndrome"
+  ],
+  "other": {
+    "": "1980"
+  }
+}

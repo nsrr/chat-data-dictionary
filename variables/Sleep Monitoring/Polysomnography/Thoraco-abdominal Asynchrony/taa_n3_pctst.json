@@ -1,0 +1,14 @@
+{
+  "id": "taa_n3_pctst",
+  "display_name": "Percentage of non-rapid eye movement sleep (NREM) Stage 3 included in the total thoraco-abdominal asynchrony analysis",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "paradoxical",
+    "non-rem"
+  ],
+  "other": {
+    "": "1690"
+  }
+}

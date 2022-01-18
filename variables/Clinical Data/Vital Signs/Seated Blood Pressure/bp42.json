@@ -1,0 +1,17 @@
+{
+  "id": "bp42",
+  "display_name": "Average diastolic blood pressure",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)",
+  "labels": [
+    "hypertension"
+  ],
+  "commonly_used": true,
+  "forms": [
+    "chat_bp_forms"
+  ],
+  "other": {
+    "": "2055"
+  }
+}

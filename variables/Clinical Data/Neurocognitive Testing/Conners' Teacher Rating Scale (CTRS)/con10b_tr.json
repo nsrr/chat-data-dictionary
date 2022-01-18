@@ -1,0 +1,15 @@
+{
+  "id": "con10b_tr",
+  "display_name": "Conners' Attention Deficit Hyperactivity Disorder(ADHD) Index T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2864"
+  }
+}

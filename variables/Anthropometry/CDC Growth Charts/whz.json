@@ -3,5 +3,8 @@
   "display_name": "Z-score for weight-for-length or weight-for-stature",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean"
+  "units": "standard deviations from the mean",
+  "other": {
+    "": "1924"
+  }
 }

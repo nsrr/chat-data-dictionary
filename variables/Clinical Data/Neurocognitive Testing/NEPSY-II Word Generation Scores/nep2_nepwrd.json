@@ -1,0 +1,16 @@
+{
+  "id": "nep2_nepwrd",
+  "display_name": "Word Generation Semantic Total Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "chat_nepsy2_wg_forms",
+  "labels": [
+    "nepsyii"
+  ],
+  "forms": [
+    "chat_nepsy2_wg_forms"
+  ],
+  "other": {
+    "": "2961"
+  }
+}

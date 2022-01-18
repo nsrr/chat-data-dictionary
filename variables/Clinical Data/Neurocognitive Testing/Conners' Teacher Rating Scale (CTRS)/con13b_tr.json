@@ -1,0 +1,15 @@
+{
+  "id": "con13b_tr",
+  "display_name": "Conners' GI Total T-Score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ctrs"
+  ],
+  "forms": [
+    "chat_conners_tr_forms"
+  ],
+  "other": {
+    "": "2870"
+  }
+}

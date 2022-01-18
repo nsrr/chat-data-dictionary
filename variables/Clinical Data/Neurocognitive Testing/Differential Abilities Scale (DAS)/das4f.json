@@ -1,0 +1,15 @@
+{
+  "id": "das4f",
+  "display_name": "Recall of Designs GCA",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2915"
+  }
+}

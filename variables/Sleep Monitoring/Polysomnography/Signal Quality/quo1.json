@@ -1,0 +1,13 @@
+{
+  "id": "quo1",
+  "display_name": "Quality of O1",
+  "description": "Quality of EEG",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1607"
+  }
+}

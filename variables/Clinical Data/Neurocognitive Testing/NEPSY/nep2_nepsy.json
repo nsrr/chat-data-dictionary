@@ -1,0 +1,16 @@
+{
+  "id": "nep2_nepsy",
+  "display_name": "Please indicate the child's hand preference",
+  "description": "",
+  "type": "string",
+  "calculation": "chat_nepsy_forms",
+  "labels": [
+    "nepsy"
+  ],
+  "forms": [
+    "chat_nepsy_forms"
+  ],
+  "other": {
+    "": "2973"
+  }
+}

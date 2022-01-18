@@ -1,0 +1,18 @@
+{
+  "id": "fas3",
+  "display_name": "The participant has been told that they have a disorder related to blood clotting or coagulation",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "hemophilia",
+    "hemophiliac",
+    "haemophilia"
+  ],
+  "forms": [
+    "chat_fastveni_forms"
+  ],
+  "other": {
+    "": "2033"
+  }
+}

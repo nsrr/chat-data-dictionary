@@ -1,9 +1,0 @@
-{
-  "id": "ldl_status",
-  "display_name": "Low-density lipoprotein (LDL) alert status",
-  "description": "",
-  "type": "string",
-  "labels": [
-    "cholesterol"
-  ]
-}

@@ -1,0 +1,17 @@
+{
+  "id": "slh1a_22",
+  "display_name": "Time period child was in bed on weekends?",
+  "description": "",
+  "type": "choices",
+  "domain": "ampm",
+  "labels": [
+    "chat_sleep_health_questionnaire",
+    "sleep_timing"
+  ],
+  "forms": [
+    "chat_slhq_forms"
+  ],
+  "other": {
+    "": "3052"
+  }
+}

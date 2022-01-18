@@ -1,7 +1,0 @@
-{
-  "id": "avhrop3",
-  "display_name": "Average hypopnea length (Rapid eye movement sleep (REM), Non-supine, >=3% desaturation)",
-  "description": "duration",
-  "type": "numeric",
-  "units": "seconds (s)"
-}

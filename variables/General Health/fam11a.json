@@ -1,0 +1,16 @@
+{
+  "id": "fam11a",
+  "display_name": "Did your child have a cough?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesnotsure",
+  "labels": [
+    "chat_family_history_questionnaire"
+  ],
+  "forms": [
+    "chat_familyhx_forms"
+  ],
+  "other": {
+    "": "2087"
+  }
+}

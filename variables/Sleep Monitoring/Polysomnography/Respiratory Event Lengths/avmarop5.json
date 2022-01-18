@@ -1,0 +1,13 @@
+{
+  "id": "avmarop5",
+  "display_name": "Average duration of mixed apnea in REM sleep in non-supine position: Mixed apneas with >= 5% oxygen desaturation and with or without arousal from type I polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurma_srpo_ma5u_f1t1"
+  ],
+  "other": {
+    "": "1212"
+  }
+}

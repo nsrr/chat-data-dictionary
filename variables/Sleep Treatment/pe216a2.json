@@ -1,0 +1,13 @@
+{
+  "id": "pe216a2",
+  "display_name": "Continuous Positive Airway Pressure (CPAP) or Bilevel Positive Airway Pressure (BIPAP)",
+  "description": "",
+  "type": "choices",
+  "domain": "check",
+  "labels": [
+    "chat_physical_examination_2"
+  ],
+  "other": {
+    "": "2549"
+  }
+}

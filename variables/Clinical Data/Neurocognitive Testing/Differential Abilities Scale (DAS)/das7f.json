@@ -1,0 +1,15 @@
+{
+  "id": "das7f",
+  "display_name": "Matrices GCA",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "das"
+  ],
+  "forms": [
+    "chat_das2_forms"
+  ],
+  "other": {
+    "": "2933"
+  }
+}

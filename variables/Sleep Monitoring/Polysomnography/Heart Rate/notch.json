@@ -1,0 +1,17 @@
+{
+  "id": "notch",
+  "display_name": "Number of tachycardia  related to hypopnea  (sleep time)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "heart rate",
+    "nrem",
+    "rem",
+    "rapid eye movement",
+    "non-rapid eye movement"
+  ],
+  "other": {
+    "": "586"
+  }
+}

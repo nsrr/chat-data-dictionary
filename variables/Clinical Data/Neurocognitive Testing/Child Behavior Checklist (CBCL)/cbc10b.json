@@ -1,0 +1,15 @@
+{
+  "id": "cbc10b",
+  "display_name": "Social problems T score",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "cbl"
+  ],
+  "forms": [
+    "chat_cbc_forms"
+  ],
+  "other": {
+    "": "2753"
+  }
+}

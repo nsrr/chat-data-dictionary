@@ -1,0 +1,16 @@
+{
+  "id": "pup1",
+  "display_name": "Was this test performed?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "ppt"
+  ],
+  "forms": [
+    "chat_pegs_forms"
+  ],
+  "other": {
+    "": "3008"
+  }
+}

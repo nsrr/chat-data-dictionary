@@ -1,0 +1,13 @@
+{
+  "id": "o2dur",
+  "display_name": "Hours of usable O2",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "forms": [
+    "chat_qs_forms"
+  ],
+  "other": {
+    "": "1562"
+  }
+}
