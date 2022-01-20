@@ -7,8 +7,5 @@
   "calculation": "chat_qs_forms",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1381"
-  }
+  ]
 }

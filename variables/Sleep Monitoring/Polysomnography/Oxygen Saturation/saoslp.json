@@ -6,8 +6,5 @@
   "units": "percent (%)",
   "labels": [
     "avglvlsa_su_f1t1"
-  ],
-  "other": {
-    "": "870"
-  }
+  ]
 }

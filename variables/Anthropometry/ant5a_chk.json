@@ -3,8 +3,5 @@
   "display_name": "Body mass index (BMI) Z-score not required at this visit",
   "description": "",
   "type": "choices",
-  "domain": "notrequired",
-  "other": {
-    "": "1935"
-  }
+  "domain": "notrequired"
 }

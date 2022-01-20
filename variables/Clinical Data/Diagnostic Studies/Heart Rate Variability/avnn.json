@@ -3,8 +3,5 @@
   "display_name": "Mean of all normal sinus to normal sinus interbeat intervals (NN)",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)",
-  "other": {
-    "": "2413"
-  }
+  "units": "seconds (s)"
 }

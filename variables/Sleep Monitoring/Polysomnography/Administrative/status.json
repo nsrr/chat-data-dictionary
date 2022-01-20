@@ -6,8 +6,5 @@
   "domain": "passedorfailed",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1677"
-  }
+  ]
 }

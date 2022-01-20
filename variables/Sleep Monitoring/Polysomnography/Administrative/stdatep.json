@@ -3,8 +3,5 @@
   "display_name": "Start date",
   "description": "Study date (date recording started)",
   "type": "integer",
-  "units": "seconds from date of randomization",
-  "other": {
-    "": "1678"
-  }
+  "units": "seconds from date of randomization"
 }

@@ -6,8 +6,5 @@
   "domain": "signalofsleeptime",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1597"
-  }
+  ]
 }

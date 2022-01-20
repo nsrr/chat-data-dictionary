@@ -3,8 +3,5 @@
   "display_name": "Cancer still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2580"
-  }
+  "domain": "noyesnotsure"
 }

@@ -2,8 +2,5 @@
   "id": "chol_status",
   "display_name": "Cholesterol alert status",
   "description": "",
-  "type": "string",
-  "other": {
-    "": "1963"
-  }
+  "type": "string"
 }

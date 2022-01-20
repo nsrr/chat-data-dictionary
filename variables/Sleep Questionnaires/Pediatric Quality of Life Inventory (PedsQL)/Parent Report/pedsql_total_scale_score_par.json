@@ -7,8 +7,5 @@
     "pedsql",
     "pedsql_total"
   ],
-  "commonly_used": true,
-  "other": {
-    "": "1848"
-  }
+  "commonly_used": true
 }

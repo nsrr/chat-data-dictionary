@@ -6,8 +6,5 @@
   "units": "events",
   "labels": [
     "ttlnumsf_srs2_f1t1"
-  ],
-  "other": {
-    "": "840"
-  }
+  ]
 }

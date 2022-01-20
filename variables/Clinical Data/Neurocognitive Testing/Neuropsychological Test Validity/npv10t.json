@@ -6,8 +6,5 @@
   "domain": "valid1",
   "forms": [
     "chat_neuro_forms"
-  ],
-  "other": {
-    "": "2988"
-  }
+  ]
 }

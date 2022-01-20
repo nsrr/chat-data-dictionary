@@ -6,8 +6,5 @@
   "domain": "noyes",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1079"
-  }
+  ]
 }

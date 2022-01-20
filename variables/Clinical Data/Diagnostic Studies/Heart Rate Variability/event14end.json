@@ -3,8 +3,5 @@
   "display_name": "Respiratory event (14) end time",
   "description": "",
   "type": "numeric",
-  "units": "seconds from start of recording",
-  "other": {
-    "": "2441"
-  }
+  "units": "seconds from start of recording"
 }

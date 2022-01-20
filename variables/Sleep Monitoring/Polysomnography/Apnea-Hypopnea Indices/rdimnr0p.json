@@ -7,8 +7,5 @@
   "calculation": "60*(hnrbp + hnrop + canbp + canop + oanbp + oanop + manrbp + manrop) / (slpprdp - minremp)",
   "labels": [
     "ahi_sn_ap0uhp5x0u_f1t1"
-  ],
-  "other": {
-    "": "1026"
-  }
+  ]
 }

@@ -2,8 +2,5 @@
   "id": "crp_status",
   "display_name": "C-reactive protein alert status",
   "description": "",
-  "type": "string",
-  "other": {
-    "": "1965"
-  }
+  "type": "string"
 }

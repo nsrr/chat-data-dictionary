@@ -6,8 +6,5 @@
   "domain": "check",
   "labels": [
     "chat_physical_examination_2"
-  ],
-  "other": {
-    "": "2549"
-  }
+  ]
 }

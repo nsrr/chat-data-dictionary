@@ -6,8 +6,5 @@
   "units": "events",
   "labels": [
     "ttlnumar_srpb_f1t1"
-  ],
-  "other": {
-    "": "64"
-  }
+  ]
 }

@@ -7,8 +7,5 @@
   "labels": [
     "cholesterol"
   ],
-  "commonly_used": true,
-  "other": {
-    "": "1977"
-  }
+  "commonly_used": true
 }

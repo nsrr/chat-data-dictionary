@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "phrnumar_srpo_f1t1"
-  ],
-  "other": {
-    "": "17"
-  }
+  ]
 }

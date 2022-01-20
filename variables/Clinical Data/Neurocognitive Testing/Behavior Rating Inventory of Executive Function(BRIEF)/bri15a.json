@@ -6,8 +6,5 @@
   "domain": "inconsistencyscore",
   "labels": [
     "brief"
-  ],
-  "other": {
-    "": "2722"
-  }
+  ]
 }

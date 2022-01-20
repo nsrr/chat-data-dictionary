@@ -6,8 +6,5 @@
   "units": "beats per minute (bpm)",
   "labels": [
     "minlvlhr_srpb_f1t1"
-  ],
-  "other": {
-    "": "887"
-  }
+  ]
 }

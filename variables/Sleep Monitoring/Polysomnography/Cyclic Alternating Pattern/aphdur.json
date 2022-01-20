@@ -6,8 +6,5 @@
   "units": "seconds",
   "labels": [
     "non-rem"
-  ],
-  "other": {
-    "": "54"
-  }
+  ]
 }

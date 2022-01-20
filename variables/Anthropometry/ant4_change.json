@@ -6,8 +6,5 @@
   "units": "kilograms (kg)",
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "other": {
-    "": "1931"
-  }
+  ]
 }

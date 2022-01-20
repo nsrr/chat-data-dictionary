@@ -3,8 +3,5 @@
   "display_name": "Respiratory event (15) start time",
   "description": "",
   "type": "numeric",
-  "units": "seconds from start of recording",
-  "other": {
-    "": "2444"
-  }
+  "units": "seconds from start of recording"
 }

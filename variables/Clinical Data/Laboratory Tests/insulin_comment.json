@@ -2,8 +2,5 @@
   "id": "insulin_comment",
   "display_name": "Insulin comment",
   "description": "",
-  "type": "text",
-  "other": {
-    "": "1974"
-  }
+  "type": "text"
 }

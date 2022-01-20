@@ -6,8 +6,5 @@
   "units": "percent (%)",
   "labels": [
     "pedsql"
-  ],
-  "other": {
-    "": "3035"
-  }
+  ]
 }

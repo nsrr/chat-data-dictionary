@@ -6,8 +6,5 @@
   "domain": "noyes",
   "forms": [
     "chat_fastveni_forms"
-  ],
-  "other": {
-    "": "1994"
-  }
+  ]
 }

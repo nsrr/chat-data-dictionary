@@ -4,8 +4,5 @@
   "description": "1 = Masimo, 2 = Nonin, 3 = Nonin Biologic",
   "type": "choices",
   "domain": "oximetertype",
-  "commonly_used": true,
-  "other": {
-    "": "1569"
-  }
+  "commonly_used": true
 }

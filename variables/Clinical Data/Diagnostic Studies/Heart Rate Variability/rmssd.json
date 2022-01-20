@@ -3,8 +3,5 @@
   "display_name": "Square root of the mean of the squares of difference between adjacent normal sinus to normal sinus interbeat (NN) intervals",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)",
-  "other": {
-    "": "2462"
-  }
+  "units": "seconds (s)"
 }

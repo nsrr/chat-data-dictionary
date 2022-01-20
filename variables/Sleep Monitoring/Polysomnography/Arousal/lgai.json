@@ -2,8 +2,5 @@
   "id": "lgai",
   "display_name": "LOG Arousal Index",
   "description": "Original source: MS 003",
-  "type": "numeric",
-  "other": {
-    "": "1293"
-  }
+  "type": "numeric"
 }

@@ -7,8 +7,5 @@
   "calculation": "60*(hrembp3 + hrop3 + carbp3 + carop3 + oarbp3 + oarop3 + marbp3 + marop3) / minremp",
   "labels": [
     "ahi_sr_ap3uhp5x3u_f1t1"
-  ],
-  "other": {
-    "": "1033"
-  }
+  ]
 }

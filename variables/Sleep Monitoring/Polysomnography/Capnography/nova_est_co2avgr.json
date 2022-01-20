@@ -5,8 +5,5 @@
   "type": "numeric",
   "units": "percent (%)",
   "calculation": "(rco2avgr * 0.70253) + 10.67195",
-  "commonly_used": true,
-  "other": {
-    "": "1558"
-  }
+  "commonly_used": true
 }

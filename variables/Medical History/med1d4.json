@@ -3,8 +3,5 @@
   "display_name": "Currently taking medication for Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD)?",
   "description": "Also known as Attention Deficit Hyperactivity Disorder (ADHD)",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2577"
-  }
+  "domain": "noyesnotsure"
 }

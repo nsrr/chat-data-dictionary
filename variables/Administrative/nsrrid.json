@@ -3,8 +3,5 @@
   "display_name": "NSRR Subject Identifier",
   "description": "The National Sleep Research Resource (NSRR) subject identifer links the subject's data and files. Use `new_pid` to link with Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC) and cohort-specific data.",
   "type": "identifier",
-  "commonly_used": true,
-  "other": {
-    "": "1916"
-  }
+  "commonly_used": true
 }

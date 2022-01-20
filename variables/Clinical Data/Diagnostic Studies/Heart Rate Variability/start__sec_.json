@@ -3,8 +3,5 @@
   "display_name": "5 minute window start time",
   "description": "",
   "type": "numeric",
-  "units": "seconds from start of recording",
-  "other": {
-    "": "2476"
-  }
+  "units": "seconds from start of recording"
 }

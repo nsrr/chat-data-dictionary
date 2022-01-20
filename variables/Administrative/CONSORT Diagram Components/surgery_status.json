@@ -6,8 +6,5 @@
   "domain": "surgery_status",
   "forms": [
     "chat_consorts"
-  ],
-  "other": {
-    "": "1886"
-  }
+  ]
 }

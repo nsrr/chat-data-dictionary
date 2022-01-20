@@ -7,8 +7,5 @@
   "labels": [
     "diabetes"
   ],
-  "commonly_used": true,
-  "other": {
-    "": "1976"
-  }
+  "commonly_used": true
 }

@@ -3,8 +3,5 @@
   "display_name": "Currently taking medication for cancer?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2581"
-  }
+  "domain": "noyesnotsure"
 }

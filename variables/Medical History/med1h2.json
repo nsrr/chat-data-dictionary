@@ -3,8 +3,5 @@
   "display_name": "Diagnosed or treated by a physician for depression?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2591"
-  }
+  "domain": "noyesnotsure"
 }

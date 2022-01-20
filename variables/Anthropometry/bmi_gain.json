@@ -6,8 +6,5 @@
   "units": "kilograms per year * meters squared",
   "labels": [
     "weight"
-  ],
-  "other": {
-    "": "1949"
-  }
+  ]
 }

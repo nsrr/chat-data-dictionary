@@ -3,8 +3,5 @@
   "display_name": "Standard deviation of all normal sinus to normal sinus interbeat (NN) intervals",
   "description": "",
   "type": "numeric",
-  "units": "seconds (s)",
-  "other": {
-    "": "2464"
-  }
+  "units": "seconds (s)"
 }

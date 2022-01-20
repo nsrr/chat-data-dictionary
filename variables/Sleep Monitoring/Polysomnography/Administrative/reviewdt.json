@@ -3,8 +3,5 @@
   "display_name": "Date of preliminary review",
   "description": "",
   "type": "integer",
-  "units": "seconds from date of randomization",
-  "other": {
-    "": "1622"
-  }
+  "units": "seconds from date of randomization"
 }

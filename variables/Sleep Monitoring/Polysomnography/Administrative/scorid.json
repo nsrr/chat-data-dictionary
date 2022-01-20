@@ -5,8 +5,5 @@
   "type": "integer",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1627"
-  }
+  ]
 }

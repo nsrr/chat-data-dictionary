@@ -6,8 +6,5 @@
   "units": "centimeters (cm)",
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "other": {
-    "": "1944"
-  }
+  ]
 }

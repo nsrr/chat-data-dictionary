@@ -7,8 +7,5 @@
   "calculation": "chat_materials_forms",
   "forms": [
     "chat_materials_forms"
-  ],
-  "other": {
-    "": "1889"
-  }
+  ]
 }

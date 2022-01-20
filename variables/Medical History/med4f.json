@@ -3,8 +3,5 @@
   "display_name": "Referred to Psychiatrist / Psychologist",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": "2659"
-  }
+  "domain": "noyes"
 }

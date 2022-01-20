@@ -6,8 +6,5 @@
   "units": "seconds from date of randomization",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1676"
-  }
+  ]
 }

@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "micrograms per milliliter (ug/mL)",
-  "commonly_used": true,
-  "other": {
-    "": "1966"
-  }
+  "commonly_used": true
 }

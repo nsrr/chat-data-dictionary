@@ -7,8 +7,5 @@
   "labels": [
     "bp_systolic"
   ],
-  "commonly_used": true,
-  "other": {
-    "": "2407"
-  }
+  "commonly_used": true
 }

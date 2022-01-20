@@ -3,8 +3,5 @@
   "display_name": "Referred to Gastroenterologist (Stomach Doctor)",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": "2655"
-  }
+  "domain": "noyes"
 }

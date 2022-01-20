@@ -3,8 +3,5 @@
   "display_name": "Cerebral palsy still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2584"
-  }
+  "domain": "noyesnotsure"
 }

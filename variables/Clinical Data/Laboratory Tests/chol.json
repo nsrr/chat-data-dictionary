@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "milligrams per deciliter (mg/dL)",
-  "commonly_used": true,
-  "other": {
-    "": "1962"
-  }
+  "commonly_used": true
 }

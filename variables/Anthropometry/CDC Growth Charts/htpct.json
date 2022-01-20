@@ -3,8 +3,5 @@
   "display_name": "Percentile for length-for-age or stature-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
-  "other": {
-    "": "1922"
-  }
+  "units": "percentile"
 }

@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "mai_srpo_ma4u_f1t1"
-  ],
-  "other": {
-    "": "973"
-  }
+  ]
 }

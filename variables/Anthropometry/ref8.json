@@ -6,8 +6,5 @@
   "units": "kilograms / meters squared (kg/m2)",
   "labels": [
     "weight"
-  ],
-  "other": {
-    "": "1957"
-  }
+  ]
 }

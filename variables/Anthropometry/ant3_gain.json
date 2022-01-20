@@ -6,8 +6,5 @@
   "units": "centimeters per year",
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "other": {
-    "": "1929"
-  }
+  ]
 }

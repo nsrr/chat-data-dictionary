@@ -3,8 +3,5 @@
   "display_name": "Ever had diabetes?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2594"
-  }
+  "domain": "noyesnotsure"
 }

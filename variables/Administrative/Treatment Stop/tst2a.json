@@ -5,8 +5,5 @@
   "type": "string",
   "forms": [
     "chat_treatment_stop_forms"
-  ],
-  "other": {
-    "": "1905"
-  }
+  ]
 }

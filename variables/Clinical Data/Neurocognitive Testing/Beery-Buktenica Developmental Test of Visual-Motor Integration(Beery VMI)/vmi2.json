@@ -6,8 +6,5 @@
   "domain": "versions",
   "forms": [
     "chat_beery_forms"
-  ],
-  "other": {
-    "": "2746"
-  }
+  ]
 }

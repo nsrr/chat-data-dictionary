@@ -7,8 +7,5 @@
   "calculation": "60*(hnrbp4 + hnrop4 + canbp4 + canop4 + oanbp4 + oanop4 + manrbp4 + manrop4) / (slpprdp - minremp)",
   "labels": [
     "ahi_sn_ap4uhp5x4u_f1t1"
-  ],
-  "other": {
-    "": "1029"
-  }
+  ]
 }

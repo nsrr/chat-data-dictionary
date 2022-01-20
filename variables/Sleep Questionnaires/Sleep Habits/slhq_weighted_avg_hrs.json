@@ -7,8 +7,5 @@
   "calculation": "((total_hrs_slept_weekdays * 5) + (total_hrs_slept_weekend * 2))/7",
   "labels": [
     "sleep_duration"
-  ],
-  "other": {
-    "": "3165"
-  }
+  ]
 }

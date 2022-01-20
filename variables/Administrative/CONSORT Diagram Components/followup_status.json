@@ -6,8 +6,5 @@
   "domain": "followup_status",
   "forms": [
     "chat_consorts"
-  ],
-  "other": {
-    "": "1883"
-  }
+  ]
 }

@@ -1,5 +1,12 @@
 ## 0.12.0 (December, 2021)
 
+- Create 'harmonized' dataset with key variables
+- Update many display names and variable metadata for clarity
+- Add cyclic alternating pattern variables
+
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.12.0\`
+
 ## 0.11.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables

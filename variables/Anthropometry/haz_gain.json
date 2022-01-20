@@ -2,8 +2,5 @@
   "id": "haz_gain",
   "display_name": "Height velocity",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "": "1954"
-  }
+  "type": "numeric"
 }

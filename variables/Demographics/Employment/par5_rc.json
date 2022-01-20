@@ -6,8 +6,5 @@
   "domain": "income_rc",
   "forms": [
     "chat_parentinfo_forms"
-  ],
-  "other": {
-    "": "2071"
-  }
+  ]
 }

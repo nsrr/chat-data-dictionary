@@ -6,8 +6,5 @@
   "domain": "veinstatus",
   "forms": [
     "chat_fastveni_forms"
-  ],
-  "other": {
-    "": "2045"
-  }
+  ]
 }

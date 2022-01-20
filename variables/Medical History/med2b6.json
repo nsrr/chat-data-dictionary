@@ -3,8 +3,5 @@
   "display_name": "Child has grass or pollen allergy",
   "description": "",
   "type": "choices",
-  "domain": "grass",
-  "other": {
-    "": "2644"
-  }
+  "domain": "grass"
 }

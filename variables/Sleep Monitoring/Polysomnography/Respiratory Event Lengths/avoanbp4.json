@@ -6,8 +6,5 @@
   "units": "seconds (s)",
   "labels": [
     "avgduroa_snpb_oa4u_f1t1"
-  ],
-  "other": {
-    "": "144"
-  }
+  ]
 }

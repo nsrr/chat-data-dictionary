@@ -3,8 +3,5 @@
   "display_name": "BMIPCT greater than or equal to 95 binary",
   "description": "",
   "type": "choices",
-  "domain": "obesebmi95",
-  "other": {
-    "": "1955"
-  }
+  "domain": "obesebmi95"
 }

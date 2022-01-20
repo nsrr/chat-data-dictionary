@@ -6,8 +6,5 @@
   "domain": "symptoms",
   "forms": [
     "chat_consorts"
-  ],
-  "other": {
-    "": "1880"
-  }
+  ]
 }

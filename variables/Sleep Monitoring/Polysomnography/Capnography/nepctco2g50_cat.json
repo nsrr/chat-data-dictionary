@@ -3,8 +3,5 @@
   "display_name": "Carbon dioxide (CO2) cutoff < 25",
   "description": "",
   "type": "numeric",
-  "units": "percent (%)",
-  "other": {
-    "": "1545"
-  }
+  "units": "percent (%)"
 }

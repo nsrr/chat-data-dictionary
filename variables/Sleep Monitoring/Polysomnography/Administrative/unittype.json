@@ -4,8 +4,5 @@
   "description": "",
   "type": "choices",
   "domain": "unittype",
-  "commonly_used": true,
-  "other": {
-    "": "1696"
-  }
+  "commonly_used": true
 }

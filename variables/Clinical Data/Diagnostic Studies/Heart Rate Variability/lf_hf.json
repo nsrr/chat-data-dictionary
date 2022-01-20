@@ -2,8 +2,5 @@
   "id": "lf_hf",
   "display_name": "The ratio of low to high frequency power",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "": "2455"
-  }
+  "type": "numeric"
 }

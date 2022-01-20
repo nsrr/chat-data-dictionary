@@ -3,8 +3,5 @@
   "display_name": "Currently taking medication for the acute life threatening episode (ALTE)?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2565"
-  }
+  "domain": "noyesnotsure"
 }

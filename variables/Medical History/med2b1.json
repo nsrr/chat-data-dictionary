@@ -3,8 +3,5 @@
   "display_name": "Child has mold allergy",
   "description": "",
   "type": "choices",
-  "domain": "molds",
-  "other": {
-    "": "2639"
-  }
+  "domain": "molds"
 }

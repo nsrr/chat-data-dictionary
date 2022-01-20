@@ -3,8 +3,5 @@
   "display_name": "Ever had eczema?",
   "description": "Also known as atopic dermatitis",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2602"
-  }
+  "domain": "noyesnotsure"
 }

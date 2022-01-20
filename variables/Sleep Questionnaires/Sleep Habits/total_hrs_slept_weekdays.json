@@ -7,8 +7,5 @@
   "calculation": "hour(SLH1C_11_time - SLH1B_11_time)",
   "labels": [
     "sleep_duration"
-  ],
-  "other": {
-    "": "3166"
-  }
+  ]
 }

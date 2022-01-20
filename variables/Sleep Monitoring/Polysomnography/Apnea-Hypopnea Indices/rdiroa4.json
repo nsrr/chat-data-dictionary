@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "hi_srpo_hp5x4r_f1t1"
-  ],
-  "other": {
-    "": "1069"
-  }
+  ]
 }

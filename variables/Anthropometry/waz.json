@@ -3,8 +3,5 @@
   "display_name": "Z-score for weight-for-age",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean",
-  "other": {
-    "": "1959"
-  }
+  "units": "standard deviations from the mean"
 }

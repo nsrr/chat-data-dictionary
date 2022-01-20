@@ -3,8 +3,5 @@
   "display_name": "Percentage of snore time in rapid eye movement sleep (REM) (decibel (dB) level 5)",
   "description": "[(Total time snore at decibel (dB) level 5 in rapid eye movement sleep (REM)) / (total time rapid eye movement sleep (REM))] * 100",
   "type": "numeric",
-  "units": "percent (%)",
-  "other": {
-    "": "1588"
-  }
+  "units": "percent (%)"
 }

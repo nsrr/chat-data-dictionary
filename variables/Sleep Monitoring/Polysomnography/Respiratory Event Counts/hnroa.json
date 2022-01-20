@@ -6,8 +6,5 @@
   "units": "events",
   "labels": [
     "ttlnumhp_snpo_hp5x0o_f1t1"
-  ],
-  "other": {
-    "": "1260"
-  }
+  ]
 }

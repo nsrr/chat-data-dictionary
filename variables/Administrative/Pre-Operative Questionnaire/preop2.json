@@ -3,8 +3,5 @@
   "display_name": "What was the pre-operation Tonsil size?",
   "description": "",
   "type": "choices",
-  "domain": "tonsilsize2",
-  "other": {
-    "": "3180"
-  }
+  "domain": "tonsilsize2"
 }

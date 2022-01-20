@@ -7,8 +7,5 @@
   "labels": [
     "etco2"
   ],
-  "commonly_used": true,
-  "other": {
-    "": "1225"
-  }
+  "commonly_used": true
 }

@@ -6,8 +6,5 @@
   "units": "beats per minute (bpm)",
   "labels": [
     "maxlvlhr_snsopb_f1t1"
-  ],
-  "other": {
-    "": "46"
-  }
+  ]
 }

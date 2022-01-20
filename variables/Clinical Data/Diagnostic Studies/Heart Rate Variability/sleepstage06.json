@@ -3,8 +3,5 @@
   "display_name": "Sleep stage of sixth 30 second epoch in 5 minute window",
   "description": "",
   "type": "choices",
-  "domain": "sleepstage",
-  "other": {
-    "": "2471"
-  }
+  "domain": "sleepstage"
 }

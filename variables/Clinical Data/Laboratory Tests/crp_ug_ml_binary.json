@@ -3,8 +3,5 @@
   "display_name": "Is the C-reactive protein (CRP) level above the detection limit?",
   "description": "Detection limit is 0.15 micrograms per milliliter",
   "type": "choices",
-  "domain": "crp",
-  "other": {
-    "": "1967"
-  }
+  "domain": "crp"
 }

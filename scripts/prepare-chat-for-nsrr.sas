@@ -623,6 +623,45 @@ data chatbaseline_harmonized;
 *ever_smoker;
 *no data;
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u 8.2;
+  nsrr_ahi_hp4u = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_ttldursp_f1;
+*use slpprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = slpprdp;
+  
+*nsrr_phrnumrs_f1;
+*use ai_all;
+  format nsrr_phrnumrs_f1 8.2;
+  nsrr_phrnumrs_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use slewake;
+  format nsrr_flag_spsw $100.;
+  if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+  else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+  else if slewake = 8 then nsrr_flag_spsw = 'don't know';
+  else if slewake = . then nsrr_flag_spsw = 'don't know';  
+  
   keep 
     nsrrid
     vnum
@@ -634,7 +673,14 @@ data chatbaseline_harmonized;
     nsrr_bmi
     nsrr_bp_systolic
     nsrr_bp_diastolic
-    ;
+    nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumrs_f1
+	nsrr_flag_spsw
+	;
 run;
 
 *******************************************************************************;
@@ -647,7 +693,13 @@ proc means data=chatbaseline_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
-    nsrr_bp_diastolic;
+    nsrr_bp_diastolic
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumrs_f1;
 run;
 
 /* Checking categorical variables */
@@ -656,7 +708,8 @@ proc freq data=chatbaseline_harmonized;
 table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
-    nsrr_ethnicity;
+    nsrr_ethnicity
+	nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

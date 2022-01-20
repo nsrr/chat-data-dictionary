@@ -4,8 +4,5 @@
   "description": "The original Site ID was removed from the dataset because it was considered identifiable. This variable has obfuscated the original Site IDs.",
   "type": "choices",
   "domain": "cluster",
-  "commonly_used": true,
-  "other": {
-    "": "1914"
-  }
+  "commonly_used": true
 }

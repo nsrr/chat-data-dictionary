@@ -3,8 +3,5 @@
   "display_name": "Depression still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2592"
-  }
+  "domain": "noyesnotsure"
 }

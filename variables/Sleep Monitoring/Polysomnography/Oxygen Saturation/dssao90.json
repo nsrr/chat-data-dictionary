@@ -6,8 +6,5 @@
   "units": "events",
   "labels": [
     "ttlnumds_su_salt90_f1t1"
-  ],
-  "other": {
-    "": "320"
-  }
+  ]
 }

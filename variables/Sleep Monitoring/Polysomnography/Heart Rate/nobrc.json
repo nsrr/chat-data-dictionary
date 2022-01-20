@@ -3,8 +3,5 @@
   "display_name": "Number of bradycardia related to central apnea (sleep time onset)",
   "description": "Number of bradycardia related to central apnea during sleep",
   "type": "numeric",
-  "units": "beats per minute (bpm)",
-  "other": {
-    "": "1547"
-  }
+  "units": "beats per minute (bpm)"
 }

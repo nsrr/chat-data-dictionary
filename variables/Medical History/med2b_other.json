@@ -2,8 +2,5 @@
   "id": "med2b_other",
   "display_name": "Other allergies, specify",
   "description": "",
-  "type": "string",
-  "other": {
-    "": "2649"
-  }
+  "type": "string"
 }

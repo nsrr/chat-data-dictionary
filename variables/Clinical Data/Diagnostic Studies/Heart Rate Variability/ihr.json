@@ -3,8 +3,5 @@
   "display_name": "Instantaneous heart rate",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute (bpm)",
-  "other": {
-    "": "2453"
-  }
+  "units": "beats per minute (bpm)"
 }

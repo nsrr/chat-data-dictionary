@@ -3,8 +3,5 @@
   "display_name": "Ever had hypertension (HTN)?",
   "description": "Also known as high blood pressure",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2610"
-  }
+  "domain": "noyesnotsure"
 }

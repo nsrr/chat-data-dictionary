@@ -7,8 +7,5 @@
   "calculation": "60*(hrembp4 + hnrbp4 + carbp4 + canbp4 + oarbp4 + oanbp4 + marbp4 + manrbp4)/(remepbp+nremepbp)",
   "labels": [
     "ahi_pb_ap4uhp5x4u_f1t1"
-  ],
-  "other": {
-    "": "1021"
-  }
+  ]
 }

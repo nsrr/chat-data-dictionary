@@ -3,8 +3,5 @@
   "display_name": "Season for Polysomnography (PSG): Aug-Nov vs. All the other",
   "description": "",
   "type": "choices",
-  "domain": "seasons",
-  "other": {
-    "": "1628"
-  }
+  "domain": "seasons"
 }

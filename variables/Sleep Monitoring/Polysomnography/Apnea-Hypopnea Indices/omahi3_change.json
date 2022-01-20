@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "events per hour",
-  "commonly_used": true,
-  "other": {
-    "": "998"
-  }
+  "commonly_used": true
 }

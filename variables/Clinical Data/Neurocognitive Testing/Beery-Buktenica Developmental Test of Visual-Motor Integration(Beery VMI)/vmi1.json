@@ -6,8 +6,5 @@
   "domain": "noyes",
   "forms": [
     "chat_beery_forms"
-  ],
-  "other": {
-    "": "2745"
-  }
+  ]
 }

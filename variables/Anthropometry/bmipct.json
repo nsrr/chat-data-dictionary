@@ -6,8 +6,5 @@
   "units": "percentile",
   "labels": [
     "weight"
-  ],
-  "other": {
-    "": "1950"
-  }
+  ]
 }

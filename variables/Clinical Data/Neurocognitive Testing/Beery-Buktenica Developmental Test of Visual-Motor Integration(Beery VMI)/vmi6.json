@@ -6,8 +6,5 @@
   "units": "percentile",
   "forms": [
     "chat_beery_forms"
-  ],
-  "other": {
-    "": "2750"
-  }
+  ]
 }

@@ -3,8 +3,5 @@
   "display_name": "Referred to Neurologist",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": "2657"
-  }
+  "domain": "noyes"
 }

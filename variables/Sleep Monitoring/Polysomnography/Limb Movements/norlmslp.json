@@ -6,8 +6,5 @@
   "units": "limb movements per hour",
   "labels": [
     "phrnumrl_su_f1t1"
-  ],
-  "other": {
-    "": "580"
-  }
+  ]
 }

@@ -3,8 +3,5 @@
   "display_name": "Attention Deficit Disorder (ADD)/Attention Deficit Hyperactivity Disorder(ADHD) still present?",
   "description": "Also known as Attention Deficit Hyperactivity Disorder (ADHD)",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2576"
-  }
+  "domain": "noyesnotsure"
 }

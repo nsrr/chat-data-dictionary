@@ -6,8 +6,5 @@
   "units": "events per hour",
   "labels": [
     "phrnumsf_s3s1s2_f1t1"
-  ],
-  "other": {
-    "": "332"
-  }
+  ]
 }

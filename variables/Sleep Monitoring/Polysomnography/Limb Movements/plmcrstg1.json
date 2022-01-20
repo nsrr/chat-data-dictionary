@@ -6,8 +6,5 @@
   "units": "limb movements",
   "labels": [
     "ttlnumpc_s1st_f1t1"
-  ],
-  "other": {
-    "": "752"
-  }
+  ]
 }

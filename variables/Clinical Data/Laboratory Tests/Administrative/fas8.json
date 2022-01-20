@@ -6,8 +6,5 @@
   "domain": "samplestatus",
   "forms": [
     "chat_fastveni_forms"
-  ],
-  "other": {
-    "": "2038"
-  }
+  ]
 }

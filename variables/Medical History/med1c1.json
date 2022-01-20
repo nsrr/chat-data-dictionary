@@ -3,8 +3,5 @@
   "display_name": "Ever had asthma?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2570"
-  }
+  "domain": "noyesnotsure"
 }

@@ -3,8 +3,5 @@
   "display_name": "Z-score for weight-for-age change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "standard deviations from the mean",
-  "other": {
-    "": "1920"
-  }
+  "units": "standard deviations from the mean"
 }

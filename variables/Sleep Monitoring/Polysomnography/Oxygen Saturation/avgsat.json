@@ -7,8 +7,5 @@
   "calculation": "((avsao2nh) * (tmstg1p+tmstg2p+tmstg34p) + (avsao2rh_holder)*(tmremp))/100;",
   "labels": [
     "avglvlsa_su_f1t1"
-  ],
-  "other": {
-    "": "135"
-  }
+  ]
 }

@@ -4,8 +4,5 @@
   "description": "",
   "type": "choices",
   "domain": "noyes",
-  "commonly_used": true,
-  "other": {
-    "": "1587"
-  }
+  "commonly_used": true
 }

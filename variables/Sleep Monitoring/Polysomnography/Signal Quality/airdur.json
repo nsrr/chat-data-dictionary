@@ -6,8 +6,5 @@
   "units": "hours (h)",
   "forms": [
     "chat_qs_forms"
-  ],
-  "other": {
-    "": "1087"
-  }
+  ]
 }

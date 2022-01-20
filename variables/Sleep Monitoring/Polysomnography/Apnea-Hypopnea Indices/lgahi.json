@@ -2,8 +2,5 @@
   "id": "lgahi",
   "display_name": "LOG Obstructive Apnea-Hypopnea Index (AHI)",
   "description": "Original source: MS 003",
-  "type": "numeric",
-  "other": {
-    "": "980"
-  }
+  "type": "numeric"
 }

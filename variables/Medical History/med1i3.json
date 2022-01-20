@@ -3,8 +3,5 @@
   "display_name": "Diabetes still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2596"
-  }
+  "domain": "noyesnotsure"
 }

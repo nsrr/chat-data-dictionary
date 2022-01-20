@@ -6,8 +6,5 @@
   "units": "kilograms per year",
   "forms": [
     "chat_anthropometry_forms"
-  ],
-  "other": {
-    "": "1932"
-  }
+  ]
 }

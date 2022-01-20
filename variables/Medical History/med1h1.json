@@ -3,8 +3,5 @@
   "display_name": "Ever had depression?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2590"
-  }
+  "domain": "noyesnotsure"
 }

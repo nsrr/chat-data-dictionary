@@ -6,8 +6,5 @@
   "domain": "childageyear1",
   "forms": [
     "chat_cdi_forms"
-  ],
-  "other": {
-    "": "2058"
-  }
+  ]
 }

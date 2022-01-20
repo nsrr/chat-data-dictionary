@@ -3,8 +3,5 @@
   "display_name": "How was this information obtained?",
   "description": "",
   "type": "choices",
-  "domain": "infoobtained",
-  "other": {
-    "": "3179"
-  }
+  "domain": "infoobtained"
 }

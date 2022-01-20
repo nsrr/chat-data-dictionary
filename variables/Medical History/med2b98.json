@@ -3,8 +3,5 @@
   "display_name": "Child has other allergy",
   "description": "",
   "type": "choices",
-  "domain": "other",
-  "other": {
-    "": "2648"
-  }
+  "domain": "other"
 }

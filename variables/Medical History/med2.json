@@ -3,8 +3,5 @@
   "display_name": "Does your child have allergies?",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
-  "other": {
-    "": "2637"
-  }
+  "domain": "noyes"
 }

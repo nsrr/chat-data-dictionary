@@ -3,8 +3,5 @@
   "display_name": "Other significant medical conditions still present?",
   "description": "",
   "type": "choices",
-  "domain": "noyesnotsure",
-  "other": {
-    "": "2635"
-  }
+  "domain": "noyesnotsure"
 }
