@@ -368,6 +368,35 @@
           headcir /* empty variable */
           hcz /* empty variable */
           hcpct /* empty variable */
+		  ahi3 /*redundant with ahi_a0h3*/
+		  avgdsresp /*redundant with avgdsevent*/
+		  avgsaominnr /*unclear metadata, more reliable variable available*/
+		  avgsaominr /*unclear metadata, more reliable variable available*/
+		  avgsaominrpt /*unclear metadata, more reliable variable available*/
+		  avgsaominslp /*unclear metadata, more reliable variable available*/
+		  cai /*redundant with cai0p*/
+		  oahi3 /*redundant with ahi_o0h3*/
+		  oahi4 /*redundant with ahi_o0h4*/
+		  oai /*redundant with oai0p*/
+		  pctle70 /*redundant with pctsa70*/
+		  pctle75 /*redundant with pctsa75*/
+		  pctle80 /*redundant with pctsa80*/
+		  pctle85 /*redundant with pctsa85*/
+		  pctle90 /*redundant with pctsa90*/
+		  pctle92 /*redundant with pctsa92*/
+		  pctle95 /*redundant with pctsa95*/
+		  pctlt75 /*redundant with pctsa75h*/
+		  pctlt80 /*redundant with pctsa80h*/
+		  pctlt85 /*redundant with pctsa85h*/
+		  pctlt90 /*redundant with pctsa90h*/
+		  rem_lat1 /*redundant with remlaip*/
+		  remlatm /*redundant with remlaip*/
+		  slp_eff /*redundant with slpeffp*/
+		  tmremp /*redundant with timeremp*/
+		  tmstg1p /*redundant with timest1p*/
+		  tmstg2p /*redundant with timest2p*/
+		  tmstg34p /*redundant with timest34p*/
+		  wasom /*redundant with waso*/
           ;
   run;
 
@@ -629,10 +658,10 @@ data chatbaseline_harmonized;
   format nsrr_ahi_hp3u 8.2;
   nsrr_ahi_hp3u = ahi_a0h3;
 
-*nsrr_ahi_hp3r_aasm15;
+*nsrr_ahi_hp3r_aasm07;
 *use ahi_a0h3a;
-  format nsrr_ahi_hp3r_aasm15 8.2;
-  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm07 8.2;
+  nsrr_ahi_hp3r_aasm07 = ahi_a0h3a;
  
 *nsrr_ahi_hp4u;
 *use ahi_a0h4;
@@ -649,18 +678,18 @@ data chatbaseline_harmonized;
   format nsrr_ttldursp_f1 8.2;
   nsrr_ttldursp_f1 = slpprdp;
   
-*nsrr_phrnumrs_f1;
+*nsrr_phrnumar_f1;
 *use ai_all;
-  format nsrr_phrnumrs_f1 8.2;
-  nsrr_phrnumrs_f1 = ai_all;  
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
 
 *nsrr_flag_spsw;
 *use slewake;
   format nsrr_flag_spsw $100.;
-  if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
-  else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
-  else if slewake = 8 then nsrr_flag_spsw = 'don't know';
-  else if slewake = . then nsrr_flag_spsw = 'don't know';  
+    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+    else if slewake = 8 then nsrr_flag_spsw = 'unknown';
+  else if slewake = . then nsrr_flag_spsw = 'unknown';  
   
   keep 
     nsrrid
@@ -674,11 +703,11 @@ data chatbaseline_harmonized;
     nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp3r_aasm07
 	nsrr_ahi_hp4u
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
-	nsrr_phrnumrs_f1
+	nsrr_phrnumar_f1
 	nsrr_flag_spsw
 	;
 run;
@@ -695,11 +724,11 @@ VAR   nsrr_age
     nsrr_bp_systolic
     nsrr_bp_diastolic
 	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp3r_aasm07
 	nsrr_ahi_hp4u
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
-	nsrr_phrnumrs_f1;
+	nsrr_phrnumar_f1;
 run;
 
 /* Checking categorical variables */
