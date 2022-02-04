@@ -378,6 +378,9 @@
 		  oahi3 /*redundant with ahi_o0h3*/
 		  oahi4 /*redundant with ahi_o0h4*/
 		  oai /*redundant with oai0p*/
+		  ahiu3 /*unclear metadata*/
+		  odi /*redundant with odi3*/
+		  slpprdm /*incorrect metadata, not used in the finaldataset*/
 		  pctle70 /*redundant with pctsa70*/
 		  pctle75 /*redundant with pctsa75*/
 		  pctle80 /*redundant with pctsa80*/
