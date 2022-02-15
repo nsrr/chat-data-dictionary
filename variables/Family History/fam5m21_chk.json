@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "check",
   "labels": [
-    "",
     "chat_family_history_questionnaire"
   ],
   "forms": [
