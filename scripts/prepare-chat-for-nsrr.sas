@@ -406,6 +406,7 @@
 		  lghi /*only applied to part of the dataset*/
 		  lghi_0 /*only applied to part of the dataset*/
 		  lgoai /*only applied to part of the dataset*/
+		  lgoai_0 /*only applied to part of the dataset*/
 		  lgai_0 /*only applied to part of the dataset*/
 		  lgai /*only applied to part of the dataset*/
 		  lgai_0 /*only applied to part of the dataset*/
@@ -611,7 +612,8 @@ data chatbaseline_harmonized;
 *age;
 *use ageyear_at_meas;
   format nsrr_age 8.2;
-  nsrr_age = ageyear_at_meas;
+  if ageyear_at_meas gt 89 then nsrr_age = 90;
+  else if ageyear_at_meas le 89 then nsrr_age = ageyear_at_meas;
 
 *age_gt89;
 *use ageyear_at_meas;
