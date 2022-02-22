@@ -1,9 +1,8 @@
-## 0.12.0 (December, 2021)
+## 0.12.0 (February 22, 2022)
 
-- Create 'harmonized' dataset with key variables
+- Create 'harmonized' dataset with key covariates and polysomnography variables
 - Update many display names and variable metadata for clarity
 - Add cyclic alternating pattern variables
-
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.12.0\`
 
