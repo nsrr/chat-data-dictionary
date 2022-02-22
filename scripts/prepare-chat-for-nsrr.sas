@@ -357,6 +357,7 @@
           income /* unknown why this column was mixed in with PSG data, duplicate of other income variables */
           par5_ats_rc /* recoding of income variable (par5), unneeded duplication */
           siteid /* embedded in PSG dataset but supposed to be removed in favor of clusterid */
+		  ai /*redundant with ai_all*/
           slp_time /* redundant with slpprdp */
           slptime /* redundant with slpprdp */
           slptimem /* redundant with slpprdp */
@@ -400,6 +401,18 @@
 		  tmstg2p /*redundant with timest2p*/
 		  tmstg34p /*redundant with timest34p*/
 		  wasom /*redundant with waso*/
+		  lgahi /*only applied to part of the dataset*/
+		  lgahi_0 /*only applied to part of the dataset*/
+		  lghi /*only applied to part of the dataset*/
+		  lghi_0 /*only applied to part of the dataset*/
+		  lgoai /*only applied to part of the dataset*/
+		  lgai_0 /*only applied to part of the dataset*/
+		  lgai /*only applied to part of the dataset*/
+		  lgai_0 /*only applied to part of the dataset*/
+		  lgminsat /*only applied to part of the dataset*/
+		  lgminsat_0 /*only applied to part of the dataset*/
+		  lgpctsa90h /*only applied to part of the dataset*/
+		  lgpctsa90h_0 /*only applied to part of the dataset*/
           ;
   run;
 

@@ -1,7 +1,7 @@
 {
   "id": "ai_all",
   "display_name": "Arousal Index: Number of arousals per hour of sleep from type I polysomnography",
-  "description": "[(Total number of arousals) / (hours of sleep)]",
+  "description": "All arousals were scored but only arousals that started in epoch of sleep are included in the arousal index calculations.<br><br>[(Total number of arousals) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",
   "calculation": "60*(arrembp + arremop +arnrembp +arnremop) / slpprdp",
