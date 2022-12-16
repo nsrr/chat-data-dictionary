@@ -7,5 +7,8 @@
   "labels": [
     "psq",
     "psq_11day"
+  ],
+  "forms": [
+    "chat_sleepquestionnaire_forms"
   ]
 }
