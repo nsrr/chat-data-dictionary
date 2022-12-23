@@ -2,5 +2,8 @@
   "id": "stlonp",
   "display_name": "Lights on set by scorer",
   "description": "Lights on time - end of in-bed period set by scorer",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "chat_qs_forms"
+  ]
 }
