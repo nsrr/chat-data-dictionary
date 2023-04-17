@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "smoking",
   "labels": [
-    "chat_family_history_questionnaire"
+    "chat_family_history_questionnaire",
+    "smoking"
   ],
   "forms": [
     "chat_familyhx_forms"

@@ -4,7 +4,8 @@
   "description": "Smoking is defined as at least 1 cigarette a day",
   "type": "numeric",
   "labels": [
-    "chat_family_history_questionnaire"
+    "chat_family_history_questionnaire",
+    "smoking"
   ],
   "forms": [
     "chat_familyhx_forms"

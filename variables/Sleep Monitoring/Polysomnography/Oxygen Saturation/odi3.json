@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "phrnumds_su_dsge3_f1t1;odi"
+    "phrnumds_su_dsge3_f1t1",
+    "odi"
   ],
   "commonly_used": true
 }

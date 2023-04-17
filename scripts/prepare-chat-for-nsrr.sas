@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.12.0;
+  %let version = 0.13.0;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
@@ -708,6 +708,57 @@ data chatbaseline_harmonized;
     else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
     else if slewake = 8 then nsrr_flag_spsw = 'unknown';
   else if slewake = . then nsrr_flag_spsw = 'unknown';  
+
+
+*nsrr_ttleffsp_f1;
+*use slpeffp;
+  format nsrr_ttleffsp_f1 8.2;
+  nsrr_ttleffsp_f1 = slpeffp;  
+
+*nsrr_ttllatsp_f1;
+*use slplatp;
+  format nsrr_ttllatsp_f1 8.2;
+  nsrr_ttllatsp_f1 = slplatp; 
+
+*nsrr_ttlprdsp_s1sr;
+*use remlaip;
+  format nsrr_ttlprdsp_s1sr 8.2;
+  nsrr_ttlprdsp_s1sr = remlaip; 
+
+*nsrr_ttldursp_s1sr;
+*use remlaiip;
+  format nsrr_ttldursp_s1sr 8.2;
+  nsrr_ttldursp_s1sr = remlaiip; 
+
+*nsrr_ttldurws_f1;
+*use waso;
+  format nsrr_ttldurws_f1 8.2;
+  nsrr_ttldurws_f1 = waso;
+  
+*nsrr_pctdursp_s1;
+*use timest1p;
+  format nsrr_pctdursp_s1 8.2;
+  nsrr_pctdursp_s1 = timest1p;
+
+*nsrr_pctdursp_s2;
+*use timest2p;
+  format nsrr_pctdursp_s2 8.2;
+  nsrr_pctdursp_s2 = timest2p;
+
+*nsrr_pctdursp_s3;
+*use times34p;
+  format nsrr_pctdursp_s3 8.2;
+  nsrr_pctdursp_s3 = times34p;
+
+*nsrr_pctdursp_sr;
+*use timeremp;
+  format nsrr_pctdursp_sr 8.2;
+  nsrr_pctdursp_sr = timeremp;
+
+*nsrr_ttlprdbd_f1;
+*use timebedp;
+  format nsrr_ttlprdbd_f1 8.2;
+  nsrr_ttlprdbd_f1 = timebedp;
   
   keep 
     nsrrid
@@ -727,6 +778,16 @@ data chatbaseline_harmonized;
 	nsrr_ttldursp_f1
 	nsrr_phrnumar_f1
 	nsrr_flag_spsw
+	nsrr_ttleffsp_f1
+	nsrr_ttllatsp_f1
+	nsrr_ttlprdsp_s1sr
+	nsrr_ttldursp_s1sr
+	nsrr_ttldurws_f1
+	nsrr_pctdursp_s1
+	nsrr_pctdursp_s2
+	nsrr_pctdursp_s3
+	nsrr_pctdursp_sr
+	nsrr_ttlprdbd_f1
 	;
 run;
 
@@ -746,7 +807,17 @@ VAR   nsrr_age
 	nsrr_ahi_hp4u
 	nsrr_ahi_hp4r
 	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1;
+	nsrr_phrnumar_f1
+	nsrr_ttleffsp_f1
+	nsrr_ttllatsp_f1
+	nsrr_ttlprdsp_s1sr
+	nsrr_ttldursp_s1sr
+	nsrr_ttldurws_f1
+	nsrr_pctdursp_s1
+	nsrr_pctdursp_s2
+	nsrr_pctdursp_s3
+	nsrr_pctdursp_sr
+	nsrr_ttlprdbd_f1;
 run;
 
 /* Checking categorical variables */

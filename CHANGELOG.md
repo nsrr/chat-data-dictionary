@@ -1,3 +1,12 @@
+## 0.13.0 
+
+- Add harmonized PSG sleep architecture variables
+- Add annotated survey forms for Pediatric Sleep Question
+- Update annotated PSG QS forms
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.13.0\`
+
+
 ## 0.12.0 (February 22, 2022)
 
 - Create 'harmonized' dataset with key covariates and polysomnography variables
