@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.13.0;
+  %let version = 0.13.0.pre;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
@@ -357,7 +357,7 @@
           income /* unknown why this column was mixed in with PSG data, duplicate of other income variables */
           par5_ats_rc /* recoding of income variable (par5), unneeded duplication */
           siteid /* embedded in PSG dataset but supposed to be removed in favor of clusterid */
-		  ai /*redundant with ai_all*/
+      ai /*redundant with ai_all*/
           slp_time /* redundant with slpprdp */
           slptime /* redundant with slpprdp */
           slptimem /* redundant with slpprdp */
@@ -369,51 +369,53 @@
           headcir /* empty variable */
           hcz /* empty variable */
           hcpct /* empty variable */
-		  ahi3 /*redundant with ahi_a0h3*/
-		  avgdsresp /*redundant with avgdsevent*/
-		  avgsaominnr /*unclear metadata, more reliable variable available*/
-		  avgsaominr /*unclear metadata, more reliable variable available*/
-		  avgsaominrpt /*unclear metadata, more reliable variable available*/
-		  avgsaominslp /*unclear metadata, more reliable variable available*/
-		  cai /*redundant with cai0p*/
-		  oahi3 /*redundant with ahi_o0h3*/
-		  oahi4 /*redundant with ahi_o0h4*/
-		  oai /*redundant with oai0p*/
-		  ahiu3 /*unclear metadata*/
-		  odi /*redundant with odi3*/
-		  slpprdm /*incorrect metadata, not used in the finaldataset*/
-		  pctle70 /*redundant with pctsa70*/
-		  pctle75 /*redundant with pctsa75*/
-		  pctle80 /*redundant with pctsa80*/
-		  pctle85 /*redundant with pctsa85*/
-		  pctle90 /*redundant with pctsa90*/
-		  pctle92 /*redundant with pctsa92*/
-		  pctle95 /*redundant with pctsa95*/
-		  pctlt75 /*redundant with pctsa75h*/
-		  pctlt80 /*redundant with pctsa80h*/
-		  pctlt85 /*redundant with pctsa85h*/
-		  pctlt90 /*redundant with pctsa90h*/
-		  rem_lat1 /*redundant with remlaip*/
-		  remlatm /*redundant with remlaip*/
-		  slp_eff /*redundant with slpeffp*/
-		  tmremp /*redundant with timeremp*/
-		  tmstg1p /*redundant with timest1p*/
-		  tmstg2p /*redundant with timest2p*/
-		  tmstg34p /*redundant with timest34p*/
-		  wasom /*redundant with waso*/
-		  lgahi /*only applied to part of the dataset*/
-		  lgahi_0 /*only applied to part of the dataset*/
-		  lghi /*only applied to part of the dataset*/
-		  lghi_0 /*only applied to part of the dataset*/
-		  lgoai /*only applied to part of the dataset*/
-		  lgoai_0 /*only applied to part of the dataset*/
-		  lgai_0 /*only applied to part of the dataset*/
-		  lgai /*only applied to part of the dataset*/
-		  lgai_0 /*only applied to part of the dataset*/
-		  lgminsat /*only applied to part of the dataset*/
-		  lgminsat_0 /*only applied to part of the dataset*/
-		  lgpctsa90h /*only applied to part of the dataset*/
-		  lgpctsa90h_0 /*only applied to part of the dataset*/
+      ahi3 /*redundant with ahi_a0h3*/
+      avgdsresp /*redundant with avgdsevent*/
+      avgsaominnr /*unclear metadata, more reliable variable available*/
+      avgsaominr /*unclear metadata, more reliable variable available*/
+      avgsaominrpt /*unclear metadata, more reliable variable available*/
+      avgsaominslp /*unclear metadata, more reliable variable available*/
+      cai /*redundant with cai0p*/
+      oahi3 /*redundant with ahi_o0h3*/
+      oahi4 /*redundant with ahi_o0h4*/
+      oai /*redundant with oai0p*/
+      ahiu3 /*unclear metadata*/
+      odi /*redundant with odi3*/
+      slpprdm /*incorrect metadata, not used in the finaldataset*/
+      pctle70 /*redundant with pctsa70*/
+      pctle75 /*redundant with pctsa75*/
+      pctle80 /*redundant with pctsa80*/
+      pctle85 /*redundant with pctsa85*/
+      pctle90 /*redundant with pctsa90*/
+      pctle92 /*redundant with pctsa92*/
+      pctle95 /*redundant with pctsa95*/
+      pctlt75 /*redundant with pctsa75h*/
+      pctlt80 /*redundant with pctsa80h*/
+      pctlt85 /*redundant with pctsa85h*/
+      pctlt90 /*redundant with pctsa90h*/
+      rem_lat1 /*redundant with remlaip*/
+      remlatm /*redundant with remlaip*/
+      slp_eff /*redundant with slpeffp*/
+      tmremp /*redundant with timeremp*/
+      tmstg1p /*redundant with timest1p*/
+      tmstg2p /*redundant with timest2p*/
+      tmstg34p /*redundant with timest34p*/
+      wasom /*redundant with waso*/
+      lgahi /*only applied to part of the dataset*/
+      lgahi_0 /*only applied to part of the dataset*/
+      lghi /*only applied to part of the dataset*/
+      lghi_0 /*only applied to part of the dataset*/
+      lgoai /*only applied to part of the dataset*/
+      lgoai_0 /*only applied to part of the dataset*/
+      lgai_0 /*only applied to part of the dataset*/
+      lgai /*only applied to part of the dataset*/
+      lgai_0 /*only applied to part of the dataset*/
+      lgminsat /*only applied to part of the dataset*/
+      lgminsat_0 /*only applied to part of the dataset*/
+      lgpctsa90h /*only applied to part of the dataset*/
+      lgpctsa90h_0 /*only applied to part of the dataset*/
+      rcrdtime /* hand-entered in QS - redundant with timebedp */
+      stlonp /* restore later in code alongside stloutp */
           ;
   run;
 
@@ -524,13 +526,87 @@
      ;
   run;
 
+
+*******************************************************************************;
+* restore previously redacted (BioLINCC) variables for re-inclusion ;
+*******************************************************************************;
+  data chatrestore1;
+    set chatb.chat_mega_data_04242014;
+
+    if randomized = 1;
+
+    format stloutp2 stlonp2 time8.;
+    stloutp2 = input(stloutp,time8.);
+    stlonp2 = input(stlonp,time8.);
+
+    keep
+      pid
+      vnum
+      stloutp2
+      stlonp2
+      ;
+  run;
+
+  data chatrestore2;
+    set chatrestore1;
+
+    rename 
+      stloutp2 = stloutp
+      stlonp2 = stlonp;
+
+    if stloutp2 = . then delete;
+  run;
+
+  proc sort data=chatrestore2;
+    by pid vnum;
+  run;
+
+  data chat_ids;
+    set obf.chat_ids_nsrr;
+  run;
+
+  proc sort data=chat_ids;
+    by pid;
+  run;
+
+  data chatrestore2_nsrr;
+    length obf_pptid 8.;
+    merge
+      chatrestore2 (in=a)
+      chat_ids (keep=pid obf_pptid)
+      ;
+    by pid;
+
+    if a;
+
+    rename obf_pptid = nsrrid;
+
+    drop pid;
+  run;
+
+  proc sort data=chatrestore2_nsrr;
+    by nsrrid vnum;
+  run;
+
 *******************************************************************************;
 * split dataset into two parts based on vnum ;
 *******************************************************************************;
-  data chatbaseline
-    chatfollowup;
-    merge chat_latest_withunit chat_async_base chat_async_fu chat_cycl_base chat_cycl_fu;
+  data 
+    chatbaseline
+    chatfollowup
+    ;
+    merge 
+      chat_latest_withunit 
+      chat_async_base 
+      chat_async_fu 
+      chat_cycl_base 
+      chat_cycl_fu
+      chatrestore2_nsrr
+      ;
     by nsrrid vnum;
+
+    *remove those with missing new_pid - excluded from final CHAT datasets;
+    if new_pid = . then delete;
 
     *visit number is 'vnum';
     if vnum = 3 then output chatbaseline;
@@ -772,23 +848,23 @@ data chatbaseline_harmonized;
     nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm07
-	nsrr_ahi_hp4u
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_flag_spsw
-	nsrr_ttleffsp_f1
-	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1sr
-	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
-	nsrr_pctdursp_s1
-	nsrr_pctdursp_s2
-	nsrr_pctdursp_s3
-	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1
-	;
+  nsrr_ahi_hp3r_aasm07
+  nsrr_ahi_hp4u
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_ttldursp_s1sr
+  nsrr_ttldurws_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_ttlprdbd_f1
+  ;
 run;
 
 *******************************************************************************;
@@ -802,22 +878,22 @@ VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
     nsrr_bp_diastolic
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm07
-	nsrr_ahi_hp4u
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_ttleffsp_f1
-	nsrr_ttllatsp_f1
-	nsrr_ttlprdsp_s1sr
-	nsrr_ttldursp_s1sr
-	nsrr_ttldurws_f1
-	nsrr_pctdursp_s1
-	nsrr_pctdursp_s2
-	nsrr_pctdursp_s3
-	nsrr_pctdursp_sr
-	nsrr_ttlprdbd_f1;
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm07
+  nsrr_ahi_hp4u
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_ttldursp_s1sr
+  nsrr_ttldurws_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_ttlprdbd_f1;
 run;
 
 /* Checking categorical variables */
@@ -827,7 +903,7 @@ table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
     nsrr_ethnicity
-	nsrr_flag_spsw;
+  nsrr_flag_spsw;
 run;
 
 *******************************************************************************;

@@ -3,6 +3,9 @@
 - Add harmonized PSG sleep architecture variables
 - Add annotated survey forms for Pediatric Sleep Question
 - Update annotated PSG QS forms
+- Remove rcrdtime variable (redundant with timebedp)
+- Add slpoutp variable (lights out timing from PSG)
+- Remove 11 censored subjects from baseline dataset (inadvertently added back in 0.7.0)
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.13.0\`
 
