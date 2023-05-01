@@ -1,4 +1,4 @@
-## 0.13.0 
+## 0.13.0 (May 1, 2023)
 
 - Add harmonized PSG sleep architecture variables
 - Add annotated survey forms for Pediatric Sleep Question
