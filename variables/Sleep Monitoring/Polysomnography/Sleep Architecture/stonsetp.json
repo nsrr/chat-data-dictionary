@@ -1,0 +1,6 @@
+{
+  "id": "stonsetp",
+  "display_name": "Sleep onset time",
+  "description": "Beginning of sleep (defined as 1 epoch of sleep)",
+  "type": "time"
+}

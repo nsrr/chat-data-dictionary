@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.13.0;
+  %let version = 0.14.0.pre;
 
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
@@ -416,6 +416,7 @@
       lgpctsa90h_0 /*only applied to part of the dataset*/
       rcrdtime /* hand-entered in QS - redundant with timebedp */
       stlonp /* restore later in code alongside stloutp */
+      stonsetp /* restore later in code alongside stloutp/stlonp */
           ;
   run;
 
@@ -535,14 +536,16 @@
 
     if randomized = 1;
 
-    format stloutp2 stlonp2 time8.;
+    format stloutp2 stonsetp2 stlonp2 time8.;
     stloutp2 = input(stloutp,time8.);
+    stonsetp2 = input(stonsetp,time8.);
     stlonp2 = input(stlonp,time8.);
 
     keep
       pid
       vnum
       stloutp2
+      stonsetp2
       stlonp2
       ;
   run;
@@ -552,6 +555,7 @@
 
     rename 
       stloutp2 = stloutp
+      stonsetp2 = stonsetp
       stlonp2 = stlonp;
 
     if stloutp2 = . then delete;
