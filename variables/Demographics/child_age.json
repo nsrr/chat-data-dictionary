@@ -1,0 +1,8 @@
+{
+  "id": "child_age",
+  "display_name": "Child's age rounded to the nearest quarter year",
+  "description": "Provided by the data contributor for a more precise age than the :ageyear_at_meas: integer value. At follow-up, computed as the baseline age plus the time to follow-up anthropometry measurements (:ant1:).",
+  "type": "numeric",
+  "units": "years",
+  "commonly_used": true
+}

@@ -58,6 +58,12 @@
     if vnum = 10 then male = maleretain;
     drop maleretain;
 
+    *retain ant1retain;
+    retain child_age_retain;
+    if vnum = 3 then child_age_retain = child_age;
+    if vnum = 10 then child_age = round(child_age_retain + ((ant1/86400) / 365.25),.25);
+    drop child_age_retain;
+
     *remove values for 'par2r' and 'par4r' at follow-up -- only needed on
       baseline dataset;
     if vnum = 10 then do;
@@ -91,6 +97,12 @@
       slh5g_fu = slh5g;
       slh5h_fu = slh5h;
       slh5i_fu = slh5i;
+    end;
+
+    *add sleep maintenance efficiency;
+    if timebedp ne 0 then do;
+        if slplatp > . then slp_maint_eff = 100*(slpprdp/(timebedp-slplatp));
+        else if slplatp = . then slp_maint_eff = 100*(slpprdp/timebedp);
     end;
 
     *create new AHI variables for ICSD3;
@@ -350,7 +362,6 @@
           chg_bmi /* duplicate variable of bmi_change */
           bmiz_change /* swap with chg_bmiz, which looks inconsistent */
           mat2a /* dubious worth, process variables */
-          child_age /* confusing; use ageyear_at_meas instead */
           eli1-eli23 /* eligibility variables are irrelevant because all randomized subjects met inc/exc criteria */
           eli11a eli16a eli3a /* more eligibility variables to drop */
           ahi /* duplicitous -- use 'omahi3' as primary AHI variable */
@@ -585,8 +596,30 @@
 
     rename obf_pptid = nsrrid;
 
+    *create decimal hours variables for PSG lights/onset;
+    format stloutp_dec stonsetp_dec stlonp_dec 8.2;
+  	if stloutp < 43200 then stloutp_dec = stloutp/3600 + 24;
+  	else stloutp_dec = stloutp/3600;
+  	if stonsetp < 43200 then stonsetp_dec = stonsetp/3600 + 24;
+  	else stonsetp_dec = stonsetp/3600;
+  	stlonp_dec = stlonp/3600 + 24;
+
     drop pid;
   run;
+
+  /*
+
+  proc freq data=chatrestore2_nsrr;
+    table stloutp_dec stonsetp_dec stlonp_dec;
+  run;
+
+  proc sql;
+    select nsrrid
+    from chatrestore2_nsrr
+    where stloutp_dec > stonsetp_dec or stonsetp_dec > stlonp_dec;
+  quit;
+
+  */
 
   proc sort data=chatrestore2_nsrr;
     by nsrrid vnum;

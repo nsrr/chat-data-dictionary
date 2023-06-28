@@ -4,7 +4,6 @@
   "description": "",
   "type": "numeric",
   "units": "years",
-  "commonly_used": true,
   "forms": [
     "chat_cdi_forms"
   ]
