@@ -3,6 +3,9 @@
   "display_name": "Lights out set by scorer",
   "description": "Lights out time - start of in-bed period set by scorer",
   "type": "time",
+  "labels": [
+    "begtimsp_f1t1"
+  ],
   "forms": [
     "chat_qs_forms"
   ]

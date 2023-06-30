@@ -804,10 +804,10 @@ data chatbaseline_harmonized;
   format nsrr_ahi_hp4r 8.2;
   nsrr_ahi_hp4r = ahi_a0h4a;
  
-*nsrr_ttldursp_f1;
+*nsrr_tst_f1;
 *use slpprdp;
-  format nsrr_ttldursp_f1 8.2;
-  nsrr_ttldursp_f1 = slpprdp;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = slpprdp;
   
 *nsrr_phrnumar_f1;
 *use ai_all;
@@ -843,10 +843,10 @@ data chatbaseline_harmonized;
   format nsrr_ttldursp_s1sr 8.2;
   nsrr_ttldursp_s1sr = remlaiip; 
 
-*nsrr_ttldurws_f1;
+*nsrr_waso_f1;
 *use waso;
-  format nsrr_ttldurws_f1 8.2;
-  nsrr_ttldurws_f1 = waso;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = waso;
   
 *nsrr_pctdursp_s1;
 *use timest1p;
@@ -868,10 +868,25 @@ data chatbaseline_harmonized;
   format nsrr_pctdursp_sr 8.2;
   nsrr_pctdursp_sr = timeremp;
 
-*nsrr_ttlprdbd_f1;
+*nsrr_tib_f1;
 *use timebedp;
-  format nsrr_ttlprdbd_f1 8.2;
-  nsrr_ttlprdbd_f1 = timebedp;
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = timebedp;
+
+*nsrr_begtimbd_f1;
+*use stloutp;
+  format nsrr_begtimbd_f1 time8.;
+  nsrr_begtimbd_f1 = stloutp;
+
+*nsrr_begtimsp_f1;
+*use stonsetp;
+  format nsrr_begtimsp_f1 time8.;
+  nsrr_begtimsp_f1 = stonsetp;
+
+*nsrr_endtimbd_f1;
+*use stlonp;
+  format nsrr_endtimbd_f1 time8.;
+  nsrr_endtimbd_f1 = stlonp;
   
   keep 
     nsrrid
@@ -888,29 +903,241 @@ data chatbaseline_harmonized;
   nsrr_ahi_hp3r_aasm07
   nsrr_ahi_hp4u
   nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
+  nsrr_tst_f1
   nsrr_phrnumar_f1
   nsrr_flag_spsw
   nsrr_ttleffsp_f1
   nsrr_ttllatsp_f1
-  nsrr_ttlprdsp_s1sr
   nsrr_ttldursp_s1sr
-  nsrr_ttldurws_f1
+  nsrr_ttlprdsp_s1sr
+  nsrr_waso_f1
   nsrr_pctdursp_s1
   nsrr_pctdursp_s2
   nsrr_pctdursp_s3
   nsrr_pctdursp_sr
-  nsrr_ttlprdbd_f1
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1
   ;
 run;
 
+/*Follow up visit dataset*/
+data chatfollowup_harmonized;
+  set chatfollowup;
+
+*demographics
+*age;
+*use ageyear_at_meas;
+  format nsrr_age 8.2;
+  if ageyear_at_meas gt 89 then nsrr_age = 90;
+  else if ageyear_at_meas le 89 then nsrr_age = ageyear_at_meas;
+
+*age_gt89;
+*use ageyear_at_meas;
+  format nsrr_age_gt89 $100.; 
+  if ageyear_at_meas gt 89 then nsrr_age_gt89='yes';
+  else if ageyear_at_meas le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use male;
+  format nsrr_sex $100.;
+  if male = '01' then nsrr_sex = 'male';
+  else if male = '0' then nsrr_sex = 'female';
+  else if male = '.' then nsrr_sex = 'not reported';
+
+*race;
+*use ref4;
+    format nsrr_race $100.;
+    if ref4 = 1 then nsrr_race = 'american indian or alaska native';
+    else if ref4 = 2 then nsrr_race = 'asian';
+    else if ref4 = 3 then nsrr_race = 'native hawaiian or other pacific islander';
+    else if ref4 = 4 then nsrr_race = 'black or african american';
+  else if ref4 = 5 then nsrr_race = 'white';
+  else if ref4 = 6 then nsrr_race = 'multiple';
+  else if ref4 = 7 then nsrr_race = 'other';
+  *note: the 'not reported includes 'not sure';
+  else  nsrr_race = 'not reported';
+
+*ethnicity;
+*use chi3;
+  format nsrr_ethnicity $100.;
+    if chi3 = '01' then nsrr_ethnicity = 'hispanic or latino';
+    else if chi3 = '02' then nsrr_ethnicity = 'not hispanic or latino';
+  else if chi3 = '.' then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use ant5;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = ant5;
+
+*clinical data/vital signs
+*bp_systolic;
+*use bp41;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = bp41;
+
+*bp_diastolic;
+*use bp42;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = bp42;
+
+*lifestyle and behavioral health
+*current_smoker;
+*ever_smoker;
+*no data;
+
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm07;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm07 8.2;
+  nsrr_ahi_hp3r_aasm07 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u 8.2;
+  nsrr_ahi_hp4u = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_tst_f1;
+*use slpprdp;
+  format nsrr_tst_f1 8.2;
+  nsrr_tst_f1 = slpprdp;
+  
+*nsrr_phrnumar_f1;
+*use ai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use slewake;
+  format nsrr_flag_spsw $100.;
+    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+    else if slewake = 8 then nsrr_flag_spsw = 'unknown';
+  else if slewake = . then nsrr_flag_spsw = 'unknown';  
+
+
+*nsrr_ttleffsp_f1;
+*use slpeffp;
+  format nsrr_ttleffsp_f1 8.2;
+  nsrr_ttleffsp_f1 = slpeffp;  
+
+*nsrr_ttllatsp_f1;
+*use slplatp;
+  format nsrr_ttllatsp_f1 8.2;
+  nsrr_ttllatsp_f1 = slplatp; 
+
+*nsrr_ttlprdsp_s1sr;
+*use remlaip;
+  format nsrr_ttlprdsp_s1sr 8.2;
+  nsrr_ttlprdsp_s1sr = remlaip; 
+
+*nsrr_ttldursp_s1sr;
+*use remlaiip;
+  format nsrr_ttldursp_s1sr 8.2;
+  nsrr_ttldursp_s1sr = remlaiip; 
+
+*nsrr_waso_f1;
+*use waso;
+  format nsrr_waso_f1 8.2;
+  nsrr_waso_f1 = waso;
+  
+*nsrr_pctdursp_s1;
+*use timest1p;
+  format nsrr_pctdursp_s1 8.2;
+  nsrr_pctdursp_s1 = timest1p;
+
+*nsrr_pctdursp_s2;
+*use timest2p;
+  format nsrr_pctdursp_s2 8.2;
+  nsrr_pctdursp_s2 = timest2p;
+
+*nsrr_pctdursp_s3;
+*use times34p;
+  format nsrr_pctdursp_s3 8.2;
+  nsrr_pctdursp_s3 = times34p;
+
+*nsrr_pctdursp_sr;
+*use timeremp;
+  format nsrr_pctdursp_sr 8.2;
+  nsrr_pctdursp_sr = timeremp;
+
+*nsrr_tib_f1;
+*use timebedp;
+  format nsrr_tib_f1 8.2;
+  nsrr_tib_f1 = timebedp;
+
+*nsrr_begtimbd_f1;
+*use stloutp;
+  format nsrr_begtimbd_f1 time8.;
+  nsrr_begtimbd_f1 = stloutp;
+
+*nsrr_begtimsp_f1;
+*use stonsetp;
+  format nsrr_begtimsp_f1 time8.;
+  nsrr_begtimsp_f1 = stonsetp;
+
+*nsrr_endtimbd_f1;
+*use stlonp;
+  format nsrr_endtimbd_f1 time8.;
+  nsrr_endtimbd_f1 = stlonp;
+  
+  keep 
+    nsrrid
+    vnum
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm07
+  nsrr_ahi_hp4u
+  nsrr_ahi_hp4r
+  nsrr_tst_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
+  nsrr_ttleffsp_f1
+  nsrr_ttllatsp_f1
+  nsrr_ttldursp_s1sr
+  nsrr_ttlprdsp_s1sr
+  nsrr_waso_f1
+  nsrr_pctdursp_s1
+  nsrr_pctdursp_s2
+  nsrr_pctdursp_s3
+  nsrr_pctdursp_sr
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1
+  ;
+run;
+
+* concatenate baseline, and followup harmonized datasets;
+data chat_harmonized;
+   set chatbaseline_harmonized chatfollowup_harmonized;
+run;
 *******************************************************************************;
 * checking harmonized datasets ;
 *******************************************************************************;
 
 /* Checking for extreme values for continuous variables */
 
-proc means data=chatbaseline_harmonized;
+proc means data=chat_harmonized;
 VAR   nsrr_age
     nsrr_bmi
     nsrr_bp_systolic
@@ -919,23 +1146,27 @@ VAR   nsrr_age
   nsrr_ahi_hp3r_aasm07
   nsrr_ahi_hp4u
   nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
+  nsrr_tst_f1
   nsrr_phrnumar_f1
   nsrr_ttleffsp_f1
   nsrr_ttllatsp_f1
   nsrr_ttlprdsp_s1sr
   nsrr_ttldursp_s1sr
-  nsrr_ttldurws_f1
+  nsrr_waso_f1
   nsrr_pctdursp_s1
   nsrr_pctdursp_s2
   nsrr_pctdursp_s3
   nsrr_pctdursp_sr
-  nsrr_ttlprdbd_f1;
+  nsrr_tib_f1
+  nsrr_begtimbd_f1
+  nsrr_begtimsp_f1
+  nsrr_endtimbd_f1
+  ;
 run;
 
 /* Checking categorical variables */
 
-proc freq data=chatbaseline_harmonized;
+proc freq data=chat_harmonized;
 table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
@@ -964,7 +1195,7 @@ run;
   %lowcase(chatbaseline);
   %lowcase(chatfollowup);
   %lowcase(chatnonrandomized);
-  %lowcase(charbaseline_harmonized);
+  %lowcase(chat_harmonized);
 
 *******************************************************************************;
 * create permanent sas datasets ;
@@ -1002,8 +1233,8 @@ run;
     replace;
   run;
 
-    proc export data=chatbaseline_harmonized
-    outfile="&releasepath\&version\chat-baseline-harmonized-dataset-&version..csv"
+    proc export data=chat_harmonized
+    outfile="&releasepath\&version\chat-harmonized-dataset-&version..csv"
     dbms=csv
     replace;
   run;

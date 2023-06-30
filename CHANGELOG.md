@@ -2,8 +2,11 @@
 
 - Add stonsetp (sleep onset time from PSG) and lights/onset in decimal hour variables
 - Add sleep maintenance efficiency variable
+- Add harmonized data to followup visit
+- Add `child_age` variable 
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.14.0.pre\`
+
 
 ## 0.13.0 (May 1, 2023)
 

@@ -6,7 +6,7 @@
   "units": "minutes (min)",
   "calculation": "timebedp - slpprdp - slplatp",
   "labels": [
-    "wasom",
+    "waso",
     "ttldurws_f1t1"
   ],
   "commonly_used": true
