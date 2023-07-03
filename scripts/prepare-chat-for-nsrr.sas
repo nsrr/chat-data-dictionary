@@ -723,16 +723,16 @@ data chatbaseline_harmonized;
 
 *demographics
 *age;
-*use ageyear_at_meas;
+*use child_age;
   format nsrr_age 8.2;
-  if ageyear_at_meas gt 89 then nsrr_age = 90;
-  else if ageyear_at_meas le 89 then nsrr_age = ageyear_at_meas;
+  if child_age gt 89 then nsrr_age = 90;
+  else if child_age le 89 then nsrr_age = child_age;
 
 *age_gt89;
-*use ageyear_at_meas;
+*use child_age;
   format nsrr_age_gt89 $100.; 
-  if ageyear_at_meas gt 89 then nsrr_age_gt89='yes';
-  else if ageyear_at_meas le 89 then nsrr_age_gt89='no';
+  if child_age gt 89 then nsrr_age_gt89='yes';
+  else if child_age le 89 then nsrr_age_gt89='no';
 
 *sex;
 *use male;
@@ -928,16 +928,16 @@ data chatfollowup_harmonized;
 
 *demographics
 *age;
-*use ageyear_at_meas;
+*use child_age;
   format nsrr_age 8.2;
-  if ageyear_at_meas gt 89 then nsrr_age = 90;
-  else if ageyear_at_meas le 89 then nsrr_age = ageyear_at_meas;
+  if child_age gt 89 then nsrr_age = 90;
+  else if child_age le 89 then nsrr_age = child_age;
 
 *age_gt89;
-*use ageyear_at_meas;
+*use child_age;
   format nsrr_age_gt89 $100.; 
-  if ageyear_at_meas gt 89 then nsrr_age_gt89='yes';
-  else if ageyear_at_meas le 89 then nsrr_age_gt89='no';
+  if child_age gt 89 then nsrr_age_gt89='yes';
+  else if child_age le 89 then nsrr_age_gt89='no';
 
 *sex;
 *use male;
