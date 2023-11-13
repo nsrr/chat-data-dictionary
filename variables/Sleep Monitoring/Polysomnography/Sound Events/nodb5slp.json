@@ -5,9 +5,6 @@
   "type": "integer",
   "units": "snores",
   "labels": [
-    "nrem",
-    "non-rapid eye movement",
-    "rem",
-    "rapid eye movement sleep"
+    "ttlnumsn_sp_db5_g1t1"
   ]
 }

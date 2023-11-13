@@ -428,6 +428,9 @@
       rcrdtime /* hand-entered in QS - redundant with timebedp */
       stlonp /* restore later in code alongside stloutp */
       stonsetp /* restore later in code alongside stloutp/stlonp */
+	  lmtot /*unclear metadata, use lmslp instead */
+	  plmctot /*unclear metadata, use plmcslp instead*/
+	  plmtot /*unclear metadata, use plmslp instead*/
           ;
   run;
 

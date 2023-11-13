@@ -5,9 +5,6 @@
   "type": "numeric",
   "units": "percent (%)",
   "labels": [
-    "nrem",
-    "rem",
-    "non-rapid eye movement",
-    "rapid eye movement"
+    "pctdursp_srsn_db5_f1t1"
   ]
 }

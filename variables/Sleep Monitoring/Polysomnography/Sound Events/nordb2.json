@@ -3,5 +3,8 @@
   "display_name": "Number of snore in rapid eye movement sleep (REM) (decibel (dB) level 2)",
   "description": "",
   "type": "integer",
-  "units": "snores"
+  "units": "snores",
+  "labels": [
+    "ttlnumsn_sr_db2_g1t1"
+  ]
 }

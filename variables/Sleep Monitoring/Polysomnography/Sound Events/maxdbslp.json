@@ -5,9 +5,6 @@
   "type": "numeric",
   "units": "decibels (dB)",
   "labels": [
-    "nrem",
-    "non-rapid eye movement",
-    "rem",
-    "rapid eye movement"
+    "maxlvlsn_sp_f1t1"
   ]
 }

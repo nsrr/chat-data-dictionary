@@ -5,10 +5,6 @@
   "type": "numeric",
   "units": "beats per minute (bpm)",
   "labels": [
-    "heart rate",
-    "nrem",
-    "rem",
-    "rapid eye movement",
-    "non-rapid eye movement"
+    "pmnnumta_sp_f1t1"
   ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Number of bradycardia related to hypopnea (sleep time onset)",
   "description": "",
   "type": "numeric",
-  "units": "beats per minute (bpm)"
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "pmnnumbr_hp5x0u_f1t1"
+  ]
 }
