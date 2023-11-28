@@ -1,10 +1,10 @@
 {
   "id": "omahi3o",
   "display_name": "Childhood Adenotonsillectomy Trial (CHAT) Apnea-Hypopnea Index (AHI) - Obstructive and Mixed Apnea-Hypopnea Index (Non-Supine): (Obstructive apneas with no oxygen desaturation threshold used and with or without arousal+ mixed apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 50% flow reduction and >= 3% oxygen desaturation or arousal) / hour of sleep in non-supine position from type I polysomnography",
-  "description": "Calculated - Summary metric of sleep disordered breathing events. will be missing if Total Sleep Time (TST) is 0.",
+  "description": "Calculated - Summary metric of sleep disordered breathing events. Will be missing if Total Sleep Time (TST) is 0.",
   "type": "numeric",
   "units": "events per hour",
-  "calculation": "60*(oarop + oanop + marop + manrop + hroa3 + hnroa3) / slpprdp",
+  "calculation": "60 * (oarop + oanop + marop + manrop + hroa3 + hnroa3) / (remepop + nremepop)",
   "labels": [
     "omahi_po_oa0uma0uhp5x3r_f1t1"
   ],

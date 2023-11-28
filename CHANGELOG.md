@@ -4,6 +4,7 @@
 - Add sleep maintenance efficiency variable
 - Add harmonized data to followup visit
 - Add `child_age` variable 
+- Fix calculations and values for AHI variables (omahi3r, omahi3nr, omahi3b, omahi3o)
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-chat\nsrr-prep\_releases\0.14.0.pre\`
 

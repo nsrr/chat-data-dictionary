@@ -146,6 +146,19 @@
     cent_obs_ratioa = (carba + caroa + canba + canoa) /
                       (oarba + oaroa + oanba + oanoa);
 
+    *fix omahi3* variants - correct denominator (eventually update source);
+    *first clear existing values, then recompute;
+    omahi3r = .;
+    omahi3nr = .;
+    omahi3b = .;
+    omahi3o = .;
+
+    if slpprdp gt 0 then do;
+      omahi3r = 60 * (oarbp + oarop + marbp + marop + hremba3 + hroa3) / (minremp);
+      omahi3nr = 60 * (oanbp + oanop + manrbp + manrop + hnrba3 + hnroa3) / (slpprdp - minremp);
+      omahi3b = 60 * (oarbp + oanbp + marbp +  manrbp + hremba3 + hnrba3) / (remepbp + nremepbp);
+      omahi3o = 60 * (oarop + oanop + marop + manrop + hroa3 + hnroa3) / (remepop + nremepop);
+    end;
 
     *create epworth total variables;
     epworthscore_adult = sum(of sls1-sls8);
@@ -428,9 +441,9 @@
       rcrdtime /* hand-entered in QS - redundant with timebedp */
       stlonp /* restore later in code alongside stloutp */
       stonsetp /* restore later in code alongside stloutp/stlonp */
-	  lmtot /*unclear metadata, use lmslp instead */
-	  plmctot /*unclear metadata, use plmcslp instead*/
-	  plmtot /*unclear metadata, use plmslp instead*/
+    lmtot /*unclear metadata, use lmslp instead */
+    plmctot /*unclear metadata, use plmcslp instead*/
+    plmtot /*unclear metadata, use plmslp instead*/
           ;
   run;
 
@@ -601,11 +614,11 @@
 
     *create decimal hours variables for PSG lights/onset;
     format stloutp_dec stonsetp_dec stlonp_dec 8.2;
-  	if stloutp < 43200 then stloutp_dec = stloutp/3600 + 24;
-  	else stloutp_dec = stloutp/3600;
-  	if stonsetp < 43200 then stonsetp_dec = stonsetp/3600 + 24;
-  	else stonsetp_dec = stonsetp/3600;
-  	stlonp_dec = stlonp/3600 + 24;
+    if stloutp < 43200 then stloutp_dec = stloutp/3600 + 24;
+    else stloutp_dec = stloutp/3600;
+    if stonsetp < 43200 then stonsetp_dec = stonsetp/3600 + 24;
+    else stonsetp_dec = stonsetp/3600;
+    stlonp_dec = stlonp/3600 + 24;
 
     drop pid;
   run;
