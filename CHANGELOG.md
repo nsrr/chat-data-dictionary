@@ -1,4 +1,4 @@
-## 0.14.0
+## 0.14.0 (November 30, 2023)
 
 - Add stonsetp (sleep onset time from PSG) and lights/onset in decimal hour variables
 - Add sleep maintenance efficiency variable
