@@ -3,6 +3,7 @@
   "display_name": "Time child woke up weekday",
   "description": "",
   "type": "time",
+  "units": "h:mm",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"

@@ -1,7 +1,7 @@
 {
   "id": "end__sec_",
   "display_name": "5 minute window end time",
-  "description": "",
+  "description": "seconds from start of recording",
   "type": "numeric",
-  "units": "seconds from start of recording"
+  "units": "seconds (s)"
 }

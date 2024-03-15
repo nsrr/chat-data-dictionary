@@ -3,7 +3,7 @@
   "display_name": "Lights out set by scorer",
   "description": "Lights out time - start of in-bed period set by scorer",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
     "begtimbd_f1t1"
   ],

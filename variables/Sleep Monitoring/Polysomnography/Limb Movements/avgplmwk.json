@@ -3,6 +3,7 @@
   "display_name": "Number of periodic limb movements per hour of awake from type I polysomnography",
   "description": "Number of PLM per hour of awake",
   "type": "numeric",
+  "units": "number of events per hour",
   "labels": [
     "phrnumpl_sw_f1t1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Other activity (specify): Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "chat_sleep_health_questionnaire"
   ],

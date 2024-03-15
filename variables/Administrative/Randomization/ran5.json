@@ -1,9 +1,9 @@
 {
   "id": "ran5",
   "display_name": "Date the parent signed the consent form",
-  "description": "",
+  "description": "Seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "labels": [
     "randomized"
   ],

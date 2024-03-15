@@ -3,7 +3,7 @@
   "display_name": "Hours of usable position",
   "description": "*All non-compumedics collected studies have position hand scored by scorer from notes supplied by site / none of position signals transfer in European Data Format (EDF) only numbers",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "forms": [
     "chat_qs_forms"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Lights on set by scorer",
   "description": "Lights on time - end of in-bed period set by scorer",
   "type": "time",
-  "units": "hh:mm:ss",
+  "units": "H:mm:ss",
   "labels": [
     "endtimbd_f1t1"
   ],

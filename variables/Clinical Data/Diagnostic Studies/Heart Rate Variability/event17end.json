@@ -1,7 +1,7 @@
 {
   "id": "event17end",
   "display_name": "Respiratory event (17) end time",
-  "description": "",
+  "description": "seconds from start of recording",
   "type": "numeric",
-  "units": "seconds from start of recording"
+  "units": "seconds (s)"
 }

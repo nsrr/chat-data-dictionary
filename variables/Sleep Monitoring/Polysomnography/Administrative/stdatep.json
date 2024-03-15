@@ -1,7 +1,7 @@
 {
   "id": "stdatep",
   "display_name": "Start date",
-  "description": "Study date (date recording started)",
+  "description": "Study date (date recording started-seconds from date of randomization)",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds (s)"
 }

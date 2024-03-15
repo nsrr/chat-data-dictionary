@@ -3,7 +3,7 @@
   "display_name": "hours of usable M2",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "forms": [
     "chat_qs_forms"
   ]

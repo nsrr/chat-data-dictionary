@@ -1,9 +1,9 @@
 {
   "id": "ubl1",
   "display_name": "Date participant was unblinded",
-  "description": "",
+  "description": "seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "forms": [
     "chat_unblind_forms"
   ]

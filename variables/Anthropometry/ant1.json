@@ -1,9 +1,9 @@
 {
   "id": "ant1",
   "display_name": "Date of the current measurements",
-  "description": "",
+  "description": "seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "forms": [
     "chat_anthropometry_forms"
   ]

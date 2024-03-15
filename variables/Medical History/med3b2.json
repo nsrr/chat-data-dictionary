@@ -1,7 +1,7 @@
 {
   "id": "med3b2",
   "display_name": "Surgery Date performed",
-  "description": "",
+  "description": "seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization"
+  "units": "seconds (s)"
 }

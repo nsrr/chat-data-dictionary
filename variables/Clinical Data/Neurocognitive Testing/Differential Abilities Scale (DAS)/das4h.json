@@ -3,7 +3,7 @@
   "display_name": "Recall of Designs Percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "das"
   ],

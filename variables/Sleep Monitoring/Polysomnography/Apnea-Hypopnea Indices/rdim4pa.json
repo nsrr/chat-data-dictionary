@@ -3,7 +3,7 @@
   "display_name": "Apnea-Hypopnea Index: (Apneas with >= 4% oxygen desaturation threshold used or with arousal+ hypopneas with > 50% flow reduction and with >= 4% oxygen desaturation used or with arousal) / hour of sleep from type I polysomnography",
   "description": "[(total number of apneas and hypopneas with >= 3% desaturation or arousal) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60*(hremba4 +hroa4 + hnrba4 + hnroa4 +carba4+ caroa4 + canba4 + canoa4 + oarba4 + oaroa4 + oanba4 + oanoa4 + marbpa4 + maropa4 + manrbpa4 + manropa4) / slpprdp",
   "labels": [
     "ahi_ap4rhp5x4r_f1t1"

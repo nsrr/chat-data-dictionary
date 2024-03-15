@@ -1,9 +1,9 @@
 {
   "id": "ref3",
   "display_name": "What is the screening Polysomnography (PSG) date?",
-  "description": "",
+  "description": "seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "forms": [
     "chat_referral_forms"
   ]

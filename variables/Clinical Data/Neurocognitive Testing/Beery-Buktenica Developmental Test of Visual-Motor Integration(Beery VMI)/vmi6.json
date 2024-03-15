@@ -3,7 +3,7 @@
   "display_name": "Percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "forms": [
     "chat_beery_forms"
   ]

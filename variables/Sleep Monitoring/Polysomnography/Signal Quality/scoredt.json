@@ -1,9 +1,9 @@
 {
   "id": "scoredt",
   "display_name": "Scored date",
-  "description": "Date scored (date of birth in compumedics screen) if study reprocessed date scored changes",
+  "description": "Date scored (date of birth in compumedics screen) if study reprocessed date scored changes: seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "forms": [
     "chat_qs_forms"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Number of snore during sleep (decibel (dB) level 4)",
   "description": "",
   "type": "integer",
-  "units": "snores",
+  "units": "number of events",
   "labels": [
     "ttlnumsn_sp_db4_g1t1"
   ]

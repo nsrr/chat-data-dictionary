@@ -3,7 +3,7 @@
   "display_name": "Sleep diary weighted average hours",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "diary"
   ],

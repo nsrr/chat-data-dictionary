@@ -1,9 +1,9 @@
 {
   "id": "sst2",
   "display_name": "Date the participant stopped",
-  "description": "",
+  "description": "Seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "labels": [
     "dropout"
   ],

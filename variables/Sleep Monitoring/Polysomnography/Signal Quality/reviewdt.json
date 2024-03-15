@@ -1,9 +1,9 @@
 {
   "id": "reviewdt",
   "display_name": "Date of preliminary review",
-  "description": "",
+  "description": "seconds from date of randomization",
   "type": "integer",
-  "units": "seconds from date of randomization",
+  "units": "seconds (s)",
   "forms": [
     "chat_qs_forms"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Apnea-Hypopnea Index (Non-Supine): (Apneas with >= 3% oxygen desaturation threshold used and with or without arousal+ hypopneas with > 50% flow reduction and with >= 3% oxygen desaturation used and with or without arousal) / hour of sleep in non-supine from type I polysomnography",
   "description": "[(total number of apneas and hypopneas in non-supine body position associated with >= 3% desaturation) / (hours of sleep)]. will be missing if no time non-supine or low position sensor quality.",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60*(hrop3 +   hnrop3 + carop3 + canop3 + oarop3 + oanop3 + marop3 + manrop3)/(remepop+nremepop)",
   "labels": [
     "ahi_po_ap3uhp5x3u_f1t1"

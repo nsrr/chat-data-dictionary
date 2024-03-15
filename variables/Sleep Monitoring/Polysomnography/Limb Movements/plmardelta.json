@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements in stage 3/4 sleep with arousal and respiratory event from type I polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_s3sost_f1t1"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Verbal similarities percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "das"
   ],

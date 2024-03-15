@@ -3,6 +3,7 @@
   "display_name": "Average bedtime on weekdays?",
   "description": "",
   "type": "time",
+  "units": "H:mm:ss",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"
