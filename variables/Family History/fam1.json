@@ -8,6 +8,7 @@
     "chat_family_history_questionnaire"
   ],
   "forms": [
-    "chat_familyhx_forms"
+    "chat_familyhx_forms",
+    "smoking"
   ]
 }
