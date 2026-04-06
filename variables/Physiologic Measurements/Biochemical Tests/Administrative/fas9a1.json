@@ -1,0 +1,10 @@
+{
+  "id": "fas9a1",
+  "display_name": "If quality is traumatic, please check all that apply: Vein collapse",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "chat_fastveni_forms"
+  ]
+}

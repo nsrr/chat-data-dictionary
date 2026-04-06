@@ -1,6 +1,6 @@
 {
   "id": "ubl_pidate",
-  "display_name": "Date",
+  "display_name": "Date of unblinding",
   "description": "seconds from date of randomization",
   "type": "integer",
   "units": "seconds (s)",

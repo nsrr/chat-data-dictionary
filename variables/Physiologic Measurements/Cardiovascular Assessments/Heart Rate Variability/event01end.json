@@ -3,5 +3,5 @@
   "display_name": "Respiratory event (01) end time",
   "description": "seconds from start of recording",
   "type": "numeric",
-  "units": "seconds (s)" 
+  "units": "seconds (s)"
 }

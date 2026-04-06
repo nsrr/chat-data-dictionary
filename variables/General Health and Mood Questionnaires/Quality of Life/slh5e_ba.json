@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "school",
   "labels": [
-    "chat_sleep_health_questionnaire"
+    "chat_sleep_health_questionnaire",
+    "daytime_impairment"
   ],
   "forms": [
     "chat_slhq_forms"
