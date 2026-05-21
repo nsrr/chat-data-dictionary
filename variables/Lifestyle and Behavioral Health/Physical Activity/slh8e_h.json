@@ -3,7 +3,7 @@
   "display_name": "Swimming: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours (hr)",
+  "units": "hours (h)",
   "labels": [
     "chat_sleep_health_questionnaire"
   ],

@@ -3,7 +3,7 @@
   "display_name": "Apnea-Hypopnea Index (AHI)",
   "description": "Recorded by the scorer on QS form",
   "type": "numeric",
-  "units": "number of events",
+  "units": "events",
   "forms": [
     "chat_qs_forms"
   ]

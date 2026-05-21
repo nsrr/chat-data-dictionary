@@ -3,7 +3,7 @@
   "display_name": "Percentile Spatial",
   "description": "",
   "type": "numeric",
-  "units": "percentile (th)",
+  "units": "percentile",
   "labels": [
     "das"
   ],

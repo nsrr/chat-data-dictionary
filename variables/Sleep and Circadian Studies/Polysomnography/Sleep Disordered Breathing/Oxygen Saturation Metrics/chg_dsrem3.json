@@ -3,5 +3,5 @@
   "display_name": "Number of desaturations per hour (Rapid eye movement sleep (REM), >= 3%) change between baseline and follow-up",
   "description": "",
   "type": "numeric",
-  "units": "number of events per hour"
+  "units": "events per hour"
 }

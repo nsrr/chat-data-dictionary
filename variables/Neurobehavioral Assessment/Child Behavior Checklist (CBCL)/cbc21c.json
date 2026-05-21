@@ -3,7 +3,7 @@
   "display_name": "Attention deficit/hyperactivity problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile (th)",
+  "units": "percentile",
   "labels": [
     "cbl"
   ],

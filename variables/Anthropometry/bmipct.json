@@ -3,7 +3,7 @@
   "display_name": "Percentile for body mass index (BMI)-for-age",
   "description": "",
   "type": "numeric",
-  "units": "percentile (th)",
+  "units": "percentile",
   "labels": [
     "weight"
   ]

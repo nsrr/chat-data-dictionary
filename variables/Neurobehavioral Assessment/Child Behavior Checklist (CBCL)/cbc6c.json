@@ -3,7 +3,7 @@
   "display_name": "Total competence percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile (th)",
+  "units": "percentile",
   "labels": [
     "cbl"
   ],

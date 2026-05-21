@@ -3,7 +3,7 @@
   "display_name": "Hours of usable chest effort",
   "description": "",
   "type": "numeric",
-  "units": "hours (hr)",
+  "units": "hours (h)",
   "labels": [
     "thoracic",
     "respiratory belt"

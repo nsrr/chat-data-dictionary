@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movement clusters in REM sleep with arousal and respiratory event from type I polysomnography",
   "description": "Total PLM clusters with arousal and  respiratory events in REM sleep",
   "type": "numeric",
-  "units": "number of events",
+  "units": "events",
   "labels": [
     "ttlnumpc_srsost_f1t1"
   ]

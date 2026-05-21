@@ -3,7 +3,7 @@
   "display_name": "Time child fell asleep weekdays?",
   "description": "",
   "type": "integer",
-  "units": "hour",
+  "units": "hours (h)",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"

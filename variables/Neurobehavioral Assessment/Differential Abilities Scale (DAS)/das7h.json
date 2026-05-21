@@ -3,7 +3,7 @@
   "display_name": "Matrices percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile (th)",
+  "units": "percentile",
   "labels": [
     "das"
   ],
