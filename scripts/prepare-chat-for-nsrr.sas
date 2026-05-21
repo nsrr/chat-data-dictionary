@@ -13,6 +13,35 @@
   *set data dictionary version;
   %let version = 0.14.0;
 
+  %macro recode_hhmm24(src, out, fmt);
+    format &out &fmt..;
+    _raw_clock = strip(vvalue(&src));
+    _clock = input(compress(_raw_clock,,'kd'), ?? 8.);
+    if not missing(_clock) then do;
+      _hour = floor(_clock / 100);
+      _minute = mod(_clock, 100);
+      if _hour ge 0 and _hour le 23 and _minute ge 0 and _minute lt 60 then
+        &out = hms(_hour, _minute, 0);
+    end;
+  %mend;
+
+  %macro recode_hhmm_ampm(src, ampm, out, fmt);
+    format &out &fmt..;
+    _raw_clock = strip(vvalue(&src));
+    _clock = input(compress(_raw_clock,,'kd'), ?? 8.);
+    _ampm = input(strip(vvalue(&ampm)), ?? 8.);
+    if not missing(_clock) then do;
+      _hour = floor(_clock / 100);
+      _minute = mod(_clock, 100);
+      if _hour ge 1 and _hour le 12 and _minute ge 0 and _minute lt 60 and
+         _ampm in (1, 2) then do;
+        if _ampm = 1 and _hour = 12 then _hour = 0;
+        else if _ampm = 2 and _hour lt 12 then _hour = _hour + 12;
+        &out = hms(_hour, _minute, 0);
+      end;
+    end;
+  %mend;
+
   *nsrr id location;
   libname obf "\\rfawin\bwh-sleepepi-chat\nsrr-prep\_ids";
 
@@ -349,6 +378,19 @@
     if sgl_mg_dl in (-999) then sgl_mg_dl = .;
     if trig in (-999) then trig = .;
 
+    *recode clock-time variables to match release metadata units;
+    %recode_hhmm24(fas1, fas1_recode, time5);
+    %recode_hhmm_ampm(slh1a_11, slh1a_12, slh1a_11_recode, time8);
+    %recode_hhmm_ampm(slh1a_21, slh1a_22, slh1a_21_recode, time8);
+    %recode_hhmm_ampm(slh1b_11, slh1b_12, slh1b_11_recode, time5);
+    %recode_hhmm_ampm(slh1b_11, slh1b_12, slh1b_11_time_recode, time5);
+    %recode_hhmm_ampm(slh1b_21, slh1b_22, slh1b_21_recode, time5);
+    %recode_hhmm_ampm(slh1b_21, slh1b_22, slh1b_21_time_recode, time5);
+    %recode_hhmm_ampm(slh1c_11, slh1c_12, slh1c_11_recode, time5);
+    %recode_hhmm_ampm(slh1c_11, slh1c_12, slh1c_11_time_recode, time5);
+    %recode_hhmm_ampm(slh1c_21, slh1c_22, slh1c_21_recode, time5);
+    %recode_hhmm_ampm(slh1c_21, slh1c_22, slh1c_21_time_recode, time5);
+
     *remove variables as needed;
     drop  ran8 /* contains original subject code, which is identifiable */
           ethnicity /* has missing subjects, chi3 variable is more complete */
@@ -439,12 +481,40 @@
       lgpctsa90h /*only applied to part of the dataset*/
       lgpctsa90h_0 /*only applied to part of the dataset*/
       rcrdtime /* hand-entered in QS - redundant with timebedp */
-      stlonp /* restore later in code alongside stloutp */
-      stonsetp /* restore later in code alongside stloutp/stlonp */
+          stlonp /* restore later in code alongside stloutp */
+          stonsetp /* restore later in code alongside stloutp/stlonp */
     lmtot /*unclear metadata, use lmslp instead */
     plmctot /*unclear metadata, use plmcslp instead*/
     plmtot /*unclear metadata, use plmslp instead*/
+          _raw_clock
+          _clock
+          _hour
+          _minute
+          _ampm
+          fas1
+          slh1a_11
+          slh1a_21
+          slh1b_11
+          slh1b_11_time
+          slh1b_21
+          slh1b_21_time
+          slh1c_11
+          slh1c_11_time
+          slh1c_21
+          slh1c_21_time
           ;
+
+    rename fas1_recode = fas1
+           slh1a_11_recode = slh1a_11
+           slh1a_21_recode = slh1a_21
+           slh1b_11_recode = slh1b_11
+           slh1b_11_time_recode = slh1b_11_time
+           slh1b_21_recode = slh1b_21
+           slh1b_21_time_recode = slh1b_21_time
+           slh1c_11_recode = slh1c_11
+           slh1c_11_time_recode = slh1c_11_time
+           slh1c_21_recode = slh1c_21
+           slh1c_21_time_recode = slh1c_21_time;
   run;
 
   *sort dataset by pptid and vnum;

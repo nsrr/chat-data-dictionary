@@ -3,6 +3,7 @@
   "display_name": "Draw time.",
   "description": "",
   "type": "time",
+  "units": "H:mm",
   "labels": [
     "blood draw",
     "venipuncture"

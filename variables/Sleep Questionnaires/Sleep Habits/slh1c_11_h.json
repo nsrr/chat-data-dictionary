@@ -2,7 +2,8 @@
   "id": "slh1c_11_h",
   "display_name": "Time child woke up on the weekdays?",
   "description": "",
-  "type": "time",
+  "type": "integer",
+  "units": "hour",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"

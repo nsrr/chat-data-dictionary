@@ -2,7 +2,8 @@
   "id": "slh1b_11_mil_hr",
   "display_name": "Time child fell asleep weekdays?",
   "description": "",
-  "type": "time",
+  "type": "integer",
+  "units": "hour",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"

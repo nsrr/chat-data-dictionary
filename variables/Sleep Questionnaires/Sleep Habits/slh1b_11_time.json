@@ -3,7 +3,7 @@
   "display_name": "Time child fell asleep weekday",
   "description": "",
   "type": "time",
-  "units": "h:mm",
+  "units": "H:mm",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"
