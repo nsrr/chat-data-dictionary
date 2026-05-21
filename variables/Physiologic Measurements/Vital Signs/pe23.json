@@ -3,7 +3,7 @@
   "display_name": "Respiratory rate of the participant",
   "description": "breaths per minute",
   "type": "numeric",
-  "units": "breaths per minute",
+  "units": "counts per minute",
   "labels": [
     "chat_physical_examination_2"
   ]

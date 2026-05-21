@@ -3,7 +3,7 @@
   "display_name": "Average hours of sleep on the WEEKDAY",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "diary"
   ],

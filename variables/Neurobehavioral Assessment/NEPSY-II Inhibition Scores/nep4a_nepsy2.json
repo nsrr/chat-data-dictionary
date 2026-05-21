@@ -3,7 +3,7 @@
   "display_name": "Switching total errors percentile rank",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "calculation": "chat_nepsy2_forms",
   "labels": [
     "nepsyii"

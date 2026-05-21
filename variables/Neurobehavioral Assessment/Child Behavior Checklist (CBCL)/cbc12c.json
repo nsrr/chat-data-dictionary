@@ -3,7 +3,7 @@
   "display_name": "Attention problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "cbl"
   ],

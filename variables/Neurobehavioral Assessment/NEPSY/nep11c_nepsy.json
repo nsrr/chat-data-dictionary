@@ -3,7 +3,7 @@
   "display_name": "Percentile language scaled scores",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "calculation": "chat_nepsy_forms",
   "labels": [
     "nepsy"

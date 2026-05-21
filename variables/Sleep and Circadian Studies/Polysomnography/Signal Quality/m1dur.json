@@ -3,7 +3,7 @@
   "display_name": "Hours of usable M1",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "forms": [
     "chat_qs_forms"
   ]

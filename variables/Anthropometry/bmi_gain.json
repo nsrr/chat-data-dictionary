@@ -3,7 +3,7 @@
   "display_name": "Body mass index (BMI) velocity",
   "description": "Change in Body mass index (BMI) between baseline and followup / number of years between visit",
   "type": "numeric",
-  "units": "kilograms per year * meters squared",
+  "units": "kilograms per meters squared per year",
   "labels": [
     "weight"
   ]

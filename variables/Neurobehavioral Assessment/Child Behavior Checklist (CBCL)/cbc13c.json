@@ -3,7 +3,7 @@
   "display_name": "Rule-Breaking behavior percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "cbl"
   ],

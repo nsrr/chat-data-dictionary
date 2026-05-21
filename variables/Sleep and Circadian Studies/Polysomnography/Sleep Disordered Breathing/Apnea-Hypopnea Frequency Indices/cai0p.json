@@ -3,7 +3,7 @@
   "display_name": "Central Apnea Index : (Central apneas with no oxygen desaturation threshold used and with or without arousal) / hour of sleep from type I polysomnography",
   "description": "[(Total number of central apneas associated with all desaturations) / (hours of sleep)]. Will be missing if Total Sleep Time (TST) is 0.",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60*(carbp +  carop  + canbp  + canop ) / slpprdp",
   "labels": [
     "cai",

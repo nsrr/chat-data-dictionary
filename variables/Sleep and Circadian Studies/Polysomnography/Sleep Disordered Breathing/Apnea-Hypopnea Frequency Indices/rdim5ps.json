@@ -3,7 +3,7 @@
   "display_name": "Apnea-Hypopnea Index (Supine): (Apneas with >= 5% oxygen desaturation threshold used and with or without arousal+ hypopneas with > 50% flow reduction and with >= 5% oxygen desaturation used and with or without arousal) / hour of sleep in supine from type I polysomnography",
   "description": "Supine Respiratory Disturbance Index (RDI) at >=5% desaturation  [(total number of apneas and hypopneas in supine body position associated with >=5% desaturation) / (hours of sleep)]",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": " 60*(hrembp5 + hnrbp5 + carbp5 + canbp5 + oarbp5 + oanbp5 + marbp5 + manrbp5)/(remepbp+nremepbp)",
   "labels": [
     "ahi_pb_ap5uhp5x5u_f1t1"

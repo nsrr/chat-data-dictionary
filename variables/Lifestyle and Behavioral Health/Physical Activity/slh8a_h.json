@@ -3,7 +3,7 @@
   "display_name": "Walking for exercise or to school: Hours per day",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "chat_sleep_health_questionnaire"
   ],

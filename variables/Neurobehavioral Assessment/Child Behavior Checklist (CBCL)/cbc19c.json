@@ -3,7 +3,7 @@
   "display_name": "Anxiety problems percentile",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "cbl"
   ],

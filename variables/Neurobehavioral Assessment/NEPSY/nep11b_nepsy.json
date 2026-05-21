@@ -3,7 +3,7 @@
   "display_name": "Percentile attn / exec scaled scores",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "calculation": "chat_nepsy_forms",
   "labels": [
     "nepsy"

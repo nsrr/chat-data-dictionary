@@ -3,7 +3,7 @@
   "display_name": "Hours of usable O2",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "forms": [
     "chat_qs_forms"
   ]

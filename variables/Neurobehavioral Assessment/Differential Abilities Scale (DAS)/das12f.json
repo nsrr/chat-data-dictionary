@@ -3,7 +3,7 @@
   "display_name": "Percentile GCA",
   "description": "",
   "type": "numeric",
-  "units": "percentile",
+  "units": "percentile (th)",
   "labels": [
     "das"
   ],
