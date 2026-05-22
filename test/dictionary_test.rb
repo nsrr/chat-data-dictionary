@@ -40,7 +40,7 @@ require "test_helper"
     'percentile', 'limb movements', 'percentage of oxygen saturation',
     'desaturation events', 'limb movements per hour', 'decibels (dB)', 'breaths per minute',
     'percentage of carbon dioxide','events','millimoles per liter (mmol/L)',
-    'millimeters of mercury','kilograms per square meter','', 'seconds', 'hours', nil
+    'millimeters of mercury','kilograms per square meter','', 'seconds', 'hours','number of events per hour','number of events','percentile (th)','hours (hr)','counts per minute','seconds squared','kilograms per meter squared (kg/m2)','kilograms per meters squared per year', nil
   ]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
