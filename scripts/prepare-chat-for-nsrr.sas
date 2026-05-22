@@ -11,7 +11,7 @@
   run;
 
   *set data dictionary version;
-  %let version = 0.14.0;
+  %let version = 0.15.0;
 
   %macro recode_hhmm24(src, out, fmt);
     format &out &fmt..;
