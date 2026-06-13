@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-06-13T09:39:42.723990Z",
+  "_captured_run_id": "r_019ec059c60076618dd56b9d2d2a7a44",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote chat_raw (5 rows, 10 columns).",
+    "NOTE: Wrote chat_clean (5 rows, 10 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 10 variables",
+    "NOTE: PROC MEANS statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,67 @@
+                                                  The MEANS Procedure
+
+ Variable                    N               Mean          Std Dev            Minimum            Maximum
+ -------------------------------------------------------------------------------------------------------
+ nsrr_age                    8         18.0625000       29.1056419          5.7500000         90.0000000
+ nsrr_bmi                    8         18.1250000        2.7421316         14.8000000         22.3000000
+ nsrr_bp_systolic            8        110.0000000        7.6345081         99.0000000        120.0000000
+ nsrr_bp_diastolic           8         68.7500000        6.2048368         60.0000000         78.0000000
+ nsrr_ahi_hp3u               8          5.6587500        3.8730477          1.0500000         12.4000000
+ nsrr_ahi_hp3r_aasm07        8          4.7937500        3.1579376          0.9200000         10.1000000
+ nsrr_ahi_hp4u               8          3.9400000        2.9527808          0.6100000          9.2000000
+ nsrr_ahi_hp4r               8          3.3100000        2.4676941          0.5500000          7.8500000
+ nsrr_tst_f1                 8        497.8125000       25.9545447        455.5000000        533.0000000
+ nsrr_phrnumar_f1            8         16.9875000        8.6957194          5.4000000         30.1000000
+ nsrr_ttleffsp_f1            8         91.5500000        3.1002304         86.2000000         95.8000000
+ nsrr_ttllatsp_f1            8         20.5000000        5.7507763         12.0000000         30.5000000
+ nsrr_ttlprdsp_s1sr          8         49.8125000       10.5726652         38.0000000         68.0000000
+ nsrr_ttldursp_s1sr          8          9.9500000        2.9693674          6.5000000         15.0000000
+ nsrr_waso_f1                8         45.7500000        4.5118891         40.0000000         52.5000000
+ nsrr_pctdursp_s1            8         16.7500000        2.9154759         12.0000000         21.0000000
+ nsrr_pctdursp_s2            8         26.3125000        3.9905021         20.5000000         32.5000000
+ nsrr_pctdursp_s3            8        448.6250000       21.2867330        415.0000000        478.0000000
+ nsrr_pctdursp_sr            8        135.3750000       10.9275210        118.0000000        150.0000000
+ nsrr_tib_f1                 8        157.6875000       11.3292841        140.0000000        175.0000000
+ nsrr_begtimbd_f1            8      78262.5000000     1582.8884087      75600.0000000      80100.0000000
+ nsrr_begtimsp_f1            8      79425.0000000     1329.6078906      77400.0000000      81000.0000000
+ nsrr_endtimbd_f1            8     107362.5000000     1873.0704357     104400.0000000     109800.0000000
+ -------------------------------------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                           Cumulative    Cumulative
+nsrr_age_gt89    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+no                       7     87.50            7        87.50
+yes                      1     12.50            8       100.00
+
+                                      Cumulative    Cumulative
+nsrr_sex    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+female              4     50.00            4        50.00
+male                4     50.00            8       100.00
+
+                                                              Cumulative    Cumulative
+nsrr_race                           Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------------------------------
+american indian or alaska native            1     12.50            1        12.50
+asian                                       1     12.50            2        25.00
+black or african american                   1     12.50            3        37.50
+multiple                                    1     12.50            4        50.00
+not reported                                1     12.50            5        62.50
+other                                       1     12.50            6        75.00
+white                                       2     25.00            8       100.00
+
+                                                    Cumulative    Cumulative
+nsrr_ethnicity            Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------
+hispanic or latino                2     25.00            2        25.00
+not hispanic or latino            5     62.50            7        87.50
+not reported                      1     12.50            8       100.00
+
+                                             Cumulative    Cumulative
+nsrr_flag_spsw     Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------
+full scoring               6     75.00            6        75.00
+sleep/wake only            1     12.50            7        87.50
+unknown                    1     12.50            8       100.00

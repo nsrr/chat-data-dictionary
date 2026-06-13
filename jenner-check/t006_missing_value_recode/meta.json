@@ -1,0 +1,8 @@
+{
+  "bundle": "t006_missing_value_recode",
+  "source_file": "scripts/prepare-chat-for-nsrr.sas",
+  "source_blob_sha": "149d7460ac856d32e8a678e65255a5278959948e",
+  "source_commit": "db6e6660053ace01f4e8637d19b2b4fad083e497",
+  "tier": "real_data",
+  "notes": "Sentinel-code-to-missing recode block from the main DATA step: each 'if <var> in (...) then <var> = .;' statement uses that variable's exact sentinel list, verbatim from the repo. Mock chat_raw carries representative sentinel and in-range values; PROC MEANS n/nmiss confirms the recodes fired."
+}

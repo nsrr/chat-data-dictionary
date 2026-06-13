@@ -1,0 +1,40 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA chatrestore
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote chatrestore (5 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA chatrestore2
+
+
+NOTE: Read 5 rows from chatrestore.
+NOTE: Wrote chatrestore2 (5 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA chatrestore2_nsrr
+
+
+NOTE: Read 5 rows from chatrestore2.
+NOTE: Wrote chatrestore2_nsrr (5 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA chat_decimal_hours
+
+
+NOTE: Read 5 rows from chatrestore2_nsrr.
+NOTE: Wrote chat_decimal_hours (5 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=chat_decimal_hours
+
+NOTE: PROC PRINT completed: 5 observations printed, 7 variables

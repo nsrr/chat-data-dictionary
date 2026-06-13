@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_harmonized_checks",
+  "source_file": "scripts/prepare-chat-for-nsrr.sas",
+  "source_blob_sha": "149d7460ac856d32e8a678e65255a5278959948e",
+  "source_commit": "db6e6660053ace01f4e8637d19b2b4fad083e497",
+  "tier": "real_data",
+  "notes": "QC checks run on the concatenated harmonized dataset: PROC MEANS over the continuous nsrr_* variables and PROC FREQ over the categorical ones, verbatim from the repo. Mock chat_harmonized supplies the harmonized-variable columns the procs reference (the nsrr_* names produced by the harmonization step)."
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_ahi_computation",
+  "source_file": "scripts/prepare-chat-for-nsrr.sas",
+  "source_blob_sha": "149d7460ac856d32e8a678e65255a5278959948e",
+  "source_commit": "db6e6660053ace01f4e8637d19b2b4fad083e497",
+  "tier": "real_data",
+  "notes": "AHI (apnea-hypopnea index) and sleep-maintenance-efficiency formulas from the main DATA step (sleep maintenance efficiency, ahi_a0h3/o0h3/c0h3, and the omahi3* recompute block). Mock source dataset supplies the per-event PSG count columns the formulas read (hrembp3, oarbp, carbp, ...); formulas verbatim from the repo."
+}
