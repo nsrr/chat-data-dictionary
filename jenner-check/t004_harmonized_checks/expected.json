@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T09:36:49.279520Z",
+  "_captured_run_id": "r_019ec053e2dd7ef0bf668449fce96f33",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote chat_harmonized (8 rows, 28 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC FREQ statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

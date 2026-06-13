@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T09:33:47.197364Z",
+  "_captured_run_id": "r_019ec053d72e71a3a7337577600a5f31",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote chat_src (4 rows, 28 columns).",
+    "NOTE: Wrote chat_ahi (4 rows, 36 columns).",
+    "NOTE: PROC PRINT completed: 4 observations printed, 9 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "bundle": "t005_psg_decimal_hours",
+  "source_file": "scripts/prepare-chat-for-nsrr.sas",
+  "source_blob_sha": "149d7460ac856d32e8a678e65255a5278959948e",
+  "source_commit": "db6e6660053ace01f4e8637d19b2b4fad083e497",
+  "tier": "real_data",
+  "notes": "PSG lights/onset restore + decimal-hour conversion (chatrestore2 / chatrestore2_nsrr / decimal-hours steps): TIME8. INPUT parsing, RENAME, and the midnight-crossing decimal-hour adjustment, verbatim from the repo. Mock chatrestore supplies HH:MM:SS strings for stloutp/stonsetp/stlonp."
+}
