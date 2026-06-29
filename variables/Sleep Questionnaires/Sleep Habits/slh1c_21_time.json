@@ -1,14 +1,15 @@
 {
   "id": "slh1c_21_time",
-  "display_name": "Time child woke up weekday",
-  "description": "",
+  "display_name": "Time child woke up weekend",
+  "description": "During the past 6 months, at what time, on average has your child: Woken up? (after the sleep period) ",
   "type": "time",
-  "units": "H:mm",
+  "units": "h:mm",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"
   ],
   "forms": [
-    "chat_slhq_forms"
+    "chat_slhq_forms",
+    "chat_slhq_forms2"
   ]
 }

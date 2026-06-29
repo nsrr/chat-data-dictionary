@@ -1,14 +1,15 @@
 {
   "id": "slh1a_21",
-  "display_name": "Time in bed on weekdays?",
-  "description": "",
+  "display_name": "Average bedtime on weekends",
+  "description": "During the past 6 months/since your last visit, at what time, on average has your child: Gone to bed? (first closed the eyes in attempt to fall asleep) ",
   "type": "time",
-  "units": "H:mm:ss",
+  "units": "h:mm",
   "labels": [
     "chat_sleep_health_questionnaire",
     "sleep_timing"
   ],
   "forms": [
-    "chat_slhq_forms"
+    "chat_slhq_forms",
+    "chat_slhq_forms2"
   ]
 }

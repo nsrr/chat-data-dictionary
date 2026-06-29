@@ -1,6 +1,6 @@
 {
   "id": "slh1a_12",
-  "display_name": "Time period child was in bed on weekdays?",
+  "display_name": "AM/PM for time in bed on weekdays :slh1a_11:",
   "description": "",
   "type": "choices",
   "domain": "ampm",
@@ -9,6 +9,7 @@
     "sleep_timing"
   ],
   "forms": [
-    "chat_slhq_forms"
+    "chat_slhq_forms",
+    "chat_slhq_forms2"
   ]
 }

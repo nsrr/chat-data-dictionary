@@ -1,11 +1,12 @@
 {
   "id": "total_hrs_slept_weekdays",
   "display_name": "Total hours slept on weekdays algorithm",
-  "description": "",
+  "description": "This derived variable is calculated from other CHAT Sleep and Health Questionnaire (SLHQ) variables. These input variables have some unlikely values that may be due to responder error, please consider outliers carefully.<br><br>[Search for all SLHQ variables within this dataset](https://sleepdata.org/datasets/chat/variables?search=chat_sleep_health_questionnaire)",
   "type": "numeric",
   "units": "hours (hr)",
-  "calculation": "hour(SLH1C_11_time - SLH1B_11_time)",
+  "calculation": "hour(slh1c_11_time - sld1b_11_time)",
   "labels": [
+    "chat_sleep_health_questionnaire",
     "sleep_duration"
   ]
 }

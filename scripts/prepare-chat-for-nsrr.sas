@@ -127,6 +127,16 @@
       slh5h_fu = slh5h;
       slh5i_fu = slh5i;
     end;
+    
+    *** UNTESTED **
+    ** convert to correct units for 2 SLHQ variables, 
+    ** from 800, 1100 to 8:00, 11:00 (seconds form midnight)
+    *slh1a_11  = (int(slh1a_11  / 100) * 3600) + (mod(slh1a_11 , 100) * 60);
+    *format slh1a_11 time5.;
+    *
+    *slh1a_21  = (int(slh1a_21  / 100) * 3600) + (mod(slh1a_21 , 100) * 60);
+    *format slh1a_21 time5.;
+
 
     *add sleep maintenance efficiency;
     if timebedp ne 0 then do;
@@ -378,17 +388,18 @@
     if sgl_mg_dl in (-999) then sgl_mg_dl = .;
     if trig in (-999) then trig = .;
 
+** UNTESTED, comment out the non time_recode versions, not needed 
     *recode clock-time variables to match release metadata units;
     %recode_hhmm24(fas1, fas1_recode, time5);
     %recode_hhmm_ampm(slh1a_11, slh1a_12, slh1a_11_recode, time8);
     %recode_hhmm_ampm(slh1a_21, slh1a_22, slh1a_21_recode, time8);
-    %recode_hhmm_ampm(slh1b_11, slh1b_12, slh1b_11_recode, time5);
+  *  %recode_hhmm_ampm(slh1b_11, slh1b_12, slh1b_11_recode, time5);
     %recode_hhmm_ampm(slh1b_11, slh1b_12, slh1b_11_time_recode, time5);
-    %recode_hhmm_ampm(slh1b_21, slh1b_22, slh1b_21_recode, time5);
+  *  %recode_hhmm_ampm(slh1b_21, slh1b_22, slh1b_21_recode, time5);
     %recode_hhmm_ampm(slh1b_21, slh1b_22, slh1b_21_time_recode, time5);
-    %recode_hhmm_ampm(slh1c_11, slh1c_12, slh1c_11_recode, time5);
+  *  %recode_hhmm_ampm(slh1c_11, slh1c_12, slh1c_11_recode, time5);
     %recode_hhmm_ampm(slh1c_11, slh1c_12, slh1c_11_time_recode, time5);
-    %recode_hhmm_ampm(slh1c_21, slh1c_22, slh1c_21_recode, time5);
+  *  %recode_hhmm_ampm(slh1c_21, slh1c_22, slh1c_21_recode, time5);
     %recode_hhmm_ampm(slh1c_21, slh1c_22, slh1c_21_time_recode, time5);
 
     *remove variables as needed;
@@ -502,18 +513,36 @@
           slh1c_11_time
           slh1c_21
           slh1c_21_time
+          ** UNTESTED drop extra slh1 variables
+          * slh1b_11
+          * slh1b_11_h
+          * slh1b_11_m
+          * slh1b_11_mil_hr
+          * slh1b_12
+          * slh1b_21_h
+          * slh1b_21_m
+          * slh1b_21_mil_hr
+          * slh1b_22
+          * slh1c_11_h
+          * slh1c_11_m
+          * slh1c_11_mil_hr
+          * slh1c_12
+          * slh1c_21_h
+          * slh1c_21_m
+          * slh1c_21_mil_hr
+          * slh1c_22
           ;
 
     rename fas1_recode = fas1
            slh1a_11_recode = slh1a_11
            slh1a_21_recode = slh1a_21
-           slh1b_11_recode = slh1b_11
+          * slh1b_11_recode = slh1b_11
            slh1b_11_time_recode = slh1b_11_time
-           slh1b_21_recode = slh1b_21
+          * slh1b_21_recode = slh1b_21
            slh1b_21_time_recode = slh1b_21_time
-           slh1c_11_recode = slh1c_11
+          * slh1c_11_recode = slh1c_11
            slh1c_11_time_recode = slh1c_11_time
-           slh1c_21_recode = slh1c_21
+          * slh1c_21_recode = slh1c_21
            slh1c_21_time_recode = slh1c_21_time;
   run;
 

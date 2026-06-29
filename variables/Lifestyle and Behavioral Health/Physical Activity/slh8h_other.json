@@ -7,6 +7,7 @@
     "chat_sleep_health_questionnaire"
   ],
   "forms": [
-    "chat_slhq_forms"
+    "chat_slhq_forms",
+    "chat_slhq_forms2"
   ]
 }

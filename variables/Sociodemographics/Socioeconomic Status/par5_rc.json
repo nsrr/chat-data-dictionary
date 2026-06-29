@@ -1,7 +1,7 @@
 {
   "id": "par5_rc",
   "display_name": "Recoded annual income before taxes",
-  "description": "Source variable: `par5`",
+  "description": "Source variable: :par5:",
   "type": "choices",
   "domain": "income_rc",
   "forms": [
