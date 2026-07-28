@@ -1002,6 +1002,46 @@ data chatbaseline_harmonized;
 *use stlonp;
   format nsrr_endtimbd_f1 time8.;
   nsrr_endtimbd_f1 = stlonp;
+
+
+  * UNTESTED;
+***********************************************
+* *nsrr_ahi_hp3r_aasm15;
+* *use ahi_a0h3a;
+*   format nsrr_ahi_hp3r_aasm15 8.2;
+*   nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+*
+* *nsrr_cai;
+* *use cai0p;
+*   format nsrr_cai 8.2;
+*   nsrr_cai = cai0p;
+
+* *nsrr_oai;
+* *use oai0p;
+*   format nsrr_oai 8.2;
+*   nsrr_oai = oai0p;
+*
+* *nsrr_oahi_hp4u;
+* *use ahi_o0h4;
+*   format nsrr_oahi_hp4u 8.2;
+*   nsrr_oahi_hp4u = ahi_o0h4;
+*
+* *nsrr_oahi_hp3u;
+* *use ahi_o0h3;
+*   format nsrr_oahi_hp3u 8.2;
+*   nsrr_oahi_hp3u = ahi_o0h3;
+*
+* *nsrr_avglvlsa;
+* *use avgsat;
+*   format nsrr_avglvlsa 8.2;
+*   nsrr_avglvlsa = avgsat;
+*
+* *nsrr_minlvlsa;
+* *use minsat;
+*   format nsrr_minlvlsa 8.2;
+*   nsrr_minlvlsa = minsat;
+
+
   
   keep 
     nsrrid
@@ -1034,6 +1074,14 @@ data chatbaseline_harmonized;
   nsrr_begtimbd_f1
   nsrr_begtimsp_f1
   nsrr_endtimbd_f1
+  * untested:
+  * nsrr_ahi_hp3r_aasm15
+* nsrr_cai
+* nsrr_oai
+* nsrr_oahi_hp4u
+* nsrr_oahi_hp3u
+* nsrr_avglvlsa
+* nsrr_minlvlsa
   ;
 run;
 
@@ -1207,6 +1255,43 @@ data chatfollowup_harmonized;
 *use stlonp;
   format nsrr_endtimbd_f1 time8.;
   nsrr_endtimbd_f1 = stlonp;
+
+  * UNTESTED;
+***********************************************
+* *nsrr_ahi_hp3r_aasm15;
+* *use ahi_a0h3a;
+*   format nsrr_ahi_hp3r_aasm15 8.2;
+*   nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+*
+* *nsrr_cai;
+* *use cai0p;
+*   format nsrr_cai 8.2;
+*   nsrr_cai = cai0p;
+
+* *nsrr_oai;
+* *use oai0p;
+*   format nsrr_oai 8.2;
+*   nsrr_oai = oai0p;
+*
+* *nsrr_oahi_hp4u;
+* *use ahi_o0h4;
+*   format nsrr_oahi_hp4u 8.2;
+*   nsrr_oahi_hp4u = ahi_o0h4;
+*
+* *nsrr_oahi_hp3u;
+* *use ahi_o0h3;
+*   format nsrr_oahi_hp3u 8.2;
+*   nsrr_oahi_hp3u = ahi_o0h3;
+*
+* *nsrr_avglvlsa;
+* *use avgsat;
+*   format nsrr_avglvlsa 8.2;
+*   nsrr_avglvlsa = avgsat;
+*
+* *nsrr_minlvlsa;
+* *use minsat;
+*   format nsrr_minlvlsa 8.2;
+*   nsrr_minlvlsa = minsat;
   
   keep 
     nsrrid
@@ -1239,6 +1324,14 @@ data chatfollowup_harmonized;
   nsrr_begtimbd_f1
   nsrr_begtimsp_f1
   nsrr_endtimbd_f1
+    * untested:
+  * nsrr_ahi_hp3r_aasm15
+* nsrr_cai
+* nsrr_oai
+* nsrr_oahi_hp4u
+* nsrr_oahi_hp3u
+* nsrr_avglvlsa
+* nsrr_minlvlsa
   ;
 run;
 

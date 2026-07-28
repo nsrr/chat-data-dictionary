@@ -7,6 +7,7 @@
   "calculation": "hour(slh1c_21_time - slh1b_21_time)",
   "labels": [
     "chat_sleep_health_questionnaire",
-    "sleep_duration"
+    "sleep_duration",
+    "tst"
   ]
 }
