@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "chance",
   "labels": [
-    "epworth"
+    "epworth",
+    "subjective_sleepiness"
   ],
   "forms": [
     "chat_epworth_forms"

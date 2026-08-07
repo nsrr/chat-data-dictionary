@@ -6,7 +6,8 @@
   "domain": "chance",
   "labels": [
     "epworth",
-    "ess_6sittalk"
+    "ess_6sittalk",
+    "subjective_sleepiness"
   ],
   "forms": [
     "chat_epworth_forms"

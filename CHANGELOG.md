@@ -1,3 +1,11 @@
+## 0.15.0 (August XX, 2026)
+
+- Revised folder structure
+- Updates and fixes to the 'Sleep Health Questionnaire' variables, redundant variables dropped
+- Add additional harmonized variables
+- Updated units
+
+
 ## 0.14.0 (November 30, 2023)
 
 - Add stonsetp (sleep onset time from PSG) and lights/onset in decimal hour variables

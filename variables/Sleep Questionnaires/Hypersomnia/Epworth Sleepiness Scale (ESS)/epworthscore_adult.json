@@ -5,7 +5,8 @@
   "type": "integer",
   "labels": [
     "epworth",
-    "ess_total"
+    "ess_total",
+    "subjective_sleepiness"
   ],
   "commonly_used": true,
   "forms": [
